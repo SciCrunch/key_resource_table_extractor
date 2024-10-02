@@ -1,0 +1,9 @@
+[postgresql]
+host=localhost
+database=czi_pdf_table_extractor
+user=czi
+password=<PWD>
+[security]
+api-key=<API-KEY>
+[model]
+row-merge-model-dir=<ROW-MERGE-DIR>

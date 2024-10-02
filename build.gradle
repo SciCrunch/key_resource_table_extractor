@@ -1,0 +1,78 @@
+
+apply plugin: 'java'
+apply plugin: 'maven-publish'
+
+group = 'sciscore'
+
+allprojects {
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+}
+version = "1.0.0"
+
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+        }
+    }
+    repositories {
+        maven {
+            // change to point to your repo, e.g. http://my.org/repo
+            url "$buildDir/repo"
+        }
+    }
+}
+
+
+repositories {
+    mavenCentral()
+}
+dependencies {
+
+    compile 'com.google.guava:guava:31.1-jre',
+            'org.apache.pdfbox:pdfbox:3.0.1',
+            'org.slf4j:slf4j-api:2.0.5',
+            'org.slf4j:slf4j-log4j12:2.0.5',
+            'commons-cli:commons-cli:1.5.0',
+            'org.apache.commons:commons-csv:1.10.0',
+            'org.json:json:20230227',
+            fileTree(dir: 'lib', include: '*.jar')
+
+    testCompile 'junit:junit:4.13.2'
+}
+
+gradle.taskGraph.whenReady { taskGraph ->
+    if (taskGraph.hasTask(buildRelease)) {
+        compileJava.options.debug = false
+        project.version = '1.0-release'
+    } else if (taskGraph.hasTask(buildDebug)) {
+        compileJava.options.debug = true
+        project.version = '1.0-debug'
+    }
+}
+
+task buildRelease(type: GradleBuild, dependsOn: build) {
+}
+
+task buildDebug(type: GradleBuild, dependsOn: build) {
+}
+
+
+task tableDetectDataPrep(dependsOn: 'classes', type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'sciscore.key_resource_table_extractor.detect.DataPrepCLI'
+    if (project.hasProperty('pargs')) {
+        args(pargs.split(','))
+    }
+}
+
+
+task hybridTableContentExtractor(dependsOn: 'classes', type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'sciscore.key_resource_table_extractor.HybridTableTextContentExtractor'
+    if (project.hasProperty('pargs')) {
+        args(pargs.split(','))
+    }
+}
