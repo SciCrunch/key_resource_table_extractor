@@ -5,17 +5,18 @@ from fastapi import FastAPI, UploadFile, HTTPException
 from fastapi.encoders import jsonable_encoder
 import aiofiles
 
-from pg_config import get_api_key, get_rm_model_dir
+from pg_config import get_api_key, get_rm_model_dir, get_server_cache_dir
 from task_manager import TaskManager, create_db_pool, get_job_details_async, remove_job_async
 from task_manager import remove_job_by_paper_id_async, list_jobs_async
 
-WD = "/tmp/cache"
+# WD = "/tmp/cache"
+WD = get_server_cache_dir()
 Path(WD).mkdir(exist_ok=True)
 
 # con = connect()
 API_KEY = get_api_key()
-rm_model_dir = model_dir = get_rm_model_dir()
-task_manager = TaskManager(Path(model_dir))
+rm_model_dir = get_rm_model_dir()
+task_manager = TaskManager(Path(rm_model_dir))
 
 
 def save_upload_file(upload_file: UploadFile, destination: Path) -> None:

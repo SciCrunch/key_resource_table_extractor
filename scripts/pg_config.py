@@ -26,10 +26,21 @@ def get_api_key(filename="key_resource_table_extractor.ini"):
 
 
 def get_rm_model_dir(filename="key_resource_table_extractor.ini"):
-    section = "model"
+    return get_param(filename, "model", 'row-merge-model-dir')
+
+
+def get_work_dir(filename="key_resource_table_extractor.ini"):
+    return get_param(filename, "config", "work-dir")
+
+
+def get_server_cache_dir(filename="key_resource_table_extractor.ini"):
+    return get_param(filename, "config", "server-cache-dir")
+
+
+def get_param(filename, section, param_key: str):
     parser = ConfigParser()
     parser.read(filename)
     if parser.has_section(section):
-        return parser.get(section, 'row-merge-model-dir')
+        return parser.get(section, param_key)
     else:
         raise Exception('Section {0} not found in the {1} file'.format(section, filename))

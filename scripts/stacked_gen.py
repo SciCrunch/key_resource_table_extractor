@@ -9,9 +9,11 @@ from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 
 from data_prep import load_stack_instances
+from pg_config import get_work_dir
 
-HOME = os.path.expanduser('~')
-WD = os.path.join(HOME, "dev/java/pdf_table_extractor")
+# HOME = os.path.expanduser('~')
+# WD = os.path.join(HOME, "dev/java/pdf_table_extractor")
+WD = get_work_dir()
 
 
 def train_bow_svm(_instances, _tst_instances):

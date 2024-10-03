@@ -7,10 +7,12 @@ from pathlib import Path
 from extract_tables_from_pdf import TableExtractor, pdf_to_images
 from rel_table_pages_filter import RelevantTablePagesDetector
 from row_merger import RowMerger
+from pg_config import get_work_dir
 
 # global
-HOME = os.path.expanduser('~')
-WD = os.path.join(HOME, "dev/java/pdf_table_extractor")
+# HOME = os.path.expanduser('~')
+# WD = os.path.join(HOME, "dev/java/pdf_table_extractor")
+WD = get_work_dir()
 
 
 def do_hybrid_table_content_extraction(_pdf_file_path, _struct_json_dir, _out_json_file,
@@ -22,7 +24,8 @@ def do_hybrid_table_content_extraction(_pdf_file_path, _struct_json_dir, _out_js
         subprocess.run(['bash', script_path, "-i", _pdf_file_path, '-o', _out_json_file,
                         '-s', _struct_json_dir, '-r'])
     else:
-        subprocess.run(['bash', script_path, "-i", _pdf_file_path, '-o', _out_json_file, '-s', _struct_json_dir])
+        subprocess.run(['bash', script_path, "-i", _pdf_file_path, '-o', _out_json_file,
+                        '-s', _struct_json_dir])
     os.chdir(wd)
 
 
@@ -71,14 +74,3 @@ class PDFTableExtractor(object):
                     print("=" * 80)
                 return data
         return None
-
-
-if __name__ == '__main__':
-    in_dir = Path(HOME, 'czi/rrid_papers_sample_200_03_07_2023')
-    pdf_file = Path(in_dir, "2021_03_03_433762/main.pdf")
-    out_dir = Path("/tmp/pdf_table_extractor/2021_03_03_433762")
-    out_dir.mkdir(parents=True, exist_ok=True)
-    table_extractor = PDFTableExtractor()
-    out_json = table_extractor.extract_table_contents_from_pdf(pdf_file, out_dir)
-    if out_json:
-        print(json.dumps(out_json, indent=2))

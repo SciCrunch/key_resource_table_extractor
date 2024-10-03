@@ -7,3 +7,6 @@ password=<PWD>
 api-key=<API-KEY>
 [model]
 row-merge-model-dir=<ROW-MERGE-DIR>
+[config]
+work-dir=<FULL-PATH-TO-KEY-RESOURCE-TABLE-EXTRACTOR-CODE-BASE>
+server-cache-dir=<SERVER-OUTPUT-CACHE-DIR>
