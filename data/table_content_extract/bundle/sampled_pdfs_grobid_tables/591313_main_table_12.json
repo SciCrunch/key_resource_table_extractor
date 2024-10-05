@@ -1,0 +1,398 @@
+{
+  "headers": [],
+  "caption": "List of strains",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Genotype"
+      },
+      {
+        "colspan": 1,
+        "content": "Parental strain"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Escherichia coli"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "F-mcrA ∆(mrr-hsdRMS-mcrBC) ϕ80dlacZ∆M15"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "87"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pir116"
+      },
+      {
+        "colspan": 1,
+        "content": "∆lacX74 recA1 endA1 araD139 ∆(ara, leu)7697"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "galU galK λ-rpsL nupG pir-116(DHFR)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "β2163"
+      },
+      {
+        "colspan": 1,
+        "content": "(F-) RP4-2-Tc::Mu ΔdapA::(erm-pir)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "88"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "fhuA2 Δ(argF-lacZ)U169 phoA glnV44 Φ80"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NEB5α"
+      },
+      {
+        "colspan": 1,
+        "content": "Δ(lacZ)M15 gyrA96 recA1 relA1 endA1 thi-1"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "NEB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "hsdR17"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "C41(DE3)"
+      },
+      {
+        "colspan": 1,
+        "content": "F-ompT hsdSB (rB-mB-) gal dcm (DE3)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Salmonella Typhimurium"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SL1344"
+      },
+      {
+        "colspan": 1,
+        "content": "Wild type"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "52"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SB1751"
+      },
+      {
+        "colspan": 1,
+        "content": "ΔinvA"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "64"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MIB4841"
+      },
+      {
+        "colspan": 1,
+        "content": "ΔhilD. Made by allelic exchange. Suicide plasmid pMIB5779"
+      },
+      {
+        "colspan": 1,
+        "content": "SL1344"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MIB5363"
+      },
+      {
+        "colspan": 1,
+        "content": "ΔhilA. Made by allelic exchange. Suicide plasmid pMIB7636"
+      },
+      {
+        "colspan": 1,
+        "content": "SL1344"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MIB5371"
+      },
+      {
+        "colspan": 1,
+        "content": "ΔrtsA. Made by allelic exchange. Suicide plasmid pMIB7639"
+      },
+      {
+        "colspan": 1,
+        "content": "SL1344"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MIB5585"
+      },
+      {
+        "colspan": 1,
+        "content": "ΔhilC. Made by allelic exchange. Suicide plasmid pMIB7633"
+      },
+      {
+        "colspan": 1,
+        "content": "SL1344"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MIB5591"
+      },
+      {
+        "colspan": 1,
+        "content": "ΔhilC ΔrtsA. Made by allelic exchange. Suicide plasmid pMIB7639"
+      },
+      {
+        "colspan": 1,
+        "content": "MIB5585"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MIB5587"
+      },
+      {
+        "colspan": 1,
+        "content": "ΔhilD ΔhilC. Made by allelic exchange. Suicide plasmid pMIB7633"
+      },
+      {
+        "colspan": 1,
+        "content": "MIB4841"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MIB5373"
+      },
+      {
+        "colspan": 1,
+        "content": "ΔhilD ΔrtsA. Made by allelic exchange. Suicide plasmid pMIB7639"
+      },
+      {
+        "colspan": 1,
+        "content": "MIB4841"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MIB5593"
+      },
+      {
+        "colspan": 1,
+        "content": "ΔhilD ΔhilC ΔrtsA. Made by allelic exchange. Suicide plasmid pMIB7639"
+      },
+      {
+        "colspan": 1,
+        "content": "MIB5587"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MIB3231"
+      },
+      {
+        "colspan": 1,
+        "content": "sipA-NLuc-myc"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ]
+  ]
+}

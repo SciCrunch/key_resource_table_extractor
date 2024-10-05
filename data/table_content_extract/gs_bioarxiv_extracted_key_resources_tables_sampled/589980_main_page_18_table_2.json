@@ -1,0 +1,159 @@
+{
+  "name": "589980_main_page_18_table_2",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Stain/dye"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      },
+      {
+        "colspan": 1,
+        "content": "Concentration"
+      },
+      {
+        "colspan": 1,
+        "content": "Step of protocol applied"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat no."
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NHS Ester Alexa Fluor 405"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher"
+      },
+      {
+        "colspan": 1,
+        "content": "1:250 (2 mg/mL stock in DMSO)"
+      },
+      {
+        "colspan": 1,
+        "content": "Secondary Ab*"
+      },
+      {
+        "colspan": 1,
+        "content": "A30000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BODIPY-TR-Ceramide"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500 (1 mM stock in DMSO)"
+      },
+      {
+        "colspan": 1,
+        "content": "Post expansion"
+      },
+      {
+        "colspan": 1,
+        "content": "D7540"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BODIPY-FL-C5-Ceramide"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500 (1 mM stock in DMSO)"
+      },
+      {
+        "colspan": 1,
+        "content": "Post expansion*"
+      },
+      {
+        "colspan": 1,
+        "content": "D3521"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SYTOX Deep Red"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 (1 mM stock in DMSO)"
+      },
+      {
+        "colspan": 1,
+        "content": "Secondary Ab*"
+      },
+      {
+        "colspan": 1,
+        "content": "S11381"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Wheat Germ Agglutinin Texas Red-X"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher"
+      },
+      {
+        "colspan": 1,
+        "content": "1:250 (1 mg/mL stock in PBS)"
+      },
+      {
+        "colspan": 1,
+        "content": "Post expansion"
+      },
+      {
+        "colspan": 1,
+        "content": "W21405"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Hoechst 33342"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 (10 mg/mL stock in water)"
+      },
+      {
+        "colspan": 1,
+        "content": "Unexpanded only"
+      },
+      {
+        "colspan": 1,
+        "content": "C10329G"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "name": "590837_media-1_page_1_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "REAGENT or RESOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "SOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "IDENTIFIER"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Antibodies and Labeling reagents"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Normal Donkey Serum"
+      },
+      {
+        "colspan": 1,
+        "content": "Equitech"
+      },
+      {
+        "colspan": 1,
+        "content": "DS05"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Fc Receptor Blocker (1:50)"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "101319"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Thioflavin S"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "76264-656"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Amylo-Glo RTD"
+      },
+      {
+        "colspan": 1,
+        "content": "VWR"
+      },
+      {
+        "colspan": 1,
+        "content": "TR-300-AG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DAPI DNA staining solution"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab228549"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SYTO Green nucleic acid stain"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "S7575"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "P505 SYK inhibitor (PRT062607)"
+      },
+      {
+        "colspan": 1,
+        "content": "MedChemExpress"
+      },
+      {
+        "colspan": 1,
+        "content": "HY-15323"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "PRIMARY ANTIBODIES"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-Cx3Cr1, PE conj. (1:10)"
+      },
+      {
+        "colspan": 1,
+        "content": "R&D systems"
+      },
+      {
+        "colspan": 1,
+        "content": "FAB5825P"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-PSD95 (1:100)"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore-Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "MABN68"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rat anti-CD11b, BV605 conj. (1:100)"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "101237"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rat anti-mouse, Total-seq, Hashtag B-0301"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "155831"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rat anti-mouse, Total-seq, Hashtag B-0302"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "155833"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rat anti-mouse, Total-seq, Hashtag B-0303"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "155835"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rat anti-mouse, Total-seq, Hashtag B-0304"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "155837"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rat anti-mouse, Total-seq, Hashtag B-0305"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "155839"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rat anti-mouse, Total-seq, Hashtag B-0306"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "155841"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Iba1, Alexa 647 conj. (1:100)"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "78060S"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-A\u03b2, Alexa 488 conj. (1:100)"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "803013"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-Iba1 (1:500)"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "PA5-18039"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-human ACE (1:500)"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "PA5-47964"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-ACE (1:500)"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab75762"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-A\u03b21-42 (1:250)"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab201060"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Iba1 (1:500)"
+      },
+      {
+        "colspan": 1,
+        "content": "Wako"
+      },
+      {
+        "colspan": 1,
+        "content": "016-20001"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-CD68 (1:500)"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab125212"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-C1q (1:1000)"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "Ab182451"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-pSyk, Y352 (1:200)"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "CST2717"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-NeuN, Alexa 647 conj. (1:100)"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab190565"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Sox10, Alexa 647 conj. (1:100)"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab270151"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Sox9, Alexa 488 conj. (1:100)"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab196450"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Guinea Pig anti-vGLUT1 (1:1000)"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore-Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "AB5905"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Guinea Pig anti NeuN (1:1000)"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore-Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "ABN90"
+      }
+    ]
+  ]
+}

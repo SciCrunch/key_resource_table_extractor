@@ -1,0 +1,156 @@
+{
+  "job_id": 66,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_583283_main",
+  "pdf_file": "583283_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Cell line (MCF-7)",
+                "ER+/PR+ breast cancer cell line",
+                "ATCC",
+                "",
+                "Cell line cultured in DMEM high glucose  Culture medium supplemented with 10% FBS"
+              ],
+              [
+                "Cell line (MDA-MB- 231)",
+                "Triple- negative breast cancer cell line",
+                "ATCC",
+                "",
+                "Cell line cultured in L-15 Culture medium supplemented with 10% FBS"
+              ],
+              [
+                "Transfected construct",
+                "RGS10 shRNA#161,3",
+                "Syngentech Biotechnology",
+                "",
+                "Lentiviral construct to transfect and"
+              ],
+              [
+                "(human) Transfected construct",
+                "21,506 miRNA-539-5p mimics and",
+                "GenePharma Biotechnology",
+                "",
+                "express the shRNA"
+              ],
+              [
+                "(human)  Antibody",
+                "inhibitor Anti- RGS10 (rabbit",
+                "Abcam",
+                "Cat#",
+                "WB (1:250)"
+              ],
+              [
+                "Antibody",
+                "monoclonal) Anti- lipocalin-2  (rabbit monoclonal)",
+                "ABclonal",
+                "ab154172  Cat# A2092",
+                "IHC (1:50)  WB(1:1000) IHC (1:500)"
+              ],
+              [
+                "",
+                "Anti-",
+                "",
+                "Cat#",
+                "WB (1:1000)"
+              ],
+              [
+                "Antibody",
+                "E-cadherin",
+                "Proteintech",
+                "20874-1-A",
+                "IHC (1:500)"
+              ]
+            ]
+          }
+        ],
+        "page": 5
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "(rabbit monoclonal)",
+                "",
+                "P",
+                "IF (1:100)"
+              ],
+              [
+                "Antibody",
+                "Anti- vimentin (mouse monoclonal)",
+                "HUABIO",
+                "Cat# EM0401",
+                "WB (1:1000) IHC (1:200) IF (1:100)"
+              ],
+              [
+                "Antibody",
+                "Anti-snail (rabbit monoclonal)",
+                "ABclonal",
+                "Cat# A5243",
+                "WB (1:1000) IHC (1:00) IF (1:100)"
+              ],
+              [
+                "Antibody",
+                "Anti-GAPDH (rabbit monoclonal)",
+                "CST",
+                "Cat# 5174",
+                "WB (1:1000)"
+              ],
+              [
+                "Antibody",
+                "Anti- \u03b2-tubulin (rabbit",
+                "ABclonal",
+                "Cat# AC008",
+                "WB (1:5000)"
+              ],
+              [
+                "Sequence- based reagent",
+                "monoclonal) RGS10_F",
+                "This paper",
+                "PCR primers",
+                "CACGACAGCGATGGCAGTTCC"
+              ],
+              [
+                "Sequence- based reagent",
+                "RGS10_R",
+                "This paper",
+                "PCR primers",
+                "CTTTTCACGCCTTCTGGGTCTTCC"
+              ],
+              [
+                "Sequence- based reagent",
+                "MiR-539-5p_F",
+                "This paper",
+                "PCR primers",
+                "CGCTGCATGGAGAAATTATCCT"
+              ],
+              [
+                "Sequence- based reagent",
+                "MiR-539-5p_R",
+                "This paper",
+                "PCR primers",
+                "CAGTGCAGGGTCCGAGGT"
+              ],
+              [
+                "Software, algorithm",
+                "SPSS",
+                "SPSS",
+                "SPSS, version 25.0 Armonk, NY, USA",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 6
+      }
+    ]
+  }
+}

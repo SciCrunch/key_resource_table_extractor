@@ -1,0 +1,75 @@
+{
+  "name": "588747_main_page_53_table_2",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Species"
+      },
+      {
+        "colspan": 1,
+        "content": "Sense Sequence  5'--> 3'"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Si Bicc1"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "AAGACAGACAUGAUCAUUUCUUUGG55"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Si Bicc1 Scramble"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "GCUGAAAUUAAGGUCUCAUGUCAAU55"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Si Ago2"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "CAUCGAACAUGAGACGUCU55"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Si Ago2 Scramble"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "GCAUUUAACGCGCAUACGA55"
+      }
+    ]
+  ]
+}

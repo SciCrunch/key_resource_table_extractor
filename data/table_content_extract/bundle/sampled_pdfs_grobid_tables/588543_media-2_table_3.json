@@ -1,0 +1,609 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Supplemental"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Fusion protein expressed"
+      },
+      {
+        "colspan": 1,
+        "content": "Line identifier"
+      },
+      {
+        "colspan": 1,
+        "content": "Lightning mode"
+      },
+      {
+        "colspan": 1,
+        "content": "Scan speed"
+      },
+      {
+        "colspan": 1,
+        "content": "Line averaging"
+      },
+      {
+        "colspan": 1,
+        "content": "Dynamic range"
+      },
+      {
+        "colspan": 1,
+        "content": "Resolution"
+      },
+      {
+        "colspan": 1,
+        "content": "Reference"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "eYFP-PHFAPP1 (PI4P)"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU777 11"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "400 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "8 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "eYFP-PHPLCδ1 (PI4,5P2)"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU694 9_6; 9_12; 9_14"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "400 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "8 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "C1PKCγ-eYFP (DAG)"
+      },
+      {
+        "colspan": 1,
+        "content": "4_13"
+      },
+      {
+        "colspan": 1,
+        "content": "yes"
+      },
+      {
+        "colspan": 1,
+        "content": "598 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "16 bit 1424x1424"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "eYFP-C2Lact (PS)"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU790 7; 7_2; 7_4"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "400 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "8 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "eYFP-Spo20p (PA)"
+      },
+      {
+        "colspan": 1,
+        "content": "12_12"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "400 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "8 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NtPLC3-eYFP"
+      },
+      {
+        "colspan": 1,
+        "content": "11_11"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "600 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "8 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NtPI4P5-K4-eYFP"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU682 6_1"
+      },
+      {
+        "colspan": 1,
+        "content": "yes"
+      },
+      {
+        "colspan": 1,
+        "content": "700 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "2"
+      },
+      {
+        "colspan": 1,
+        "content": "16 bit 1280x1280"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "eYFP-NtRAC5"
+      },
+      {
+        "colspan": 1,
+        "content": "5_15"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "400-600 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "5"
+      },
+      {
+        "colspan": 1,
+        "content": "8 or 16 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CRIBNtGAP1-eYFP (RAC/ROP GTP )"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "600 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "8 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "transgenic lines could not be established"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "eYFP-NtGEF12a"
+      },
+      {
+        "colspan": 1,
+        "content": "1_15; 1_2"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "400 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "8 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "eYFP-NtGAP1"
+      },
+      {
+        "colspan": 1,
+        "content": "15_12"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "600 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "5"
+      },
+      {
+        "colspan": 1,
+        "content": "8 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "LIFEACT-eYFP (F-actin)"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU162 1, 1_1; 4"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "400 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "2"
+      },
+      {
+        "colspan": 1,
+        "content": "8 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "Stephan et al. 2014"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "eYFP-NtRISAP (TGN)"
+      },
+      {
+        "colspan": 1,
+        "content": "71_86"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "400 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "8 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "Stephan et al. 2014"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NtINT4-eYFP (VAR)"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU656 3_5"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "600 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "8 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "Grebnev et al. 2020"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "2xR-GECO1 1 (Ca 2+ )"
+      },
+      {
+        "colspan": 1,
+        "content": "8Nr8_3"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "400 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      },
+      {
+        "colspan": 1,
+        "content": "8 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "Li et al. 2021"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "eYFP"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU778 13"
+      },
+      {
+        "colspan": 1,
+        "content": "no"
+      },
+      {
+        "colspan": 1,
+        "content": "600 Hz"
+      },
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "8 bit"
+      },
+      {
+        "colspan": 1,
+        "content": "1024x1024"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ]
+  ]
+}

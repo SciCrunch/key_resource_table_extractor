@@ -1,0 +1,196 @@
+{
+  "job_id": 1411,
+  "job_status": "finished",
+  "paper_id": "588725_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Protein",
+                "Clone",
+                "Fluorophore",
+                "Reference",
+                "Source"
+              ],
+              [
+                "CD3",
+                "17A2",
+                "FITC",
+                "100204",
+                "BioLegend"
+              ],
+              [
+                "CD45",
+                "30-F11",
+                "PerCP",
+                "103129",
+                "BioLegend"
+              ],
+              [
+                "Foxp3",
+                "FJK-16s",
+                "eF660",
+                "50-5773-82",
+                "eBioscience"
+              ],
+              [
+                "CD44",
+                "IM7",
+                "BV421",
+                "103040",
+                "BioLegend"
+              ],
+              [
+                "CD69",
+                "H1.2F3",
+                "BV605",
+                "104529",
+                "BioLegend"
+              ],
+              [
+                "CD62L",
+                "MEL-14",
+                "BV711",
+                "104445",
+                "BioLegend"
+              ],
+              [
+                "PD-1 (CD279)",
+                "29F.1A12",
+                "BV785",
+                "135225",
+                "BioLegend"
+              ],
+              [
+                "CD8a",
+                "53-6.7",
+                "BUV395",
+                "563786",
+                "BD Horizon"
+              ],
+              [
+                "CD4",
+                "GK1.5",
+                "BUV737",
+                "612761",
+                "BD Horizon"
+              ],
+              [
+                "TIM3 (CD366)",
+                "RMT3-23",
+                "PE",
+                "119703",
+                "BioLegend"
+              ],
+              [
+                "LAG-3 (CD223)",
+                "C9B7W",
+                "PE-Cy7",
+                "125225",
+                "BioLegend"
+              ],
+              [
+                "CTLA4 (CD152)",
+                "UC10-4B9",
+                "BV421",
+                "106312",
+                "BioLegend"
+              ],
+              [
+                "TIM3 (CD366)",
+                "RMT3-23",
+                "BV605",
+                "119721",
+                "BioLegend"
+              ],
+              [
+                "Ki67",
+                "B56",
+                "BV711",
+                "563755",
+                "BD Horizon"
+              ],
+              [
+                "TCF1/TCF7",
+                "C63D9",
+                "PE",
+                "14456",
+                "Cell Signaling"
+              ],
+              [
+                "CD39",
+                "24DMS1",
+                "PE-Cy7",
+                "25-0391-80",
+                "eBioscience"
+              ],
+              [
+                "MHCII (I-A/I-E)",
+                "M5/114.15",
+                ".2FITC",
+                "107605",
+                "BioLegend"
+              ],
+              [
+                "CD103",
+                "2E7",
+                "BV421",
+                "121421",
+                "BioLegend"
+              ],
+              [
+                "CD24",
+                "M1/69",
+                "BV605",
+                "101827",
+                "BioLegend"
+              ],
+              [
+                "CD86",
+                "GL-1",
+                "BV785",
+                "105043",
+                "BioLegend"
+              ],
+              [
+                "CD11c",
+                "HL3",
+                "BUV395",
+                "564080",
+                "BD Horizon"
+              ],
+              [
+                "CD11b",
+                "M1/70",
+                "BUV737",
+                "612801",
+                "BD Horizon"
+              ],
+              [
+                "PD-L1 (CD274)",
+                "10F.9G2",
+                "PE",
+                "124308",
+                "BioLegend"
+              ],
+              [
+                "FcgRI (CD64)",
+                "X54-5/7.1",
+                "PE-Cy7",
+                "139313",
+                "BioLegend"
+              ]
+            ]
+          }
+        ],
+        "page": 76
+      }
+    ]
+  }
+}

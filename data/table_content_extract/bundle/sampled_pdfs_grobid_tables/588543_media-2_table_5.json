@@ -1,0 +1,290 @@
+{
+  "headers": [],
+  "caption": "Mean values and standard deviations are listed. Rounded values without standard deviations are indicated in figures 1 and 7A.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "PM domain"
+      },
+      {
+        "colspan": 1,
+        "content": "MD from the apex [µm] Proximal end Distal end"
+      },
+      {
+        "colspan": 1,
+        "content": "Domain length [µm]"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PI4P (eYFP-PHFAPP1)"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "9.552 ± 1.731"
+      },
+      {
+        "colspan": 1,
+        "content": "9.552 ± 1.731"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PI4,5P2 (eYFP-PHPLCδ1)"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "10.129 ± 1.757"
+      },
+      {
+        "colspan": 1,
+        "content": "10.129 ± 1.757"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DAG (C1PKCγ-eYFP)"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "12.084 ± 2.392"
+      },
+      {
+        "colspan": 1,
+        "content": "12.084 ± 2.392"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PS (eYFP-C2Lact)"
+      },
+      {
+        "colspan": 1,
+        "content": "6.011 ± 1.080"
+      },
+      {
+        "colspan": 1,
+        "content": "28.669 ± 6.127"
+      },
+      {
+        "colspan": 1,
+        "content": "22.658 ± 6.088"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PA (eYFP-Spo20p)"
+      },
+      {
+        "colspan": 1,
+        "content": "6.085 ± 0.831"
+      },
+      {
+        "colspan": 1,
+        "content": "21.342 ± 2.440"
+      },
+      {
+        "colspan": 1,
+        "content": "15.258 ± 2.399"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NtPLC3 (NtPLC3-eYFP)"
+      },
+      {
+        "colspan": 1,
+        "content": "6.286 ± 0.942"
+      },
+      {
+        "colspan": 1,
+        "content": "27.229 ± 3.560"
+      },
+      {
+        "colspan": 1,
+        "content": "20.943 ± 3.477"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NtPI4P-5K4 (NtPI4P-5K4-eYFP)"
+      },
+      {
+        "colspan": 1,
+        "content": "5.697 ± 1.374"
+      },
+      {
+        "colspan": 1,
+        "content": "13.496 ± 1.863"
+      },
+      {
+        "colspan": 1,
+        "content": "7.800 ± 1.704"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NtRAC5 (eYFP-NtRAC5)"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "18.804 ± 7.123"
+      },
+      {
+        "colspan": 1,
+        "content": "18.804 ± 7.123"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RAC/ROP GTP (CRIBNtGAP1-eYFP)"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "3.271 ± 0.738"
+      },
+      {
+        "colspan": 1,
+        "content": "3.271 ± 0.738"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NtGEF12a (eYFP-NtGEF12a)"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "2.998 ± 0.668"
+      },
+      {
+        "colspan": 1,
+        "content": "2.998 ± 0.668"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NtGAP1 (eYFP-NtGAP1)"
+      },
+      {
+        "colspan": 1,
+        "content": "4.175 ± 0.751"
+      },
+      {
+        "colspan": 1,
+        "content": "11.178 ± 1.719"
+      },
+      {
+        "colspan": 1,
+        "content": "7.002 ± 1.812"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "F-actin fringe (LIFEACT-eYFP)"
+      },
+      {
+        "colspan": 1,
+        "content": "5.037 ± 0.659"
+      },
+      {
+        "colspan": 1,
+        "content": "7.070 ± 0.814"
+      },
+      {
+        "colspan": 1,
+        "content": "2.027 ± 0.529"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TGN (eYFP-NtRISAP)"
+      },
+      {
+        "colspan": 1,
+        "content": "3.310 ± 0.834"
+      },
+      {
+        "colspan": 1,
+        "content": "6.647 ± 0.680"
+      },
+      {
+        "colspan": 1,
+        "content": "3.337 ± 0.653"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "VAR (NtINT4-eYFP)"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "4.455 ± 1.244"
+      },
+      {
+        "colspan": 1,
+        "content": "4.455 ± 1.244"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ca 2+ (2xR-GECO1)"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "5.845 ± 0.980"
+      },
+      {
+        "colspan": 1,
+        "content": "5.845 ± 0.980"
+      }
+    ]
+  ]
+}

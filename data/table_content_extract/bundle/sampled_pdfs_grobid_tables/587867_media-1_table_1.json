@@ -1,0 +1,445 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "SP100 CARD"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "filament"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "(EMDB-19911)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "(PDB 9ER8)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Data collection and"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "processing"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Magnification"
+      },
+      {
+        "colspan": 1,
+        "content": "165'000x"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Voltage (kV)"
+      },
+      {
+        "colspan": 1,
+        "content": "300"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Electron exposure (e-/Å 2 )"
+      },
+      {
+        "colspan": 1,
+        "content": "64"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Defocus range (μm)"
+      },
+      {
+        "colspan": 1,
+        "content": "-1 to -3"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Pixel size (Å)"
+      },
+      {
+        "colspan": 1,
+        "content": "0.84"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Symmetry imposed"
+      },
+      {
+        "colspan": 1,
+        "content": "Helical"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Initial particle images (no.)"
+      },
+      {
+        "colspan": 1,
+        "content": "2'884'159"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Final particle images (no.)"
+      },
+      {
+        "colspan": 1,
+        "content": "296'140"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Map resolution (Å)"
+      },
+      {
+        "colspan": 1,
+        "content": "3.52 (0.143)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FSC threshold"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Map resolution range (Å)"
+      },
+      {
+        "colspan": 1,
+        "content": "1.783-46.238"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Refinement"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Initial model used (PDB"
+      },
+      {
+        "colspan": 1,
+        "content": "AlphaFold"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "code)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Model resolution (Å)"
+      },
+      {
+        "colspan": 1,
+        "content": "3.5 (0.143)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FSC threshold"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Model resolution range (Å)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Map sharpening B factor"
+      },
+      {
+        "colspan": 1,
+        "content": "101.8"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "(Å 2 )"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Model composition"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Non-hydrogen atoms"
+      },
+      {
+        "colspan": 1,
+        "content": "21502"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Protein residues"
+      },
+      {
+        "colspan": 1,
+        "content": "2574"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ligands"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "B factors (min/max/mean;"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Å 2 )"
+      },
+      {
+        "colspan": 1,
+        "content": "44.95/94.16/66.53"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Protein"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ligand"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "R.m.s. deviations"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bond lengths (Å)"
+      },
+      {
+        "colspan": 1,
+        "content": "0.002"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bond angles (°)"
+      },
+      {
+        "colspan": 1,
+        "content": "0.388"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Validation"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MolProbity score"
+      },
+      {
+        "colspan": 1,
+        "content": "0.94"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Clashscore"
+      },
+      {
+        "colspan": 1,
+        "content": "1.81"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Poor rotamers (%)"
+      },
+      {
+        "colspan": 1,
+        "content": "0.0"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ramachandran plot"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Favored (%)"
+      },
+      {
+        "colspan": 1,
+        "content": "98.97"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Allowed (%)"
+      },
+      {
+        "colspan": 1,
+        "content": "1.03"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Disallowed (%)"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      }
+    ]
+  ]
+}

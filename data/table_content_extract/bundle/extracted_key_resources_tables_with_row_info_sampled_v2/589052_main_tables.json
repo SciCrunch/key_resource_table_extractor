@@ -1,0 +1,112 @@
+{
+  "job_id": 74,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_589052_main",
+  "pdf_file": "589052_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Keratin 15",
+                "Thermo Fisher",
+                "MS-1068",
+                "IF",
+                "1/300"
+              ],
+              [
+                "CD34",
+                "Abcam",
+                "ab81289",
+                "IF",
+                "1/400"
+              ],
+              [
+                "P-cadherin",
+                "R&D Systems",
+                "AF761",
+                "IF",
+                "1/200"
+              ],
+              [
+                "Ki67",
+                "Thermo Fisher",
+                "RM-9106-S",
+                "IF",
+                "1/300"
+              ],
+              [
+                "CD34-eFluor (660)",
+                "Invitrogen",
+                "50-0341-80",
+                "IF, FACS",
+                "1/100"
+              ],
+              [
+                "BrdU",
+                "Abcam",
+                "6326",
+                "IF",
+                "1/250"
+              ],
+              [
+                "Lef1",
+                "Cell Signaling",
+                "2230",
+                "IF",
+                "1/100"
+              ],
+              [
+                "\u03b2Catenin",
+                "BD Biosciences",
+                "610154",
+                "IF",
+                "1/200"
+              ],
+              [
+                "GRK2",
+                "In ho",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Lrig1",
+                "R&D Systems",
+                "AF3688-SP",
+                "IF",
+                "1/100"
+              ],
+              [
+                "Keratin 5",
+                "Convance",
+                "PRB-160P",
+                "IF",
+                "1/400"
+              ],
+              [
+                "Keratin 6",
+                "Covance",
+                "905701",
+                "IF",
+                "1/400"
+              ],
+              [
+                "Alexa 647 Donkey anti-Mouse IgG",
+                "Thermo Fisher",
+                "A-31571",
+                "IF",
+                "1/250"
+              ]
+            ]
+          }
+        ],
+        "page": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "headers": [],
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "(GE healthcare, 17-0618-01), which were pre-equilibrated with Lysis Buffer, at 4°C overnight. After four"
+    }],
+    [{
+      "colspan": 1,
+      "content": "washes with Lysis Buffer, proteins were eluted from sepharose beads by boiling at 95 -100 °C for 5 min"
+    }],
+    [{
+      "colspan": 1,
+      "content": "with 40 µl sample buffer diluted from 4x sample buffer (Bio-Rad, 1610747) with Lysis Buffer. IP samples"
+    }],
+    [{
+      "colspan": 1,
+      "content": "were then resolved and analyzed with Western blot. All commercially obtained antibodies were verified"
+    }],
+    [{
+      "colspan": 1,
+      "content": "by suppliers. Full western blot data sets are available for viewing on the repository Figshare:"
+    }],
+    [{
+      "colspan": 1,
+      "content": "https://figshare.com/s/402f8335aa1816cc35c4."
+    }],
+    [{
+      "colspan": 1,
+      "content": "Western Blot"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Cell lysates and IP samples were loaded to 6 -12% SDS-polyacrylamide gel and resolved with SDS-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "PAGE. Proteins were transferred to a 0.2 μm PVDF membrane (Millipore) and probed with primary"
+    }],
+    [{
+      "colspan": 1,
+      "content": "antibodies overnight at 4°C, followed by a goat anti-mouse (1:3000, Invitrogen, Cat.62-6520,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "RRID:AB_2533947) or donkey anti-rabbit IgG (1:5000, Cytiva, Cat.NA934-1ml,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "RRID:RRID:AB_772206) HRP-conjugated secondary antibodies. Blot images were taken with a"
+    }],
+    [{
+      "colspan": 1,
+      "content": "ChemiDoc imager and band densities were analysed with Image Lab (Bio-Rad). Primary antibodies used"
+    }],
+    [{
+      "colspan": 1,
+      "content": "in this study include: Rabbit anti-FMRP (1:1000, Cell Signalling Technology, Cat.7104s,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "RRID:AB_10950502), mouse anti-FMRP (1:1000, Abcam, Cat.ab230915, RRID:AB_10950502), rabbit"
+    }],
+    [{
+      "colspan": 1,
+      "content": "anti-pERK1/2 (1:1000, Cell Signalling Technology, Cat.4370s, RRID:AB_2315112), rabbit anti-tERK1/2"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(1:2000, Cell Signalling Technology, Cat.9102s, RRID:AB_330744), mouse anti-GAPDH (1:2000,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Invitrogen, Cat.39-8600, RRID:AB_2533438), rabbit anti-DUSP6 (1:1000, Abcam, Cat.ab76310, . Transfected tsA-201 cells were washed with a low [K]o (LK) solution composed of (mM): 148 NaCl, 1 KCl, 10 HEPES, 3 CaCl2, 1 RRID:AB_1523517), rabbit anti-ɑTubulin (1:2000, Abcam, Cat.ab176560, RRID:AB_2860019)."
+    }],
+    [{
+      "colspan": 1,
+      "content": "MgCl2, 10 Glucose, and equilibrated in LK solution for 10 min. Cells were then exposed to a high [K]o"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(HK) solution composed of (mM): 148 NaCl, 50 KCl, 10 HEPES, 3 CaCl2 1 MgCl2, 10 Glucose for 5 min When there were multiple samples in one experiment, samples were randomly chosen to receive different before being lysed in Lysis Buffer containing (mM): 150 NaCl, 50 Tris, 2.5 EGTA, 1% NP-40, pH 7.5, treatments. Experiments were performed with mouse genotypes and experimental groups known to the phosphatase inhibitor (Sigma-Aldrich, Cat. P5726) and proteinase inhibitor (Roche, Cat. 04693124001). persons who conducted them. No experimental data without technical issues were excluded. Lysates containing 500 µg total protein were incubated at 4°C for 2 -3 hr with one of the following Quantification of Western blot bands was conducted with ImageLab software (Bio-Rad) by normalising a antibodies: Rabbit anti-Cav3.1 (1:50, custom made and lab verified (Molineux et al., 2006)), rabbit anti-target protein's intensity to house-keeping proteins. Patch-clamp recordings were analysed with pClamp Kv4.3 (1:50, Abcam, Cat. ab65794, RRID:AB_1140929), mouse anti-KChIP3 (1:50, Neuromab, Cat. 10.5 software. All figures were prepared and statistical analyses performed with OriginPro 8 or GraphPad K66/38, RRID:AB_2877337), rabbit normal IgG (as a control, Abcam, Cat. ab172730, Prism 6, and Adobe Illustrator CC 2021 software. Data normality was tested with the Shapiro-Wilk test. RRID:AB_2687931), mouse normal IgG (as a control, Abcam, Cat. ab37355, RRID:AB_2665484), rabbit When normally distributed, statistical significance was determined using two-sample Student's t-test for anti-P-MAPK substrate (1:50, Cell Signaling Technology, Cat. 14378s, RRID:AB_2798468), rabbit anti-unpaired samples or Welch's test (t-test with Welch correction), and a paired sample Student's t-tests for P-MAPK/CDK substrate (1:40, Cell Signaling Technology, Cat. 2325s, RRID:AB_331820). Background the same samples under different conditions. When normality was rejected, the Mann-Whitney test was control (BC) was used as a negative control by incubating lysate with normal IgG from the same species as the IP antibody. The immuno-complexes were then incubated with 30 μl protein G sepharose beads used for two sample comparisons."
+    }]
+  ]
+}

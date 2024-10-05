@@ -1,0 +1,537 @@
+{
+  "paper_id": "586589_main",
+  "result": {
+    "pages": [
+      {
+        "page": 12,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Antibodies",
+                "",
+                ""
+              ],
+              [
+                "Rabbit Polyclonal anti-plin2",
+                "Abgent",
+                "AP5118c-ev,\nRRID:AB_ 10662954"
+              ],
+              [
+                "Rabbit Polyclonal anti-Calnexin",
+                "Proteintech",
+                "10427-2-AP, RRID:\nAB_2069033"
+              ],
+              [
+                "Mouse Monoclonal anti-alpha-Tubulin",
+                "EMD Millipore",
+                "CP06, RRID:\nAB_2617116"
+              ],
+              [
+                "Rabbit Polyclonal anti-ATGL",
+                "Cell Signaling\nTechnology",
+                "2138, RRID:\nAB_2167955"
+              ],
+              [
+                "Rabbit Monoclonal anti-GM130",
+                "Cell Signaling\nTechnology",
+                "12480, RRID:\nAB_2797933"
+              ],
+              [
+                "Rabbit Polyclonal anti-VDAC1",
+                "Cell Signaling\nTechnology",
+                "4866, RRID:\nAB_2272627"
+              ],
+              [
+                "Mouse Monoclonal anti-B-actin",
+                "Millipore Sigma",
+                "A2228, RRID:\nAR ATVERQTZ"
+              ],
+              [
+                "Mouse Monoclonal anti-V5-\u2014i\u2014sti\u2014i\u201c\u2018\u201c\u2018\u2122\u00e9SC*~\u2122*#",
+                "Thermo Fisher\nScientific",
+                "R960-25\nRRID:AB_2556564"
+              ],
+              [
+                "Rabbit Monoclonal anti-GAPDH",
+                "Cell Signaling\nTechnology",
+                "5174,"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 13,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Streptavidin-HRP",
+                "Cell Signaling\nTechnology",
+                "3999\nRRID:AB_10830897"
+              ],
+              [
+                "Rabbit Polycionalanti-DHRS$-",
+                "Proteintech",
+                "15393-1-AP, 15393-\n1-AP"
+              ],
+              [
+                "Goat anti-Rabbit IgG (H+L) Secondary Antibody, HRP",
+                "Abcam",
+                "ab97051-1003,\nRRID:AB_1067936s"
+              ],
+              [
+                "Rabbit anti-Mouse IgG (H+L) Secondary antibody, HRP",
+                "Abcam",
+                "Abcam Cat#\nab97046,\nRRID:AB 10680920"
+              ],
+              [
+                "Rabbit anti-MITF",
+                "Millipore Sigma",
+                "(Atlas Antibodies\nCat# HPA003259,\nRRID-AB 1079381)"
+              ],
+              [
+                "Rabbit Monoclonal anti-GAPDH",
+                "Santa Cruz\nBiotechnology",
+                "(Santa Cruz\nBiotechnology Cat#\nsc-32233,\nRRID:AB_627679)"
+              ],
+              [
+                "a a ge ge Se ke ee\n488 Conjugate\nTanat anticMaiee InG@ (Hal) Cree Aheorhed Aleva",
+                "en ae\nTechnology\nBicher Grientfic",
+                "ee eee\nTechnology Cat#\n4412 (also 44128),\nRRID:AB_ 1904025)\nTThermn Eicher"
+              ],
+              [
+                "Goat anti-Mouse IgG (H+L) Cross Absorbed, Alexa\nFluor 555",
+                "Fisher Scientific",
+                "(Thermo Fisher\nScientific Cat# A-\n21422,\nRRID:AB_2535844)"
+              ],
+              [
+                "Hydrogen Peroxide (30%) \u00a9. ",
+                "Millipore Sigma",
+                "H1009"
+              ],
+              [
+                "Oleic Acid from Bovine Serum Albumin",
+                "Millipore Sigma",
+                "03008"
+              ],
+              [
+                "Oleic Acid",
+                " Millipore Sigma",
+                " 01383"
+              ],
+              [
+                "Bovine serum Albumin",
+                "Millipore sigma",
+                "AGGUB"
+              ],
+              [
+                "HCS LipidTOX Deep Red",
+                "Thermo Fisher\nScientific",
+                "H34477"
+              ],
+              [
+                "DUVIP TO 4991 9US (4,4-VIMUOTO- 10,9, /,o-F entametnyl-\n4-Bora-3a,4a-Diaza-s-Indacene)",
+                "thermo Fisher\nScientific",
+                "Vodec"
+              ],
+              [
+                "Pnanoidin OF \u00a2",
+                "thermo Fisner\nScientific",
+                "Peccol"
+              ],
+              [
+                "rlerce otreptavidin Wagnetc beads",
+                "Mmermo Fisher\nScientific",
+                "ooolf"
+              ],
+              [
+                "vodium-L-Ascorbate",
+                "Millipore sigma",
+                "A4QS4"
+              ],
+              [
+                "Biotin Phenol",
+                "Iris Biotech",
+                "LS-3500"
+              ],
+              [
+                "Trolox",
+                "Millipore Sigma",
+                "238813"
+              ],
+              [
+                "Halt Protease Inhibitor Cocktail, EDTA free",
+                "Thermo Fisher\nScientific",
+                "78439"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 14,
+        "tables": [
+          {
+            "rows": [
+              [
+                "UVI3003",
+                "Cedarlane Lab",
+                "16026"
+              ],
+              [
+                "Roche cOmplete Protease Inhibitor Cocktail, EDTA free",
+                "Millipore Sigma",
+                "11873580001"
+              ],
+              [
+                "Applied Biosystems PowerUp SYBR Green Master Mix",
+                "Thermo Fisher\nScientific",
+                "A25742"
+              ],
+              [
+                "Critical commercial assays",
+                "",
+                ""
+              ],
+              [
+                "Cyquant Direct Red Cell Proliferation Assay",
+                "Thermo Fisher\nSciantific",
+                "C35013"
+              ],
+              [
+                "Pierce BCA Protein Assay",
+                "Thermo Fisher\nScientific",
+                "23225"
+              ],
+              [
+                "RNeasy Mini Kit",
+                "QIAGEN",
+                "74106"
+              ],
+              [
+                "Agilent RNA 6000 Nano Kit",
+                "Agilent",
+                "5067-1511"
+              ],
+              [
+                "QuantSeg Forward Kit",
+                "LEXOGEN",
+                "0.15.96"
+              ],
+              [
+                "SuperScript IV First-Strand Synthesis System",
+                "Thermo Fisher\nOCniontific.",
+                "18091200"
+              ],
+              [
+                "SuperScript lV First-Strand Synthesis System",
+                "Thermo Fisher\nQniantific.",
+                "18091200"
+              ],
+              [
+                "Oniick-RNA Mininren Kit",
+                "SEICNUNG\nWma",
+                "RINSS"
+              ],
+              [
+                "MIUICK UNA WIPE Op IMC",
+                "eyo",
+                "AIVvoOo"
+              ],
+              [
+                "Deposited data",
+                "",
+                ""
+              ],
+              [
+                "Deposited data",
+                "",
+                ""
+              ],
+              [
+                "eee eee\nNT",
+                "SO \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+                "a"
+              ],
+              [
+                "LC MS/MS Raw and Analyzed Data",
+                "This paper",
+                "PRIDE: PXD050693"
+              ],
+              [
+                "EN ENE ELAN AIM EMI ERS Na\nSS ee ge",
+                "TEENS PERSE\n; rE _ \u2014\u2014\u2014",
+                "EME. EARNS\nERT RA EARAARARE\u2122"
+              ],
+              [
+                "IGR37 DHRS3 RNA-seq Raw and Analyzed Data",
+                "This paper",
+                "GEO: GSE262095"
+              ],
+              [
+                "ishMITF RNA-sea Raw and Analyzed Data",
+                "",
+                "GEO: GSE255256"
+              ],
+              [
+                "ac dae al Natty Wt niall ter Net Ee aa hint ant ad tel\na mnbemin PRIA aman Dass add Amn Pan",
+                "=",
+                "REN: RCEI2LEND"
+              ],
+              [
+                "iB-catenin RNA-seq Raw and Analyzed Data",
+                "Po",
+                "GEO: GSE136803"
+              ],
+              [
+                "ee eeeEEeeEeeeeeeeeeeeSptE\u2014OEO\u2014e\u2014\u2014EEEEe_ee\u2014e oie eereee\nDihheheA erBNaA_can Nata",
+                "Winiitare atal OnNon",
+                "REN: MGEI24A29"
+              ],
+              [
+                "Published scRNA-seq Data\nTZ AnA hdr PAILIM wetUUSsas OO",
+                "Wouters, et al., 2020",
+                "GEO: GSE134432"
+              ],
+              [
+                "NE IEEE EE EN",
+                "i) a a\nal., 2020",
+                ""
+              ],
+              [
+                "DAPOTITICINGL TIUUCTS. WOH HGS\nAQT",
+                "ATCO",
+                "CRI 18410"
+              ],
+              [
+                "IGR37",
+                "ints\nA gift from Colin",
+                "(RRID:CVCL_0132)\nNIA"
+              ],
+              [
+                "IGR389",
+                "Goding (University of\nOxford\nA gift from Colin",
+                "N/A"
+              ],
+              [
+                "HS294T",
+                "woaing (university OF\nOxford)\nATCC",
+                "HTB-140."
+              ],
+              [
+                "RPMI-7951",
+                "ATCC",
+                "(RRID:CVCL_0331\nHTB-66,"
+              ],
+              [
+                "IGR37 iB-Catenin",
+                "Generated and\nvalidated as described\nin Louphrasitthiphol et\nal.",
+                "oe we)\nLouphrasitthiphol,\nChauhan, et al.,\n2020; Vi\u00e9kova,\nVachtenheim,\nDhak Upncil"
+              ],
+              [
+                "MeWo & SKmel28 ishMITF",
+                "A gift from Jiri\nVachtenheim",
+                "MHUTUSUVa, CU IO\nVi\u00e9kova,\nVachtenheim,\nR\u00e9da, Horak,\nOndrusova,\n2018\u2122DOI:"
+              ],
+              [
+                "Oligonucleotides",
+                "\u2014",
+                "aU1G0 DUI:\n10.1111/jemm. 13501"
+              ],
+              [
+                "TYR aPCR Primer:",
+                "This naner",
+                "N/A"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 15,
+        "tables": [
+          {
+            "rows": [
+              [
+                "TYR gPCR Primer:\nOPTTRAAAARARTCTRROATCTAA",
+                " This paper ",
+                "N/A"
+              ],
+              [
+                "PMEL qPCR Primer:\nCCCCAGGAAACTGACGATGC",
+                "P. Zhang et a., 2012\"",
+                "DOI:10.1371/journal.\npone.004295"
+              ],
+              [
+                "PMEL qPCR Primer:\nAGCCACAGGAGGTGAGAGGAAT",
+                "P. Zhang et al., 2012\"",
+                "DOI:10.1371/journal.\npone.004295"
+              ],
+              [
+                "TYRP1 qPCR Primer:\nCGAAACACAGTGGAAGGTTACAG",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "TYRP1 qPCR Primer:\nAAGGTGTGCAGGAGGACAAA",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "MITF qPCR Primer:\nGGGCTCTGTTCTCACTTTCCA",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "MITF qPCR Primer:\nGGCGGAACTGCTGCTCTT",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "Beta-actin qPCR Primer:\nCACC AACTRRRACCACAT",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "Beta-actin qPCR Primer:\nACAGCCTGGATAGCAACG",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "Recombinant DNA",
+                "\u2014_\u2014_\u2014$_\u2014\u2014\u2014\u2014",
+                ""
+              ],
+              [
+                "pLenti CMV TetR Blast (716-1)",
+                "Addgene",
+                "RRID:Addgene_174\nQo"
+              ],
+              [
+                "PLIN2-V5-APEX2, pLenti CMV/TO Puro Dest",
+                "Addgene",
+                "RRID:Addgene_170\n573"
+              ],
+              [
+                "Cyto-V5-APEX2, pLenti CMV/TO Puro Dest",
+                "Addgene",
+                "RRID:Addgene_1 70\nB57."
+              ],
+              [
+                "CCSB-Broad LentiORF - DHRS3 Clone",
+                "Dharmacon",
+                "OHS6085-\n213579870"
+              ],
+              [
+                "Software and algorithms",
+                "_\u2014\u2014\u2014\u2014\u2014_\u2014_\u2014\u2014\u2014_\u2014\u2014\u2014_",
+                ""
+              ],
+              [
+                "R/RStudio 4.3.2",
+                "R Foundation for\nStatistical Computing",
+                "https:/Avww.r-\nproject.org/"
+              ],
+              [
+                "MATLAB R2022b",
+                "Mathworks",
+                "https:/Avww.mathwor\nks.com/products/mat\nlab.html"
+              ],
+              [
+                "FUL 2.0.01c65/1.54F",
+                "ImageJ",
+                "https://imagej.net/sot\ntware/fiji/downloads"
+              ],
+              [
+                "PRISM 9.4.1",
+                "GraphPad",
+                "https:/Awww.graphpa\nd.com/features"
+              ],
+              [
+                "gProfiler",
+                "Kolberg et al., 2023\"",
+                "https://biit.cs.ut.ee/g\nprofiler/naqe/citing"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 16,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Biorender",
+                "",
+                "https ://Awww.biorende\nr.com/"
+              ],
+              [
+                "MaxQuant 2.0.3.0",
+                "Cox & Mann, 2008;\nTyanova, Temu, &\nRP Ans 785.86",
+                "https:/Awww.maxqua\nnt.org/"
+              ],
+              [
+                "Perseus 1.6.15.0",
+                "ed\nTyanova, Temu,\nSinitcyn, et al., 2016\"",
+                "https://cox-\nlabs.github.io/coxdoc\ns/perseus_instructio\nns.htmlfcite"
+              ],
+              [
+                "GSEA",
+                "\u2014 ",
+                "https:/Awww.gsea-\nmsigdb.org/gsea/msi\ngdb"
+              ],
+              [
+                "Salmon v1.10.2",
+                "Patro, Duggal, Love,\nWizarry, & Kingsford,\n2017*",
+                "https://salmon.readth\nedocs.io/en/latest/sal\nmon.html"
+              ],
+              [
+                "Trimmomatic v0.39.1",
+                "Bolger, Lohse, &\nUsadel, 2014\u00b0\u00b0",
+                "http://Awww.usadellab\n.org/cms/?page=trim\nmomatic"
+              ],
+              [
+                "DESeqg2 1.36.0",
+                "Love, Huber, &\nAnders, 2014\u201d",
+                "https://bioconductor.\norg/packages/releas\ne/bioc/htm/DESeq2.\nhtml"
+              ],
+              [
+                "EdgeR",
+                "Robinson, McCarthy,\n& Smyth, 2010\"",
+                "https://bioconductor.\norg/packages/releas\ne/bioc/htmV/edgeR. ht\nml"
+              ],
+              [
+                "STAR (v.2.5.1b)",
+                "Dobin, et al., 2013\"",
+                "https://github.com/al\nexdobin/STAR"
+              ],
+              [
+                "FastQC (v.0.11.7)",
+                "Babraham\nBioinformatics",
+                "https:/Avww.bioinfor\nmatics. babraham.ac.\nuk/projects/fastaqc/"
+              ],
+              [
+                "CutAdapt (v.2.8)",
+                "Martin, 2011",
+                "https://ournal.embne\nLorg/index.php/emb\nnetjournalarticle/vie\nw/200"
+              ],
+              [
+                "Homer (v4.11)",
+                "Heinz et al., 2010\u00b0",
+                "http://homer.ucsd.ed\nu/homer/"
+              ],
+              [
+                "Fgsea (v1.28.0)",
+                "Gennady et al., 2021",
+                "https://bioconductor.\norg/packages/releas\ne/bioc/htmi/fasea. ht"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

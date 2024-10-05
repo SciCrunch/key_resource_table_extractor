@@ -1,0 +1,28 @@
+{
+  "job_id": 109,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_588725_main",
+  "pdf_file": "588725_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "FcgRI (CD64)",
+                "X54-5/7.1",
+                "PE-Cy7",
+                "139313",
+                "BioLegend"
+              ]
+            ]
+          }
+        ],
+        "page": 76
+      }
+    ]
+  }
+}

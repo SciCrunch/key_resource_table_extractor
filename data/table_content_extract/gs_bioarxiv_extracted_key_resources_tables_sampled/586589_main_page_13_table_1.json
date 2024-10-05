@@ -1,0 +1,319 @@
+{
+  "name": "586589_main_page_13_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Streptavidin-HRP  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology "
+      },
+      {
+        "colspan": 1,
+        "content": " 3999 RRID:AB_10830897"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit Polyclonal anti-DHRS3 "
+      },
+      {
+        "colspan": 1,
+        "content": "Proteintech "
+      },
+      {
+        "colspan": 1,
+        "content": "15393-1-AP, 15393- 1-AP"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-Rabbit IgG (H+L) Secondary Antibody, HRP  "
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam  "
+      },
+      {
+        "colspan": 1,
+        "content": " ab97051-1003, RRID:AB_10679369"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Mouse IgG (H+L) Secondary antibody, HRP  "
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam  "
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam Cat# ab97046, RRID:AB_10680920"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-MITF  "
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore Sigma  "
+      },
+      {
+        "colspan": 1,
+        "content": "(Atlas Antibodies Cat# HPA003259, RRID:AB_1079381)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit Monoclonal anti-GAPDH   "
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz Biotechnology  "
+      },
+      {
+        "colspan": 1,
+        "content": "(Santa Cruz Biotechnology Cat# sc-32233, RRID:AB_627679)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit IgG (H+L) F(ab')2 Fragment (Alexa Fluor 488 Conjugate  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology  "
+      },
+      {
+        "colspan": 1,
+        "content": "(Cell Signaling Technology Cat# 4412 (also 4412S), RRID:AB_1904025)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-Mouse IgG (H+L) Cross Absorbed, Alexa Fluor 555  "
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Scientific   "
+      },
+      {
+        "colspan": 1,
+        "content": "(Thermo Fisher Scientific Cat# A- 21422, RRID:AB_2535844)"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Chemicals, peptides, and recombinant proteins"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Doxycycline Hydrochloride (100mg/ml)"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "D3072"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Hydrogen Peroxide (30%)"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "H1009"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Oleic Acid from Bovine Serum Albumin"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "O3008"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Oleic Acid"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "O1383"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bovine Serum Albumin"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "A8806"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HCS LipidTOX Deep Red "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "H34477 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BODIPY\u2122 493/503 (4,4-Difluoro-1,3,5,7,8-Pentamethyl- 4-Bora-3a,4a-Diaza-s-Indacene)"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "D3922 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Phalloidin 647 "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "A22287 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Pierce Streptavidin Magnetic Beads "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "88817 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium-L-Ascorbate"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "A4034"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Biotin Phenol"
+      },
+      {
+        "colspan": 1,
+        "content": "Iris Biotech"
+      },
+      {
+        "colspan": 1,
+        "content": "LS-3500"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Trolox"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "238813"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Halt Protease Inhibitor Cocktail, EDTA free "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "78439 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "9-cis Retinoic Acid"
+      },
+      {
+        "colspan": 1,
+        "content": "Cedarlane Lab"
+      },
+      {
+        "colspan": 1,
+        "content": "14587"
+      }
+    ]
+  ]
+}

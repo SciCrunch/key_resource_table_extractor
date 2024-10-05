@@ -1,0 +1,251 @@
+{
+  "name": "587867_media-1_page_14_table_2",
+  "rows": [
+    [
+      {
+        "colspan": 2,
+        "content": "ppp-RNA sequence"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Sequence (5'-to-3')"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GCCAAGCTGAAGGTGACCAAGTTTTAGAGCTAGAAATAGCAAGTTAAAATAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ppp-RNA"
+      },
+      {
+        "colspan": 1,
+        "content": "GGCTAGTCCGTTATCAACTTGAAAAAGTGGCACCGAGTCGGTGCTTTTTTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgRNA sequence"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Spacer sequence (5'-to-3')"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgSP110-1 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GGGGATCACTCCTCAAGATT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgSP110-2 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GCAAGATTGGGAGAGTTACA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgSP100-1 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GGGCCGACTGAGGGGCTCAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgSP100-2 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GGCAGGCTGGGCCGACTGAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgPML-1 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GGTGCGTGAAGAGAAGCTGA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgPML-2 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GAGTAGAAAAGAGGACACGG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgZNFX1-1 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GAAGCCCCAGCACTCGCCGG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgZNFX1-2 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GGCGAGGCAAGGAAGAATCA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgCNOT2-1 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GAGCGGCGGTAAGGGCGGTA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgCNOT2-2 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GCGGGACAAGAAAATTCATG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgUSP18-1 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GCGAGCGCGGGGCCAGACCA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgUSP18-2 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GACGTGGAACTCAGCAGCGG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgSMC5-1 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GGCCCGGACGACTGCAACAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgSMC5-2 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GCAGCACACCTCCACACCCG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgSMC6-1 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GCAGGAGAAGGTAGATTCCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgSMC6-2 KD"
+      },
+      {
+        "colspan": 1,
+        "content": "GGCAGGCGCGGTTAGTACCG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgSP110 KO"
+      },
+      {
+        "colspan": 1,
+        "content": "CCAGATTGGGATATTCACGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgSP100 KO"
+      },
+      {
+        "colspan": 1,
+        "content": "GCAGCCTGTCATCTACACCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgNT"
+      },
+      {
+        "colspan": 1,
+        "content": "GCGGTGGGGCCGCTCACTAG"
+      }
+    ]
+  ]
+}

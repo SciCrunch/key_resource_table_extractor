@@ -1,0 +1,63 @@
+{
+  "job_id": 99,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_579982_media-1",
+  "pdf_file": "579982_media-1.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Ghrelin (Ghrl)",
+                "Cell Signaling",
+                "31865s",
+                "1:100",
+                "Anti-Rabbit"
+              ],
+              [
+                "Pancreatic Polypeptide (Pp/Ppy)",
+                "Abcam",
+                "ab272732",
+                "1:200",
+                "Anti-Rabbit"
+              ],
+              [
+                "Serotonin (5-HT)",
+                "Immunostar",
+                "20080",
+                "1:250",
+                "Anti-Rabbit"
+              ],
+              [
+                "Nrxn3",
+                "Alomone Labs",
+                "ANR-033",
+                "1:100",
+                "Anti-Rabbit"
+              ],
+              [
+                "Acetylated alpha Tubulin",
+                "Sigma",
+                "T7451-100UL",
+                "1:1000",
+                "Anti-Mouse"
+              ],
+              [
+                "Wide-spectrum cytokeratin (PanCK)",
+                "Abcam",
+                "ab9377",
+                "1:500",
+                "Anti-Rabbit"
+              ]
+            ]
+          }
+        ],
+        "page": 1
+      }
+    ]
+  }
+}

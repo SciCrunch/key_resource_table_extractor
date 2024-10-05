@@ -1,0 +1,221 @@
+{
+  "name": "578728_main_page_38_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "REAGENT or RESOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "SOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "IDENTIFIER"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Alexa anti-Mouse IgG  "
+      },
+      {
+        "colspan": 1,
+        "content": "Life Technologies  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 1787187 RRID: AB_2534069"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Alexa anti-Rabbit IgG  "
+      },
+      {
+        "colspan": 1,
+        "content": "Life Technologies  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 1745478 RRID: AB_2534079"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-Beta Catenin (\u03b2-catenin) Monoclonal Antibody  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cloud-Clone Corp.  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# CAB021MI22 RRID: A20230811413"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-rabbit IgG, HRP-linked Antibody  "
+      },
+      {
+        "colspan": 1,
+        "content": "CST  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 7074P2 RRID: AB_2099233"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-Vinculin VCL antibody  "
+      },
+      {
+        "colspan": 1,
+        "content": "Merck  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# V9264, RRID:AB_1060362 7"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "  "
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#ab129002 RRID: AB_11144129"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "  "
+      },
+      {
+        "colspan": 1,
+        "content": "Boster  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# MA1103 RRID: AB_10890415"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HRP Goat Anti-Mouse IgG  "
+      },
+      {
+        "colspan": 1,
+        "content": "Abclonal  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# AS003 RRID: AB_2769851"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ki-67  "
+      },
+      {
+        "colspan": 1,
+        "content": "CST  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 9129 RRID: AB_2314695"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Monoclonal Anti-\u03b2-Actin antibody "
+      },
+      {
+        "colspan": 1,
+        "content": "Merck "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 0000106157 RRID: AB_262011"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse Anti-Myogenin "
+      },
+      {
+        "colspan": 1,
+        "content": "BD Pharmingen "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 556358 RRID: AB_396383"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse Gamma Globulin  "
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#31878 RRID: AB_2532170"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MyoD antibody  "
+      },
+      {
+        "colspan": 1,
+        "content": "SCBT  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# SC-377460 RRID: AB_2813894"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Myosin Heavy Chain antibody "
+      },
+      {
+        "colspan": 1,
+        "content": "DSHB "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# MF20 RRID: AB_2147781"
+      }
+    ]
+  ]
+}

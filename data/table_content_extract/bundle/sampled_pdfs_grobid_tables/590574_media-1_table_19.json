@@ -1,0 +1,47 @@
+{
+  "headers": [],
+  "notes": "C, C-12).UPLC-MS: Rt 1.66 (99%) MS (ESI) + : 278.9 [M+H] + . \u2022 21 H-NMR (DMSO-D6), δ: 7.07-7.11 (m, 1H, Haromatic), 7.51-7.55 (m, 1H, H-aromatic), 7.57-7.59 (m, 1H, H-aromatic), 7.66-7.69 (m, 1H, H-aromatic), 7.70-7.74 (m, 1H, H-aromatic), 7.76-7.79 (m, 1H, H-aromatic) 7.87 (d, J= 8.0 Hz, 1H, H-aromatic), 8.01 (d, J= 8.0 Hz, 1H, H-aromatic), 8.09 (d, J= 8.7 Hz, 1H, H-aromatic), 8.17 (d, J= 8.2 Hz, 1H, H-aromatic), 8.60 (s, 1H, H-10), 11.28 (bs, 1H, NH), 14.00 (bs, 1H, OH). 13 C-NMR (DMSO-D6), δ: 118.+ : 328.1 [M+H] + . \u2022 2",
+  "caption": "Obtained as white solid in 68% yield.",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "1 H-NMR (DMSO-D6), δ: 7.17-7.20 (m, 1H, H-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "aromatic), 7.52-7.54 (m, 1H, H-aromatic), 7.57-7.59 (m, 1H, H-aromatic), 7.60-7.62"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(m, 1H, H-aromatic), 7.90 (dd, J1= 7.9 Hz, J2= 1.5 Hz, 1H, H-aromatic), 8.19-8.22 (m,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "1H, H-aromatic), 8.80-8.82 (m, 1H, H-aromatic), 8.95-8.97 (m, 1H, H-aromatic), 11.23"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(bs, 1H, NH), 13.60 (bs, 1H, OH). 13 C-NMR (DMSO-D6), δ: 119.8, 124.4, 124.9, 132.0,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "134.9, 135.4, 147.7, 154.4 (CH, C-aromatic), 118.3, 125.6, 135.6 (C, C-aromatic),"
+    }],
+    [{
+      "colspan": 1,
+      "content": "169.93(8, 122.2, 123.8, 128.30,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "128.34, 129.0, 129.81, 129.85, 130.2, 131.9, 134.9 (CH, C-aromatic), 117.1, 132.0,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "134.9, 136.0, 140.2 (C, C-aromatic), 170.2 (C, C-17). UPLC-MS: Rt 2.12 (100%) MS"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(ESI)"
+    }]
+  ]
+}

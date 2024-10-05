@@ -1,0 +1,477 @@
+{
+  "paper_id": "555134_main",
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "REAGENT or RESOURCE",
+                "SOURCE",
+                "IDENTIFIER"
+              ],
+              [
+                "Antibodies",
+                "",
+                ""
+              ],
+              [
+                "Anti-Lamin A/C",
+                "Abcam",
+                "Cat # Ab26300"
+              ],
+              [
+                "Anti-Lamin A/C",
+                "Santa Cruz",
+                "Cat # sc-376248"
+              ],
+              [
+                "Anti-Lamin A/C",
+                "Santa Cruz",
+                "Cat # sc-20681"
+              ],
+              [
+                "Anti-CD45 antibody",
+                "R&D Systems",
+                "Cat # AF114-SP"
+              ],
+              [
+                "Anti-CD68 antibody",
+                "Cell Signaling",
+                "Cat # 97778"
+              ],
+              [
+                "Anti-\u03b3-H2A.X antibody",
+                "Cell Signaling",
+                "Cat # 9718"
+              ],
+              [
+                "Anti-desmin antibody",
+                "Invitrogen",
+                "Cat # PA5-19063"
+              ],
+              [
+                "Anti-PCM-1 antibody",
+                "Sigma",
+                "Cat # HPA023370"
+              ],
+              [
+                "Anti-tdTomato antibody",
+                "OriGene",
+                "Cat # AB8181"
+              ],
+              [
+                "Anti-COX4 antibody",
+                "R&D Systems",
+                "Cat # MAB6980"
+              ],
+              [
+                "Anti-cGAS antibody",
+                "Cell Signaling",
+                "Cat # 31659"
+              ],
+              [
+                "Anti-STING antibody",
+                "Cell Signaling",
+                "Cat # 13647"
+              ],
+              [
+                "Anti-GAPDH antibody",
+                "ABclonal",
+                "Cat # AC001"
+              ],
+              [
+                "Alexa Fluor Plus 647 Phalloidin",
+                "ThermoFisher",
+                "Cat # A30107"
+              ],
+              [
+                "Bacterial and virus strains",
+                "",
+                ""
+              ],
+              [
+                "Chemicals, peptides, and recombinant proteins",
+                "",
+                ""
+              ],
+              [
+                "Tamoxifen",
+                "Sigma",
+                "Cat # T5648"
+              ],
+              [
+                "Collagenase Type II",
+                "Worthington",
+                "Cat # LS004177"
+              ],
+              [
+                "Polyethylenimine, Linear, MW 25000, Transfection Grade (PEI 25K\u2122)",
+                "Fisher Scientific",
+                "Cat # 23966-100"
+              ],
+              [
+                "Target Retrieval Solution",
+                "DAKO",
+                "Cat # S2367"
+              ],
+              [
+                "Corn oil",
+                "Sigma",
+                "Cat # C8267"
+              ],
+              [
+                "Phenol/Chloroform/Isoamyl alcohol",
+                "Invitrogen",
+                "Cat # 15593031"
+              ],
+              [
+                "Trizol LS",
+                "Invitrogen",
+                "Cat # 10296010"
+              ],
+              [
+                "Heparin",
+                "Sagent Pharmaceuticals.",
+                "Cat # 25021-400-10"
+              ],
+              [
+                "VectaStain ELITE ABC Kits",
+                "Vector Laboratories",
+                "Cat # PK-6100"
+              ],
+              [
+                "DAB",
+                "DAKO",
+                "Cat # K3468"
+              ],
+              [
+                "ProLong Glass Antifade Mountant",
+                "Invitrogen",
+                "Cat # P36984"
+              ],
+              [
+                "Normal donkey serum",
+                "Jackson ImmunoResearch",
+                "Cat # 017-000-121"
+              ],
+              [
+                "Sudan Black B",
+                "Electron Microscopy Slides",
+                "Cat # 21610"
+              ],
+              [
+                "NEBuilder HiFi DNA Assembly Master Mix",
+                "NEB",
+                "Cat # E2621"
+              ],
+              [
+                "Dulbecco's modified Eagle medium",
+                "Fisher Scientific",
+                "Cat # 11965-092"
+              ],
+              [
+                "penicillin/streptomycin",
+                "Invitrogen",
+                "Cat # 105727"
+              ],
+              [
+                "OptiPROTM-SFM",
+                "Thermo Fisher",
+                "Cat # 12309019"
+              ],
+              [
+                "Fetal Bovine Serum",
+                "Sigma",
+                "Cat # F1051"
+              ],
+              [
+                "Critical commercial assays",
+                "",
+                ""
+              ],
+              [
+                "Masson\u2019s Trichrome Kit",
+                "Thomas Scientific LLC",
+                "Cat # KTMTRPT"
+              ],
+              [
+                "Click-iT\u2122 Plus TUNEL Assay Kits for In Situ Apoptosis Detection; Alexa Fluor\u2122 488",
+                "Invitrogen",
+                "Cat # C10617"
+              ],
+              [
+                "Luna Universal One-Step RT-qPCR Kit",
+                "New England Biolabs",
+                "Cat # E3005"
+              ],
+              [
+                "NEBNext UltraII Directional RNA Library Prep Kit",
+                "New England Biolabs",
+                "Cat # E7760"
+              ],
+              [
+                "Quant-seq 3\u2019 mRNA-seq FWD kit",
+                "Lexogen",
+                "Cat # K01596"
+              ],
+              [
+                "Deposited data",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 35
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Experimental models: Organisms/strains",
+                "",
+                ""
+              ],
+              [
+                "Lmna-LoxP mice",
+                "Jackson Laboratory",
+                "JAX stock No: 26284"
+              ],
+              [
+                "Myh6-MerCreMer transgene mice",
+                "Jackson Laboratory",
+                "JAX stock No: 005657"
+              ],
+              [
+                "Rosa26CAG-LSL-tdTomato mice",
+                "Jackson Laboratory",
+                "JAX stock No: 25106"
+              ],
+              [
+                "Cgas-null mice",
+                "Jackson Laboratory",
+                "JAX stock No: 026554"
+              ],
+              [
+                "CAG-Lox-Stop-Lox-Uprt transgene mice",
+                "Jackson Laboratory",
+                "JAX stock No: 021469"
+              ],
+              [
+                "Sting-flox mice",
+                "Jackson Laboratory",
+                "JAX stock No: 031670"
+              ],
+              [
+                "Mice carrying the Mef2C-AHF-Cre transgene allele",
+                "Verzi et al., 2005",
+                "DOI: 10.1016/j.ydbio.2005. 08.041"
+              ],
+              [
+                "Sting-null (generated from Sting-LoxP mouse)",
+                "This study",
+                "N/A"
+              ],
+              [
+                "AAVpro 293T Cell",
+                "TaKaRa",
+                "Cat # 632273"
+              ],
+              [
+                "Oligonucleotides",
+                "",
+                ""
+              ],
+              [
+                "DNA oligonucleotide KI279 for Lmna genotype primer: AACCCAGCCTCAGAAACTGGTGGATG",
+                "This paper",
+                "Ikegami lab ID:\tKI279"
+              ],
+              [
+                "DNA oligonucleotide KI280 for Lmna genotype primer: GACAGCTCTCCTCTGAAGTGCTTGGA",
+                "This paper",
+                "Ikegami lab ID:\tKi280"
+              ],
+              [
+                "DNA oligonucleotide EA062 for EGFP cloning: AGTACTTAATACGACTCACTATAGGCTAGCGCCACCATGGTGAGC AAGGGCGAGGA",
+                "This paper",
+                "Ikegami lab ID:\tEA062"
+              ],
+              [
+                "DNA oligonucleotide EA064 for EGFP with GS linker cloning: TTATCATGTCTGGATCCGCGCGGCCGCGCTGCCCCCGCCTCCCTT GTACAGCTCGTCCATGC",
+                "This paper",
+                "Ikegami lab ID:\tEA064"
+              ]
+            ]
+          }
+        ],
+        "page": 36
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "DNA oligonucleotide EA086 for icGAS (human cGAS with E225A/D227A amino acid substitutions): AAGGGAGGCGGGGGCAGCGCGGCCGCAGACTACAAAGACGAT GACGACAAGATGCAGCCCTGGCACGGTAAAGCAATGCAACGGG CTAGTGAAGCAGGAGCTACTGCTCCAAAGGCCAGTGCTAGGAAT GCCAGGGGCGCTCCCATGGATCCAAATGAAAGCCCCGCAGCACC CGAAGCAGCTCTGCCTAAAGCAGGTAAGTTTGGCCCTGCTCGGA AGTCTGGTTCCAGACAAAAGAAATCAGCTCCTGATACTCAAGAG AGGCCTCCAGTAAGGGCTACCGGAGCTAGGGCCAAGAAAGCAC CCCAGAGAGCCCAGGATACCCAGCCTAGTGATGCAACTTCAGCC CCAGGCGCAGAGGGGCTGGAACCTCCCGCCGCACGAGAGCCCG CCCTTTCACGAGCCGGATCCTGCCGCCAACGAGGTGCCAGATGC AGCACAAAACCCAGGCCCCCTCCCGGTCCATGGGATGTACCCAG CCCCGGTCTTCCCGTAAGTGCACCAATATTGGTTCGAAGGGACG CCGCACCAGGGGCCTCTAAACTGCGGGCCGTGCTGGAGAAGCT GAAGTTGTCTCGGGATGATATCAGCACTGCCGCTGGCATGGTTA AAGGGGTTGTTGACCATCTGCTTCTGCGACTGAAATGCGACTCA GCTTTTAGGGGTGTAGGGCTTCTGAACACTGGATCCTATTACGA GCACGTCAAGATTAGTGCTCCCAACGCCTTCGCAGTCATGTTTAA GCTGGAAGTTCCTAGAATTCAGCTGGAAGAGTATTCTAACACTCG AGCTTATTATTTTGTCAAATTTAAGCGAAACCCAAAGGAGAATCA CCTGTCTCAGTTCTTGGAAGGGGAGATACTGTCCGCCTCTAAGAT GCTGTCTAAGTTCAGAAAGATTATAAAGGAGGAAATTAATGATA TCAAAGATACTGACGTGATTATGAAAAGGAAGCGCGGAGGTTCT CCTGCAGTGACTCTGCTCATTAGCGAGAAGATATCTGTTGACATA ACCCTCGCACTCGAATCCAAGTCTAGCTGGCCTGCCTCTACCCAG GAGGGCTTGAGAATTCAAAACTGGTTGTCTGCAAAAGTAAGGAA ACAACTTCGACTGAAGCCATTTTATCTCGTCCCAAAGCACGCAAA AGAGGGCAATGGTTTCCAAGAAGAAACTTGGCGCTTGTCCTTTTC ACACATTGAGAAGGAGATTCTGAACAATCACGGAAAGTCCAAAA CTTGCTGCGAGAATAAGGAAGAAAAGTGCTGTCGAAAGGACTG CTTGAAGTTGATGAAGTATCTCCTGGAACAGTTGAAGGAACGAT TTAAAGATAAGAAACACTTGGACAAATTTAGTTCCTACCACGTGA AGACAGCCTTCTTTCACGTGTGTACCCAGAATCCCCAGGATTCAC AGTGGGATAGAAAGGACCTCGGACTCTGCTTTGACAATTGCGTC ACTTATTTTCTTCAGTGTTTGCGAACTGAGAAGCTGGAAAACTAT TTTATCCCCGAATTTAATTTGTTCTCATCAAACCTGATTGACAAGA GATCTAAAGAATTCCTCACAAAACAGATCGAGTACGAACGCAAC AACGAATTCCCCGTCTTTGATGAATTTTGAGCGGCCGCGCGGATC CAGACATGATAA",
+                "This paper",
+                "Ikegami lab ID:\tEA08"
+              ]
+            ]
+          }
+        ],
+        "page": 37
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "DNA oligonucleotide EA087 for mouse cGAS: AGTACTTAATACGACTCACTATAGGCTAGCGCCACCATGGACTAC AAAGACGATGACGATAAGATGGAGGATCCTCGCAGGCGCACCA CAGCTCCACGCGCAAAGAAACCATCTGCTAAGAGAGCACCTACC CAGCCTTCTAGGACAAGAGCCCATGCCGAGTCCTGCGGACCACA ACGAGGCGCCAGGAGTCGGCGGGCAGAACGGGACGGAGACAC AACCGAGAAACCTAGGGCTCCTGGCCCTAGAGTGCACCCAGCAC GCGCTACAGAGCTGACTAAAGATGCACAGCCCAGTGCAATGGAT GCAGCTGGTGCCACCGCACGCCCAGCCGTGCGGGTTCCACAACA GCAGGCTATATTGGACCCCGAACTTCCTGCTGTAAGGGAACCTCA ACCCCCCGCAGATCCCGAAGCTAGAAAAGTAGTACGAGGACCTT CTCACCGACGAGGGGCTCGATCAACCGGCCAGCCACGGGCTCCC AGGGGGTCACGCAAAGAACCAGATAAGCTCAAGAAAGTCCTGG ATAAGTTGCGGTTGAAAAGAAAAGACATCAGTGAAGCTGCTGAA ACAGTTAACAAAGTCGTCGAGAGACTGTTGCGGCGCATGCAAAA AAGGGAATCTGAATTCAAAGGAGTCGAACAACTCAACACCGGTT CATACTACGAGCATGTTAAAATCTCAGCCCCAAATGAGTTTGATG TGATGTTTAAGCTTGAAGTGCCTCGCATTGAACTGCAGGAGTACT ATGAGACTGGAGCCTTTTACCTCGTAAAGTTTAAGCGAATTCCTA GGGGTAATCCCTTGTCTCATTTTCTCGAAGGTGAAGTCTTGTCAG CTACCAAAATGCTGAGTAAATTTAGGAAGATAATAAAAGAGGAG GTTAAGGAAATAAAGGACATCGACGTTTCAGTGGAGAAGGAGA AGCCCGGTTCTCCAGCAGTTACACTCCTCATCAGGAATCCCGAGG AAATTAGCGTAGACATCATTCTCGCTTTGGAAAGCAAGGGTAGTT GGCCCATTTCTACCAAAGAAGGACTTCCCATTCAGGGTTGGCTCG GTACCAAAGTACGCACCAATCTCCGAAGGGAACCTTTCTACCTGG TTCCTAAAAATGCTAAAGATGGAAACTCTTTCCAGGGCGAGACTT GGCGCCTCTCCTTTTCCCACACAGAGAAGTACATCCTTAACAACC ACGGAATCGAAAAAACCTGCTGCGAAAGTTCCGGTGCCAAGTGT TGTCGAAAGGAATGCCTTAAACTGATGAAATACCTTTTGGAGCA GCTCAAAAAGGAATTCCAAGAGCTCGACGCTTTTTGCTCTTACCA CGTTAAGACCGCTATTTTCCACATGTGGACACAGGACCCACAAGA TTCTCAATGGGACCCTAGGAATCTCAGCTCATGTTTCGATAAGTT GTTGGCTTTTTTCCTCGAATGTCTGCGCACCGAGAAGTTGGATCA TTACTTCATTCCCAAGTTCAACCTCTTCTCACAGGAACTGATAGAT CGAAAGTCTAAGGAATTCTTGTCTAAAAAAATAGAGTATGAGCG AAACAATGGTTTCCCCATTTTTGACAAGTTGTGAGCGGCCGCGCG GATCCAGACATGATAA",
+                "This paper",
+                "Ikegami lab ID:\tEA087"
+              ],
+              [
+                "DNA oligonucleotide EA096 for Cxcl10 qPCR primer: GCCGTCATTTTCTGCCTCA",
+                "This paper",
+                "Ikegami lab ID: EA096"
+              ],
+              [
+                "DNA oligonucleotide EA097 for Cxcl10 qPCR primer: CGTCCTTGCGAGAGGGATC",
+                "This paper",
+                "Ikegami lab ID: EA097"
+              ],
+              [
+                "DNA oligonucleotide EA098 for Ifnb1 qPCR primer: CCTGGAGCAGCTGAATGGAA",
+                "This paper",
+                "Ikegami lab ID: EA098"
+              ],
+              [
+                "DNA oligonucleotide EA099 for Ifnb1 qPCR primer: TGGATGGCAAAGGCAGTGTAA",
+                "This paper",
+                "Ikegami lab ID: EA099"
+              ],
+              [
+                "DNA oligonucleotide EA100 for Ifit3 qPCR primer: CCTACATAAAGCACCTAGATGGC",
+                "This paper",
+                "Ikegami lab ID: EA100"
+              ],
+              [
+                "DNA oligonucleotide EA101 for Ifit3 qPCR primer: ATGTGATAGTAGATCCAGGCGT",
+                "This paper",
+                "Ikegami lab ID: EA101"
+              ],
+              [
+                "DNA oligonucleotide KI444 for Actb qPCR primer: CTTTGCAGCTCCTTCGTTGC",
+                "This paper",
+                "Ikegami lab ID: KI444"
+              ],
+              [
+                "DNA oligonucleotide KI445 for Actb qPCR primer: CCTTCTGACCCATTCCCACC",
+                "This paper",
+                "Ikegami lab ID: KI445"
+              ]
+            ]
+          }
+        ],
+        "page": 38
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "DNA oligonucleotide KI466 for AAV titering primer: GCGGATCCAGACATGATAAG",
+                "This paper",
+                "Ikegami lab ID: KI466"
+              ],
+              [
+                "DNA oligonucleotide KI467 for AAV titering primer: GCCTATAGTGAGTCGTATTAAG",
+                "This paper",
+                "Ikegami lab ID: KI467"
+              ],
+              [
+                "Recombinant DNA",
+                "",
+                ""
+              ],
+              [
+                "pAAV:cTNT::Luciferase",
+                "Addgene",
+                "Addgene plasmid #69915"
+              ],
+              [
+                "pAAV:cTNT::GFP-GS linker",
+                "This paper",
+                "Ikegami lab ID: bAE263_1"
+              ],
+              [
+                "pAAV:cTNT::GFP-icGAS",
+                "This paper",
+                "Ikegami lab ID: bAE299_1"
+              ],
+              [
+                "pAAV:cTNT::cGAS",
+                "This paper",
+                "Ikegami lab ID: bAE299_3"
+              ],
+              [
+                "pLJM1-EGFP",
+                "Addgene",
+                "Addgene plasmid #19319"
+              ],
+              [
+                "Software and algorithms",
+                "",
+                ""
+              ],
+              [
+                "ImageJ",
+                "N/A",
+                "https://imagej.net/ij/"
+              ],
+              [
+                "NIS Elements",
+                "Nikon Instruments Inc.",
+                "RRID:SCR_014329"
+              ],
+              [
+                "Odyssey CLx Imaging System",
+                "LI-COR Biosciences",
+                "https://www.licor.com /bio/odyssey-dlx/"
+              ],
+              [
+                "CellProfiler",
+                "Broad Institute",
+                "https://cellprofiler.org /"
+              ],
+              [
+                "Other",
+                "",
+                ""
+              ],
+              [
+                "Bio-Rad CFX96 Real-Time PCR Detection System",
+                "Bio-Rad",
+                "RRID:SCR_018064"
+              ],
+              [
+                "Yokogawa CSU-W1 Sora spinning disk confocal microscope",
+                "Nikon Instruments Inc.",
+                "https://www.microsco pe.healthcare.nikon.co m/products/confocal- microscopes/csu- series/csu-w1"
+              ],
+              [
+                "Nikon A1R laser-scanning confocal microscope",
+                "Nikon Instruments Inc.",
+                "RRID:SCR_020317"
+              ]
+            ]
+          }
+        ],
+        "page": 39
+      }
+    ]
+  }
+}

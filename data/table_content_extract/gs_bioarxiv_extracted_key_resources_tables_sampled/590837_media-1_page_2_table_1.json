@@ -1,0 +1,417 @@
+{
+  "name": "590837_media-1_page_2_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 3,
+        "content": "Chemicals, peptides and recombinant proteins"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tamoxifen"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "T5648"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "4-hydroxy Tamoxifen (4-OHT)"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "H7904"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "A\u03b21-42 peptide"
+      },
+      {
+        "colspan": 1,
+        "content": "Anaspec"
+      },
+      {
+        "colspan": 1,
+        "content": "AS-20276"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "A\u03b21-42, Hylite 647, conj."
+      },
+      {
+        "colspan": 1,
+        "content": "Anaspec"
+      },
+      {
+        "colspan": 1,
+        "content": "AS-64161"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RNase Inhibitor"
+      },
+      {
+        "colspan": 1,
+        "content": "New England Biolabs"
+      },
+      {
+        "colspan": 1,
+        "content": "M0314S"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DMEM, high glucose medium"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "11965118"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HBSS medium"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "14175095"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Recombinant murine GM-CSF"
+      },
+      {
+        "colspan": 1,
+        "content": "PeproTech"
+      },
+      {
+        "colspan": 1,
+        "content": "315-03"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Recombinant murine M-CSF"
+      },
+      {
+        "colspan": 1,
+        "content": "PeproTech"
+      },
+      {
+        "colspan": 1,
+        "content": "315-02"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "G418 Sulfate (Geneticin)"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "11811098"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "4\u2019 ,6-Diamidino-2-phenylindole (DAPI)"
+      },
+      {
+        "colspan": 1,
+        "content": "Life Technologies"
+      },
+      {
+        "colspan": 1,
+        "content": "D21490"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MACS buffer"
+      },
+      {
+        "colspan": 1,
+        "content": "Miltenyi"
+      },
+      {
+        "colspan": 1,
+        "content": "130-092-987"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RIPA buffer"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "32955"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BCA Protein Assay"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "23228"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Triton X-100"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "X100"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SDS"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "BP166"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "EDTA"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "S311"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DMSO"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "D1435"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Acetone"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "1006801"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ProLong Gold, hard set mounting media"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "P36930"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Percoll Density Gradient Media"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "45001748"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DNase I"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "EN0521"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TLCK Trypsin Inhibitor "
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz Biotechnology"
+      },
+      {
+        "colspan": 1,
+        "content": "sc-201296 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HEPES"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermofisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "15630080"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Paraformaldehyde"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore-Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "P6148"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ketamine (100 mg/mL)"
+      },
+      {
+        "colspan": 1,
+        "content": "MWI Animal Health"
+      },
+      {
+        "colspan": 1,
+        "content": "501072"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Xylazine (20 mg/mL)"
+      },
+      {
+        "colspan": 1,
+        "content": "MWI Animal Health"
+      },
+      {
+        "colspan": 1,
+        "content": "003437"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Protease and phosphatase inhibitor"
+      },
+      {
+        "colspan": 1,
+        "content": "Roche"
+      },
+      {
+        "colspan": 1,
+        "content": "1836153"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pHrodo-Red Zymosan bioparticles"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermofisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "P35364"
+      }
+    ]
+  ]
+}

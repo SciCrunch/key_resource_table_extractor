@@ -1,0 +1,63 @@
+{
+  "job_id": 82,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_590990_main",
+  "pdf_file": "590990_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Antigen",
+                "Immunogen Description",
+                "Source, host species, RRID",
+                "Concentration"
+              ],
+              [
+                "11-beta-hydroxysteroid dehydrogenase type 2 (HSD2)",
+                "Amino acids 261-405 from the C-terminus of human 11b-HSD2",
+                "Santa Cruz, rabbit polyclonal, cat# sc_20176,  RRID: AB_2233199",
+                "1:500 (human & porcine tissue) 1:700 (mouse tissue)"
+              ],
+              [
+                "11-beta-hydroxysteroid dehydrogenase type 2 (HSD2)",
+                "Fusion protein Ag5146 (amino acids 1\u2013405 encoded by human HSD11B2; GenBank BC036780)",
+                "Protein Tech, rabbit polyclonal, cat# 14192-1-AP, RRID: AB_2119643",
+                "1:2,000 (mouse tissue)"
+              ],
+              [
+                "Choline acetyltransferase (ChAT)",
+                "ChAT from human placenta",
+                "Millipore, goat polyclonal, cat# AB144P, RRID: AB_2079751",
+                "1:500 (human tissue)"
+              ],
+              [
+                "Fos",
+                "Synthetic peptide corresponding to residues near the amino terminus of rat c-Fos",
+                "Synaptic System, guinea pig; cat#226 308, RRID: AB_2905595",
+                "1:12,000 (mouse tissue)"
+              ],
+              [
+                "mCherry",
+                "Full length mCherry fluorescent protein",
+                "Life Sciences, rat monoclonal,  cat# M11217,  RRID: AB_2536611",
+                "1:2,000 (mouse tissue)"
+              ],
+              [
+                "Tyrosine hydroxylase (TH)",
+                "Native tyrosine hydroxylase from rat pheochromocytoma in sheep host",
+                "Millipore, sheep polyclonal, cat#: Ab1542, RRID: AB_90755",
+                "1:2,000 (mouse tissue)"
+              ]
+            ]
+          }
+        ],
+        "page": 57
+      }
+    ]
+  }
+}

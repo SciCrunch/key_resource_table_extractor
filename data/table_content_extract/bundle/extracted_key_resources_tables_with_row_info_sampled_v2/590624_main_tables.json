@@ -1,0 +1,57 @@
+{
+  "job_id": 105,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_590624_main",
+  "pdf_file": "590624_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Plasmi",
+                "",
+                "",
+                ""
+              ],
+              [
+                "p966",
+                "",
+                "loop 2\u2206 derivative of p674",
+                "this study"
+              ],
+              [
+                "p967",
+                "",
+                "loop 1\u2206 derivative of p674",
+                "this study"
+              ],
+              [
+                "p972",
+                "",
+                "loop 3\u2206 derivative of p674",
+                "this study"
+              ],
+              [
+                "",
+                "",
+                "from the RRP4 promoter in pRS416.",
+                ""
+              ],
+              [
+                "p974 p975",
+                "",
+                "\u22061-106 variant of p973 \u22061-218 variant of p973",
+                "this study this study"
+              ]
+            ]
+          }
+        ],
+        "page": 31
+      }
+    ]
+  }
+}

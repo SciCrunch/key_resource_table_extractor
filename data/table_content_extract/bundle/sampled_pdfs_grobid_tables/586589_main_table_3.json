@@ -1,0 +1,66 @@
+{
+  "headers": [],
+  "caption": "Ammonium Bicarbonate and incubated for one hour at room temperature in the dark. Beads then underwent partial on-bead digestion with 250 ng of Porcine Trypsin (Promega) in 50 mM Ammonium Bicarbonate for three hours at room temperature. Supernatant was then extracted to undergo digestion with 500 ng of Porcine Trypsin (Promega) and 500 ng of Endopeptidase Lys-C (Wako) in 50 mM Ammonium Bicarbonate overnight at room temperature. Digestion was halted by addition of neat trifluoroacetic acid. Peptides underwent reversed phase based micro solid phase extraction.",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "14,000 RPM."
+    }],
+    [{
+      "colspan": 1,
+      "content": "Equal amounts of protein per sample were then diluted in SDS free RIPA to a final 0.1%"
+    }],
+    [{
+      "colspan": 1,
+      "content": "SDS concentration and then incubated with 25 ul solubilized, samples were diluted in"
+    }],
+    [{
+      "colspan": 1,
+      "content": "SDS free RIPA buffer (0.1% final SDS) and then incubated with Pierce Streptavidin"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Magnetic Beads (cat #88817) overnight at 4°C in an end over end rotator. The next day,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "beads were washed for 2 min at RT (unless otherwise indicated) with the following: 2x"
+    }],
+    [{
+      "colspan": 1,
+      "content": "RIPA buffer (SDS free) buffer, 2x NP-40 buffer(1% NP-40), 1x 1M KCl, 1x 0.1 M"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Sodium Carbonate (10 seconds), 1x 2 M Urea, (10 seconds), 3x 10mM Tris-HCl, pH8.0"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(changing tubes each time). At the final wash 100 ul of buffer/beads was removed (10%"
+    }],
+    [{
+      "colspan": 1,
+      "content": "of sample) for WB analysis of IP while the rest was used for mass spectrometry."
+    }],
+    [{
+      "colspan": 1,
+      "content": "Lipid Droplet Proteomics by Mass Spectrometry"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Dried magnetic streptavidin beads were suspended in a solution 25uL of 50 mM"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Ammonium Bicarbonate/10 mM DTT for reduction of proteins and incubated for one"
+    }],
+    [{
+      "colspan": 1,
+      "content": "hour at room temperature. Reduction was followed by alkylation with the addition 7.5uL"
+    }],
+    [{
+      "colspan": 1,
+      "content": "of 100mM Iodoacetamide/50 mM"
+    }]
+  ]
+}

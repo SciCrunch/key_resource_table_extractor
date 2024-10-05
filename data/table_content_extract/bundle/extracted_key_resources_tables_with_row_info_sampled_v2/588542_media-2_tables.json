@@ -1,0 +1,44 @@
+{
+  "job_id": 86,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_588542_media-2",
+  "pdf_file": "588542_media-2.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "REAGENT or RESOURCE",
+                "SOURCE",
+                "IDENTIFIER"
+              ],
+              [
+                "Antibodies (anti-human)",
+                "",
+                ""
+              ],
+              [
+                "TotalSeq-C0165 CD314 (NK2D) (CGTGTTTGTTCCTCA) (1D11)",
+                "BioLegend",
+                "Cat# 320837; RRID:AB_2800844"
+              ]
+            ]
+          }
+        ],
+        "page": 1
+      },
+      {
+        "tables": [
+          {
+            "rows": []
+          }
+        ],
+        "page": 2
+      }
+    ]
+  }
+}

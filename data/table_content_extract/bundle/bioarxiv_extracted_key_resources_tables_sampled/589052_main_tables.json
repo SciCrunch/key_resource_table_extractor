@@ -1,0 +1,364 @@
+{
+  "job_id": 2621,
+  "job_status": "finished",
+  "paper_id": "589052_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Keratin 15",
+                "Thermo Fisher",
+                "MS-1068",
+                "IF",
+                "1/300"
+              ],
+              [
+                "CD34",
+                "Abcam",
+                "ab81289",
+                "IF",
+                "1/400"
+              ],
+              [
+                "P-cadherin",
+                "R&D Systems",
+                "AF761",
+                "IF",
+                "1/200"
+              ],
+              [
+                "Ki67",
+                "Thermo Fisher",
+                "RM-9106-S",
+                "IF",
+                "1/300"
+              ],
+              [
+                "CD34-eFluor (660)",
+                "Invitrogen",
+                "50-0341-80",
+                "IF, FACS",
+                "1/100"
+              ],
+              [
+                "BrdU",
+                "Abcam",
+                "6326",
+                "IF",
+                "1/250"
+              ],
+              [
+                "Lef1",
+                "Cell Signaling",
+                "2230",
+                "IF",
+                "1/100"
+              ],
+              [
+                "\u03b2Catenin",
+                "BD Biosciences",
+                "610154",
+                "IF",
+                "1/200"
+              ],
+              [
+                "GRK2",
+                "In ho",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Lrig1",
+                "R&D Systems",
+                "AF3688-SP",
+                "IF",
+                "1/100"
+              ],
+              [
+                "Keratin 5",
+                "Convance",
+                "PRB-160P",
+                "IF",
+                "1/400"
+              ],
+              [
+                "Keratin 6",
+                "Covance",
+                "905701",
+                "IF",
+                "1/400"
+              ],
+              [
+                "CDP",
+                "Proteintech",
+                "11733-1-AP",
+                "IF",
+                "1/100"
+              ],
+              [
+                "Gata3",
+                "Invitrogen",
+                "14-9966-82",
+                "IF",
+                "1/100"
+              ],
+              [
+                "Klf5",
+                "R&D Systems",
+                "AF3758-SP",
+                "IF",
+                "1/50"
+              ],
+              [
+                "\u0394Np63",
+                "Biolegend",
+                "Poly6190",
+                "IF",
+                "1/150"
+              ],
+              [
+                "cJun",
+                "Cell Signaling",
+                "9165",
+                "IF",
+                "1/100"
+              ],
+              [
+                "Tenascin C",
+                "Sigma",
+                "T3413",
+                "IF",
+                "1/200"
+              ],
+              [
+                "\u03b1SMA",
+                "Dako",
+                "M0851",
+                "IF",
+                "1/50"
+              ],
+              [
+                "Gata6",
+                "Cell Signaling",
+                "5851",
+                "IF",
+                "1/250"
+              ],
+              [
+                "Filaggrin",
+                "Covance",
+                "PRB-417P",
+                "IF",
+                "1/400"
+              ],
+              [
+                "Keratin 10",
+                "Dako",
+                "M 7002",
+                "IF",
+                "1/100"
+              ],
+              [
+                "Loricrin",
+                "Covance",
+                "PRB-145P",
+                "IF",
+                "1/400"
+              ],
+              [
+                "ZO-1",
+                "Invitrogen",
+                "40-2200",
+                "IF",
+                "1/100"
+              ],
+              [
+                "E-Cadherin",
+                "Cell Signaling",
+                "3195",
+                "IF",
+                "1/300"
+              ],
+              [
+                "Faloidin Alexa Fluor 555",
+                "Thermo Fisher",
+                "A34055",
+                "IF",
+                "1/100"
+              ],
+              [
+                "CD45",
+                "Life Technologies",
+                "14-0451",
+                "IF",
+                "1/250"
+              ],
+              [
+                "\u01b3-H2AX",
+                "Cell Signaling",
+                "9718",
+                "IF",
+                "1/150"
+              ],
+              [
+                "Cleaved Caspase 3",
+                "Cell Signaling",
+                "9661L",
+                "IF",
+                "1/100"
+              ],
+              [
+                "CD3",
+                "Biolegend",
+                "100201",
+                "IF",
+                "1/200"
+              ],
+              [
+                "ICAM1",
+                "R&D Systems",
+                "AF796",
+                "IHQ",
+                "1/100"
+              ],
+              [
+                "MHC-II ( I-A/I-E)",
+                "Biolegend",
+                "107601",
+                "IF",
+                "1/200"
+              ],
+              [
+                "F4/80",
+                "Abcam",
+                "16911",
+                "IF",
+                "1/70"
+              ],
+              [
+                "Goat anti Rabbit IgG conjugated with Horseradish",
+                "Nordicmubio",
+                "GAR/IgG(H+L)/P",
+                "WB",
+                "1/50000"
+              ],
+              [
+                "peroxidase",
+                "",
+                "O",
+                "",
+                ""
+              ],
+              [
+                "Goat anti Mouse IgG1 IgG2a IgG2b IgG3",
+                "Nordicmubio",
+                "GAM/IgG(H+L)/P",
+                "WB",
+                "1/50000"
+              ],
+              [
+                "conjugated with Horseradish peroxidase",
+                "",
+                "O",
+                "",
+                ""
+              ],
+              [
+                "Biotin-SP AffiniPure Donkey Anti-Goat IgG (H+L)",
+                "Jackson",
+                "705-065-147",
+                "IHQ",
+                "1/3000"
+              ],
+              [
+                "",
+                "Immunoresearch",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Biotin-SP AffiniPure Donkey Anti-Rabbit IgG (H+L)",
+                "Jackson",
+                "711-065-152",
+                "IHQ",
+                "1/3000"
+              ],
+              [
+                "",
+                "Immunoresearch",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Alexa 488 Donkey anti-Goat IgG",
+                "Thermo Fisher",
+                "A-11055",
+                "IF",
+                "1/250"
+              ],
+              [
+                "Alexa 488 Donkey anti-Mouse IgG",
+                "Thermo Fisher",
+                "A-21202",
+                "IF",
+                "1/250"
+              ],
+              [
+                "Alexa 488 Donkey anti-Rabbit IgG",
+                "Thermo Fisher",
+                "A-21206",
+                "IF",
+                "1/250"
+              ],
+              [
+                "Alexa 555 Donkey anti-Goat IgG",
+                "Thermo Fisher",
+                "A-21432",
+                "IF",
+                "1/250"
+              ],
+              [
+                "Alexa 555 Donkey anti-Mouse IgG",
+                "Thermo Fisher",
+                "A-31570",
+                "IF",
+                "1/250"
+              ],
+              [
+                "Alexa 555 Donkey anti-Rabbit IgG",
+                "Thermo Fisher",
+                "A-31572",
+                "IF",
+                "1/250"
+              ],
+              [
+                "Alexa 647 Donkey anti-Goat IgG",
+                "Thermo Fisher",
+                "A-21447",
+                "IF",
+                "1/250"
+              ],
+              [
+                "Alexa 647 Donkey anti-Mouse IgG",
+                "Thermo Fisher",
+                "A-31571",
+                "IF",
+                "1/250"
+              ]
+            ]
+          }
+        ],
+        "page": 20
+      }
+    ]
+  }
+}

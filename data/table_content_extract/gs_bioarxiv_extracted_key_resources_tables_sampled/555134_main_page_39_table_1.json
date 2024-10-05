@@ -1,0 +1,219 @@
+{
+  "name": "555134_main_page_39_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "DNA oligonucleotide KI466 for AAV titering primer: GCGGATCCAGACATGATAAG"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "Ikegami lab ID: KI466 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DNA oligonucleotide KI467 for AAV titering primer: GCCTATAGTGAGTCGTATTAAG"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "Ikegami lab ID: KI467 "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Recombinant DNA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pAAV:cTNT::Luciferase "
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene "
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene plasmid #69915"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pAAV:cTNT::GFP-GS linker "
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "Ikegami lab ID: bAE263_1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pAAV:cTNT::GFP-icGAS "
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "Ikegami lab ID: bAE299_1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pAAV:cTNT::cGAS "
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "Ikegami lab ID: bAE299_3"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pLJM1-EGFP "
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene "
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene plasmid #19319"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Software and algorithms"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ImageJ"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      },
+      {
+        "colspan": 1,
+        "content": "https://imagej.net/ij/"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NIS Elements"
+      },
+      {
+        "colspan": 1,
+        "content": "Nikon Instruments Inc."
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:SCR_014329"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Odyssey CLx Imaging System "
+      },
+      {
+        "colspan": 1,
+        "content": "LI-COR Biosciences "
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.licor.com /bio/odyssey-dlx/"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CellProfiler "
+      },
+      {
+        "colspan": 1,
+        "content": "Broad Institute "
+      },
+      {
+        "colspan": 1,
+        "content": "https://cellprofiler.org /"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Other"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bio-Rad CFX96 Real-Time PCR Detection System"
+      },
+      {
+        "colspan": 1,
+        "content": "Bio-Rad"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:SCR_018064"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Yokogawa CSU-W1 Sora spinning disk confocal microscope    "
+      },
+      {
+        "colspan": 1,
+        "content": "Nikon Instruments Inc.    "
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.microsco pe.healthcare.nikon.co m/products/confocal- microscopes/csu- series/csu-w1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Nikon A1R laser-scanning confocal microscope"
+      },
+      {
+        "colspan": 1,
+        "content": "Nikon Instruments Inc."
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:SCR_020317"
+      }
+    ]
+  ]
+}

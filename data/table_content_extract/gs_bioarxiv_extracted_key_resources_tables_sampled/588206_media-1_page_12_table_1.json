@@ -1,0 +1,689 @@
+{
+  "name": "588206_media-1_page_12_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Name of gene "
+      },
+      {
+        "colspan": 1,
+        "content": "Primers 5\u2019-3\u2019  "
+      },
+      {
+        "colspan": 1,
+        "content": "Tm (\u00b0C)  "
+      },
+      {
+        "colspan": 1,
+        "content": "Primer length (base)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "perforin"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: GATGTGAACCCTAGGCCAGA"
+      },
+      {
+        "colspan": 1,
+        "content": "59"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: GGTTTTTGTACCAGGCGAAA"
+      },
+      {
+        "colspan": 1,
+        "content": "55"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "granzyme b"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: TCGACCCTACATGGCCTTAC"
+      },
+      {
+        "colspan": 1,
+        "content": "59"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: TGGGGAATGCATTTTACCAT"
+      },
+      {
+        "colspan": 1,
+        "content": "53"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ifng"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: GGTGACATGAAAATCCTGCAGAGC"
+      },
+      {
+        "colspan": 1,
+        "content": "58"
+      },
+      {
+        "colspan": 1,
+        "content": "24"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: TCAGCAGCGAGTGATTTTCCGCTT"
+      },
+      {
+        "colspan": 1,
+        "content": "61"
+      },
+      {
+        "colspan": 1,
+        "content": "24"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "il-2"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: GCAGGCCACAGAATTGAAAG"
+      },
+      {
+        "colspan": 1,
+        "content": "57"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: TCCACCACAGTTGCTGACTC"
+      },
+      {
+        "colspan": 1,
+        "content": "59"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "b-actin"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: CAACCGTGAAAAGATGACCC"
+      },
+      {
+        "colspan": 1,
+        "content": "57"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: ATGAGGTAGTCTGTCAGGTC"
+      },
+      {
+        "colspan": 1,
+        "content": "57"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "glut 1"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: CAGGTGTTTGGCTTAGACTC"
+      },
+      {
+        "colspan": 1,
+        "content": "57"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: GGATCAGATGCAAAGCTTTC"
+      },
+      {
+        "colspan": 1,
+        "content": "57"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "g-6-pd"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: GGCCAGTTTCTATGAGGAGTATG"
+      },
+      {
+        "colspan": 1,
+        "content": "65"
+      },
+      {
+        "colspan": 1,
+        "content": "23"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: GCTGATGTTGAGAGGCAGTT"
+      },
+      {
+        "colspan": 1,
+        "content": "65"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pkm 2"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: ACTGGCATCATTTGTACCAT"
+      },
+      {
+        "colspan": 1,
+        "content": "54"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: GGATCAGATGCAAAGCTTTC"
+      },
+      {
+        "colspan": 1,
+        "content": "55"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ldh a"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: CCTGAAGTCTCTTAACCCAG"
+      },
+      {
+        "colspan": 1,
+        "content": "54"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: CCGCCTAAGGTTCTTCATTA"
+      },
+      {
+        "colspan": 1,
+        "content": "54"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pcx 1"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: GTAAAGACCAACATCCCCTT"
+      },
+      {
+        "colspan": 1,
+        "content": "54"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: ATGACATGTCCGAGGTAATG"
+      },
+      {
+        "colspan": 1,
+        "content": "54"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pdk 1"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: CTCCTTATTGTTCGGTGGAA"
+      },
+      {
+        "colspan": 1,
+        "content": "55"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: TTGTATTGTCTGTCCTGGTG"
+      },
+      {
+        "colspan": 1,
+        "content": "54"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pdk 3"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: AACTCTCGTTACTCTGGGTA"
+      },
+      {
+        "colspan": 1,
+        "content": "54"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: TACAGACGAGAAATTGGCAA"
+      },
+      {
+        "colspan": 1,
+        "content": "55"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "idh 1"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: GTGGAGATGCAAGGAGATGAA"
+      },
+      {
+        "colspan": 1,
+        "content": "64"
+      },
+      {
+        "colspan": 1,
+        "content": "21"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: ATGCAGATCCAGTTCCACATAG"
+      },
+      {
+        "colspan": 1,
+        "content": "64"
+      },
+      {
+        "colspan": 1,
+        "content": "22"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "idh 2"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: AACACCGACGAGTCCATTTC"
+      },
+      {
+        "colspan": 1,
+        "content": "65"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: TCAAGTAGAGCGGCCATTTC"
+      },
+      {
+        "colspan": 1,
+        "content": "65"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "fh 1"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: TGCTGAAGTAAACCAGGAGTATG"
+      },
+      {
+        "colspan": 1,
+        "content": "64"
+      },
+      {
+        "colspan": 1,
+        "content": "23"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: CCAAACCACCAGAGGAAAGT"
+      },
+      {
+        "colspan": 1,
+        "content": "65"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "igf 1"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: TCTGAGGAGACTGGAGATGT"
+      },
+      {
+        "colspan": 1,
+        "content": "54"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: TAGGTCTTGTTTCCTGCACT"
+      },
+      {
+        "colspan": 1,
+        "content": "55"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "igf 1R"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: GAGATGACCAATCTCAAGGA"
+      },
+      {
+        "colspan": 1,
+        "content": "55"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: CTTGTTCCCCACAATGTAGT"
+      },
+      {
+        "colspan": 1,
+        "content": "54"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "igf 2"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: GGCAAGTTCTTCCAATATGA"
+      },
+      {
+        "colspan": 1,
+        "content": "55"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse: CTTTGGGTGGTAACACGAT"
+      },
+      {
+        "colspan": 1,
+        "content": "55"
+      },
+      {
+        "colspan": 1,
+        "content": "19"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "insulin R"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: ATACCATGAATTCCAGCAAC Reverse: ATGTTGATGATCAGGCTACC"
+      },
+      {
+        "colspan": 1,
+        "content": "54 54"
+      },
+      {
+        "colspan": 1,
+        "content": "20 20"
+      }
+    ]
+  ]
+}

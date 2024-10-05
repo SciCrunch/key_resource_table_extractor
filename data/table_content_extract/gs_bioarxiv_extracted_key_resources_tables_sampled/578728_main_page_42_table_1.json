@@ -1,0 +1,381 @@
+{
+  "name": "578728_main_page_42_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "ShScr  "
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- GCTTCCCACCGAC ACTGAT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "IDT  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ShRbfx1  "
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- CAGCCCCCACCTA CGGCGTTG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "IDT  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ShRbfx2  "
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- AAGCGACTACATG TCTCTAAT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "IDT  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ShmVcl1  "
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- CGGTCAACCAGC CCATTCT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "IDT  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ShmVcl2  "
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- CGGCTCAGTCCTT GCATCG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "IDT  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Primers used for RT-qPCR, Crosslink-RIP, ChIP were given in Table  S2"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript "
+      },
+      {
+        "colspan": 1,
+        "content": "IDT, Macrogen "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Recombinant DNA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pBABE-Puro "
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#21836 RRID: Addgene_21836"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pBABE-Rbfox1"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pBABE-Wnt7b"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pCDNA4-GFP-Metavinculin "
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#107151 RRID: Addgene_107151"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pEGFP-Rbfox1 "
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#63085 RRID: Addgene_63085"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pEGFP-Rbfox2 "
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#63086 RRID: Addgene_63086"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pGEX-6P-1 "
+      },
+      {
+        "colspan": 1,
+        "content": "Merck "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#GE28-9546- 48"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pGEX-6P-1-Rbfox1"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pGEX-6P-1-Rbfox2"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pLKO.1TRC "
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#10879 RRID: Addgene_10879"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pLKO.1TRC-ShRbfx1"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pLKO.1TRC-ShRbfx2"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pLKO.1TRC-shScr"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pLSL-Puro "
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#51493 RRID: Addgene_51493"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pLSL-ShmVcl1"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pLSL-ShmVcl2"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pLSL-shScr"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMD20-Wnt7b"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Software and algorithms"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Adobe Photoshop CS8"
+      },
+      {
+        "colspan": 1,
+        "content": "www.adobe.com"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "edgeR"
+      },
+      {
+        "colspan": 1,
+        "content": "10.1093/bioinformatics/btp616"
+      },
+      {
+        "colspan": 1,
+        "content": "Robinson M et al. 110"
+      }
+    ]
+  ]
+}

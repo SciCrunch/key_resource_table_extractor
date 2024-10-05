@@ -1,0 +1,31 @@
+{
+  "headers": [],
+  "notes": "neoformans; SCHPO, S. pombe; TETTS, T. thermophila; STRPU, S. purpuratus; DROME, D. melanogaster; CAEEL, C. elegans; 9TELE, D. translucida; XENLA, X. laevis; AUXPR, A. protothecoides; CHLSO, C. sorokiniana; ORYSJ, O. sativa, subsp. japonica; ARATH, A. thaliana; TOBAC, N. tabacum; KLENI, K. nitens; CHABU, C. braunii; CERRI, C. richardii; MARPO, M. polymorpha; PHYPA, P. patens; EUKA, Planoprotostelium fungivorum; 9FUNG, Umbelopsis vinacea; SPOSA, Sporidiobolus salmonicolor; CAPO3, Capsaspora owczarzaki ; 9METZ, Trichoplax sp. H2; TRISP, Trichinella spiralis; HELRO, Helobdella robusta; RAMVA, Ramazzottius varieornatus; 9ANNE, Dimorphilus gyrociliatus; BUGNE, Bugula neritina; SCHHA, Schistosoma",
+  "caption": "brucei; STYPI, S. pistillata; 9CHLO, Bathycoccus prasinos; YEAST, S. cerevisiae; EMENI, A. nidulans; 9GLOM, R. irregularis; DICDI, D. discoideum; CRYNV, C.",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "haematobium; SCHSO, Schistocephalus solidus; 9BILA, A. steineri; EUMVA, Eumeta"
+    }],
+    [{
+      "colspan": 1,
+      "content": "variegata; 9EUPU, Arion vulgaris; LINUN, Lingula unguis; ARAVE, Araneus"
+    }],
+    [{
+      "colspan": 1,
+      "content": "ventricosus; AMPQE, Amphimedon queenslandica; DANRE, D. rerio, (B) Simplified"
+    }],
+    [{
+      "colspan": 1,
+      "content": "cladogram showing the ancestry of REX1 and REX3 genes. (C) Structural overlay of"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Alphafold models for Rex3 from S. cerevisiae and Q9N5W0 from C. elegans. Domains"
+    }],
+    [{
+      "colspan": 1,
+      "content": "and termini are labelled."
+    }]
+  ]
+}

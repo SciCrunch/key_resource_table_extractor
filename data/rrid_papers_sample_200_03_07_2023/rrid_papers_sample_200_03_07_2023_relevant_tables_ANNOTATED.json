@@ -1,0 +1,1014 @@
+[
+  {
+    "paper": "2021_12_13_472456",
+    "doc": "main.pdf",
+    "pages": [
+      18
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2021_03_03_433762",
+    "doc": "main.pdf",
+    "pages": [
+      23,
+      24,
+      25
+    ],
+    "curation": [true, true, true]
+  },
+  {
+    "paper": "2022_09_04_506543",
+    "doc": "main.pdf",
+    "pages": [
+      35,
+      36
+    ],
+    "curation": [true, true]
+  },
+  {
+    "paper": "2022_10_28_514238",
+    "doc": "media-1.pdf",
+    "pages": [
+      1,
+      2
+    ],
+    "curation": [true, true],
+    "missedPages": [0]
+  },
+  {
+    "paper": "2022_10_28_514263",
+    "doc": "main.pdf",
+    "pages": [
+      51,
+      52
+    ],
+    "curation": [true, true],
+    "missedPages": [53]
+  },
+  {
+    "paper": "2021_04_13_439568",
+    "doc": "main.pdf",
+    "pages": [
+      18,
+      19
+    ],
+    "curation": [true, true]
+  },
+  {
+    "paper": "2022_02_11_480021",
+    "doc": "media-1.pdf",
+    "pages": [
+      2
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2020_06_16_153734",
+    "doc": "main.pdf",
+    "pages": [
+      23
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2021_02_25_432850",
+    "doc": "main.pdf",
+    "pages": [
+      36,
+      37
+    ],
+    "curation": [true, true],
+    "missedPages": [38, 39]
+  },
+  {
+    "paper": "2023_01_11_523603",
+    "doc": "main.pdf",
+    "pages": [
+      26,
+      27
+    ],
+    "curation": [true, true]
+  },
+  {
+    "paper": "2020_04_14_041863",
+    "doc": "main.pdf",
+    "pages": [
+      19
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2021_08_10_455866",
+    "doc": "main.pdf",
+    "pages": [
+      14,
+      15
+    ],
+    "curation": [true, true],
+    "missedPages": [16]
+  },
+  {
+    "paper": "2022_03_26_485892",
+    "doc": "main.pdf",
+    "pages": [
+      31
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2023_03_18_533289",
+    "doc": "main.pdf",
+    "pages": [
+      47
+    ],
+    "curation": [true],
+    "missedPages": [48, 49]
+  },
+  {
+    "paper": "2021_01_14_426740",
+    "doc": "main.pdf",
+    "pages": [
+      8
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2023_01_10_520700",
+    "doc": "main.pdf",
+    "pages": [
+      22,
+      23
+    ],
+    "curation": [false, false]
+  },
+  {
+    "paper": "235077",
+    "doc": "main.pdf",
+    "pages": [
+      7
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2021_06_19_449094",
+    "doc": "main.pdf",
+    "pages": [
+      8
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2022_10_21_513179",
+    "doc": "main.pdf",
+    "pages": [
+      21
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2020_06_23_164772",
+    "doc": "main.pdf",
+    "pages": [
+      25
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2022_08_23_504970",
+    "doc": "main.pdf",
+    "pages": [
+      43
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2021_08_19_457009",
+    "doc": "main.pdf",
+    "pages": [
+      17,
+      20
+    ],
+    "curation": [true, true]
+  },
+  {
+    "paper": "2020_08_28_271643",
+    "doc": "main.pdf",
+    "pages": [
+      21,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ],
+    "curation": [false, true, true, true, true, true, true, true, true, true],
+    "missedPages": [57, 58, 59]
+  },
+  {
+    "paper": "2022_11_22_517560",
+    "doc": "main.pdf",
+    "pages": [
+      72
+    ],
+    "curation": [true],
+    "missedPages": [54, 55, 56, 57, 64, 70, 71]
+  },
+  {
+    "paper": "2020_12_30_424719",
+    "doc": "main.pdf",
+    "pages": [
+      30,
+      31
+    ],
+    "curation": [true, true]
+  },
+  {
+    "paper": "2021_05_17_444584",
+    "doc": "main.pdf",
+    "pages": [
+      11
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2022_09_26_509559",
+    "doc": "main.pdf",
+    "pages": [
+      49,
+      50
+    ],
+    "curation": [false, false]
+  },
+  {
+    "paper": "2021_09_10_459864",
+    "doc": "main.pdf",
+    "pages": [
+      14
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2020_10_08_330258",
+    "doc": "main.pdf",
+    "pages": [
+      31,
+      33,
+      34
+    ],
+    "curation": [true, true, true],
+    "missedPages": [32]
+  },
+  {
+    "paper": "2020_05_21_108209",
+    "doc": "main.pdf",
+    "pages": [
+      4
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2022_07_06_499030",
+    "doc": "main.pdf",
+    "pages": [
+      22,
+      23,
+      24
+    ],
+    "curation": [true, true, true]
+  },
+  {
+    "paper": "2021_05_06_443028",
+    "doc": "main.pdf",
+    "pages": [
+      13,
+      14
+    ],
+    "curation": [false, false]
+  },
+  {
+    "paper": "2020_12_04_411702",
+    "doc": "main.pdf",
+    "pages": [
+      28,
+      29,
+      30,
+      32
+    ],
+    "curation": [true, true, true, true],
+    "missedPages": [31]
+  },
+  {
+    "paper": "617936",
+    "doc": "main.pdf",
+    "pages": [
+      10,
+      11
+    ],
+    "curation": [true, true]
+  },
+  {
+    "paper": "2020_12_30_424871",
+    "doc": "main.pdf",
+    "pages": [
+      40,
+      41,
+      42
+    ],
+    "curation": [true, true, true]
+  },
+  {
+    "paper": "2021_05_03_442497",
+    "doc": "main.pdf",
+    "pages": [
+      15
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2022_09_22_509008",
+    "doc": "main.pdf",
+    "pages": [
+      19,
+      20,
+      21,
+      22,
+      28,
+      31
+    ],
+    "curation": [true, true, true, true, false, false]
+  },
+  {
+    "paper": "2023_01_26_525770",
+    "doc": "main.pdf",
+    "pages": [
+      38
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2022_05_12_491616",
+    "doc": "main.pdf",
+    "pages": [
+      7
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2022_01_04_474811",
+    "doc": "main.pdf",
+    "pages": [
+      10
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2021_10_22_465391",
+    "doc": "media-2.pdf",
+    "pages": [
+      4
+    ],
+    "curation": [true],
+    "missedPages": [3, 5]
+  },
+  {
+    "paper": "2021_10_28_466278",
+    "doc": "main.pdf",
+    "pages": [
+      12
+    ],
+    "curation": [true],
+    "missedPages": [13]
+  },
+  {
+    "paper": "2020_11_23_394098",
+    "doc": "main.pdf",
+    "pages": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "curation": [true, true, true, true],
+    "missedPages": [22]
+  },
+  {
+    "paper": "2021_11_06_467164",
+    "doc": "main.pdf",
+    "pages": [
+      19,
+      26,
+      27
+    ],
+    "curation": [false, true, true],
+    "missedPages": [28, 29]
+  },
+  {
+    "paper": "2020_10_13_337915",
+    "doc": "main.pdf",
+    "pages": [
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "curation": [true, true, true, true, true]
+  },
+  {
+    "paper": "2022_05_23_493014",
+    "doc": "main.pdf",
+    "pages": [
+      13
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2021_09_08_459408",
+    "doc": "main.pdf",
+    "pages": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "curation": [true, true, true, true, true, true,true],
+    "missedPages": [35]
+  },
+  {
+    "paper": "2021_01_20_427456",
+    "doc": "main.pdf",
+    "pages": [
+      47,
+      48,
+      49,
+      50
+    ],
+    "curation": [true, true, true, true],
+    "missedPages": [43,44,45,46]
+  },
+  {
+    "paper": "2020_03_09_982827",
+    "doc": "main.pdf",
+    "pages": [
+      22
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2020_03_09_982827",
+    "doc": "media-2.pdf",
+    "pages": [
+      10,
+      11,
+      12
+    ],
+    "curation": [true, true, true]
+  },
+  {
+    "paper": "2023_03_27_534420",
+    "doc": "main.pdf",
+    "pages": [
+      17
+    ],
+    "curation": [true],
+    "missedPages": [16]
+  },
+  {
+    "paper": "2023_02_07_527545",
+    "doc": "main.pdf",
+    "pages": [
+      28,
+      29
+    ],
+    "curation": [true, true]
+  },
+  {
+    "paper": "2021_03_22_436455",
+    "doc": "main.pdf",
+    "pages": [
+      16
+    ],
+    "curation": [true],
+    "missedPages": [15,17]
+  },
+  {
+    "paper": "2021_10_27_466115",
+    "doc": "main.pdf",
+    "pages": [
+      35
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2021_12_07_471546",
+    "doc": "main.pdf",
+    "pages": [
+      32,
+      33
+    ],
+    "curation": [true, true, true]
+  },
+  {
+    "paper": "2022_09_20_508671",
+    "doc": "main.pdf",
+    "pages": [
+      51,
+      55
+    ],
+    "curation": [true, true],
+    "missedPages": [52, 53, 54, 56]
+  },
+  {
+    "paper": "2020_03_23_003038",
+    "doc": "main.pdf",
+    "pages": [
+      14,
+      15
+    ],
+    "curation": [true, true]
+  },
+  {
+    "paper": "2021_12_07_471547",
+    "doc": "main.pdf",
+    "pages": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      22
+    ],
+    "curation": [true, true, true, true, true, false]
+  },
+  {
+    "paper": "2023_01_08_523169",
+    "doc": "main.pdf",
+    "pages": [
+      16
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2021_10_03_462942",
+    "doc": "main.pdf",
+    "pages": [
+      21,
+      22,
+      23
+    ],
+    "curation": [true, true, true]
+  },
+  {
+    "paper": "2021_12_16_466282",
+    "doc": "main.pdf",
+    "pages": [
+      78
+    ],
+    "curation": [true],
+    "missedPages": [76, 77, 79, 80]
+  },
+  {
+    "paper": "2021_12_13_472491",
+    "doc": "main.pdf",
+    "pages": [
+      20,
+      21
+    ],
+    "curation": [false, true]
+  },
+  {
+    "paper": "2021_08_05_455281",
+    "doc": "main.pdf",
+    "pages": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "curation": [true, true, true, true]
+  },
+  {
+    "paper": "2020_06_02_130419",
+    "doc": "main.pdf",
+    "pages": [
+      10
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2022_10_14_512328",
+    "doc": "main.pdf",
+    "pages": [
+      29
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "793133",
+    "doc": "media-1.pdf",
+    "pages": [
+      0
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2022_02_03_478982",
+    "doc": "main.pdf",
+    "pages": [
+      42
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2022_04_13_488131",
+    "doc": "main.pdf",
+    "pages": [
+      19
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2021_06_24_446972",
+    "doc": "main.pdf",
+    "pages": [
+      23
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2020_11_07_355651",
+    "doc": "main.pdf",
+    "pages": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "curation": [true, true, true, true, true, true, true, true, true]
+  },
+  {
+    "paper": "2021_10_01_462773",
+    "doc": "main.pdf",
+    "pages": [
+      21,
+      22
+    ],
+    "curation": [true, true],
+    "missedPages": [23]
+  },
+  {
+    "paper": "2023_01_23_524173",
+    "doc": "main.pdf",
+    "pages": [
+      13,
+      16
+    ],
+    "curation": [true, true],
+    "missedPages": [14, 15, 17]
+  },
+  {
+    "paper": "2022_09_01_506229",
+    "doc": "media-1.pdf",
+    "pages": [
+      1
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2022_09_01_506229",
+    "doc": "main.pdf",
+    "pages": [
+      3
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2022_03_13_484186",
+    "doc": "media-1.pdf",
+    "pages": [
+      24
+    ],
+    "curation": [true],
+    "missedPages": [18, 19, 21, 22, 23]
+  },
+  {
+    "paper": "2022_10_25_513532",
+    "doc": "media-1.pdf",
+    "pages": [
+      8
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2022_10_25_513532",
+    "doc": "main.pdf",
+    "pages": [
+      20
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2022_06_29_497712",
+    "doc": "main.pdf",
+    "pages": [
+      25,
+      26
+    ],
+    "curation": [true, true]
+  },
+  {
+    "paper": "2020_11_29_402800",
+    "doc": "main.pdf",
+    "pages": [
+      32,
+      33,
+      35,
+      36
+    ],
+    "curation": [true, true, true, true],
+    "missedPages": [31, 34, 37, 38, 39]
+  },
+  {
+    "paper": "2020_08_14_251553",
+    "doc": "main.pdf",
+    "pages": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "curation": [true, true, true, true],
+    "missedPages": [41, 42, 43, 44, 45, 46, 47, 48, 49, 54, 55]
+  },
+  {
+    "paper": "2021_02_23_431880",
+    "doc": "main.pdf",
+    "pages": [
+      21
+    ],
+    "curation": [false],
+    "missedPages": [28]
+  },
+  {
+    "paper": "2021_11_21_469466",
+    "doc": "main.pdf",
+    "pages": [
+      43
+    ],
+    "curation": [false]
+  },
+  {
+    "paper": "2020_12_16_423051",
+    "doc": "main.pdf",
+    "pages": [
+      19,
+      51,
+      52,
+      53
+    ],
+    "curation": [false, true, true, true]
+  },
+  {
+    "paper": "2021_05_10_443439",
+    "doc": "main.pdf",
+    "pages": [
+      29
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2022_05_12_491704",
+    "doc": "main.pdf",
+    "pages": [
+      47
+    ],
+    "curation": [true],
+    "missedPages": [48, 50, 51, 52]
+  },
+  {
+    "paper": "2021_01_25_428167",
+    "doc": "main.pdf",
+    "pages": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "curation": [true, true, true, true],
+    "missedPages": [69, 70]
+  },
+  {
+    "paper": "2020_11_03_366815",
+    "doc": "main.pdf",
+    "pages": [
+      15,
+      33
+    ],
+    "curation": [true, true],
+    "missedPages": [14, 30, 31, 32]
+  },
+  {
+    "paper": "534750",
+    "doc": "main.pdf",
+    "pages": [
+      25,
+      26,
+      27
+    ],
+    "curation": [true, true, true]
+  },
+  {
+    "paper": "2021_07_14_452351",
+    "doc": "main.pdf",
+    "pages": [
+      11
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2020_12_01_405720",
+    "doc": "main.pdf",
+    "pages": [
+      15,
+      16
+    ],
+    "curation": [true, true]
+  },
+  {
+    "paper": "2023_03_03_530973",
+    "doc": "main.pdf",
+    "pages": [
+      40,
+      41
+    ],
+    "curation": [true, true],
+    "missedPages": [36, 37, 38, 39]
+  },
+  {
+    "paper": "2022_05_24_493096",
+    "doc": "main.pdf",
+    "pages": [
+      14,
+      15
+    ],
+    "curation": [true, true],
+    "missedPages": [16]
+  },
+  {
+    "paper": "2021_03_22_436337",
+    "doc": "main.pdf",
+    "pages": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "curation": [true, true, true, true, true, true, true, true, true, true],
+    "missedPages": [36]
+  },
+  {
+    "paper": "2022_10_21_513301",
+    "doc": "main.pdf",
+    "pages": [
+      37
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2021_08_05_455250",
+    "doc": "main.pdf",
+    "pages": [
+      49,
+      50
+    ],
+    "curation": [true, true],
+    "missedPages": [51]
+  },
+  {
+    "paper": "2021_06_17_448791",
+    "doc": "main.pdf",
+    "pages": [
+      16,
+      17,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "curation": [true, false, true, true, true, true, true, true],
+    "missedPages": [15]
+  },
+  {
+    "paper": "2022_05_31_494260",
+    "doc": "main.pdf",
+    "pages": [
+      19
+    ],
+    "curation": [true]
+  },
+  {
+    "paper": "2020_10_07_330407",
+    "doc": "main.pdf",
+    "pages": [
+      53,
+      54,
+      55,
+      57,
+      59
+    ],
+    "curation": [true, true, true, true, true],
+    "missedPages": [56, 58]
+  },
+  {
+    "paper": "2021_03_12_435139",
+    "doc": "main.pdf",
+    "pages": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "curation": [true, true, true, true, true]
+  },
+  {
+    "paper": "2020_07_15_204677",
+    "doc": "main.pdf",
+    "pages": [
+      5,
+      10
+    ],
+    "curation": [true, true],
+    "missedPages": [48]
+  },
+  {
+    "paper": "2021_04_20_440597",
+    "doc": "main.pdf",
+    "pages": [
+      31
+    ],
+    "curation": [true],
+    "missedPages": [30, 32]
+  },
+  {
+    "paper": "2021_03_03_433772",
+    "doc": "main.pdf",
+    "pages": [
+      9,
+      10,
+      45,
+      46
+    ],
+    "curation": [true, true, true, true],
+    "missedPages": [47]
+  },
+  {
+    "paper": "700377",
+    "doc": "main.pdf",
+    "pages": [
+      23,
+      24
+    ],
+    "curation": [false, false]
+  },
+  {
+    "paper": "2023_04_18_537282",
+    "doc": "main.pdf",
+    "pages": [
+      27,
+      28,
+      29
+    ],
+    "curation": [true, true, true]
+  },
+  {
+    "paper": "2021_11_03_467179",
+    "doc": "main.pdf",
+    "pages": [
+      16
+    ],
+    "curation": [true],
+    "missedPages": [17, 18]
+  }
+]

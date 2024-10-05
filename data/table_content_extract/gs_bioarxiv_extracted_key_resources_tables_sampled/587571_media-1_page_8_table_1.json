@@ -1,0 +1,159 @@
+{
+  "name": "587571_media-1_page_8_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Primer type"
+      },
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Sequence"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Cyp26a1 gRNA105 sense"
+      },
+      {
+        "colspan": 1,
+        "content": "CACCGGAGGGCGCAGCTGCGATCG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Cyp26a1 gRNA105 antisense"
+      },
+      {
+        "colspan": 1,
+        "content": "AAACCGATCGCAGCTGCGCCCTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CRISPR/Cas9"
+      },
+      {
+        "colspan": 1,
+        "content": "Cyp26a1 gRNA170 sense"
+      },
+      {
+        "colspan": 1,
+        "content": "CACCGCGCGTCGGTGCGCACCATCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Gene Inactivation"
+      },
+      {
+        "colspan": 1,
+        "content": "Cyp26a1 gRNA170 antisense"
+      },
+      {
+        "colspan": 1,
+        "content": "AAACGGATGGTGCGCACCGACGCGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Cyp26a1_screen_PCR_up"
+      },
+      {
+        "colspan": 1,
+        "content": "GCTCTGCACCTTCGTGCT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Cyp26a1_screen_PCR_dw"
+      },
+      {
+        "colspan": 1,
+        "content": "GAATCGTGCAGGTTGGAGAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "TDG non-recombined_locus_up"
+      },
+      {
+        "colspan": 1,
+        "content": "AGCCCCACTTGGGTAAGACT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "TDG non-recombined locus_dw"
+      },
+      {
+        "colspan": 1,
+        "content": "ACACTTACCCGTGCGTTAGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "TDG recombined locus_up"
+      },
+      {
+        "colspan": 1,
+        "content": "GCCTGAAGAACGAGATCAGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "TDG recombined locus_dw"
+      },
+      {
+        "colspan": 1,
+        "content": "CAAACCCCTCTGAAAGTTGG"
+      }
+    ]
+  ]
+}

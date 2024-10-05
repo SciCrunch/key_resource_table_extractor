@@ -1,0 +1,46 @@
+{
+  "job_id": 112,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_587299_media-1",
+  "pdf_file": "587299_media-1.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Reagent or Resource",
+                "Source",
+                "Identifier"
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Donkey anti\u2010rat biotin, 0.75 mg/mL (1:200)",
+                "Thermo Fisher Scientific",
+                "A18749"
+              ],
+              [
+                "Streptavidin AF555 conjugate, 0.67 mg/mL (1:200)",
+                "Thermo Fisher Scientific",
+                "S32355"
+              ],
+              [
+                "Trizma base",
+                "Sigma Aldrich",
+                "T6066\u20101KG"
+              ]
+            ]
+          }
+        ],
+        "page": 10
+      }
+    ]
+  }
+}

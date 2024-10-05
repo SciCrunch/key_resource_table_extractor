@@ -1,0 +1,26 @@
+{
+  "headers": [],
+  "notes": ", 168.8 (C, C-14). UPLC-MS: Rt 2.11 (>99%) MS (ESI) + : 339.1 [M+H] + . \u2022 2",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "Obtained as white solid in 49% yield. 1 H-NMR (CDCl3), δ: 2.41 (s, 3H, H-7), 3.02 (d,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "J=4.8 Hz, 3H, H-15), 6.17 (bs, 1H, NH), 7.02-7.05 (m, 1H, H-aromatic), 7.34-7.37 (m,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "1H, H-aromatic), 7.40 (dd, J1= 7.8 Hz, J2= 1.0 Hz, 1H, H-aromatic), 7.45 (s, 1H, H-4),"
+    }],
+    [{
+      "colspan": 1,
+      "content": "7.54-7.57 (m, 1H, H-aromatic), 8.05 (s, 1H, H-1), 11.37 (bs, 1H, NH). 13 C-NMR (CDCl3),"
+    }],
+    [{
+      "colspan": 1,
+      "content": "δ 19.6 (CH3), 26.8 (CH3"
+    }]
+  ]
+}

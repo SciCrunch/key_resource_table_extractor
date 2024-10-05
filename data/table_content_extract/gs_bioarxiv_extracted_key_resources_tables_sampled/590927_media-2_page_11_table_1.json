@@ -1,0 +1,61 @@
+{
+  "name": "590927_media-2_page_11_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Primers for TAL1 and"
+      },
+      {
+        "colspan": 1,
+        "content": "LMO1 constructions"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TAL1  transgene"
+      },
+      {
+        "colspan": 1,
+        "content": " 5\u2019-CACAGGGTCCTTGCCAGTC-3\u2019 "
+      },
+      {
+        "colspan": 1,
+        "content": " 5\u2019-CTACCCTGCAAACAGACCTC-3\u2019 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " LMO1   transgene"
+      },
+      {
+        "colspan": 1,
+        "content": "  5\u2019-CGGGATCCGAGATGATGGTGCTGG-3\u2019  "
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-CCCAAGCTTACTGAACTTGGCATTCAAAGG-3\u2019"
+      }
+    ]
+  ]
+}

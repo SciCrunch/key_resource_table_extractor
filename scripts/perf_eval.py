@@ -1,12 +1,12 @@
-import os.path
 import json
 from pathlib import Path
 from typing import Union
 from pydantic import BaseModel
 
+from pg_config import get_work_dir
 
-HOME = os.path.expanduser('~')
-WD = os.path.join(HOME, "dev/java/pdf_table_extractor")
+
+WD = get_work_dir()
 
 
 class RelTablePaperInfo(BaseModel):
@@ -45,8 +45,8 @@ def show_perf(_rtpi_list):
             fn += len(rtpi.missedPages)
     precision = tp / (tp + fp)
     recall = tp / (tp + fn)
-    F1 = 2 * (precision * recall / (precision + recall))
-    print(f"Precision: {precision:.2f} Recall: {recall:.2f} F1: {F1:.2f}")
+    f1 = 2 * (precision * recall / (precision + recall))
+    print(f"Precision: {precision:.2f} Recall: {recall:.2f} F1: {f1:.2f}")
 
 
 def prep_paper_list_4annot(_rtpi_list, _out_file):
@@ -63,7 +63,7 @@ def prep_paper_list_4annot(_rtpi_list, _out_file):
         if has_error:
             paper_lst.append(rtpi.paper + "/" + rtpi.doc)
     if _out_file:
-        with open(_out_file , 'w') as f:
+        with open(_out_file, 'w') as f:
             for p in paper_lst:
                 f.write(p + "\n")
         print(f"wrote {_out_file}")
@@ -80,7 +80,3 @@ if __name__ == '__main__':
     for paper in papers:
         print(paper)
     show_perf(papers)
-    # prep_paper_list_4annot(papers, "/tmp/rrid_papers_sample_200_03_07_2023_papers_4annotate.txt")
-
-
-

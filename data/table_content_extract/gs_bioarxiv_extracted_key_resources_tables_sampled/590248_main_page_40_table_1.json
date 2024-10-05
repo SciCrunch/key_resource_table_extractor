@@ -1,0 +1,355 @@
+{
+  "name": "590248_main_page_40_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Strain"
+      },
+      {
+        "colspan": 1,
+        "content": "Genotype"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GR5"
+      },
+      {
+        "colspan": 1,
+        "content": "pyrG89; pyroA4; wA3"
+      },
+      {
+        "colspan": 1,
+        "content": "G.S. May"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ505 "
+      },
+      {
+        "colspan": 1,
+        "content": "\u2206hookA-AfpyrG; GFP-nudAHC; argB2::[argB*-alcAp::mCherry-RabA]; possibly pyrG89; possibly \u2206nkuA::argB; pyroA4; wA2"
+      },
+      {
+        "colspan": 1,
+        "content": "(Zhang et al., 2014)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ788 "
+      },
+      {
+        "colspan": 1,
+        "content": "Arp11-GFP-AfpyrG, argB2::[argB*-alcAp::mCherry-RabA]; \u2206nkuA::argB; pyrG89; pantoB100; yA2"
+      },
+      {
+        "colspan": 1,
+        "content": "(Qiu et al., 2020)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RQ2 "
+      },
+      {
+        "colspan": 1,
+        "content": "GFP-nudAHC; argB2::[argB*-alcAp::mCherry-RabA]; \u2206nkuA::argB; pyrG89; pyroA4; yA2"
+      },
+      {
+        "colspan": 1,
+        "content": "(Qiu et al., 2013)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RQ54 "
+      },
+      {
+        "colspan": 1,
+        "content": "argB2::[argB*-alcAp::mCherry-RabA]; \u2206nkuA::argB;  pyrG89; pyroA4; wA2"
+      },
+      {
+        "colspan": 1,
+        "content": "(Qiu et al., 2013)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RQ294 "
+      },
+      {
+        "colspan": 1,
+        "content": "GFP-nudAR1602E, K1645E; argB2::[argB\u2044-alcAp::mCherry-RabA]; \u2206nkuA::argB, pyroA4; yA2"
+      },
+      {
+        "colspan": 1,
+        "content": "(Qiu et al., 2019)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "XX222 "
+      },
+      {
+        "colspan": 1,
+        "content": "GFP-nudAHC; argB2::[argB*-alcAp::mCherry-RabA]; \u2206nkuA::argB; pantoB100; yA2"
+      },
+      {
+        "colspan": 1,
+        "content": "(Zhang et al., 2014)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "XY41 "
+      },
+      {
+        "colspan": 1,
+        "content": "p25-GFP-AfpyrG; \u2206nkuA::argB; pyrG89; pyroA4 "
+      },
+      {
+        "colspan": 1,
+        "content": "(Zhang et al., 2014)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "XY42 "
+      },
+      {
+        "colspan": 1,
+        "content": "argB2::[argB*-alcAp::mCherry-RabA]; \u2206nkuA::argB;  pyrG89; pantoB100; yA2"
+      },
+      {
+        "colspan": 1,
+        "content": "(Qiu et al., 2018)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "XY136 "
+      },
+      {
+        "colspan": 1,
+        "content": "\u2206vezA-AfpyrG; GFP-nudAHC; argB2::[argB*-alcAp::mCherry-RabA]; pyrG89; \u2206nkuA::argB; pyroA4; yA2"
+      },
+      {
+        "colspan": 1,
+        "content": "(Yao et al., 2015)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "XY163 "
+      },
+      {
+        "colspan": 1,
+        "content": "vezA-GFP-AfpyrG; argB2::[argB*-alcAp::mCherry-RabA];  pyrG89; \u2206nkuA::argB  pyroA4, wA2"
+      },
+      {
+        "colspan": 1,
+        "content": "(Yao et al., 2015)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "XY167 "
+      },
+      {
+        "colspan": 1,
+        "content": "\u2206TM-vezA-GFP-AfpyrG; argB2::[argB*- alcA(p)::mCherry-RabA; \u2206nkuA::argB; pyrG89; pyroA4; wA2"
+      },
+      {
+        "colspan": 1,
+        "content": "(Yao et al., 2015)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ704 "
+      },
+      {
+        "colspan": 1,
+        "content": "\u2206vezA-AfpyrG; p150-GFP-AfpyrG; argB2::[argB*-alcAp::mCherry- RabA]; pyrG89; \u2206nkuA::argB"
+      },
+      {
+        "colspan": 1,
+        "content": "This work "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ706 "
+      },
+      {
+        "colspan": 1,
+        "content": "p150-GFP-AfpyrG; argB2::[argB*-alcAp::mCherry-RabA]; pyrG89; \u2206nkuA::argB"
+      },
+      {
+        "colspan": 1,
+        "content": "This work "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ790 "
+      },
+      {
+        "colspan": 1,
+        "content": "p62-GFP-AfpyrG, argB2::[argB*-alcAp::mCherry-RabA]; \u2206nkuA::argB; pyrG89; pantoB100; yA2"
+      },
+      {
+        "colspan": 1,
+        "content": "This work "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ872 "
+      },
+      {
+        "colspan": 1,
+        "content": "gpdA-\u2206TM-vezA-GFP-AfpyrG; argB2::[argB*-alcAp::mCherry-RabA]; pyrG89; \u2206nkuA::argB; pantoB100; yA2"
+      },
+      {
+        "colspan": 1,
+        "content": "This work "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ942 "
+      },
+      {
+        "colspan": 1,
+        "content": "Arp11-GFP-AfpyrG; \u2206vezA-AfpyrG; argB2::[argB*-alcAp::mCherry- rabA]; \u2206nkuA::argB; pyrG89; yA2"
+      },
+      {
+        "colspan": 1,
+        "content": "This work "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ968 "
+      },
+      {
+        "colspan": 1,
+        "content": "p150-GFP-AfpyrG; \u2206vezA-AfpyrG;  \u2206hookA-AfpyrG;  argB2::[argB*- alcAp::mCherry-RabA]; \u2206nkuA::argB;  pyrG89"
+      },
+      {
+        "colspan": 1,
+        "content": "This work "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ971 "
+      },
+      {
+        "colspan": 1,
+        "content": "Arp11-GFP-AfpyrG; \u2206vezA-AfpyrG;  \u2206hookA-AfpyrG;  argB2::[argB*- alcAp::mCherry-RabA]; \u2206nkuA::argB;  pyrG89"
+      },
+      {
+        "colspan": 1,
+        "content": "This work "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ972 "
+      },
+      {
+        "colspan": 1,
+        "content": "p62-GFP-AfpyrG; \u2206vezA-AfpyrG;  \u2206hookA-AfpyrG;  argB2::[argB*- alcAp::mCherry-RabA]; \u2206nkuA::argB; pyrG89; yA2"
+      },
+      {
+        "colspan": 1,
+        "content": "This work "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ973 "
+      },
+      {
+        "colspan": 1,
+        "content": "p25-GFP-AfpyrG; \u2206hookA-AfpyrG;  argB2::[argB*-alcAp::mCherry- RabA]; \u2206nkuA::argB; pyrG89; yA2"
+      },
+      {
+        "colspan": 1,
+        "content": "This work "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ974 "
+      },
+      {
+        "colspan": 1,
+        "content": "p25-GFP-AfpyrG; \u2206vezA-AfpyrG; argB2::[argB*-alcAp::mCherry- RabA]; \u2206nkuA::argB;  pyrG89"
+      },
+      {
+        "colspan": 1,
+        "content": "This work "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ975 "
+      },
+      {
+        "colspan": 1,
+        "content": "p25-GFP-AfpyrG; \u2206vezA-AfpyrG;  \u2206hookA-AfpyrG;  argB2::[argB*- alcAp::mCherry-RabA]; \u2206nkuA::argB;  pyrG89"
+      },
+      {
+        "colspan": 1,
+        "content": "This work "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "JZ976"
+      },
+      {
+        "colspan": 1,
+        "content": "p62-GFP-AfpyrG; \u2206hookA-AfpyrG;  argB2::[argB*-alcAp::mCherry-"
+      },
+      {
+        "colspan": 1,
+        "content": "This work"
+      }
+    ]
+  ]
+}

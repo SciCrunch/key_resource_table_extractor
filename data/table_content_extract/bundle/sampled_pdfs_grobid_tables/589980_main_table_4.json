@@ -1,0 +1,67 @@
+{
+  "headers": [],
+  "notes": "o Aliquot and store at -20 °C \u2022 APS solution (10% in Milli-Q water) o Aliquot and store at -20 °C \u2022 Monomer solution (sodium acrylate 19% wt/wt, acrylamide 10% v/v, BIS 0.1% v/v, in PBS) o WARNING: Monomer solution should be prepared and used in the fume hood. o o WARNING: SDS stock solution should be prepared in the fume hood due to the toxicity of powdered SDS. \u2022 NaCl stock solution (5 M) \u2022 Denaturation buffer (200 mM SDS, 200 mM NaCl, 50 mM Tris, pH 9, in water)",
+  "caption": "Monomer solution MUST be prepared at least 24 hours in advance and can be stored at -20 °C for up to 2 weeks.",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "o We typically make 900 µL of monomer solution as follows, and store as 10 x 90 µL aliquots"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(good for making 20 gels)"
+    }],
+    [{
+      "colspan": 1,
+      "content": " 500 µL 38 % wt/wt sodium acrylate solution"
+    }],
+    [{
+      "colspan": 1,
+      "content": " 250 µL acrylamide"
+    }],
+    [{
+      "colspan": 1,
+      "content": " 50 µL BIS"
+    }],
+    [{
+      "colspan": 1,
+      "content": " 100 µL 10x PBS"
+    }],
+    [{
+      "colspan": 1,
+      "content": "\u2022 SDS stock solution (350 mM in Milli-Q water)"
+    }],
+    [{
+      "colspan": 1,
+      "content": "\u2022 TWEEN-20 (Sigma cat no: P1379)"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Solutions"
+    }],
+    [{
+      "colspan": 1,
+      "content": "\u2022 Sodium acrylate solution (38% wt/wt in Milli-Q water)"
+    }],
+    [{
+      "colspan": 1,
+      "content": "o WARNING: sodium acrylate solution should be prepared and used in the fume hood due"
+    }],
+    [{
+      "colspan": 1,
+      "content": "to the toxicity of powdered sodium acrylate."
+    }],
+    [{
+      "colspan": 1,
+      "content": "\u2022 TEMED solution (10% in Milli-Q water)"
+    }],
+    [{
+      "colspan": 1,
+      "content": "o WARNING: TEMED Solution should be prepared and used in the fume hood due to the"
+    }],
+    [{
+      "colspan": 1,
+      "content": "toxicity of concentrated TEMED."
+    }]
+  ]
+}

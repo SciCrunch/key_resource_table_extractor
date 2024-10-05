@@ -1,0 +1,427 @@
+{
+  "name": "591481_main_page_22_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "KEY RESOURCES TABLE"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "REAGENT OR RESOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "SOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "IDENTIFIER"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Experimental organisms"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: C57BL/6J "
+      },
+      {
+        "colspan": 1,
+        "content": "Vital River Lab Animal Technology  (Zhejiang, China)"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 213 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: DCXDTR"
+      },
+      {
+        "colspan": 1,
+        "content": " Queensland Brain Institute"
+      },
+      {
+        "colspan": 1,
+        "content": " Refence 15"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: PV-Cre (B6.129P2-Pvalbtm1(cre)Arbr/J)"
+      },
+      {
+        "colspan": 1,
+        "content": "The Jackson Lab, USA  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 017320  "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-BrdU antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "Ab6326"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-DCX antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "Ab18723"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-GABA antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "A2052"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-GAD67 antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "Ab26116"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-TBR2 antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "Ab23345"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-PV antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "Ab181086"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Chemicals"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "5\u2019-Bromo-2\u2019-deoxyuridine (BrdU)"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "B5002"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Diphtheria Toxin (DT)"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "D0564"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Clozapine N-oxide (CNO)"
+      },
+      {
+        "colspan": 1,
+        "content": "MedChemExpress"
+      },
+      {
+        "colspan": 1,
+        "content": "HY-17366"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bicuculline"
+      },
+      {
+        "colspan": 1,
+        "content": "MedChemExpress"
+      },
+      {
+        "colspan": 1,
+        "content": "HY-N0219"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DAPI"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "Ab104139"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat serum"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "16210072"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Alexa Fluor\u2122 647-Hydrazide"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "A20502"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FITC-dextran (70kDa)"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "46945"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CNQX"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "C239"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "AP5"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "A8054"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Recombinant viral strains"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "rAAV2/9-hSyn-DIO-hM4D(Gi)- eGFP-WPRE-pA"
+      },
+      {
+        "colspan": 1,
+        "content": "Shanghai Taitool Bioscience Co.Ltd., China"
+      },
+      {
+        "colspan": 1,
+        "content": "S0286-9 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "rVSVG-Retrovirus-CAG936- eGFP-3xFlag-WRPE-pA"
+      },
+      {
+        "colspan": 1,
+        "content": "Shanghai Taitool Bioscience Co.Ltd., China"
+      },
+      {
+        "colspan": 1,
+        "content": "VSVG- R5010"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "rAAV2/9-hSyn-DIO-jGCaMP7f- WPRE-pA"
+      },
+      {
+        "colspan": 1,
+        "content": "Shanghai Taitool Bioscience Co.Ltd., China"
+      },
+      {
+        "colspan": 1,
+        "content": "S0588-9 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "rAAV2/9-CAG-DIO-taCaspase3- TEVp-WPRE-pA"
+      },
+      {
+        "colspan": 1,
+        "content": "Shanghai Taitool Bioscience Co.Ltd., China"
+      },
+      {
+        "colspan": 1,
+        "content": "S0236-9 "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Software and algorithms"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GraphPad Prism"
+      },
+      {
+        "colspan": 1,
+        "content": "Graphpad"
+      },
+      {
+        "colspan": 1,
+        "content": "Version 10"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ethovision XT"
+      },
+      {
+        "colspan": 1,
+        "content": "Noldus"
+      },
+      {
+        "colspan": 1,
+        "content": "Version 15"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FIJI"
+      },
+      {
+        "colspan": 1,
+        "content": "ImageJ"
+      },
+      {
+        "colspan": 1,
+        "content": "Version 1.54i"
+      }
+    ]
+  ]
+}

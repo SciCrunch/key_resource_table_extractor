@@ -1,0 +1,203 @@
+{
+  "name": "583283_main_page_5_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Reagent type (species) or resource"
+      },
+      {
+        "colspan": 1,
+        "content": " Designation "
+      },
+      {
+        "colspan": 1,
+        "content": "Source Or reference"
+      },
+      {
+        "colspan": 1,
+        "content": " Identifiers "
+      },
+      {
+        "colspan": 1,
+        "content": "Additional information "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Cell line (SKBR3)  "
+      },
+      {
+        "colspan": 1,
+        "content": " HER2+ breast cancer cell line  "
+      },
+      {
+        "colspan": 1,
+        "content": "  ATCC  "
+      },
+      {
+        "colspan": 1,
+        "content": "    "
+      },
+      {
+        "colspan": 1,
+        "content": "Cell line cultured in McCoy\u2019s 5A Culture medium supplemented with 10% FBS"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Cell line (MCF-7)  "
+      },
+      {
+        "colspan": 1,
+        "content": " ER+/PR+ breast cancer cell line "
+      },
+      {
+        "colspan": 1,
+        "content": "  ATCC  "
+      },
+      {
+        "colspan": 1,
+        "content": "    "
+      },
+      {
+        "colspan": 1,
+        "content": "Cell line cultured in DMEM high glucose Culture medium supplemented with 10% FBS"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Cell line (MDA-MB- 231)"
+      },
+      {
+        "colspan": 1,
+        "content": "Triple- negative breast cancer cell line "
+      },
+      {
+        "colspan": 1,
+        "content": " ATCC  "
+      },
+      {
+        "colspan": 1,
+        "content": "   "
+      },
+      {
+        "colspan": 1,
+        "content": "Cell line cultured in L-15 Culture medium supplemented with 10% FBS"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Transfected construct (human)"
+      },
+      {
+        "colspan": 1,
+        "content": "RGS10 shRNA#161,3 21,506"
+      },
+      {
+        "colspan": 1,
+        "content": "Syngentech Biotechnology "
+      },
+      {
+        "colspan": 1,
+        "content": "  "
+      },
+      {
+        "colspan": 1,
+        "content": "Lentiviral construct to transfect and express the shRNA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Transfected construct (human)"
+      },
+      {
+        "colspan": 1,
+        "content": "miRNA-539-5 p mimics and inhibitor"
+      },
+      {
+        "colspan": 1,
+        "content": "GenePharma Biotechnology "
+      },
+      {
+        "colspan": 1,
+        "content": "  "
+      },
+      {
+        "colspan": 1,
+        "content": "  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Antibody "
+      },
+      {
+        "colspan": 1,
+        "content": "Anti- RGS10 (rabbit monoclonal)"
+      },
+      {
+        "colspan": 1,
+        "content": " Abcam "
+      },
+      {
+        "colspan": 1,
+        "content": " Cat# ab154172"
+      },
+      {
+        "colspan": 1,
+        "content": " WB (1:250) IHC (1:50)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Antibody  "
+      },
+      {
+        "colspan": 1,
+        "content": "Anti- lipocalin-2 (rabbit monoclonal)"
+      },
+      {
+        "colspan": 1,
+        "content": " ABclonal  "
+      },
+      {
+        "colspan": 1,
+        "content": " Cat# A2092 "
+      },
+      {
+        "colspan": 1,
+        "content": " WB(1:1000) IHC (1:500) "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti- E-cadherin"
+      },
+      {
+        "colspan": 1,
+        "content": " Proteintech"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 20874-1-A"
+      },
+      {
+        "colspan": 1,
+        "content": "WB (1:1000) IHC (1:500)"
+      }
+    ]
+  ]
+}

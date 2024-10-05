@@ -1,0 +1,59 @@
+{
+  "name": "590990_main_page_56_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Strain"
+      },
+      {
+        "colspan": 1,
+        "content": "References"
+      },
+      {
+        "colspan": 1,
+        "content": "Source Information"
+      },
+      {
+        "colspan": 1,
+        "content": "Key Gene"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Hsd11b2-Cre    "
+      },
+      {
+        "colspan": 1,
+        "content": "(36)    "
+      },
+      {
+        "colspan": 1,
+        "content": "Jax 030545  http://www.informatics.jax.org/allele/key/871609"
+      },
+      {
+        "colspan": 1,
+        "content": "IRES-Cre-GFP inserted after the termination codon of Hsd11b2   "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "  Th-IRES-Cre "
+      },
+      {
+        "colspan": 1,
+        "content": "  (107) "
+      },
+      {
+        "colspan": 1,
+        "content": "  EMMA 00254  https://www.infrafrontier.eu/ "
+      },
+      {
+        "colspan": 1,
+        "content": "The Cre recombinase was cloned following an IRES sequence. An frt-flanked neomycin selection cassette was added, and the construct cloned in the 3' untranslated end of the tyrosine hydroxylase gene (as described by Althini et al., 2003, J Neurosci Res 72: 444-453)."
+      }
+    ]
+  ]
+}

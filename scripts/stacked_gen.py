@@ -2,6 +2,7 @@ import pickle
 import os.path
 import numpy as np
 import joblib
+import argparse
 from scipy.sparse import hstack
 from sklearn import svm
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -11,8 +12,6 @@ from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 from data_prep import load_stack_instances
 from pg_config import get_work_dir
 
-# HOME = os.path.expanduser('~')
-# WD = os.path.join(HOME, "dev/java/pdf_table_extractor")
 WD = get_work_dir()
 
 
@@ -135,6 +134,13 @@ def test_classifier():
 
 
 if __name__ == '__main__':
-    # do_bow_only_train()
-    do_train()
-    # test_classifier()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-c", required=True, metavar="<command one of [train, test, train-bow]>")
+    args = parser.parse_args()
+    cmd = args.c
+    if cmd == 'train':
+        do_train()
+    elif cmd == 'train-bow':
+        do_bow_only_train()
+    elif cmd == 'test':
+        test_classifier()

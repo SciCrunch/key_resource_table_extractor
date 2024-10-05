@@ -1,0 +1,314 @@
+{
+  "job_id": 49,
+  "job_status": "finished",
+  "paper_id": "587199_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "Resource Name / Sequence",
+                "Reference"
+              ],
+              [
+                "Plant fer-4",
+                "Duan et al.,"
+              ],
+              [
+                "material",
+                "2010"
+              ],
+              [
+                "Plant fer-4/pFER::FER-GFP",
+                "Duan et al.,"
+              ],
+              [
+                "material",
+                "2010"
+              ],
+              [
+                "Plant fer-4/p35S::FER\u2206MalA-YFP",
+                "Gronnier et"
+              ],
+              [
+                "material",
+                "al., 2022"
+              ],
+              [
+                "Plant Col-0/p35S::RALF23-GFP",
+                "Stegmann et"
+              ],
+              [
+                "material",
+                "al., 2017"
+              ],
+              [
+                "Plant llg1-2",
+                "Li et al., 2015"
+              ],
+              [
+                "material",
+                ""
+              ],
+              [
+                "Plant bak1-4",
+                "Chinchilla et"
+              ],
+              [
+                "material",
+                "al., 2007"
+              ],
+              [
+                "Plant bri1-301",
+                "Xu et al., 2008"
+              ],
+              [
+                "material",
+                ""
+              ],
+              [
+                "Plant fer-4/bak1-4",
+                "This study"
+              ],
+              [
+                "material",
+                ""
+              ],
+              [
+                "Plant fer-4/bri1-301",
+                "This study"
+              ],
+              [
+                "material",
+                ""
+              ],
+              [
+                "Plant Col-0/pBRI1::BRI1-GFP",
+                "Geldner et al.,"
+              ],
+              [
+                "material",
+                "2007"
+              ],
+              [
+                "Plant fer-4/pBRI1::BRI1-GFP",
+                "This study"
+              ],
+              [
+                "material",
+                ""
+              ],
+              [
+                "Primer CPD 5\u2019-CCCAAACCACTTCAAAGATGCT-3\u2019",
+                "Albrecht et al."
+              ],
+              [
+                "(AT5G05690)",
+                "2012."
+              ],
+              [
+                "forward",
+                ""
+              ],
+              [
+                "Primer CPD 5\u2019-GGGCCTGTCGTTACCGAGTT-3\u2019",
+                "Albrecht et al."
+              ],
+              [
+                "(AT5G05690)",
+                "2012."
+              ],
+              [
+                "reverse",
+                ""
+              ],
+              [
+                "Primer \u20185-CATAAAGCTCTTCAGTCACGA-3\u2019",
+                "Albrecht et al."
+              ],
+              [
+                "DWF4",
+                "2012."
+              ],
+              [
+                "(AT3G50660)",
+                ""
+              ],
+              [
+                "forward",
+                ""
+              ],
+              [
+                "Primer \u20185-CGTCTGTTCTTTGTTTCCTAA-3\u2019",
+                "Albrecht et al."
+              ],
+              [
+                "DWF4",
+                "2012."
+              ],
+              [
+                "(AT3G50660)",
+                ""
+              ],
+              [
+                "reverse",
+                ""
+              ],
+              [
+                "Primer U-\u20185-TGCGCTGCCAGATAATACACTATT-3\u2019",
+                "Albrecht et al."
+              ],
+              [
+                "BOX",
+                "2012."
+              ]
+            ]
+          }
+        ],
+        "page": 16
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "(AT5G15400)",
+                "",
+                ""
+              ],
+              [
+                "forward",
+                "",
+                ""
+              ],
+              [
+                "Primer U-",
+                "\u20185-TGCTGCCCAACATCAGGTT-3\u2019",
+                "Albrecht et al."
+              ],
+              [
+                "BOX",
+                "",
+                "2012."
+              ],
+              [
+                "(AT5G15400)",
+                "",
+                ""
+              ],
+              [
+                "reverse",
+                "",
+                ""
+              ],
+              [
+                "Hormone",
+                "epi-Brassinolide",
+                "Sigma, E1641"
+              ],
+              [
+                "Enzyme",
+                "Pectin methylesterase from orange peel",
+                "Sigma, P5400"
+              ],
+              [
+                "Primary-",
+                "LM20",
+                "Kerafast,"
+              ],
+              [
+                "Antibody",
+                "",
+                "ELD003"
+              ],
+              [
+                "Primary-",
+                "JIM5",
+                "Kerafast,"
+              ],
+              [
+                "Antibody",
+                "",
+                "ELD004"
+              ],
+              [
+                "Primary-",
+                "LM19",
+                "Absolute"
+              ],
+              [
+                "Antibody",
+                "",
+                "Antibody,"
+              ],
+              [
+                "",
+                "",
+                "AB02545-23.0"
+              ],
+              [
+                "Secondary-",
+                "anti-Rat-HRP",
+                "ThermoFischer"
+              ],
+              [
+                "Antibody",
+                "",
+                "Scientific,"
+              ],
+              [
+                "",
+                "",
+                "31470"
+              ],
+              [
+                "Secondary-",
+                "Anti-Rabbit-HRP",
+                "Sigma, A0545"
+              ],
+              [
+                "Antibody",
+                "",
+                ""
+              ],
+              [
+                "Synthetic",
+                "RALF23",
+                "Synpeptide"
+              ],
+              [
+                "peptide",
+                "(ATRRYISYGALRRNTIPCSRRGASYYNCRRGAQANPYSRGCSAITRCRRS)",
+                "95% purity"
+              ],
+              [
+                "Synthetic",
+                "RALF23n",
+                "Synpeptide"
+              ],
+              [
+                "peptide",
+                "(ATRRYISYGALRRNTIPCSAAGASYYNCAAGAQANPYSAGCSAITACAAS)",
+                "95% purity"
+              ]
+            ]
+          }
+        ],
+        "page": 17
+      }
+    ]
+  }
+}

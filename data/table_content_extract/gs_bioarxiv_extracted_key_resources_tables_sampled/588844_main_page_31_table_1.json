@@ -1,0 +1,347 @@
+{
+  "name": "588844_main_page_31_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Gene"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "Accession No."
+      },
+      {
+        "colspan": 1,
+        "content": "Size, bp"
+      }
+    ],
+    [
+      {
+        "colspan": 5,
+        "content": "<human>"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ACTB"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-GTAGCACAGCTTCTCCTTAATGTCA-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-CTGACTGACTACCTCATGAAGATCC-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_001101.3"
+      },
+      {
+        "colspan": 1,
+        "content": "102"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IL6"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-TATACCTCAAACTCCAAAAGACCAG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-ACAAGAGTAACATGTGTGAAAGCAG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_000600.4"
+      },
+      {
+        "colspan": 1,
+        "content": "157"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IL8"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-TCAGTGCATAAAGACATACTCCAAA-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-TCTTCCATCAGAAAGCTTTACAATAA-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_000584.4"
+      },
+      {
+        "colspan": 1,
+        "content": "121"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MCP1"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-CACCTGCTGTTATAACTTCACCAAT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-GTTGAAAGATGATAAGCCCACTCTA-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_002982.4"
+      },
+      {
+        "colspan": 1,
+        "content": "130"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TAB1"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-ATCCCTCAGTGCCAACTAAACC-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-GAAGATCCCAGTGCACAAGTCA-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_153497.3"
+      },
+      {
+        "colspan": 1,
+        "content": "137"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IRAK4"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-CGGAAATCTCTTTATCATCCGTGAG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-GCACATATGTTGATGGTGTTATGGG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_001351341.2"
+      },
+      {
+        "colspan": 1,
+        "content": "126"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RELA"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-TTCCAAGTTCCTATAGAAGAGCAGC-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-TCAAAGATGGGATGAGAAAGGACAG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_021975.4"
+      },
+      {
+        "colspan": 1,
+        "content": "134"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FSTL1"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-CCATGACCTGTGACGGAAAGAAT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-TTAGATCTCTTTGGTGCTCACTCT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_007085.5"
+      },
+      {
+        "colspan": 1,
+        "content": "137"
+      }
+    ],
+    [
+      {
+        "colspan": 5,
+        "content": "<rat>"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Actb"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-GTAAAGACCTCTATGCCAACACAGT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-GGAGCAATGATCTTGATCTTCATGG -3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_031144.3"
+      },
+      {
+        "colspan": 1,
+        "content": "127"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Il6"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-TAAGGACCAAGACCATCCAACTCAT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-AGTGAGGAATGTCCACAAACTGATA-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_012589.2"
+      },
+      {
+        "colspan": 1,
+        "content": "125"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mcp1"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-CTAAGGACTTCAGCACCTTTGAATG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-GTTCTCTGTCATACTGGTCACTTCT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_031530.1"
+      },
+      {
+        "colspan": 1,
+        "content": "120"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tab1"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-TAGTGTCTGCTTCTGTTAGATCCTG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-AATCAGCTTCCTCATCAGAGTGAAA-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_001109976.2"
+      },
+      {
+        "colspan": 1,
+        "content": "134"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Irak4"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-CTGAACGTGCTTTGTCTTTAACAAG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-GTTGAAATGAGCTCCGTACTAAGTG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_001106791. 2"
+      },
+      {
+        "colspan": 1,
+        "content": "121"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rela"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-CTTTCTCAAGTGCCTTAATAGCAGG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-TTCAGAGCTAGAAAGAGCAAGAGTC-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_199267.2"
+      },
+      {
+        "colspan": 1,
+        "content": "121"
+      }
+    ]
+  ]
+}

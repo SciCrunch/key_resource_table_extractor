@@ -1,0 +1,680 @@
+{
+  "paper_id": "587296_main",
+  "result": {
+    "pages": [
+      {
+        "page": 48,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Primary AB",
+                "Vendor or Source,\nCatalog #",
+                "Secondary AB",
+                "Vendor or\nSource, Catalog\n#"
+              ],
+              [
+                "Goat anti-SPARC",
+                "R&D Systems,\nAF942",
+                "Donkey-Anti-Goat IgG, AP",
+                "Promega, VII5A"
+              ],
+              [
+                "Mouse anti-\ndesmin",
+                "Thermo Fisher\nScientific, 14-9747-\n82",
+                "IRDye\u00ae 800CW Goat anti-\nMouse IgG",
+                "LICOR , 926-\n32210"
+              ],
+              [
+                "Mouse anti-Smad2",
+                "Thermo Fisher\nScientific, MA5-\n15112",
+                "IRDye\u00ae 800CW Goat anti-\nMouse IgG Secondary\nAntibod",
+                "LICOR , 926-\n32212"
+              ],
+              [
+                "Mouse anti-\nSPARC",
+                "Thermo Fisher\nScientific,\nMAI1-43027",
+                "IRDye\u00ae 800CW Goat anti-\nMouse IgG Secondary\nAntibod",
+                "LICOR , 926-\n32213"
+              ],
+              [
+                "Mouse anti-\nSmad2",
+                "Thermo Fisher\nScientific,\nMAS-15112",
+                "Anti-Mouse IgG (H+L) AP\nconj.",
+                "Promega, $372B"
+              ],
+              [
+                "Rabbit anti-\nSPARC",
+                "Thermo Fisher\nScientific,\nMAS-29821",
+                "IRDye\u00ae 800CW Goat anti-\nRabbit IgG Secondary\nAntibody",
+                "LICOR , 926-\n32211"
+              ],
+              [
+                "aDDIt antl-\nSPARC",
+                "thermo Fisher\nScientific,\nPA5-78178",
+                "IRDyeW sUVC W Goal antl-\nRabbit IgG Secondary\nAntibody",
+                "LICUOR , 720-\n32211"
+              ],
+              [
+                "Rabbit anti-\nSPARC",
+                "Thermo Fisher\nScientific,\nPAS5-78178",
+                "Anti-Rabbit IgG (Fe) AP\nconj.",
+                "Promega, $3731"
+              ],
+              [
+                "Rabbit anti-\nSPARC",
+                "Thermo Fisher\nScientific,\nDA enekA",
+                "IRDye\u00ae 800CW Goat anti-\nRabbit IgG Secondary\nAntihads",
+                "LICOR , 926-\n32211"
+              ],
+              [
+                "Rabbit anti-\nSPARC",
+                "Thermo Fisher\nScientific,\nache snort.",
+                "Brckcermabeensdet testo\u201d I\nAnti-Rabbit IgG (Fe) AP\nconj.",
+                "Promega, $3741"
+              ],
+              [
+                "Rabbit anti-\nSPARC",
+                "Santa Cruz, sc-25574",
+                "Alkaline phosphatase-\nconjugated anti-rabbit IgG\nantihady",
+                "Dianova, 111-\n035-003"
+              ],
+              [
+                "Rabbit anti-\nVinculin",
+                "Thermo Fisher\nScientific,\n700062.",
+                "IRDye\u00ae 800CW Goat anti-\nRabbit IgG Secondary\nAntibody",
+                "LICOR , 926-\n32211"
+              ],
+              [
+                "Rabbit anti-\nDesmin",
+                "ABCAM, ab8592",
+                "Anti-Rabbit IgG (Fe) AP\nconj.",
+                "Promega, $3731"
+              ],
+              [
+                "Rabbit anti-\nDesmin",
+                "Thermo Fisher\nScientific,\nPA5-117909",
+                "Anti-Rabbit IgG (Fc) AP\nconj.",
+                "Promega, $3731"
+              ],
+              [
+                "Rabbit anti-\nVinculin",
+                "Thermo Fisher\nScientific,\n700062",
+                "Anti-Rabbit IgG (Fc) AP\nconj.",
+                "Promega, $3731"
+              ],
+              [
+                "Rabbit anti-\npSmad2",
+                "Thermo Fisher\nScientific,\nMAS5-15122",
+                "IRDye\u00ae 800CW Goat anti-\nRabbit IgG Secondary\nAntibody",
+                "LICOR , 926-\n32211"
+              ],
+              [
+                "Rabbit anti-\npSmad2",
+                "Invitrogen, 44-244G",
+                "IRDye\u00ae 800CW Goat anti-\nRabbit IgG Secondary\nAntibody",
+                "LICOR , 926-\n32211"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 49,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Name",
+                " Background Mouse Strain",
+                " Vendor or Source",
+                " Sex (F,M, or unknown)"
+              ],
+              [
+                "SNL 76/7",
+                "SIM",
+                " aa",
+                "unknown"
+              ],
+              [
+                "STO",
+                "SIM",
+                "[Re",
+                "unknown"
+              ],
+              [
+                "STO s*",
+                "SIM",
+                "This study",
+                "unknown"
+              ],
+              [
+                "3T3",
+                "Swiss albino",
+                " ee",
+                "unknown"
+              ],
+              [
+                "3T3 St",
+                "Swiss albino",
+                "This study",
+                "unknown"
+              ],
+              [
+                "AS",
+                "C57BL/J6:129Sv",
+                "[ee",
+                "F"
+              ],
+              [
+                "AS sparc\u2019",
+                "C57BL/J6:129Sv",
+                "This study",
+                "TRO"
+              ],
+              [
+                "Ac tt eect\nAS\n\nsparc\u2019\nset",
+                "C57BL/J6:129Sv",
+                "This study",
+                "PRO"
+              ],
+              [
+                "A5\nsparc\u2019\n\u2018Smcct",
+                "C57BL/J6:129Sv",
+                "This study",
+                "PRO"
+              ],
+              [
+                "AS\ns\nparc*\u2019*\nmcet",
+                "C57BL/J6:129Sv",
+                "pte",
+                "PRO"
+              ],
+              [
+                "ae ytitiyect\nAS\n\ndes**\nD\u2122*",
+                "C57BL/J6:129Sv",
+                "This study",
+                "PRO"
+              ],
+              [
+                "AS\ndes*\u201d",
+                "C57BL/J6:129Sv",
+                "This study",
+                "PRO"
+              ],
+              [
+                "AK Antht py mect\nA5\ndes** Dmc**",
+                "C57BL/J6:129Sv",
+                "This study",
+                "PRO"
+              ],
+              [
+                "He2",
+                "Balb/c",
+                "[RR",
+                "M"
+              ],
+              [
+                "He2K2 sparc\u2019",
+                "Balb/c",
+                "This study",
+                "IM"
+              ],
+              [
+                "Ww",
+                "C3H",
+                "[Re",
+                "TRO"
+              ],
+              [
+                "AB22",
+                "129Sv",
+                "",
+                "F"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "Target (mouse)",
+                "Sequence 5-3\u2019 forward",
+                "Sequence 5\u2019-3\u2019 reverse"
+              ],
+              [
+                "Atp5fl",
+                "GTCCAGGGGTATTACAGGCAA",
+                "TCAGGAATCAGCCCAAGACG"
+              ],
+              [
+                "Rpl32",
+                "TTGTTGCTCCCATAACCGATGT",
+                "GCCTCTGGTGAAGCCCAAG"
+              ],
+              [
+                "Nanog",
+                "GTTTCAGAAGCAGAAGTACC.",
+                "TCAGACCATTGCTAGTCTTC"
+              ],
+              [
+                "Sdha",
+                "GCTCCTGCCTCTGTGGTTGA",
+                "AGCAACACCGATGAGCCTG"
+              ],
+              [
+                "Sparc",
+                "CTCAAAAATGTCCTGGTCAC",
+                "CTCATGGATCTTCTTCACAC"
+              ],
+              [
+                "Mespl",
+                "GTACACGCTCTAAAGATGAAG",
+                "TTTTGACACTAGCACAATCG"
+              ],
+              [
+                "Desmin",
+                "ACACCTAAAGGATGAGATGG",
+                "GAGAAGGTCTGGATAGGAAG"
+              ],
+              [
+                "Nodal",
+                "TTICCTTCTCAGGTCACGTTTGC.",
+                "GGTGGGGTTGGTATCGTTTCA"
+              ],
+              [
+                "Gata4",
+                "GAAAACGGAAGCCCAAGAAC",
+                "GGGAGGGTCTCACCAGCA"
+              ],
+              [
+                "Nkx2.5",
+                "CCACCTTTAGGAGAAGGGCG",
+                "TGGATCGGAGAAAGGTCCCA"
+              ],
+              [
+                "T (Brachyury)",
+                "AGAATGAGGAGATTACAGCC.",
+                "GGTTCCTCCATTACATCTTTG"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "Name",
+                " Sequence",
+                " Source / Repository"
+              ],
+              [
+                "pNKE24",
+                "fo",
+                "pe"
+              ],
+              [
+                "pGL3-Basic",
+                "Addgene",
+                "Promega, E1751"
+              ],
+              [
+                "phRL-TK",
+                "Addgene",
+                "Promega, E2241"
+              ],
+              [
+                "mouse 1.2kb pT-BraP-Puro-IRES2-eGFP",
+                "Se",
+                ""
+              ],
+              [
+                "human 3.4 kb pMesP1-eGFP",
+                "ne",
+                ""
+              ],
+              [
+                "pCSX-EGFP-PPDT",
+                "To",
+                "pe"
+              ],
+              [
+                "pCMV3-SPARC.",
+                "NM_009242.4",
+                "SinoBiological, MG50494-UT"
+              ],
+              [
+                "desmin expression cassette",
+                "GenBank: Z718892.2",
+                "See"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "Rabbit anti-\nSmad24+3",
+                "ABCAM, ab217553",
+                "Anti-Rabbit IgG (Fc) AP\nconj.",
+                "Promega, $3731"
+              ],
+              [
+                "Rabbit anti-\npSmad2+3",
+                "ABCAM, ab272332",
+                "Anti-Rabbit IgG (Fc) AP\nconj.",
+                "Promega, $3731"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 50,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Solutions and Kits",
+                "Source, Catalog #"
+              ],
+              [
+                "Cell Culture",
+                ""
+              ],
+              [
+                "Dulbecco\u2019s Modified Eagle\u2019s Medium - high\nglucose",
+                "Sigma, D5671-500ML"
+              ],
+              [
+                "GlutaMAX\u2122 Supplement",
+                "Gibco, 35050038"
+              ],
+              [
+                "Penicillin G potassium salt 95.0 - 102.0%",
+                "Sigma-Aldrich , PENK"
+              ],
+              [
+                "Streptomycin sulfate salt powder",
+                "Sigma-Aldrich, $6501"
+              ],
+              [
+                "FBS QUALIFIED, USA ORIGIN 500ML:\n(GIBCO)",
+                "\u2018Thermo Fisher Scientific,\n26140079"
+              ],
+              [
+                "POCtal DOVINEG serum, stanGalG Brade, Uo OFsin,\nHyClone\u2122",
+                "VOW, FE EULOTIIUUGS US"
+              ],
+              [
+                "Fetal Bovine Serum non-USA origin",
+                "Sigma, F7524"
+              ],
+              [
+                "Trypsin (1:250), powder",
+                "Invitrogen, 27250018"
+              ],
+              [
+                "Trypsin (1:250), powder",
+                "Invitrogen, 27250018"
+              ],
+              [
+                "Mitomycin C",
+                "SLS. M4287-2MG"
+              ],
+              [
+                "SPARC from murine parietal yolk sac (PYS-2)\nrelle",
+                "Sigma, $5174-25UG"
+              ],
+              [
+                "cells - - ; :",
+                ""
+              ],
+              [
+                "Recombinant Mouse SPARC Protein, CF",
+                "Biotechne R&D,942-SP-050"
+              ],
+              [
+                "recombinant human SPARC",
+                "SRP3159, Sigma-Aldrich"
+              ],
+              [
+                "OR A219A9 Uvdrat",
+                "ae oe eee eee\nQtiama CA217"
+              ],
+              [
+                "SB 431242 Hydrat",
+                "Sigma, 54317"
+              ],
+              [
+                "Ac-SDKP Peptide",
+                "Abbiotec, 350461"
+              ],
+              [
+                "dares Tepe\nWir AA",
+                "PRUE TE"
+              ],
+              [
+                "Protein Analysis",
+                ""
+              ],
+              [
+                "et\nENT A-\u2014free Prateace Inhthitar Cacktail",
+                "Rimake RIANNI"
+              ],
+              [
+                "EDTA-tiree Protease Inhibitor Cocktail",
+                "Bimake, B14001"
+              ],
+              [
+                "Phosphatase Inhihitor Cocktail",
+                "Rimake BIS50O01"
+              ],
+              [
+                "Phosphatase indioiwor LOCKtal",
+                "bBimake, DlovVUI"
+              ],
+              [
+                "Chameleon\u00ae Duo Pre-stained Protein Ladder",
+                " Li-Cor, 928-60000"
+              ],
+              [
+                "eee nee eee ee ee eee IEA\nNitrocellulose blotting membranes. roll. pore size 0",
+                "VWR_. 10-6000-01"
+              ],
+              [
+                "Nitrocellulose blotting membranes, roll, pore size 0\n2yum",
+                "VWR, 10-6000-01"
+              ],
+              [
+                "2pm - 7\nRevert\u2122 700 Total Protein Stain and Wash",
+                "Li-Cor, 926-11015"
+              ],
+              [
+                "Revert\u2122 700 Total Protein Stain and Wash\nSolution",
+                "Li-Cor, 926-11015"
+              ],
+              [
+                "10% MP TGX Gel 15W 15 yl, pkg 10",
+                "Bio-Rad, 4561036"
+              ],
+              [
+                "FavorPrep\u2122 Blood/Cultured Cell Total RNA Mini",
+                "Favorgen, FABRK001-2"
+              ],
+              [
+                "Kit\nOniacen RNeacy kit.",
+                "Oniacen 74104"
+              ],
+              [
+                "RevertAid First Strand cDNA Synthesis Kit",
+                "Thermo Fisher Scientific,\n4 ta:"
+              ],
+              [
+                "LunaScript\u00ae RT SuperMix Kit",
+                "New England Biolabs, E3010L"
+              ],
+              [
+                "2x SYBR Green qPCR Master Mix",
+                "Bimake, B21203"
+              ],
+              [
+                "Luna\u00ae Universal qPCR Master Mix",
+                "New England Biolabs,\nM3003E."
+              ],
+              [
+                "Platinum\u2122 SuperFi II Green PCR Master Mix",
+                "Thermo Fisher Scientific,\n12369010"
+              ],
+              [
+                "PCR Master Mix",
+                "Promega, M7502"
+              ],
+              [
+                "Taq DNA Polymerase, recombinant",
+                "Thermo Scientific, EP0402"
+              ],
+              [
+                "Pyrococcus furiosus DNA Polymerase,\nrecombinant",
+                "Thermo Scientific, EP0501"
+              ],
+              [
+                "10 mM dNTP mix",
+                "Fermentas. 71005M."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 51,
+        "tables": [
+          {
+            "rows": [
+              [
+                "KZUICR\u201c LAOS Purple 1 RD LINEA Ladder\nWa ue",
+                "INOW BMSIANG DlOdvs, DIVL"
+              ],
+              [
+                "a eT a\nWana \u00a5 nc cSE ue DMA EM cen he nnn head",
+                "Whe cn TAA"
+              ],
+              [
+                "DUdl-LUCHeTAase NREPOrlenr ASSdy OYStem",
+                "Frromega, Hi7iv"
+              ],
+              [
+                "MINEO CHET ase S1Ssdy Oy stein",
+                "PiVUlived, GULINV"
+              ],
+              [
+                "Machines & sottware\nmT",
+                "a Cale"
+              ],
+              [
+                "Wy ae",
+                "ethetaitentiimnial"
+              ],
+              [
+                "INATOUTOP 2UUUG OPC OPRULOnIeT",
+                "Peqgiay"
+              ],
+              [
+                "RISO dsl DERI OURS Midewt",
+                "loathed"
+              ],
+              [
+                "blometd ladvancea",
+                "AADALY TIN Jeti"
+              ],
+              [
+                "CPAS64 loucn Keal- lime FC Detection system",
+                "bi0-Kad"
+              ],
+              [
+                "CPA Opus 76 Keal- lime PCR system",
+                "bi0-Kad"
+              ],
+              [
+                "PowerPac 500",
+                "Bio-Rad"
+              ],
+              [
+                "Chemidoc Imaging System",
+                "Bio-Rad"
+              ],
+              [
+                "Excelsior Tissue Processor",
+                "Histocom"
+              ],
+              [
+                "Histostar embedding station",
+                "Histocom"
+              ],
+              [
+                "RM2255 Fully Automated Rotary Microtome",
+                "Leica"
+              ],
+              [
+                "Axio Imager.Z2",
+                "Zeiss"
+              ],
+              [
+                "Axivert 135 TV",
+                "Zeiss"
+              ],
+              [
+                "LSM 510 Confocal Microscope",
+                "Zeiss"
+              ],
+              [
+                "BD FACSCalibur\u2122 Flow Cytometer",
+                "BD Biosciences"
+              ],
+              [
+                "BD CellOuest\u2122 Pro Software",
+                "BD Biosciences"
+              ],
+              [
+                "FlowJo v10.4",
+                "BD Biosciences"
+              ],
+              [
+                "Photoshop CS2\u2122",
+                "Adobe"
+              ],
+              [
+                "Maestro CFX1.1 Software",
+                "Bio-Rad"
+              ],
+              [
+                "Excel 2013",
+                "Microsoft"
+              ],
+              [
+                "Graph Pad 5",
+                "Prism"
+              ],
+              [
+                "Other",
+                ""
+              ],
+              [
+                "BSA",
+                "Biotech, P06-139-1500"
+              ],
+              [
+                "DAPI",
+                "Sigma, D9542"
+              ],
+              [
+                "DAPI",
+                "Thermo Fischer Scientific, 00-\n4958-02"
+              ],
+              [
+                "Geltin",
+                "Difco 0143-01"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

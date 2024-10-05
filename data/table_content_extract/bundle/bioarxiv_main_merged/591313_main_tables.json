@@ -1,0 +1,426 @@
+{
+  "paper_id": "591313_main",
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Name",
+                "Genotype",
+                "Parental strain",
+                "Source"
+              ],
+              [
+                "Escherichia c",
+                "oli",
+                "",
+                ""
+              ],
+              [
+                "",
+                "F- mcrA \u2206(mrr-hsdRMS-mcrBC) \u03d580dlacZ\u2206M15",
+                "",
+                "87"
+              ],
+              [
+                "pir116",
+                "\u2206lacX74 recA1 endA1 araD139 \u2206(ara, leu)7697",
+                "",
+                ""
+              ],
+              [
+                "",
+                "galU galK \u03bb\u2013 rpsL nupG pir-116(DHFR)",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "88"
+              ],
+              [
+                "\u03b22163",
+                "(F-) RP4-2-Tc::Mu \u0394dapA::(erm-pir)",
+                "",
+                ""
+              ],
+              [
+                " NEB5\u03b1",
+                "fhuA2 \u0394(argF-lacZ)U169 phoA glnV44 \u03a680 \u0394(lacZ)M15 gyrA96 recA1 relA1 endA1 thi-1 hsdR17",
+                "",
+                " NEB"
+              ],
+              [
+                "",
+                "",
+                "",
+                "Sigma-"
+              ],
+              [
+                "C41(DE3)",
+                "F- ompT hsdSB (rB- mB-) gal dcm (DE3)",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "Aldrich"
+              ],
+              [
+                "Salmonella T",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "52"
+              ],
+              [
+                "SL1344",
+                "Wild type",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "64"
+              ],
+              [
+                "SB1751",
+                "\u0394invA",
+                "",
+                ""
+              ],
+              [
+                "",
+                "\u0394hilD. Made by allelic exchange. Suicide",
+                "",
+                ""
+              ],
+              [
+                "MIB4841",
+                "",
+                "SL1344",
+                "This study"
+              ],
+              [
+                "",
+                "plasmid pMIB5779",
+                "",
+                ""
+              ],
+              [
+                "",
+                "\u0394hilA. Made by allelic exchange. Suicide",
+                "",
+                ""
+              ],
+              [
+                "MIB5363",
+                "",
+                "SL1344",
+                "This study"
+              ],
+              [
+                "",
+                "plasmid pMIB7636",
+                "",
+                ""
+              ],
+              [
+                "",
+                "\u0394rtsA. Made by allelic exchange. Suicide",
+                "",
+                ""
+              ],
+              [
+                "MIB5371",
+                "",
+                "SL1344",
+                "This study"
+              ],
+              [
+                "",
+                "plasmid pMIB7639",
+                "",
+                ""
+              ],
+              [
+                "",
+                "\u0394hilC. Made by allelic exchange. Suicide",
+                "",
+                ""
+              ],
+              [
+                "MIB5585",
+                "",
+                "SL1344",
+                "This study"
+              ],
+              [
+                "",
+                "plasmid pMIB7633",
+                "",
+                ""
+              ],
+              [
+                "",
+                "\u0394hilC \u0394rtsA. Made by allelic exchange. Suicide",
+                "",
+                ""
+              ],
+              [
+                "MIB5591",
+                "",
+                "MIB5585",
+                "This study"
+              ],
+              [
+                "",
+                "plasmid pMIB7639",
+                "",
+                ""
+              ],
+              [
+                "",
+                "\u0394hilD \u0394hilC. Made by allelic exchange. Suicide",
+                "",
+                ""
+              ],
+              [
+                "MIB5587",
+                "",
+                "MIB4841",
+                "This study"
+              ],
+              [
+                "",
+                "plasmid pMIB7633",
+                "",
+                ""
+              ],
+              [
+                "",
+                "\u0394hilD \u0394rtsA. Made by allelic exchange. Suicide",
+                "",
+                ""
+              ],
+              [
+                "MIB5373",
+                "",
+                "MIB4841",
+                "This study"
+              ],
+              [
+                "",
+                "plasmid pMIB7639",
+                "",
+                ""
+              ],
+              [
+                "",
+                "\u0394hilD \u0394hilC \u0394rtsA. Made by allelic exchange.",
+                "",
+                ""
+              ],
+              [
+                "MIB5593",
+                "",
+                "MIB5587",
+                "This study"
+              ],
+              [
+                "",
+                "Suicide plasmid pMIB7639",
+                "",
+                ""
+              ],
+              [
+                "MIB3231",
+                "sipA-NLuc-myc",
+                "",
+                "37"
+              ]
+            ]
+          }
+        ],
+        "page": 54
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                " pMIB7649",
+                "Insert: gib_pT12_hilD_f / gib_pT12_hilD_r pT10-hilC.",
+                " This study"
+              ],
+              [
+                "",
+                "Vector: gib_uni_pT12_f / gib_uni_pT12_r",
+                ""
+              ],
+              [
+                " pMIB7648",
+                "Insert: gib_pT12_hilC_f / gib_pT12_hilC_r pT10-rtsA.",
+                " This study"
+              ],
+              [
+                "",
+                "Vector: gib_uni_pT12_f / gib_uni_pT12_r",
+                ""
+              ],
+              [
+                " pMIB8048",
+                "Insert: gib_pT12_rtsA_f / gib_pT12_rtsA_r \u0394rhaRS-Prha::PhilD-hilD-PhilA-sfGFP",
+                " This study"
+              ],
+              [
+                "",
+                "Vector: gib_uni_pT12_f / gib_uni_pT10_rep_r",
+                ""
+              ],
+              [
+                "",
+                "Insert: gib_PhilD_pT10_f / gib_sfGFP_pT10_rrnB_r on gDNA of MIB5600",
+                ""
+              ],
+              [
+                "Plasmids d",
+                "",
+                ""
+              ],
+              [
+                "pMIB8306",
+                "PhilD-PhilA-sfGFP.",
+                "This study"
+              ],
+              [
+                " pMIB8049",
+                "gib_PhilA_rep_f / gib_rep_PhilA_r PhilD-hilD Q31A-PhilA-sfGFP",
+                " This study"
+              ],
+              [
+                "pMIB8056",
+                "PhilD-hilD I42A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8057",
+                "PhilD-hilD L45A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8058",
+                "PhilD-hilD Y46A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8059",
+                "PhilD-hilD S48A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8050",
+                "PhilD-hilD T51A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8060",
+                "PhilD-hilD V53A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8501",
+                "PhilD-hilD L60A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8508",
+                "PhilD-hilD L79A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8513",
+                "PhilD-hilD V85A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8502",
+                "PhilD-hilD V87A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8509",
+                "PhilD-hilD L89A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8503",
+                "PhilD-hilD F98A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8504",
+                "PhilD-hilD I100A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8510",
+                "PhilD-hilD L101A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8301",
+                "PhilD-hilD E102A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8505",
+                "PhilD-hilD Y212A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8515",
+                "PhilD-hilD I214A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8516",
+                "PhilD-hilD I215A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8517",
+                "PhilD-hilD S216A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8518",
+                "PhilD-hilD S217A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8506",
+                "PhilD-hilD N260A-PhilA-sfGFP",
+                "This study"
+              ]
+            ]
+          }
+        ],
+        "page": 58
+      }
+    ]
+  }
+}

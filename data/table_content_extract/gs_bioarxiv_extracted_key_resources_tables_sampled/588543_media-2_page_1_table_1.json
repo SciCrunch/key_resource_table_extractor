@@ -1,0 +1,485 @@
+{
+  "name": "588543_media-2_page_1_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Plasmid name"
+      },
+      {
+        "colspan": 1,
+        "content": "Expression cassette"
+      },
+      {
+        "colspan": 1,
+        "content": "DNA template1"
+      },
+      {
+        "colspan": 1,
+        "content": "Primer combination2"
+      },
+      {
+        "colspan": 1,
+        "content": "Target vector3"
+      },
+      {
+        "colspan": 1,
+        "content": "Restriction enzymes"
+      },
+      {
+        "colspan": 1,
+        "content": "Reference"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pWEN240"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Klahre et al. 2006"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pFAU422"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-NtGEF12a-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": "tobacco pollen tube cDNA"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU-B122, FAU-B123"
+      },
+      {
+        "colspan": 1,
+        "content": "pWEN240"
+      },
+      {
+        "colspan": 1,
+        "content": "SalI, XmaI"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pHD341"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-NtGAP1-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Klahre and Kost 2006"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pHD342"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:CRIBNtGAP1-5xGA-eYFP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Klahre and Kost 2006"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pHD23"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-NtRAC5-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Sun et al. 2015"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pFAU581"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:NtPI4P-5K4-5xGA-eYFP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": "pSLUobt13"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU-B910, FAU-B911"
+      },
+      {
+        "colspan": 1,
+        "content": "pHD32"
+      },
+      {
+        "colspan": 1,
+        "content": "NgoMIV, ApaI"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pHD133"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:NtPLC3-eYFP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Helling et al. 2006"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pFAU699"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-PHFAPP1-NosT4"
+      },
+      {
+        "colspan": 1,
+        "content": "pFAUobt100"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU-C459, FAU-C460"
+      },
+      {
+        "colspan": 1,
+        "content": "pWEN240"
+      },
+      {
+        "colspan": 1,
+        "content": "NgoMIV, ApaI"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pFAU780"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-C2Lact-NosT5"
+      },
+      {
+        "colspan": 1,
+        "content": "pFAUobt104"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU-C624, FAU-C625"
+      },
+      {
+        "colspan": 1,
+        "content": "pWEN240"
+      },
+      {
+        "colspan": 1,
+        "content": "NgoMIV, SacII"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pWEN106"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-PHPLC\u03b41-NosT6"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Helling et al. 2006"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pFAU131"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-Spo20p-NosT7"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Potock\u00fd et al. 2014"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pHD274"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:C1PKC\u03b3-eYFP-NosT8"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Helling et al. 2006"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pFAU351"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:NtINT4-eYFP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Grebnev et al. 2020"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pHD86"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-NtRISAP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Stephan et al. 2014"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pSLU29"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:LIFEACT-5xGA-eYFP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Montes-Rodriguez and Kost 2017"
+      }
+    ]
+  ]
+}

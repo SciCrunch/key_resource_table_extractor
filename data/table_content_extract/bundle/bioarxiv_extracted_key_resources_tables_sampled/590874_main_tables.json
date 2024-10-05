@@ -1,0 +1,1377 @@
+{
+  "job_id": 1686,
+  "job_status": "finished",
+  "paper_id": "590874_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Key resources table",
+                "",
+                ""
+              ],
+              [
+                "Reagent type or resource",
+                "Source",
+                "Identifier"
+              ],
+              [
+                "Antibodies",
+                "",
+                ""
+              ],
+              [
+                "Anti-HA (rat, 3F10)",
+                "Roche",
+                ""
+              ],
+              [
+                "Anti-GFP (rabbit)",
+                "Molecular Probes",
+                ""
+              ],
+              [
+                "Goat anti-rabbit Alexa Fluor 488",
+                "Molecular Probes",
+                ""
+              ],
+              [
+                "Goat anti-rabbit Alexa Fluor 546",
+                "Molecular Probes",
+                ""
+              ],
+              [
+                "Goat anti-rabbit Alexa Fluor 647",
+                "Molecular Probes",
+                ""
+              ],
+              [
+                "Goat anti-rat Alexa Fluor 647",
+                "Molecular Probes",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Bacterial and Virus Strains",
+                "",
+                ""
+              ],
+              [
+                "For recombinant DNA cloning: Escherichia coli: DH5\u03b1",
+                "New England Biolabs",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Experimental Models: Organisms/Strains",
+                "",
+                ""
+              ],
+              [
+                "Drosophila: wild-type: Canton S",
+                "Soller lab",
+                ""
+              ],
+              [
+                "Drosophila ST stock: w; Sco/CyO actGFP; PrDr/TM6 Sb",
+                "Soller lab",
+                ""
+              ],
+              [
+                "DfdGFP",
+                "",
+                ""
+              ],
+              [
+                "Drosophila CT stock: w; Sco/SM6 Roi; PrDr/TM3 Sb",
+                "Soller lab",
+                ""
+              ],
+              [
+                "rd",
+                "",
+                ""
+              ],
+              [
+                "Drosophila: w*; UASmSP (3, 61C)",
+                "T. Aigaki",
+                ""
+              ],
+              [
+                "Drosophila: dsx-GAL4 inserted into the endogenous dsx",
+                "S. Goodwin",
+                ""
+              ],
+              [
+                "gene (84E5-84E6)",
+                "",
+                ""
+              ],
+              [
+                "Drosophila: fru-GAL4 inserted into the endogenous fru",
+                "B. Dickson",
+                ""
+              ],
+              [
+                "gene (91A6-91B3)",
+                "",
+                ""
+              ],
+              [
+                "rd",
+                "",
+                ""
+              ],
+              [
+                "Drosophila: nSyb GAL4 (3)",
+                "S. Goodwin",
+                ""
+              ],
+              [
+                "Drosophila: ppk-GAL4/CyO",
+                "Bloomington Stock",
+                "BDSC 49021"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: tshGAL4-1/CyO",
+                "Bloomington Stock",
+                "BDSC 3040"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "elav FRTstopFRT GAL4",
+                "Soller lab",
+                ""
+              ],
+              [
+                "ndOtdflp (2)",
+                "D. Anderson",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 19
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "UASmCD8GFP (X)",
+                "Bloomington Stock",
+                "BDSC 5136"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "UASmCD8GFP (2nd)",
+                "Bloomington Stock",
+                "BDSC 5137"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "nd",
+                "",
+                ""
+              ],
+              [
+                "UAS-H2B::YFP (2)",
+                "A. Hidalgo",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "nd",
+                "",
+                ""
+              ],
+              [
+                "elavLexA (2)",
+                "Bloomington Stock",
+                "BDSC 52676"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "nd",
+                "",
+                ""
+              ],
+              [
+                "LexAop NLStomato (2)",
+                "Bloomington Stock",
+                "BDSC 66690"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "nd",
+                "",
+                ""
+              ],
+              [
+                "UAS TNT (2)",
+                "J.J. Hodge",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "rd",
+                "",
+                ""
+              ],
+              [
+                "UAS TrpA1 (3)",
+                "Bloomington Stock",
+                "BDSC 26264"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "nd",
+                "",
+                ""
+              ],
+              [
+                "UASFlybow 1.1 (myrGFP, 2)",
+                "Bloomington Stock",
+                "BDSC 35537"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "rd",
+                "",
+                ""
+              ],
+              [
+                "UAS-NaCh::BacGFP (3)",
+                "Bloomington Stock",
+                "BDSC9467"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "UAS reaper/FM7;UAS hid/CyO",
+                "Bloomington Stock",
+                "BDSC 5823"
+              ],
+              [
+                "",
+                "Centre",
+                "BDSC65403"
+              ],
+              [
+                "UAS FRTstopFRT GFP/CyO",
+                "B. Dickson",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "UAS FRTstopFRT TNT/CyO",
+                "B. Dickson",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "UAS FRTstopFRT TrpA1/CyO",
+                "B. Dickson",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "rd",
+                "",
+                ""
+              ],
+              [
+                "UAS FRTstopFRT mSP (3)",
+                "This study",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "rd",
+                "",
+                ""
+              ],
+              [
+                "UAS dicer2; UAS SPR RNAi (X, 3)",
+                "B. Dickson",
+                ""
+              ],
+              [
+                "SPR",
+                "Bloomington Stock",
+                "BDSC 7708"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Df(1)JC70/FM7c",
+                "Bloomington Stock",
+                "BDSC 944"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Drosophila SPR8 AD: VT033616-p65.AD (attP40)",
+                "Bloomington Stock",
+                "BDSC71392"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila Fru11/12 AD: VT043695-p65.AD (attP40)",
+                "Bloomington Stock",
+                "BDSC72065"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila dsx DBD",
+                "S. Goodwin",
+                ""
+              ],
+              [
+                "Drosophila dsx24 DBD: R42G02-GAL4.DBD (attP2)",
+                "Bloomington Stock",
+                ""
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila SPR8 DBD: VT057286-Gal4.DBD (attP2)",
+                "Bloomington Stock",
+                "BDSC71425"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila fru11/12 DBD: VT043695-GAL4.DBD (attP2)",
+                "Bloomington Stock",
+                "BDSC72788"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila FD6 DBD: VT003280-GAL4.DBD (attP2)",
+                "Bloomington Stock",
+                "BDSC75877"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila ppk DBD: ppk-GAL4.DBD (VK00027, 89E11)",
+                "W. J. Joiner",
+                ""
+              ],
+              [
+                "Drosophila SPR12 AD: VT057292-p65.AD (attP40)",
+                "Bloomington Stock",
+                "BDSC72924"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "UAS-myrGFP QUAS-mtdTomato-3xHA; trans-Tango",
+                "Bloomington Stock",
+                "BDSC 95317"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "QUAS-mtdTomato-3xHA; retro-Tango",
+                "G. Barnea",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Drosophila: fru1 GAL4: R23C03-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 49021"
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Drosophila: fru2 GAL4, R22H11-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 48043"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 20
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Drosophila: fru3 GAL4, R21H09-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 49867"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru4 GAL4, R23C12-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 49026"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru5 GAL4, R22F06-GAL4 (attP2)",
+                "",
+                "KDRC 11848"
+              ],
+              [
+                "Drosophila: fru6 GAL4, R23D03GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru7 GAL4, R22B09-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru8 GAL4, R23B12-GAL4 (attP2)",
+                "Korea Drosophila",
+                "KDRC 11849"
+              ],
+              [
+                "",
+                "Resource Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru9 GAL4, R22A02-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 49868"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru10 GAL4, R22C05-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 49301"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru11 GAL4, R22C11-lexA (attP40)",
+                "Bloomington Stock",
+                "BDSC 52604"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru12 GAL4, R22A11-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 48966"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru13 GAL4, R23A06-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 49009"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru14 GAL4, R22C03-GAL4 (attP2)",
+                "Korea Drosophila",
+                "KDRC 11868"
+              ],
+              [
+                "",
+                "Resource Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru15 GAL4, R23B04-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 49016"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru16 GAL4, R22C07-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 48975"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru17 GAL4, R23C08-GAL4 (attP2)",
+                "Korea Drosophila",
+                "KDRC 11835"
+              ],
+              [
+                "",
+                "Resource Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru18 GAL4, R23C07GAL4  (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru19 GAL4, R22B10-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 48969"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru20 GAL4, R22E10-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 49302"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru21 GAL4, R22D11-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 48982"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru22 GAL4, R22H07-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 490003"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru23 GAL4, R21H02-GAL4 (attP2)",
+                "Korea Drosophila",
+                "KDRC 11847"
+              ],
+              [
+                "",
+                "Resource Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru24 GAL4, R23B11-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 49019"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru25 GAL4: VT043674-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru26 GAL4, VT043675-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: fru27 GAL4, VT043676-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx1 GAL4, R39E06-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 50051"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx2 GAL4, R40A05-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 48138"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx3 GAL4, R40F03-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 47355"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx4 GAL4, R40F04-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx5 GAL4, R41A01-GAL4 (attP2)",
+                "Bloomington Stock Centre",
+                "N/A"
+              ]
+            ]
+          }
+        ],
+        "page": 21
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Drosophila: dsx6 GAL4, R41D01GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx7 GAL4, R41F06-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 47584"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx8 GAL4, R42C06-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 50150"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx9 GAL4, R42D02-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 41250"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx10 GAL4, R42D04-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 47588"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx11 GAL4, VT038171-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx12 GAL4, VT038169-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx13 GAL4, VT038167-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx14 GAL4, VT038166-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx15 GAL4, VT038161-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx16 GAL4, VT038159-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx17 GAL4, VT038157-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx18 GAL4, VT038155-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx19 GAL4, VT038151-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx20 GAL4, VT038149-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx21 GAL4, P{VT038148-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx22 GAL4, P{VT038147-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx23 GAL4, R22H07-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx24 GAL4, R21H02-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: dsx25 GAL4, R21B01-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR1 GAL4, R78F09-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR2 GAL4, R78F11-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR3 GAL4, R78E11-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR4 GAL4, R78E12-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 40002"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR5 GAL4, R78G09-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 40015"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR6 GAL4, R78G08-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR7 GAL4, R78F07-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 47409"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR8 GAL4, R78F10-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 40007"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR9 GAL4, R78G02-GAL4 (attP2)",
+                "Bloomington Stock Centre",
+                "BDSC 40010"
+              ]
+            ]
+          }
+        ],
+        "page": 22
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Drosophila: SPR10 GAL4, R78G07-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR11 GAL4, R78G04-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 40012"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR12 GAL4, R78F05-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR13 GAL4, R78G05-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 41308"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR14 GAL4, R78G06-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR15 GAL4, R78G03-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 40011"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR16 GAL4, R78F06-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR17 GAL4, R78F12-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR18 GAL4, R78F03-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR19 GAL4, R78F01-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 40003"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR20 GAL4, R78G01-GAL4 (attP2)",
+                "Bloomington Stock",
+                "BDSC 40009"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR21 GAL4, R78F02-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: SPR22 GAL4, R78F08-GAL4 (attP2)",
+                "Bloomington Stock",
+                "N/A"
+              ],
+              [
+                "",
+                "Centre",
+                ""
+              ],
+              [
+                "Drosophila: FD1 GAL4, VT050405-GAL4 (attP2)",
+                "Vienna Drosophila",
+                "VDSC"
+              ],
+              [
+                "",
+                "Stock Centre",
+                ""
+              ],
+              [
+                "Drosophila: FD2 GAL4, VT007068-GAL4 (attP2)",
+                "Vienna Drosophila",
+                ""
+              ],
+              [
+                "",
+                "Stock Centre",
+                "VDSC"
+              ],
+              [
+                "Drosophila: FD3 GAL4, VT045154-GAL4 (attP2),",
+                "Vienna Drosophila",
+                "VDSC"
+              ],
+              [
+                "",
+                "Stock Centre",
+                ""
+              ],
+              [
+                "Drosophila: FD4 GAL4, VT000454-GAL4 (attP2)",
+                "Vienna Drosophila",
+                "VDSC"
+              ],
+              [
+                "",
+                "Stock Centre",
+                ""
+              ],
+              [
+                "Drosophila: FD5 GAL4, VT050247-GAL4 (attP2)",
+                "Vienna Drosophila",
+                "VDSC"
+              ],
+              [
+                "",
+                "Stock Centre",
+                ""
+              ],
+              [
+                "Drosophila: FD6 GAL4, VT003280-GAL4 (attP2)",
+                "Vienna Drosophila Stock Centre",
+                "VDSC"
+              ]
+            ]
+          }
+        ],
+        "page": 23
+      }
+    ]
+  }
+}

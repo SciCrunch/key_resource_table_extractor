@@ -1,0 +1,206 @@
+{
+  "job_id": 925,
+  "job_status": "finished",
+  "paper_id": "588740_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Strain Name",
+                "Genotype",
+                "Source"
+              ],
+              [
+                "N2",
+                "Wild-Type",
+                "N.A."
+              ],
+              [
+                "SP2101",
+                "mnIs17 [osm-6::GFP unc-36(+)]",
+                "N.A"
+              ],
+              [
+                "",
+                "ujls113",
+                ""
+              ],
+              [
+                "JIM113",
+                "",
+                "N.A"
+              ],
+              [
+                "",
+                "[Ppie-1::H2B::mCherry; Pnhr-2::his-24::mCherry II]",
+                ""
+              ],
+              [
+                "PHX7618",
+                "tbb-2 (gfp11-i) (syb7618)",
+                "SunyBiotech."
+              ],
+              [
+                "PHX4515",
+                "che-3::t2a::sfgfp1-10 (syb4515)",
+                "SunyBiotech."
+              ],
+              [
+                "SHX2025",
+                "Pcol-19::sfgfp1-10 single copy KI (zjuSi177)",
+                "Zhejiang Univ."
+              ],
+              [
+                "DUP228",
+                "glh-1::t2a::sfgfp1-10 (sam129)",
+                "Zhejiang Univ."
+              ],
+              [
+                "GOU4772",
+                "dyf-11::wrmScarlet (cas1086); him-5 (e1490)",
+                "Microinjection"
+              ],
+              [
+                "",
+                "tbb-2 (gfp11-i) (syb7618); cas1086;",
+                ""
+              ],
+              [
+                "GOU5351",
+                "",
+                "Genetic cross"
+              ],
+              [
+                "",
+                "che-3::t2a::sfgfp1-10 (syb4515)",
+                ""
+              ],
+              [
+                "GOU5352",
+                "tbb-2 (gfp11-i) (syb7618); Pcol-19::sfgfp1-10 (zjuSi177)",
+                "Genetic cross"
+              ],
+              [
+                "",
+                "tbb-2 (gfp11-i) (syb7618);",
+                ""
+              ],
+              [
+                "GOU5353",
+                "",
+                "Genetic cross"
+              ],
+              [
+                "",
+                "glh-1::t2a::sfgfp1-10 (sam129)",
+                ""
+              ],
+              [
+                "GOU5354",
+                "gfp::tbb-2 (cas970)",
+                "Microinjection"
+              ],
+              [
+                "GOU5355",
+                "tbb-2::gfp (cas722)",
+                "Microinjection"
+              ],
+              [
+                "",
+                "tbb-2 (gfp11-i) (syb7618); ujls113; him-5 (e1490);",
+                ""
+              ],
+              [
+                "GOU5356",
+                "",
+                "Genetic cross"
+              ],
+              [
+                "",
+                "glh-1::t2a::sfgfp1-10 (sam129)",
+                ""
+              ],
+              [
+                "GOU5057",
+                "tba-5 (A19V) (qj14)",
+                "Microinjection"
+              ],
+              [
+                "GOU5058",
+                "tba-5 (A19V) (qj14); mnIs17; him-5 (e1490)",
+                "Genetic cross"
+              ],
+              [
+                "GOU5067",
+                "gfp:tbb-4 (cas2563)",
+                "Microinjection"
+              ],
+              [
+                "GOU5068",
+                "tba-5 (A19V) (qj14); cas2563; him-5 (e1490)",
+                "Genetic cross"
+              ],
+              [
+                "",
+                "tba-5 (A19V) (qj14); mnIs17;",
+                ""
+              ],
+              [
+                "GOU5357",
+                "",
+                "Microinjection"
+              ],
+              [
+                "",
+                "Pdyf-1::tba-5 (A19V) (casEx6062)",
+                ""
+              ],
+              [
+                "",
+                "tba-5 (A19V) (qj14);",
+                ""
+              ],
+              [
+                "GOU5358",
+                "",
+                "Microinjection"
+              ],
+              [
+                "",
+                "Pdyf-1::tba-5 (A19V) (GFP-N) (casEx6063)",
+                ""
+              ],
+              [
+                "",
+                "tba-5 (A19V) (qj14);",
+                ""
+              ],
+              [
+                "GOU5359",
+                "Pdyf-1::tba-5 (A19V) (GFP-C) (casEx6064)",
+                "Microinjection"
+              ]
+            ]
+          }
+        ],
+        "page": 62
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "headers": [],
+  "caption": "ELISA buffer recipes.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Ingredients"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Phosphate-buffered saline (PBS)"
+      },
+      {
+        "colspan": 1,
+        "content": "8.0 g NaCl"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.2 g KH2PO4"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "1.1 g Na2HPO4"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.2 g KCl"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ad 1 L Millipore water"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "coating buffer"
+      },
+      {
+        "colspan": 1,
+        "content": "0.841 g NaHCO3"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ad 100 mL PBS"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "adjust pH to 9.5 with KOH"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "washing buffer"
+      },
+      {
+        "colspan": 1,
+        "content": "0.5 mL Tween®20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "in 1 L PBS"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "blocking buffer"
+      },
+      {
+        "colspan": 1,
+        "content": "1 g BSA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "200 µL Tween®20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "in 100 mL PBS"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "stopping solution"
+      },
+      {
+        "colspan": 1,
+        "content": "5.556 mL 18 M H2SO4"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ad 194.444 mL Millipore water"
+      }
+    ]
+  ]
+}

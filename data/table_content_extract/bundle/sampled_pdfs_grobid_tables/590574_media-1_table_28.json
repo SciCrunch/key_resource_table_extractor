@@ -1,0 +1,37 @@
+{
+  "headers": [],
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": ", 169.1 (C, C-13). UPLC-MS:"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Rt 1.40 (96%) MS (ESI) + : 243.1 [M+H] + ."
+    }],
+    [{
+      "colspan": 1,
+      "content": "\u2022 Methyl 2Obtained as yellow solid in 76% yield. 1 H-NMR (CDCl3), δ: 3.80 (s, 3H, H-19), 4.54 (d,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "J= 5.9 Hz, 2H, H-11), 6.50-6.54 (m, 1H, H-aromatic), 6.59 (d, J= 8.5 Hz, 1H, H-aromatic),"
+    }],
+    [{
+      "colspan": 1,
+      "content": "7.19-7.21 (m, 1H, H-aromatic), 7.35-7.37 (m, 1H, H-aromatic), 7.38-7.41 (m, 2H, H-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "aromatic), 7.70-7.72 (m, 2H, H-aromatic), 7.73-7.76 (m, 2H, H-aromatic), 7.86 (dd, J1="
+    }],
+    [{
+      "colspan": 1,
+      "content": "8.2 Hz, J2= 1.6 Hz, 1H, H-aromatic), 8.20 (bs, 1H, NH). 13 C-NMR (CDCl3), δ 51.5 (CH3,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "C-19), 47.2 (CH2, C"
+    }]
+  ]
+}

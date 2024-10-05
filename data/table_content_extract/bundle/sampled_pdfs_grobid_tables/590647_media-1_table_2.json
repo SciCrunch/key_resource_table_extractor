@@ -1,0 +1,452 @@
+{
+  "headers": [],
+  "caption": "Strains used in this study. Includes primers used to create strains made for this study.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Strain"
+      },
+      {
+        "colspan": 1,
+        "content": "Reference"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward primer"
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse primer"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 hfq"
+      },
+      {
+        "colspan": 1,
+        "content": "(1)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 rhlB"
+      },
+      {
+        "colspan": 1,
+        "content": "(1)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 pnp"
+      },
+      {
+        "colspan": 1,
+        "content": "(1)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GTCAAAACAAA"
+      },
+      {
+        "colspan": 1,
+        "content": "AGTGTGTAAAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ACCTTCACTCG"
+      },
+      {
+        "colspan": 1,
+        "content": "AAGGGTAAAAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CAACTAGAATA"
+      },
+      {
+        "colspan": 1,
+        "content": "AAACCGAATGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ACTCCCGGTGT"
+      },
+      {
+        "colspan": 1,
+        "content": "GAGGCATATG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "AGGCTGGAGCT"
+      },
+      {
+        "colspan": 1,
+        "content": "GGAATTAGCCA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 micF"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      },
+      {
+        "colspan": 1,
+        "content": "GCTTC"
+      },
+      {
+        "colspan": 1,
+        "content": "TGGTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CTTCTTCGGCG"
+      },
+      {
+        "colspan": 1,
+        "content": "GATTACTTTGA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CACTGAAAGCG"
+      },
+      {
+        "colspan": 1,
+        "content": "GCTAATTATTA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CTGTTCAGCGG"
+      },
+      {
+        "colspan": 1,
+        "content": "CTCAACAGGTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "TGGTTAAGTGT"
+      },
+      {
+        "colspan": 1,
+        "content": "GCGGACGATG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "AGGCTGGAGCT"
+      },
+      {
+        "colspan": 1,
+        "content": "GGAATTAGCCA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 rne-131"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      },
+      {
+        "colspan": 1,
+        "content": "GCTTC"
+      },
+      {
+        "colspan": 1,
+        "content": "TGGTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CGTAAGGTACT"
+      },
+      {
+        "colspan": 1,
+        "content": "CGGAGGGCAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GTCTAAGAAAG"
+      },
+      {
+        "colspan": 1,
+        "content": "ATGGCAACCTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "AGAAAGGATAT"
+      },
+      {
+        "colspan": 1,
+        "content": "ACTCGCCCTGT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "TACATTGGTGT"
+      },
+      {
+        "colspan": 1,
+        "content": "TCAGCAGCAT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "AGGCTGGAGCT"
+      },
+      {
+        "colspan": 1,
+        "content": "GGGAATTAGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 rhlB pnp This study"
+      },
+      {
+        "colspan": 1,
+        "content": "GCTTC"
+      },
+      {
+        "colspan": 1,
+        "content": "CATGGTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 micF"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "obgE:3xFLAG"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ]
+  ]
+}

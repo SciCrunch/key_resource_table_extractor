@@ -1,0 +1,199 @@
+{
+  "name": "555134_main_page_36_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 3,
+        "content": "Experimental models: Organisms/strains"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lmna-LoxP mice"
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson Laboratory"
+      },
+      {
+        "colspan": 1,
+        "content": "JAX stock No: 26284"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Myh6-MerCreMer transgene mice"
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson Laboratory"
+      },
+      {
+        "colspan": 1,
+        "content": "JAX stock No: 005657"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rosa26CAG-LSL-tdTomato mice"
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson Laboratory"
+      },
+      {
+        "colspan": 1,
+        "content": "JAX stock No: 25106"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cgas-null mice"
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson Laboratory"
+      },
+      {
+        "colspan": 1,
+        "content": "JAX stock No: 026554"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CAG-Lox-Stop-Lox-Uprt transgene mice"
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson Laboratory"
+      },
+      {
+        "colspan": 1,
+        "content": "JAX stock No: 021469"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sting-flox mice"
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson Laboratory"
+      },
+      {
+        "colspan": 1,
+        "content": "JAX stock No: 031670"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mice carrying the Mef2C-AHF-Cre transgene allele  "
+      },
+      {
+        "colspan": 1,
+        "content": "Verzi et al., 2005  "
+      },
+      {
+        "colspan": 1,
+        "content": "DOI: 10.1016/j.ydbio.2005. 08.041"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sting-null (generated from Sting-LoxP mouse)"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "AAVpro 293T Cell"
+      },
+      {
+        "colspan": 1,
+        "content": "TaKaRa"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 632273"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Oligonucleotides"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DNA oligonucleotide KI279 for Lmna genotype primer: AACCCAGCCTCAGAAACTGGTGGATG"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "Ikegami lab ID:\tKI279 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DNA oligonucleotide KI280 for Lmna genotype primer: GACAGCTCTCCTCTGAAGTGCTTGGA"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "Ikegami lab ID:\tKi280 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DNA oligonucleotide EA062 for EGFP cloning: AGTACTTAATACGACTCACTATAGGCTAGCGCCACCATGGTGAGC AAGGGCGAGGA"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper  "
+      },
+      {
+        "colspan": 1,
+        "content": "Ikegami lab ID:\tEA062  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DNA oligonucleotide EA064 for EGFP with GS linker cloning: TTATCATGTCTGGATCCGCGCGGCCGCGCTGCCCCCGCCTCCCTT GTACAGCTCGTCCATGC"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper  "
+      },
+      {
+        "colspan": 1,
+        "content": "Ikegami lab ID:\tEA064  "
+      }
+    ]
+  ]
+}

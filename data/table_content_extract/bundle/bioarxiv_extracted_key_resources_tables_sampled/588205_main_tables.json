@@ -1,0 +1,273 @@
+{
+  "job_id": 2075,
+  "job_status": "finished",
+  "paper_id": "588205_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Gene",
+                "Gene Description",
+                "Effect",
+                "Codon",
+                "Amino Acid"
+              ],
+              [
+                "Name",
+                "",
+                "",
+                "Change",
+                "Change"
+              ],
+              [
+                "RoF-A-Clone-",
+                "E8",
+                "",
+                "",
+                ""
+              ],
+              [
+                "PF3D7_0614200",
+                "Conserved Plasmodium protein unknown function",
+                "Non-synonymous",
+                "Gat/Aat",
+                "D859N"
+              ],
+              [
+                "PF3D7_1359100",
+                "Riboflavin kinase FAD synthase family protein putative",
+                "Non-synonymous",
+                "cTt/cAt",
+                "L672H"
+              ],
+              [
+                "PF3D7_1038400",
+                "Gametocyte-specific protein",
+                "Non-synonymous",
+                "Ata/Gta",
+                "I8312V"
+              ],
+              [
+                "PF3D7_1038400",
+                "Gametocyte-specific protein",
+                "Non-synonymous",
+                "gaA/gaC",
+                "E8342D"
+              ],
+              [
+                "PFC10_API0033",
+                "Apicoplast ribosomal protein S5",
+                "Non-synonymous",
+                "aGa/aAa",
+                "R118K"
+              ],
+              [
+                "RoF-A-Clone-",
+                "B6",
+                "",
+                "",
+                ""
+              ],
+              [
+                "PF3D7_1410300",
+                "Conserved Plasmodium protein unknown function",
+                "Non-synonymous",
+                "",
+                "E4170K"
+              ],
+              [
+                "",
+                "",
+                "",
+                "Gaa/Aaa",
+                ""
+              ],
+              [
+                "PF3D7_1471900",
+                "Conserved Plasmodium protein unknown function",
+                "Non-synonymous",
+                "",
+                "N907K"
+              ],
+              [
+                "",
+                "",
+                "",
+                "aaT/aaA",
+                ""
+              ],
+              [
+                "PF3D7_1303800",
+                "Conserved Plasmodium protein unknown function",
+                "Non-synonymous",
+                "",
+                "Q418K"
+              ],
+              [
+                "",
+                "",
+                "",
+                "Caa/Aaa",
+                ""
+              ],
+              [
+                "PF3D7_1359100",
+                "Riboflavin kinase FAD synthase family protein putative",
+                "Non-synonymous",
+                "",
+                "L672H"
+              ],
+              [
+                "",
+                "",
+                "",
+                "cTt/cAt",
+                ""
+              ],
+              [
+                "PFC10_API0033",
+                "Apicoplast ribosomal protein S5",
+                "Non-synonymous",
+                "",
+                "R118K"
+              ],
+              [
+                "",
+                "",
+                "",
+                "aGa/aAa",
+                ""
+              ],
+              [
+                "RoF-B-Clone-",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "PF3D7_1420000",
+                "Splicing factor subunit putative",
+                "Non-synonymous",
+                "tCa/tTa",
+                "S227L"
+              ],
+              [
+                "PF3D7_0728100",
+                "Conserved Plasmodium membrane protein unknown",
+                "Non-synonymous",
+                "aaT/aaA",
+                "N5064K"
+              ],
+              [
+                "",
+                "function",
+                "",
+                "",
+                ""
+              ],
+              [
+                "PF3D7_1359100",
+                "Riboflavin kinase FAD synthase family protein putative",
+                "Non-synonymous",
+                "cTt/cAt",
+                "L672H"
+              ],
+              [
+                "PFC10_API0022",
+                "Probably protein unknown function",
+                "Non-synonymous",
+                "tCa/tTa",
+                "S4L"
+              ],
+              [
+                "PFC10_API0033",
+                "Apicoplast ribosomal protein S5",
+                "Non-synonymous",
+                "aGa/aAa",
+                "R118K"
+              ],
+              [
+                "RoF-B-Clone-",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "PF3D7_0406500",
+                "Conserved Plasmodium protein unknown function",
+                "Non-synonymous",
+                "Ctt/Att",
+                "L1137I"
+              ],
+              [
+                "PF3D7_1316400",
+                "Conserved Plasmodium protein unknown function",
+                "Non-synonymous",
+                "aaC/aaA",
+                "N2K"
+              ],
+              [
+                "PF3D7_1359100",
+                "Riboflavin kinase FAD synthase family protein putative",
+                "Non-synonymous",
+                "cTt/cAt",
+                "L672H"
+              ],
+              [
+                "PFC10_API0022",
+                "Probably protein unknown function",
+                "Non-synonymous",
+                "Caa/Aaa",
+                "Q15K"
+              ],
+              [
+                "PFC10_API0022",
+                "Probably protein unknown function",
+                "Non-synonymous",
+                "tCa/tTa",
+                "S4L"
+              ],
+              [
+                "PFC10_API0033",
+                "Apicoplast ribosomal protein S5",
+                "Non-synonymous",
+                "aGa/aAa",
+                "R118K"
+              ],
+              [
+                "PFC10_API0055",
+                "Apicoplast ribosomal protein S4",
+                "Non-synonymous",
+                "tGt/tAt",
+                "C31Y"
+              ],
+              [
+                "PFC10_API0055",
+                "Apicoplast ribosomal protein S4",
+                "Non-synonymous",
+                "Ggt/Agt",
+                "G25S"
+              ]
+            ]
+          }
+        ],
+        "page": 36
+      }
+    ]
+  }
+}

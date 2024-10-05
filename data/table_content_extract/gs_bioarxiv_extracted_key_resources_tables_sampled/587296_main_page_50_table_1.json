@@ -1,0 +1,359 @@
+{
+  "name": "587296_main_page_50_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 2,
+        "content": "Other"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Solutions and Kits"
+      },
+      {
+        "colspan": 1,
+        "content": "Source, Catalog #"
+      }
+    ],
+    [
+      {
+        "colspan": 2,
+        "content": "Cell Culture"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Dulbecco\u2019s Modified Eagle\u2019s Medium - high glucose"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma, D5671-500ML "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GlutaMAX\u2122 Supplement"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco, 35050038"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Penicillin G potassium salt 95.0 - 102.0%"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich , PENK"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Streptomycin sulfate salt powder"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich, S6501"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FBS QUALIFIED, USA ORIGIN 500ML (GIBCO)"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, 26140079"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Foetal bovine serum, standard grade, US origin, HyClone\u2122"
+      },
+      {
+        "colspan": 1,
+        "content": "VWR, HYCLSH30088.03 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Fetal Bovine Serum non-USA origin"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma, F7524"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Trypsin (1:250), powder"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen, 27250018"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mitomycin C"
+      },
+      {
+        "colspan": 1,
+        "content": "SLS, M4287-2MG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SPARC from murine parietal yolk sac (PYS-2) cells"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma, S5174-25UG "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Recombinant Mouse SPARC Protein, CF"
+      },
+      {
+        "colspan": 1,
+        "content": "Biotechne R&D,942-SP-050"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "recombinant human SPARC"
+      },
+      {
+        "colspan": 1,
+        "content": "SRP3159, Sigma-Aldrich"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SB 431242 Hydrat"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma, S4317"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ac-SDKP Peptide"
+      },
+      {
+        "colspan": 1,
+        "content": "Abbiotec, 350461"
+      }
+    ],
+    [
+      {
+        "colspan": 2,
+        "content": "Protein Analysis"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "EDTA-free Protease Inhibitor Cocktail"
+      },
+      {
+        "colspan": 1,
+        "content": "Bimake, B14001"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Phosphatase Inhibitor Cocktail"
+      },
+      {
+        "colspan": 1,
+        "content": "Bimake, B15001"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Chameleon\u00ae Duo Pre-stained Protein Ladder"
+      },
+      {
+        "colspan": 1,
+        "content": "Li-Cor, 928-60000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Nitrocellulose blotting membranes, roll, pore size 0 ,2 \u00b5m"
+      },
+      {
+        "colspan": 1,
+        "content": "VWR, 10-6000-01 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Revert\u2122 700 Total Protein Stain and Wash Solution"
+      },
+      {
+        "colspan": 1,
+        "content": "Li-Cor, 926-11015 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "10% MP TGX Gel 15W 15 \u00b5l, pkg 10"
+      },
+      {
+        "colspan": 1,
+        "content": "Bio-Rad, 4561036"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "4X PROTEIN SAMPLE LOADING BUFFER"
+      },
+      {
+        "colspan": 1,
+        "content": "Li-Cor, 928-40004"
+      }
+    ],
+    [
+      {
+        "colspan": 2,
+        "content": "RNA Isolation/qPCR"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FavorPrep\u2122 Blood/Cultured Cell Total RNA Mini Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Favorgen, FABRK001-2 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Quiagen RNeasy kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Quiagen, 74104"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RevertAid First Strand cDNA Synthesis Kit "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, K1622"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "LunaScript\u00ae RT SuperMix Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "New England Biolabs, E3010L"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "2x SYBR Green qPCR Master Mix"
+      },
+      {
+        "colspan": 1,
+        "content": "Bimake, B21203"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Luna\u00ae Universal qPCR Master Mix "
+      },
+      {
+        "colspan": 1,
+        "content": "New England Biolabs, M3003E"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Platinum\u2122 SuperFi II Green PCR Master Mix "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, 12369010"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PCR Master Mix"
+      },
+      {
+        "colspan": 1,
+        "content": "Promega, M7502"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Taq DNA Polymerase, recombinant"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific, EP0402"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Pyrococcus furiosus DNA Polymerase, recombinant"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific, EP0501 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "10 mM dNTP mix"
+      },
+      {
+        "colspan": 1,
+        "content": "Fermentas, 71005M"
+      }
+    ]
+  ]
+}

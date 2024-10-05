@@ -1,0 +1,236 @@
+{
+  "headers": [],
+  "caption": "Recorded death events of mice during the first 72 hours after treatment.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Compound Route Dose (mg/kg)"
+      },
+      {
+        "colspan": 1,
+        "content": "Toxicity (death / test)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "1 h"
+      },
+      {
+        "colspan": 1,
+        "content": "2 h"
+      },
+      {
+        "colspan": 1,
+        "content": "24 h"
+      },
+      {
+        "colspan": 1,
+        "content": "48 h"
+      },
+      {
+        "colspan": 1,
+        "content": "72 h"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Vehicle"
+      },
+      {
+        "colspan": 1,
+        "content": "PO"
+      },
+      {
+        "colspan": 1,
+        "content": "5 ml/kg"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "C26"
+      },
+      {
+        "colspan": 1,
+        "content": "PO"
+      },
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "10"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "30"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      },
+      {
+        "colspan": 1,
+        "content": "0/3"
+      }
+    ],
+    [{
+      "colspan": 1,
+      "content": "PO, per os. Vehicle: 5% Tween 20, lecithin (from soy bean: 40 mg in 800 μL distilled water),"
+    }],
+    [
+      {
+        "colspan": 1,
+        "content": "45 % PBS."
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ]
+  ]
+}

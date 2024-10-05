@@ -1,0 +1,945 @@
+{
+  "name": "588542_media-2_page_1_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 3,
+        "content": "Supplementary Table 1: Reagents and Resources"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "REAGENT or RESOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "SOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "IDENTIFIER"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Antibodies (anti-human)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BV421 CD69 (clone: FN50)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#310930; RRID:AB_2561909"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BV570 CD16 (clone: 3G8)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#302036; RRID:AB_2632790"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BV605 TCRV\u03b17.2 (clone:3C10)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#351720; RRID:AB_2563991"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BV711 CD25 (clone: BC96)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#302636; RRID:AB_2562910"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BV750 CD56 (clone: B159)"
+      },
+      {
+        "colspan": 1,
+        "content": "BD"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#747179; RRID: AB_2871913"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BV785 IFN-\u03b3 (clone: 4S.B3)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#502542; RRID: AB_2563882"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FITC Granzyme B (clone: GB11)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#515403; RRID:AB_2114575"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "cFluor YG584 CD4 (clone: SK3)"
+      },
+      {
+        "colspan": 1,
+        "content": "Cytek"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#R7-20041"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PerCP CD4 (clone: SK3)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#980820"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PE MR1 (clone: 26.5)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#361106; RRID: AB_2563043"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "APC CD161 (clone: DX12)"
+      },
+      {
+        "colspan": 1,
+        "content": "BD"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#550968; RRID:AB_398482"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "AlexaFluor700 CD3 (clone: UCHT1)"
+      },
+      {
+        "colspan": 1,
+        "content": "BD"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 557943; RRID:AB_396952"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "APC-Cy7 CD8 (clone: SK1)"
+      },
+      {
+        "colspan": 1,
+        "content": "BD"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#560179; RRID:AB_1645481"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PE-Cy7 CD8b (clone: SIDI8BEE)"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#25527341; RRID: AB_11217487"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SparkNIR685 CD19 (clone:HIB19)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#302270; RRID:AB_2832581"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PE-Vio770 CD158i_KIR2DS4 (clone:REA860)"
+      },
+      {
+        "colspan": 1,
+        "content": "Miltenyi Biotec"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#130114617; RRID:AB_2655372"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Fc Receptor Binding Inhibitor Polyclonal Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "eBioscience"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#14-9161-73; RRID:AB_468582"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Zombie red Fixable viability kit"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 423110"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Sorting fluorophore antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "APC CD161 (clone: DX12)"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Pharmingen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 550968; RRID:AB_398482"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PE MR1 tetramer"
+      },
+      {
+        "colspan": 1,
+        "content": "PE"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Alexa Fluor 700 CD3 (clone: UCHT1)"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Biosciences"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 557943; RRID:AB_396952"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BV480 CD14 (clone: M5E2)"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Pharmingen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 746304; RRID:AB_2743629"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PE-Cy5 CD19 (clone: HIB19)"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 302210; RRID: AB_314240"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FITC CD16 (clone: B73.1)"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 360716; RRID: AB_2563071"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PE-Cy7 CD56 (clone: CMSSB)"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 25-0567-42; RRID:AB_11041529"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BV650 TCRgd (clone: B1.1)"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Pharmingen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 564156; RRID:AB_2738628"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BV510 TCRVa24 (iNKT) (clone: 6B11)"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 342918; RRID: AB_2564006"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Hashtag antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Antibody (Sequence) (Clone)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0251 MB_Exvivo (GTCAACTCTTTAGCG) (LNH-94;2M2)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 394661; RRID:AB_2801031"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0252 MB_Rest (TGATGGCCTATTGGG) (LNH-94;2M2)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 394663; RRID:AB_2801032"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0253 MB_Mtblysate (TTCCGCCTCTCTTTG) (LNH-94;2M2)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 394665; RRID:AB_2801033"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0254 HD_073409_Exvivo (AGTAAGTTCAGCGTA) (LNH-94;2M2)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 394667; RRID:AB_2801034"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0255 HD_073409_Rest (AAGTATCGTTTCGCA) (LNH-94;2M2)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 394669; RRID:AB_2801035"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0256 HD_073409_Mtblysate (GGTTGCCAGATGTCA) (LNH-94;2M2)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 394671; RRID:AB_2801036"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "TotalseqC antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0072 CD4 (TGTTCCCGCTCAACT) (RPA-T4)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 300567; RRID:AB_2800725"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0390 CD127 (GTGTGTTGTCCTATG) (A019D5)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 351356; RRID:AB_2800937"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0081 CD14 (TCTCAGACCTCCGTA) (M5E2)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 301859; RRID:AB_2800736"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0396 CD26 (GGTGGCTAGATAATG) (BA5b)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 302722; RRID:AB_2810435"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq1-C0084 CD 56 (NCAM) (TTCGCCGCATTGAGT) (QA17A16)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 392425; RRID:AB_2801024"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq1-C0050 CD19 (CTGGGCAATTACTCG) (HIB19)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 302265; RRID:AB_2800741"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0147 CD62L (GTCCCTGCAACTTGA) (DREG-56)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 304851; RRID:AB_2800770"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0155 CD107a (LAMP-1) (CAGCCCACTGCAATA) (H4A3)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 328649; RRID:AB_2800854"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0149 CD161 (GTACGCAGTCCTTCT) (HP-3G10)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 339947; RRID:AB_2810532"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0158 CD134 (OX40) (AACCCACCGTTGTTA) (Ber-ACT35 (ACT35)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 350035; RRID:AB_2800932"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0101 CD335 (NKg46) (ACAATTTGAACAGCG) (9 E2)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 331941; RRID:AB_2800874"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0171 CD278 (ICOS) (CGCGCACCCATTAAA) (C398.4A)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 313553; RRID:AB_2800874"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0034 CD3 (CTCATTGTAACTCCT) (UCHT1)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 300479; RRID:AB_2800823"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0146 CD69 (GTCTCTTGGCTTAAA) (FN50)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 310951; RRID:AB_2800810"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0046 CD8 (GCGCAACTTGATGAT) (SK1)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 344753; RRID:AB_2800922"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0159 HLA-DR (AATAGCGAGCAAGTA) (L243)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 307663; RRID:AB_2800795"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0153 KLRG-1 (MAFA) (CTTATTTCCTGCCCT) (SA231A2)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 367737; RRID:AB_2904401"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0063 CD45RA (TCAATCCTTCCGCTT) (HI100)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 304163; RRID:AB_2800764"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0080 CD8a (GCTGCGCTTTCCATT) (RPA-T8)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 301071; RRID:AB_2800730"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0007 CD274 (B7-H1, PD-L1) (GTTGTCCGACAATAC) (29E.2A3)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 329751; RRID:AB_2800860"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0032 CD154 (GCTAGATAGATGCAA) (24-31)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 310849; RRID:AB_2800808"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0053 CD11c (TACGCCTATAACTTG) (S-HCL-3)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 371521; RRID:AB_2801018"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0083 CD16 (AAGTTCACTCTTTGC) (3G8)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 302065; RRID:AB_2800738"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0867 CD94 (CTTTCCGGTCCTACA) (DX22)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 305523; RRID:AB_2814143"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0420 CD158 (KIR2DL1/S1/S3/S5) (TATCAACCAACGCTT) (HP-MA4)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 339517; RRID:AB_2814252"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0592 CD158b (KIR2DL2/L3, NKAT2 (GACCCGTAGTTTGAT) (DX27)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 312619; RRID:AB_2819944"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0156 CD96 (Fas) (CCAGCTCATTAGAGC) (DX2)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 305651; RRID:AB_2800787"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0047 CD56 (NCAM) (TCCTTTCCTGATAGG) (5.1H11)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 362559; RRID:AB_2801002"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0151 CD152 (CTLA-4) (ATGGTTCACGTAATC) (BNI3)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 369621; RRID:AB_2801015"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0165 CD314 (NK2D) (CGTGTTTGTTCCTCA) (1D11)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 320837; RRID:AB_2800844"
+      }
+    ]
+  ]
+}

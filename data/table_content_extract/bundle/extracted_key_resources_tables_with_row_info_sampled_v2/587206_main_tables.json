@@ -1,0 +1,93 @@
+{
+  "job_id": 98,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_587206_main",
+  "pdf_file": "587206_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                ""
+              ],
+              [
+                "Strain Genotype",
+                "Source"
+              ],
+              [
+                "X8665-12-22D MATa srs2-\u2206PIM",
+                "This study"
+              ],
+              [
+                "X8198-15B srs2-SIMMUT",
+                "This study"
+              ],
+              [
+                "G1114 MATa srs2-7AV::HIS3",
+                "(Saponaro et al., 2010)"
+              ],
+              [
+                "X8650-2-1D MATa srs2-3KR::NAT",
+                "This study"
+              ],
+              [
+                "X8659-14A MATa srs2-2SA",
+                "This study"
+              ],
+              [
+                "G854 MAT\u03b1 srs2-\u2206(875-902)::HPH",
+                "(Colavito et al., 2009)"
+              ],
+              [
+                "X8047-1B MAT\u03b1 rfa1-zm2",
+                "(Dhingra et al., 2021)"
+              ],
+              [
+                "X8650-2C MATa srs2-3KR::NAT rfa1-zm2",
+                "This study"
+              ],
+              [
+                "X8666-35-6A MATa srs2-\u2206PIM rfa1-zm2",
+                "This study"
+              ],
+              [
+                "X8210-2B MATa rfa1-t33",
+                "(Dhingra et al., 2021)"
+              ],
+              [
+                "X8745-2A MATa srs2-3KR::NAT rfa1-t33",
+                "This study"
+              ],
+              [
+                "X8743-13A MAT\u03b1 srs2-\u2206PIM rfa1-t33",
+                "This study"
+              ],
+              [
+                "X8198-15A srs2-SIMMUT rfa1-zm2",
+                "This study"
+              ],
+              [
+                "X9091-14A MATa mec1-S1964E rfa1-zm2",
+                "This study"
+              ]
+            ]
+          }
+        ],
+        "page": 31
+      },
+      {
+        "tables": [
+          {
+            "rows": []
+          }
+        ],
+        "page": 32
+      }
+    ]
+  }
+}

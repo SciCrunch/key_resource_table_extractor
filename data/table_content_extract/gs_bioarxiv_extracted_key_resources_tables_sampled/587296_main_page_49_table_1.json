@@ -1,0 +1,335 @@
+{
+  "name": "587296_main_page_49_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 4,
+        "content": "Cultured Cells"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Background Mouse Strain"
+      },
+      {
+        "colspan": 1,
+        "content": "Vendor or Source"
+      },
+      {
+        "colspan": 1,
+        "content": "Sex (F, M, or unknown)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " SNL 76/7"
+      },
+      {
+        "colspan": 1,
+        "content": " SIM"
+      },
+      {
+        "colspan": 1,
+        "content": "34 "
+      },
+      {
+        "colspan": 1,
+        "content": " unknown"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " STO"
+      },
+      {
+        "colspan": 1,
+        "content": " SIM"
+      },
+      {
+        "colspan": 1,
+        "content": "35 "
+      },
+      {
+        "colspan": 1,
+        "content": " unknown"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "STO Sect"
+      },
+      {
+        "colspan": 1,
+        "content": " SIM"
+      },
+      {
+        "colspan": 1,
+        "content": " This study"
+      },
+      {
+        "colspan": 1,
+        "content": " unknown"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "3T3"
+      },
+      {
+        "colspan": 1,
+        "content": "Swiss albino"
+      },
+      {
+        "colspan": 1,
+        "content": "?"
+      },
+      {
+        "colspan": 1,
+        "content": "unknown"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "3T3 Sect"
+      },
+      {
+        "colspan": 1,
+        "content": " Swiss albino"
+      },
+      {
+        "colspan": 1,
+        "content": " This study"
+      },
+      {
+        "colspan": 1,
+        "content": " unknown"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " A5"
+      },
+      {
+        "colspan": 1,
+        "content": " C57BL/J6:129Sv"
+      },
+      {
+        "colspan": 1,
+        "content": "12 "
+      },
+      {
+        "colspan": 1,
+        "content": " F"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "A5 sparc+/-"
+      },
+      {
+        "colspan": 1,
+        "content": " C57BL/J6:129Sv"
+      },
+      {
+        "colspan": 1,
+        "content": " This study"
+      },
+      {
+        "colspan": 1,
+        "content": " F"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "A5 sparc+/+Sect"
+      },
+      {
+        "colspan": 1,
+        "content": " C57BL/J6:129Sv"
+      },
+      {
+        "colspan": 1,
+        "content": " This study"
+      },
+      {
+        "colspan": 1,
+        "content": " F"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "A5 sparc+/+SmCect"
+      },
+      {
+        "colspan": 1,
+        "content": " C57BL/J6:129Sv"
+      },
+      {
+        "colspan": 1,
+        "content": " This study"
+      },
+      {
+        "colspan": 1,
+        "content": " F"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "A5 sparc+/+mCect"
+      },
+      {
+        "colspan": 1,
+        "content": " C57BL/J6:129Sv"
+      },
+      {
+        "colspan": 1,
+        "content": "16 "
+      },
+      {
+        "colspan": 1,
+        "content": " F"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "A5 des+/+Dect"
+      },
+      {
+        "colspan": 1,
+        "content": " C57BL/J6:129Sv"
+      },
+      {
+        "colspan": 1,
+        "content": " This study"
+      },
+      {
+        "colspan": 1,
+        "content": " F"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "A5 des+/-"
+      },
+      {
+        "colspan": 1,
+        "content": " C57BL/J6:129Sv"
+      },
+      {
+        "colspan": 1,
+        "content": " This study"
+      },
+      {
+        "colspan": 1,
+        "content": " F"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "A5 des+/+DmCect"
+      },
+      {
+        "colspan": 1,
+        "content": " C57BL/J6:129Sv"
+      },
+      {
+        "colspan": 1,
+        "content": " This study"
+      },
+      {
+        "colspan": 1,
+        "content": " F"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " He2"
+      },
+      {
+        "colspan": 1,
+        "content": " Balb/c"
+      },
+      {
+        "colspan": 1,
+        "content": "12 "
+      },
+      {
+        "colspan": 1,
+        "content": " M"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "He2K2 sparc+/-"
+      },
+      {
+        "colspan": 1,
+        "content": " Balb/c"
+      },
+      {
+        "colspan": 1,
+        "content": " This study"
+      },
+      {
+        "colspan": 1,
+        "content": " M"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " W4"
+      },
+      {
+        "colspan": 1,
+        "content": " C3H"
+      },
+      {
+        "colspan": 1,
+        "content": "36 "
+      },
+      {
+        "colspan": 1,
+        "content": " F"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "AB2.2"
+      },
+      {
+        "colspan": 1,
+        "content": "129Sv"
+      },
+      {
+        "colspan": 1,
+        "content": "59"
+      },
+      {
+        "colspan": 1,
+        "content": "F"
+      }
+    ]
+  ]
+}

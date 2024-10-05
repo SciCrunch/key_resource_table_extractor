@@ -1,0 +1,20 @@
+{
+  "job_id": 90,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_588669_main",
+  "pdf_file": "588669_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": []
+          }
+        ],
+        "page": 11
+      }
+    ]
+  }
+}

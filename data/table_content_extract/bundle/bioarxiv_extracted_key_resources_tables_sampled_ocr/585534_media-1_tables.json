@@ -1,0 +1,227 @@
+{
+  "paper_id": "585534_media-1",
+  "result": {
+    "pages": [
+      {
+        "page": 11,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Genes",
+                " Strand",
+                "Sequence"
+              ],
+              [
+                "A ATTAIT",
+                "Forward",
+                "5\u2019- AAC AGC AAC TCC CAC TCT TC -3\u2019"
+              ],
+              [
+                "SIAE Ree",
+                "Reverse",
+                "5\u2019- CCT GTT GCT GTA GCC GTATT -3\u2019"
+              ],
+              [
+                "ee pe ee",
+                "Forward",
+                "5\u2019- CCA CCA CAG CAG TTC TTA CA -3\u2019"
+              ],
+              [
+                "LLU RK",
+                "Reverse",
+                "5\u2019- TGC TCT GTT GTA GTG GAA AGG -3\u2019"
+              ],
+              [
+                "",
+                "Forward",
+                "5\u2019- CTG AGG CAA GCA GAC TGA ATA -3\u2019"
+              ],
+              [
+                "LRTI",
+                "Reverse",
+                "5\u2019- CCC TCC ATT CCC ATT AGA GTT AG -3\u2019"
+              ],
+              [
+                "",
+                "Forward",
+                "5\u2019- AGA GAC TAG TCG GCT CAA CA -3\u201d"
+              ],
+              [
+                "LRITL",
+                "Reverse",
+                "5\u00b0\u2019- GGA AGG GAC AGA TGC CAA TAG -3\u2019"
+              ],
+              [
+                "",
+                "Forward",
+                "5\u2019- CAG TCA GAG CAG CCA TAC AA -3\u201d"
+              ],
+              [
+                "POM",
+                "Reverse",
+                "5\u2019- GTC CTG GAG CAC ACA CTT AAT -3\u2019"
+              ],
+              [
+                "wee",
+                "Forward",
+                "5\u2019- AAG CTG TCA CCA CCA TAG AAA G -3\u2019"
+              ],
+              [
+                "Pons",
+                "Reverse",
+                "5\u2019- GCA AGG AGG CTG GTT CTT ATA G -3\u2019"
+              ],
+              [
+                "ey es",
+                "Forward",
+                "5\u2019- CAT CAA GAC GAC ATA GGA CAC C -3\u2019"
+              ],
+              [
+                "DINIALS",
+                "Reverse",
+                "5\u2019- CAT CGA CTT CGT AGC GTG ATA A -3\u2019\u201d"
+              ],
+              [
+                "gp49B",
+                "Forward",
+                "5\u2019- ATT CTG GAA CCC AGG ACT GC -3\u2019"
+              ],
+              [
+                "(LILRB4a)",
+                "Reverse",
+                "5\u2019- GGA ACC CTG ACA CCA GGT AA -3\u2019"
+              ],
+              [
+                "anvoite",
+                " Forward",
+                "5\u2019- CCC TTC CTC AGT CAT AGC CG -3\u2019"
+              ],
+              [
+                "atte",
+                "Reverse",
+                "5\u2019- CTA TGA CTT CCA CCG TAG GGC -3\u2019"
+              ],
+              [
+                "Ontin",
+                "Forward",
+                "5\u2019- GCT ACC ACC ATC AGT CCT CAG -3\u2019"
+              ],
+              [
+                "ee he ee",
+                " Reverse",
+                "5\u2019- GAC ACT GGC TGC TTG TGA TTC -3\u2019"
+              ],
+              [
+                "eecr itr.",
+                "Forward",
+                "5\u2019- CAA GCA GGG CTC ACA CTC AT -3\u201d"
+              ],
+              [
+                "Nome hte:",
+                "Reverse",
+                "5\u2019- GGC CAT GGG AAG TAT GGC TT -3\u2019"
+              ],
+              [
+                "wr ders.",
+                "Forward",
+                "5\u2019- GGA CTG GCC GCA CAG C -3\u2019"
+              ],
+              [
+                "anti",
+                "Reverse",
+                "5\u2019- GCC TCC CTT GCC CTT TTC TT -3\u2019"
+              ],
+              [
+                "ir G5:",
+                "Forward",
+                "5\u2019- AGG CGC TGT CAT CGATTT CT -3\u2019"
+              ],
+              [
+                "tiv",
+                "Reverse",
+                "5\u2019- ATG GCC TTG TAG ACA CCT TGG -3\u2019"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "Target",
+                "Isotype",
+                "Conjugate",
+                "Clone",
+                "Company",
+                "Cat #"
+              ],
+              [
+                "ki67",
+                "Rabbit IgG",
+                "Unconjugated",
+                "=",
+                "Abclonal",
+                "A16919"
+              ],
+              [
+                "CD4",
+                "Rat IgG2b, \u00ab",
+                "Alexa Fluor\u00ae 700",
+                "GK1.5",
+                "BioLegend",
+                "100429"
+              ],
+              [
+                "CD8a",
+                "Rat IgG2a, k",
+                "Pacific Blue\u2122",
+                "53-6.7",
+                "BioLegend",
+                "100728"
+              ],
+              [
+                "CD86",
+                "Rat IgG2a, \u00ab",
+                "Alexa Fluor\u00ae 488",
+                "GL-1",
+                "BioLegend",
+                "105017"
+              ],
+              [
+                "CD163",
+                "Rat IgG2a, xk",
+                "PE...\u2014\u2014",
+                "S15049F",
+                "BioLegend",
+                "156703"
+              ],
+              [
+                "CD45",
+                "Rat IgG2b, k",
+                "Alexa Fluor\u00ae 594",
+                "30-F11",
+                "B ioLegend",
+                "103144"
+              ],
+              [
+                "FOXP3",
+                "Mouse IgGl, \u00abx",
+                "Alexa Fluor\u00ae 488",
+                "150D",
+                "B ioLegend",
+                "320011"
+              ],
+              [
+                "LILRB4",
+                "Rabbit IgG",
+                "Unconjugated",
+                "\u2018-",
+                "Abclonal",
+                "A7073"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

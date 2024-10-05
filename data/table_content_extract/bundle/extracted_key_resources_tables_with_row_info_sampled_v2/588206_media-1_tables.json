@@ -1,0 +1,503 @@
+{
+  "job_id": 68,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_588206_media-1",
+  "pdf_file": "588206_media-1.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Sl.No.",
+                "Sex",
+                "Age",
+                "Collected Sample",
+                "Glucose  Random (mg/dl)",
+                "HbA1c",
+                "GAD65 antibody",
+                "Anti-insulin"
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "antibody"
+              ],
+              [
+                "1",
+                "M",
+                "27",
+                "Blood",
+                "109",
+                "4.1",
+                "Negative",
+                "Negative"
+              ],
+              [
+                "2",
+                "M",
+                "25",
+                "Blood",
+                "98",
+                "5.0",
+                "Negative",
+                "Negative"
+              ],
+              [
+                "3",
+                "F",
+                "23",
+                "Blood",
+                "95",
+                "4.6",
+                "Negative",
+                "Negative"
+              ],
+              [
+                "4",
+                "M",
+                "28",
+                "Blood",
+                "102",
+                "4.2",
+                "Negative",
+                "Negative"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "REAGENT or RESOURCE",
+                "SOURCE",
+                "IDENTIFIER"
+              ],
+              [
+                "Antibodies PE anti-mouse CD8a",
+                "BioLegend",
+                "Cat# 100708;"
+              ],
+              [
+                "FITC anti-mouse CD8a",
+                "BioLegend",
+                "RRID:AB_312747 Cat# 100705;"
+              ],
+              [
+                "APC anti-mouse CD8a",
+                "BioLegend",
+                "RRID:AB_312744 Cat# 100711;"
+              ],
+              [
+                "PE-Cy5 Mouse Anti-Human CD8",
+                "BD Pharmingen",
+                "RRID:AB_312750 Cat#555368"
+              ],
+              [
+                "BD IMag Anti-Mouse CD8a Particles - DM",
+                "BD Bioscience",
+                "Cat# 551516"
+              ],
+              [
+                "PE anti-mouse CD28",
+                "BioLegend",
+                "Cat# 102106;"
+              ],
+              [
+                "FITC anti-mouse CD69",
+                "BioLegend",
+                "RRID:AB_312871 Cat# 104505;"
+              ],
+              [
+                "APC anti-mouse CD183 (CXCR3)",
+                "BioLegend",
+                "RRID:AB_313108 Cat# 155906; RRID:AB_281407"
+              ],
+              [
+                "FITC anti-mouse CD279 (PD-1)",
+                "BioLegend",
+                "8 Cat# 135214; RRID:AB_106802"
+              ],
+              [
+                "PE anti-mouse CD223 (LAG-3)",
+                "BioLegend",
+                "38 Cat# 125207; RRID:AB_2133344"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "Sl.No.",
+                "Sex",
+                "Age",
+                "Collected Sample",
+                "Glucose  Random (mg/dl)",
+                "HbA1c",
+                "GAD65 antibody",
+                "Anti-insulin"
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "antibody"
+              ],
+              [
+                "1",
+                "F",
+                "18",
+                "Blood",
+                "378",
+                "7.9",
+                "Positive",
+                "Positive"
+              ],
+              [
+                "2",
+                "M",
+                "19",
+                "Blood",
+                "213",
+                "7.6",
+                "Positive",
+                "Positive"
+              ],
+              [
+                "3",
+                "M",
+                "20",
+                "Blood",
+                "518",
+                "12.6",
+                "Positive",
+                "Positive"
+              ],
+              [
+                "4",
+                "F",
+                "23",
+                "Blood",
+                "214",
+                "8.0",
+                "Positive",
+                "Positive"
+              ],
+              [
+                "5",
+                "F",
+                "28",
+                "Blood",
+                "229",
+                "8.7",
+                "Positive",
+                "Positive"
+              ],
+              [
+                "6",
+                "M",
+                "24",
+                "Blood",
+                "357",
+                "7.9",
+                "Positive",
+                "Positive"
+              ],
+              [
+                "7",
+                "M",
+                "24",
+                "Blood",
+                "330",
+                "8.2",
+                "Positive",
+                "Positive"
+              ]
+            ]
+          }
+        ],
+        "page": 9
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "PE Mouse Anti-TCF-7/TCF-1 Antibody",
+                "BD Biosciences",
+                "Cat# 564217; RRID:AB_268784"
+              ],
+              [
+                "Rat Anti-Insulin Monoclonal antibody",
+                "R&D Systems",
+                "5 Cat# MAB1417; RRID:AB_212653"
+              ],
+              [
+                "IGF1 Monoclonal Antibody",
+                "Thermo Fisher Scientific",
+                "3 Cat# MA5-23772; RRID:AB_260972"
+              ],
+              [
+                "Mouse Anti-Human IGF1R Monoclonal antibody",
+                "R&D Systems",
+                "3 Cat# MAB391; RRID:AB_212240"
+              ],
+              [
+                "Anti-\u03b2-Actin Antibody",
+                "Sigma-Aldrich",
+                "9 Cat# A5441;"
+              ],
+              [
+                "Anti-mTOR Antibody",
+                "Cell Signaling",
+                "RRID:AB_476744 Cat# 2972;"
+              ],
+              [
+                "Anti-phospho-mTOR",
+                "Technology Cell Signaling",
+                "RRID:AB_330978 Cat# 2971;"
+              ],
+              [
+                "FITC anti-mouse CD4",
+                "Technology  BioLegend",
+                "RRID:AB_330970 Cat# 100406;"
+              ],
+              [
+                "FITC anti-mouse CD11c",
+                "BioLegend",
+                "4 Cat# 117306;"
+              ],
+              [
+                "",
+                "",
+                "RRID:AB_313775"
+              ],
+              [
+                "PE anti-mouse/human CD11b",
+                "BioLegend",
+                "Cat# 101208; RRID:AB_312791"
+              ],
+              [
+                "FITC anti-mouse F4/80 Recombinant",
+                "BioLegend",
+                "Cat# 157309; RRID:AB_2876535"
+              ],
+              [
+                "FITC anti-mouse Ly-6G/Ly-6C (Gr-1)",
+                "BioLegend",
+                "Cat# 108405;"
+              ],
+              [
+                "Goat anti-Mouse IgG (H+L) Secondary Antibody,",
+                "Thermo Fisher",
+                "RRID:AB_313370 Cat# 31430;"
+              ],
+              [
+                "HRP Mouse Anti-Hamster IgG PE MAb",
+                "Scientific  R&D Systems",
+                "RRID:AB_228307 Cat# F0120; RRID:AB_185686"
+              ],
+              [
+                "Goat anti-Mouse IgG (H+L) Secondary Antibody,",
+                "Novus Biologicals",
+                "1 Cat# NB720-F;"
+              ],
+              [
+                "FITC",
+                "",
+                ""
+              ],
+              [
+                "Chemicals, peptides, and recombinant proteins",
+                "India",
+                ""
+              ],
+              [
+                "Lymphocyte separation medium, human",
+                "Himedia",
+                "Cat# HiSep LSM"
+              ],
+              [
+                "Lymphocyte separation medium, mouse",
+                "Himedia",
+                "1077, Cat# HiSep LSM 1084,"
+              ]
+            ]
+          }
+        ],
+        "page": 10
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "BALB/c",
+                "Laboratories, USA State Centre for Laboratory Animal Breeding, West Bengal Livestock Development Corporation Limited, India",
+                "000664"
+              ],
+              [
+                "Crl:CD1-Foxn1nu",
+                "CDRI, Lucknow",
+                "RRID:IMSR_CRL:086"
+              ],
+              [
+                "siIGF1R sense: 5\u2019 AACCCTCCTCCGGAGCCAGACCCTGTCTC 3\u2019 siIGF1R antisense: 5\u2019",
+                "Integrated DNA Technologies",
+                ""
+              ],
+              [
+                "ImageJ",
+                "Fiji",
+                ""
+              ],
+              [
+                "FlowJo 10.8.1",
+                "BD Biosciences",
+                ""
+              ],
+              [
+                "Seahorse XF Analyzer software GraphPad Prism 8",
+                "Agilent GraphPad Software",
+                ""
+              ],
+              [
+                "STRING v.11.5 BioRender",
+                "Inc. Global Core Biodata Resource Biorender Inc.",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 11
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Name of gene",
+                "Primers 5\u2019-3\u2019",
+                "Tm (\u00b0C)",
+                "Primer length"
+              ],
+              [
+                "",
+                "",
+                "",
+                "(base)"
+              ],
+              [
+                "perforin",
+                "Forward: GATGTGAACCCTAGGCCAGA",
+                "59",
+                "20"
+              ],
+              [
+                "granzyme b",
+                "Reverse: GGTTTTTGTACCAGGCGAAA",
+                "55",
+                "20"
+              ],
+              [
+                "",
+                "Reverse: TGGGGAATGCATTTTACCAT",
+                "53",
+                "20"
+              ],
+              [
+                "ifng",
+                "Forward: GGTGACATGAAAATCCTGCAGAGC Reverse: TCAGCAGCGAGTGATTTTCCGCTT",
+                "58 61",
+                "24 24"
+              ],
+              [
+                "g-6-pd",
+                "Forward: GGCCAGTTTCTATGAGGAGTATG Reverse: GCTGATGTTGAGAGGCAGTT",
+                "65 65",
+                "23 20"
+              ],
+              [
+                "pcx 1",
+                "Reverse: CCGCCTAAGGTTCTTCATTA Forward: GTAAAGACCAACATCCCCTT",
+                "54 54",
+                "20 20"
+              ],
+              [
+                "pdk 1",
+                "Reverse: ATGACATGTCCGAGGTAATG Forward: CTCCTTATTGTTCGGTGGAA",
+                "54 55",
+                "20 20"
+              ],
+              [
+                "pdk 3",
+                "Reverse: TTGTATTGTCTGTCCTGGTG Forward: AACTCTCGTTACTCTGGGTA",
+                "54 54",
+                "20 20"
+              ],
+              [
+                "idh 1",
+                "Reverse: TACAGACGAGAAATTGGCAA Forward: GTGGAGATGCAAGGAGATGAA",
+                "55 64",
+                "20 21"
+              ],
+              [
+                "idh 2",
+                "Reverse: ATGCAGATCCAGTTCCACATAG Forward: AACACCGACGAGTCCATTTC",
+                "64 65",
+                "22 20"
+              ],
+              [
+                "fh 1",
+                "Reverse: TCAAGTAGAGCGGCCATTTC Forward: TGCTGAAGTAAACCAGGAGTATG",
+                "65 64",
+                "20 23"
+              ],
+              [
+                "igf 1",
+                "Reverse: CCAAACCACCAGAGGAAAGT Forward: TCTGAGGAGACTGGAGATGT",
+                "65 54",
+                "20 20"
+              ],
+              [
+                "igf 1R",
+                "Reverse: TAGGTCTTGTTTCCTGCACT Forward: GAGATGACCAATCTCAAGGA",
+                "55 55",
+                "20 20"
+              ],
+              [
+                "igf 2",
+                "Reverse: CTTGTTCCCCACAATGTAGT Forward: GGCAAGTTCTTCCAATATGA",
+                "54 55",
+                "20 20"
+              ],
+              [
+                "insulin R",
+                "Reverse: CTTTGGGTGGTAACACGAT Forward: ATACCATGAATTCCAGCAAC Reverse: ATGTTGATGATCAGGCTACC",
+                "55 54 54",
+                "19 20 20"
+              ]
+            ]
+          }
+        ],
+        "page": 12
+      }
+    ]
+  }
+}

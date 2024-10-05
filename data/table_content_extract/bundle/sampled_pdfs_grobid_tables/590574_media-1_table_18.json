@@ -1,0 +1,86 @@
+{
+  "headers": [],
+  "notes": "(C, C-aromatic), 167.8 (C, C-7). UPLC-MS: Rt 2.69 (100%) MS (ESI) -: 386.2 [M-H] -. \u2022 Methyl Obtained as beige solid in 25% yield. 1 H-NMR (DMSO-D6), δ: 3.81 (s, 3H, H-8), 7.20-7.24 (m, 1H, H-aromatic), 7.42-7.44 (m, 1H, H-aromatic), 7.53 (d, J= 8.6 Hz, 2H, Haromatic), 7.68-7.60 (m, 1H, H-aromatic), 7.85 (dd, J1= 6.5 Hz, J2= 1.5 Hz, 1H, Haromatic), 7.95 (d, J= 8.6 Hz, 2H, H-aromatic), 10.41 (bs, 1H, NH). 13 C-NMR (DMSO-D6), δ: 53.1 (CH3, C-8), 121.2, 124.9, 128.9, 131.5, 134.8, 138.8 (CH, C-aromatic), 102.4, 119.4, 138.3, 138.9 (C, C-aromatic), 167.8 (C, C-7). UPLC-MS: Rt 2.39 (100%) MS (ESI) + : 418.1 [M+H] + . (CH, C-aromatic), 119.6, 137.9, 147.1 (C-aromatic), 167.9 (C, C-11). UPLC-MS: Rt 2.10 (100%) MS (ESI) + : 282.0 [M+H] + .",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "\u2022 Ethyl 2-((2,4-dichloro-5-methylphenyl)sulfonamido)benzoate (50)"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Obtained as pink solid in 43% yield. 1 H-NMR (DMSO-D6), δ: 1.33 (t, J= 7.1 Hz, 3H, H-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "9), 2.39 (s, 3H, H-16), 4.36 (q, J= 7.1 Hz, 2H, H-8), 7.14-7.18 (m, 1H, H-aromatic), 7.40-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "7.42 (m, 1H, H-aromatic), 7.52-7.56 (m, 1H, H-aromatic), 7.83 (s, 1H, H-aromatic), 7.95"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(dd, J1= 7.0 Hz, J2= 1.0 Hz, 1H, H-aromatic), 8.19 (s, 1H, H-aromatic), 11.10 (bs, 1H,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "NH). 13 C-NMR (DMSO-D6), δ: 14.3 (CH3), 19.5 (CH3), 62.3 (CH2, C-8), 118.0, 124.0,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "131.7, 132.1, 134.1, 134.5 (CH, C-aromatic), 116.7, 129.0, 135.3, 136.7, 138.7, 140.0"
+    }],
+    [{
+      "colspan": 1,
+      "content": "\u2022 Methyl 2-((p-tolylmethyl)sulfonamido)benzoate (56)"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Obtained as white solid in 15% yield. 1 H-NMR (CDCl3), δ: 2.34 (s, 3H, H-7), 3.85 (s, 3H,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "H-16), 4.37 (s, 2H, H-8), 7.06-7.14 (m, 5H, H-aromatic), 7.50-7.53 (m, 1H, H-aromatic),"
+    }],
+    [{
+      "colspan": 1,
+      "content": "7.73-7.75 (m, 1H, H-aromatic), 8.02 (dd, J1= 7.9 Hz, J2= 1.6Hz, 1H, H-aromatic), 10.28"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(bs, 1H, NH). 13 C-NMR (CDCl3), δ: 21.1 (CH3, C-7), 52.4 (CH3, C-16), 58.0 (CH2, C-8),"
+    }],
+    [{
+      "colspan": 1,
+      "content": "118.0, 122.6, 129.4, 130.5, 131.3, 134.7 (CH, C-aromatic), 115.4, 125.1, 138.7, 141.0"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(C-aromatic), 167.9 (C, C-15). UPLC-MS: Rt 2.30 (100%) MS (ESI) -: 318.0 [M-H] -."
+    }],
+    [{
+      "colspan": 1,
+      "content": "\u2022 Methyl 2-(furan-2-sulfonamido)benzoate (57)"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Obtained as pink solid in 57% yield. 1 H-NMR (DMSO-D6), δ: 3.84 (s, 3H, H-12), 6.65"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(dd, J1= 3.5 Hz, J2= 1.7 Hz, 1H, H-aromatic), 7.24-7.27(m, 2H, H-aromatic), 7.49 (dd,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "J1= 8.2 Hz, J2= 0.6 Hz, 1H, H-aromatic), 7.60-7.63 (m, 1H, H-aromatic), 7.89 (dd, J1="
+    }],
+    [{
+      "colspan": 1,
+      "content": "7.8, J2= 1.3 Hz, 1H, H-aromatic), 7.96-7.98 (m, 1H, H-aromatic), 10.62 (bs, 1H, NH). 13 C-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "NMR (DMSO-D6), δ: 53.1 (CH3, C-12), 112.2, 118.6, 121.3, 125.0, 131.4, 134.7, 148.6"
+    }]
+  ]
+}

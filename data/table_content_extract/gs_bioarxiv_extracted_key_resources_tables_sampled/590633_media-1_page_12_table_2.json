@@ -1,0 +1,115 @@
+{
+  "name": "590633_media-1_page_12_table_2",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "ID"
+      },
+      {
+        "colspan": 1,
+        "content": "Age"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Sex"
+      },
+      {
+        "colspan": 1,
+        "content": "Pathological diagnoses"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "1"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      },
+      {
+        "colspan": 1,
+        "content": "Normal liver"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "2"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      },
+      {
+        "colspan": 1,
+        "content": "Normal liver"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      },
+      {
+        "colspan": 1,
+        "content": "Normal liver"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "4 5"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "N/A N/A"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A N/A"
+      },
+      {
+        "colspan": 1,
+        "content": "Normal liver Normal liver"
+      }
+    ]
+  ]
+}

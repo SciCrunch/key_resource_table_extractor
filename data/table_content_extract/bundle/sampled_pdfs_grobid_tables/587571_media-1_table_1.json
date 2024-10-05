@@ -1,0 +1,651 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Primer type"
+      },
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward primer"
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse primer"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "RPS28"
+      },
+      {
+        "colspan": 1,
+        "content": "GGTGACGTGCTCACCCTATT"
+      },
+      {
+        "colspan": 1,
+        "content": "TTCCGTGGGCTAAGTAGTGG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Irx3"
+      },
+      {
+        "colspan": 1,
+        "content": "ACAGCACCTGCTGGGACTT"
+      },
+      {
+        "colspan": 1,
+        "content": "TTCTCCACTTCCAAGGCACT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Pax6"
+      },
+      {
+        "colspan": 1,
+        "content": "ATGGCAAACAACCTGCCTAT"
+      },
+      {
+        "colspan": 1,
+        "content": "CATGGGCTGACTGTTCATGT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Dbx1"
+      },
+      {
+        "colspan": 1,
+        "content": "CTGAAGTTTGGGGTGAATGCC"
+      },
+      {
+        "colspan": 1,
+        "content": "CGAACGTCTTGGGAGGAGG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Oct4"
+      },
+      {
+        "colspan": 1,
+        "content": "TTGCAGCTCAGCCTTAAGAA"
+      },
+      {
+        "colspan": 1,
+        "content": "TGGTCTCCAGACTCCACCTC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Nanog"
+      },
+      {
+        "colspan": 1,
+        "content": "AAGCAGAAGATGCGGACTGT"
+      },
+      {
+        "colspan": 1,
+        "content": "GCACTTCATCCTTTGGTTTTG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Meis1"
+      },
+      {
+        "colspan": 1,
+        "content": "CAGAAAAAGCAGTTGGCACA"
+      },
+      {
+        "colspan": 1,
+        "content": "TGCTGACCGTCCATTACAAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Wnt1"
+      },
+      {
+        "colspan": 1,
+        "content": "GAACTGCCCCACTGCTCC"
+      },
+      {
+        "colspan": 1,
+        "content": "GCGGAGGTGATTGCGAAGAT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Wnt11"
+      },
+      {
+        "colspan": 1,
+        "content": "ACAACAGTGAAGTGGGGAGAC"
+      },
+      {
+        "colspan": 1,
+        "content": "GTGCGGATGGAGCAGGAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-qPCR"
+      },
+      {
+        "colspan": 1,
+        "content": "Brachyury (T) GCTTTCCCGAGACCCAGTTC"
+      },
+      {
+        "colspan": 1,
+        "content": "GGCATCAAGGAAGGCTTTAGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Cyp26a1"
+      },
+      {
+        "colspan": 1,
+        "content": "CCCATTGACGTGCCCTTTAG"
+      },
+      {
+        "colspan": 1,
+        "content": "ATATCCAGCCTCTCTCCCCT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "TDG"
+      },
+      {
+        "colspan": 1,
+        "content": "CCCCGATCCTGTGGTGAGTC"
+      },
+      {
+        "colspan": 1,
+        "content": "CCAGTCGTGACTGCCATGT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Acta2"
+      },
+      {
+        "colspan": 1,
+        "content": "ATGTCCCCGCCATGTATGTG"
+      },
+      {
+        "colspan": 1,
+        "content": "CCATCTCCAGAGTCCAGCAC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Asns"
+      },
+      {
+        "colspan": 1,
+        "content": "CGTATCCTTTTTGACAACGCTATCA"
+      },
+      {
+        "colspan": 1,
+        "content": "GCAGAGAGGCAGCAACCAAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Atf4"
+      },
+      {
+        "colspan": 1,
+        "content": "GCTATGGATGATGGCTTGGC"
+      },
+      {
+        "colspan": 1,
+        "content": "GCATCGAAGTCAAACTCTTTCAGA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Bcat1"
+      },
+      {
+        "colspan": 1,
+        "content": "CTGCCAGCCTCTACATCCG"
+      },
+      {
+        "colspan": 1,
+        "content": "CGGTCTTCAAGGAGGGTCAC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Bdnf"
+      },
+      {
+        "colspan": 1,
+        "content": "TACCTGGATGCCGCAAACAT"
+      },
+      {
+        "colspan": 1,
+        "content": "GCTGTGACCCACTCGCTAAT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Chac1"
+      },
+      {
+        "colspan": 1,
+        "content": "GGGCTTCGTTCGTGGCTATA"
+      },
+      {
+        "colspan": 1,
+        "content": "GAGGCGGTAGAACTCAAAGA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Mthfd2"
+      },
+      {
+        "colspan": 1,
+        "content": "TGCTTGGACCAGTACTCTATGC"
+      },
+      {
+        "colspan": 1,
+        "content": "CTGCCAGCCACTACCACAT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Psat1"
+      },
+      {
+        "colspan": 1,
+        "content": "TTGGAACGGTGAACATTGTCC"
+      },
+      {
+        "colspan": 1,
+        "content": "GCGTCCGGGTTGAGGTTC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Asns"
+      },
+      {
+        "colspan": 1,
+        "content": "CAGAGAAGGTGGAGCAGAGG"
+      },
+      {
+        "colspan": 1,
+        "content": "ATGATGAAACTTCCCGCACG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Atf4"
+      },
+      {
+        "colspan": 1,
+        "content": "CGCCTTGTAAGACACCGGAA"
+      },
+      {
+        "colspan": 1,
+        "content": "GCCCCATGAGAGAAAAGTGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ChIP-qPCR"
+      },
+      {
+        "colspan": 1,
+        "content": "Bcat1"
+      },
+      {
+        "colspan": 1,
+        "content": "GGGTGCAAATGTGAGTCTCC"
+      },
+      {
+        "colspan": 1,
+        "content": "GCCCAGCTCTCCATCTTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Chac1"
+      },
+      {
+        "colspan": 1,
+        "content": "CTGACGCAATCTGACTCGCC"
+      },
+      {
+        "colspan": 1,
+        "content": "CTCCTCCTCCCGTGGCAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Mthfd2"
+      },
+      {
+        "colspan": 1,
+        "content": "AAGGCTAGAACTGGTGGGCT"
+      },
+      {
+        "colspan": 1,
+        "content": "TACCAACTTCCCTCCTCCCG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Psat1"
+      },
+      {
+        "colspan": 1,
+        "content": "ACGATCAATCAACTCCTCCTGG"
+      },
+      {
+        "colspan": 1,
+        "content": "GGTGGCTGGTGCAATCCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Nampt-nuc1 CCCATTTTTCTCCTTGCTCGC"
+      },
+      {
+        "colspan": 1,
+        "content": "GATGTTGAACTCGGCTTCTGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Nampt-nuc2 GACTGGATGAGACCGTGGGA"
+      },
+      {
+        "colspan": 1,
+        "content": "ACACCGCCAGGACCTCTC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Negative ctrl TCCTTTGACCTCCACACACA"
+      },
+      {
+        "colspan": 1,
+        "content": "GCAACAGAAGATGCGATGAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Asns"
+      },
+      {
+        "colspan": 1,
+        "content": "GACAGCACATCCTCCGGC"
+      },
+      {
+        "colspan": 1,
+        "content": "CTGCTCCACCTTCTCTGGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Atf4"
+      },
+      {
+        "colspan": 1,
+        "content": "GAAGTGTTGGCGGGGGAC"
+      },
+      {
+        "colspan": 1,
+        "content": "AAGTGCTTGGCCACCTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MNase-qPCR Herpud1"
+      },
+      {
+        "colspan": 1,
+        "content": "CCGTTCGGCATCCCTGAG"
+      },
+      {
+        "colspan": 1,
+        "content": "GCGCTGATTGGGACTCTTCA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Mthfd2"
+      },
+      {
+        "colspan": 1,
+        "content": "CACACTCACCGCACTGCC"
+      },
+      {
+        "colspan": 1,
+        "content": "TTCCTTGTTGTCTGCGTTGG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Psat1"
+      },
+      {
+        "colspan": 1,
+        "content": "CACCTTACCGAGTGTGGCAG"
+      },
+      {
+        "colspan": 1,
+        "content": "GCTGTCGCCTTAGCACCAT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Trib3"
+      },
+      {
+        "colspan": 1,
+        "content": "TACCTTGTCCTGGAGCCTCA"
+      },
+      {
+        "colspan": 1,
+        "content": "CACTAGCGTGCAGGAGACTC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Ctrl"
+      },
+      {
+        "colspan": 1,
+        "content": "ATCTGGAAGCAGACGGACAC"
+      },
+      {
+        "colspan": 1,
+        "content": "TGGAGGCAAAAGAGAAGCTC"
+      }
+    ]
+  ]
+}

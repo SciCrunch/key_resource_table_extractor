@@ -1,0 +1,286 @@
+{
+  "headers": [],
+  "caption": "List of primers. 1459",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Primers"
+      },
+      {
+        "colspan": 1,
+        "content": "Sequence 5'-3'"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_uni_890_f2"
+      },
+      {
+        "colspan": 1,
+        "content": "CAAGCTCAATAAAAAGCCCCAC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_uni_890_r2"
+      },
+      {
+        "colspan": 1,
+        "content": "CAAGAGGGTCATTATATTTCGCG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_890_HiBiT_a_f"
+      },
+      {
+        "colspan": 1,
+        "content": "TTCCGCGAAATATAATGACCCTCTTGACGCCGCCAAATGCTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GGTC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_HiBit_Ig53_b_r"
+      },
+      {
+        "colspan": 1,
+        "content": "GCTAATCTTCTTGAACAGCCGCCAGCCGCTCACCTTCACCAC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GCTTTCTTCCGCCGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_HiBit_Ig53_c_f"
+      },
+      {
+        "colspan": 1,
+        "content": "GTGAGCGGCTGGCGGCTGTTCAAGAAGATTAGCGTGACAGCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "TATAGTATTACATTG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_890_HiBiT_d_r"
+      },
+      {
+        "colspan": 1,
+        "content": "GCGGTGGGGCTTTTTATTGAGCTTGATCAATATCGACGTCATC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_890_dsiiF_a_f"
+      },
+      {
+        "colspan": 1,
+        "content": "TGTTATTCCGCGAAATATAATGACCCTCTTGCTTTACGCCAGG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "TACACCG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_dsiiF_b_r"
+      },
+      {
+        "colspan": 1,
+        "content": "CCACCTGATAACAGCGACAAGCGCTGCTTATTAAGTAAACCCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CTCACCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_dsiiF_c_f"
+      },
+      {
+        "colspan": 1,
+        "content": "TCACCTTTGGGTGAGGGGGTTTACTTAATAAGCAGCGCTTGTC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_890_dsiiF_d_r"
+      },
+      {
+        "colspan": 1,
+        "content": "CCACCGCGGTGGGGCTTTTTATTGAGCTTGTCTTTCGCATACC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "AGGCAGG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_890_ssiF_a_f"
+      },
+      {
+        "colspan": 1,
+        "content": "CGCGAAATATAATGACCCTCTTGTCAAGGGTGATGTTACTACT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GGCGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_FLAG_siiF_b_r"
+      },
+      {
+        "colspan": 1,
+        "content": "ATCGATGTCATGATCTTTATAATCACCGTCATGGTCTTTGTAGT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CCATTAATAATTTATCCGGAGAAC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_FLAG_siiF_c_f"
+      },
+      {
+        "colspan": 1,
+        "content": "GATTATAAAGATCATGACATCGATTACAAGGATGACGATGACA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "AATAAAATAAGCAGCGCTTGTCGCTG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_890_ssiF_d_r"
+      },
+      {
+        "colspan": 1,
+        "content": "GTGGGGCTTTTTATTGAGCTTGATCTCTTTCGCATACCAGGCA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GGAC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gib_890_ssaV_f"
+      },
+      {
+        "colspan": 1,
+        "content": "CGCGAAATATAATGACCCTCTTGTGCAACAGGCGATAGACAAC"
+      }
+    ]
+  ]
+}

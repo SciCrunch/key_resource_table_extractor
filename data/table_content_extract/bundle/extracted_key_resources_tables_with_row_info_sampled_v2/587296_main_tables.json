@@ -1,0 +1,488 @@
+{
+  "job_id": 69,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_587296_main",
+  "pdf_file": "587296_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Goat anti-SPARC",
+                "R&D Systems,",
+                "Donkey-Anti-Goat IgG, AP",
+                "# Promega, V115A"
+              ],
+              [
+                "Mouse anti-desmin",
+                "AF942 Thermo Fisher Scientific, 14-9747-",
+                "IRDye\u00ae 800CW Goat anti-Mouse IgG",
+                "LICOR , 926-32210"
+              ],
+              [
+                "Mouse anti-Smad2",
+                "82 Thermo Fisher Scientific, MA5-15112",
+                "IRDye\u00ae 800CW Goat anti-Mouse IgG Secondary Antibody",
+                "LICOR , 926-32212"
+              ],
+              [
+                "Mouse anti-SPARC",
+                "Thermo Fisher Scientific,  MA1-43027",
+                "IRDye\u00ae 800CW Goat anti-Mouse IgG Secondary Antibody",
+                "LICOR , 926-32213"
+              ],
+              [
+                "Mouse anti- Smad2",
+                "Thermo Fisher Scientific,  MA5-15112",
+                "Anti-Mouse IgG (H+L) AP conj.",
+                "Promega, S372B"
+              ],
+              [
+                "Rabbit anti-SPARC",
+                "Thermo Fisher Scientific,  MA5-29821",
+                "IRDye\u00ae 800CW Goat anti-Rabbit IgG Secondary Antibody",
+                "LICOR , 926-32211"
+              ],
+              [
+                "Rabbit anti-SPARC",
+                "Thermo Fisher Scientific,  PA5-78178",
+                "IRDye\u00ae 800CW Goat anti-Rabbit IgG Secondary Antibody",
+                "LICOR , 926-32211"
+              ],
+              [
+                "Rabbit anti-SPARC",
+                "Thermo Fisher Scientific,",
+                "Anti-Rabbit IgG (Fc) AP conj.",
+                "Promega, S3731"
+              ],
+              [
+                "Rabbit anti-SPARC",
+                "PA5-78178 Thermo Fisher Scientific,",
+                "IRDye\u00ae 800CW Goat anti-Rabbit IgG Secondary",
+                "LICOR , 926-32211"
+              ],
+              [
+                "Rabbit anti-SPARC",
+                "PA5-89864 Thermo Fisher Scientific,",
+                "Antibody Anti-Rabbit IgG (Fc) AP conj.",
+                "Promega, S3741"
+              ],
+              [
+                "Rabbit anti-SPARC",
+                "MA5-29821 Santa Cruz, sc-25574",
+                "Alkaline phosphatase-conjugated anti-rabbit IgG",
+                "Dianova, 111-035-003"
+              ],
+              [
+                "Rabbit anti-Vinculin",
+                "Thermo Fisher Scientific,",
+                "antibody IRDye\u00ae 800CW Goat anti-Rabbit IgG Secondary",
+                "LICOR , 926-32211"
+              ],
+              [
+                "Rabbit anti-",
+                "700062 ABCAM, ab8592",
+                "Antibody Anti-Rabbit IgG (Fc) AP",
+                "Promega, S3731"
+              ],
+              [
+                "Desmin Rabbit anti-Desmin",
+                "Thermo Fisher Scientific,",
+                "conj. Anti-Rabbit IgG (Fc) AP conj.",
+                "Promega, S3731"
+              ],
+              [
+                "Rabbit anti-Vinculin",
+                "PA5-117909 Thermo Fisher Scientific,",
+                "Anti-Rabbit IgG (Fc) AP conj.",
+                "Promega, S3731"
+              ],
+              [
+                "Rabbit anti-pSmad2",
+                "700062 Thermo Fisher Scientific,",
+                "IRDye\u00ae 800CW Goat anti-Rabbit IgG Secondary",
+                "LICOR , 926-32211"
+              ],
+              [
+                "Rabbit anti-pSmad2",
+                "MA5-15122 Invitrogen, 44-244G",
+                "Antibody IRDye\u00ae 800CW Goat anti-Rabbit IgG Secondary",
+                "LICOR , 926-32211"
+              ]
+            ]
+          }
+        ],
+        "page": 48
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Name",
+                "Background Mouse Strain",
+                "Vendor or Source 34",
+                "Sex (F, M, or unknown)"
+              ],
+              [
+                "SNL 76/7",
+                "SIM",
+                "35",
+                "unknown"
+              ],
+              [
+                "STO ect",
+                "SIM",
+                "",
+                "unknown"
+              ],
+              [
+                "STO S",
+                "SIM",
+                "This study",
+                "unknown"
+              ],
+              [
+                "3T3 ect",
+                "Swiss albino",
+                "?",
+                "unknown"
+              ],
+              [
+                "3T3 S",
+                "Swiss albino",
+                "This study 12",
+                "unknown"
+              ],
+              [
+                "A5  +/-",
+                "C57BL/J6:129Sv",
+                "",
+                "F"
+              ],
+              [
+                "A5 sparcmC +/+/ect",
+                "C57BL/J6:129Sv",
+                "",
+                "F"
+              ],
+              [
+                "A5 des +/+ect",
+                "C57BL/J6:129Sv",
+                "This study",
+                "F"
+              ],
+              [
+                "A5 desDmC",
+                "C57BL/J6:129Sv",
+                "This study 12",
+                "F"
+              ],
+              [
+                "He2  +/-",
+                "Balb/c",
+                "",
+                "M"
+              ],
+              [
+                "He2K2 sparc",
+                "Balb/c",
+                "This study 36",
+                "M"
+              ],
+              [
+                "W4  AB2.2",
+                "C3H 129Sv",
+                "59",
+                "F F"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "Target (mouse)",
+                "Sequence 5\u00b4-3\u00b4 forward",
+                "Sequence 5\u00b4-3\u00b4 reverse"
+              ],
+              [
+                "Sparc",
+                "CTCAAAAATGTCCTGGTCAC",
+                "CTCATGGATCTTCTTCACAC"
+              ],
+              [
+                "Mesp1",
+                "GTACACGCTCTAAAGATGAAG",
+                "TTTTGACACTAGCACAATCG"
+              ],
+              [
+                "Desmin",
+                "ACACCTAAAGGATGAGATGG",
+                "GAGAAGGTCTGGATAGGAAG"
+              ],
+              [
+                "Nodal",
+                "TTCCTTCTCAGGTCACGTTTGC",
+                "GGTGGGGTTGGTATCGTTTCA"
+              ],
+              [
+                "Gata4",
+                "GAAAACGGAAGCCCAAGAAC",
+                "GGGAGGGTCTCACCAGCA"
+              ],
+              [
+                "Nkx2.5",
+                "CCACCTTTAGGAGAAGGGCG",
+                "TGGATCGGAGAAAGGTCCCA"
+              ],
+              [
+                "T (Brachyury)",
+                "AGAATGAGGAGATTACAGCC",
+                "GGTTCCTCCATTACATCTTTG"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "pGL3-Basic",
+                "Addgene",
+                "Promega, E1751"
+              ],
+              [
+                "phRL-TK",
+                "Addgene",
+                "Promega, E2241"
+              ],
+              [
+                "mouse 1.2kb pT-BraP-Puro-IRES2-eGFP",
+                "",
+                "40"
+              ],
+              [
+                "",
+                "",
+                "41"
+              ],
+              [
+                "human 3.4 kb pMesP1-eGFP pCSX-EGFP-PPDT",
+                "",
+                "42"
+              ],
+              [
+                "pCMV3-SPARC",
+                "NM_009242.4",
+                "SinoBiological, MG50494-UT"
+              ],
+              [
+                "desmin expression cassette",
+                "GenBank: Z18892.2",
+                "15"
+              ],
+              [
+                "pmCherry N1 vector",
+                "Addgene",
+                "Clontech, 632523"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "Rabbit anti-",
+                "ABCAM, ab217553",
+                "Anti-Rabbit IgG (Fc) AP",
+                "Promega, S3731"
+              ],
+              [
+                "Smad2+3 Rabbit anti-pSmad2+3",
+                "ABCAM, ab272332",
+                "conj. Anti-Rabbit IgG (Fc) AP conj.",
+                "Promega, S3731"
+              ]
+            ]
+          }
+        ],
+        "page": 49
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Cell Culture Dulbecco\u2019s Modified Eagle\u2019s Medium - high glucose",
+                "Sigma, D5671-500ML"
+              ],
+              [
+                "GlutaMAX\u2122 Supplement",
+                "Gibco, 35050038"
+              ],
+              [
+                "Penicillin G potassium salt 95.0 - 102.0%",
+                "Sigma-Aldrich , PENK"
+              ],
+              [
+                "Streptomycin sulfate salt powder",
+                "Sigma-Aldrich, S6501"
+              ],
+              [
+                "FBS QUALIFIED, USA ORIGIN 500ML  (GIBCO)",
+                "Thermo Fisher Scientific, 26140079"
+              ],
+              [
+                "Foetal bovine serum, standard grade, US origin, HyClone\u2122",
+                "VWR, HYCLSH30088.03"
+              ],
+              [
+                "Fetal Bovine Serum non-USA origin",
+                "Sigma, F7524"
+              ],
+              [
+                "Platinum\u2122 SuperFi II Green PCR Master Mix",
+                "Thermo Fisher Scientific, 12369010"
+              ],
+              [
+                "PCR Master Mix",
+                "Promega, M7502"
+              ],
+              [
+                "Taq DNA Polymerase, recombinant",
+                "Thermo Scientific, EP0402"
+              ],
+              [
+                "Pyrococcus furiosus DNA Polymerase,",
+                "Thermo Scientific, EP0501"
+              ],
+              [
+                "recombinant",
+                ""
+              ],
+              [
+                "10 mM dNTP mix",
+                "Fermentas, 71005M"
+              ]
+            ]
+          }
+        ],
+        "page": 50
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Quick-Load\u00ae Purple 1 kb DNA Ladder",
+                "New England Biolabs, B7025"
+              ],
+              [
+                "Reporter-gene Assays",
+                ""
+              ],
+              [
+                "Dual-Luciferase\u00ae Reporter Assay System",
+                "Promega, E1910"
+              ],
+              [
+                "ONE-Glo\u2122 Luciferase Assay System",
+                "Promega, E6110"
+              ],
+              [
+                "Machines & Software",
+                ""
+              ],
+              [
+                "CellDrop FL",
+                "DeNovix"
+              ],
+              [
+                "Nanodrop 2000c Spectrophotometer",
+                "peqlab"
+              ],
+              [
+                "Odyssey CLx Fluorescence Imager",
+                "LI-COR"
+              ],
+              [
+                "Biometra Tadvanced",
+                "Analytik Jena"
+              ],
+              [
+                "CFX384 Touch Real-Time PCR Detection System",
+                "Bio-Rad"
+              ],
+              [
+                "CFX Opus 96 Real-Time PCR System",
+                "Bio-Rad"
+              ],
+              [
+                "PowerPac 300",
+                "Bio-Rad"
+              ],
+              [
+                "Axivert 135 TV",
+                "Zeiss"
+              ],
+              [
+                "LSM 510 Confocal Microscope",
+                "Zeiss"
+              ],
+              [
+                "BD FACSCalibur\u2122 Flow Cytometer",
+                "BD Biosciences"
+              ],
+              [
+                "BD CellQuest\u2122 Pro Software",
+                "BD Biosciences"
+              ],
+              [
+                "FlowJo v10.4",
+                "BD Biosciences"
+              ],
+              [
+                "Photoshop CS2\u2122",
+                "Adobe"
+              ],
+              [
+                "Maestro CFX1.1 Software",
+                "Bio-Rad"
+              ],
+              [
+                "Excel 2013",
+                "Microsoft"
+              ],
+              [
+                "Graph Pad 5",
+                "Prism"
+              ],
+              [
+                "Other",
+                ""
+              ],
+              [
+                "BSA",
+                "Biotech, P06-139-1500"
+              ],
+              [
+                "DAPI DAPI",
+                "Sigma, D9542 Thermo Fischer Scientific, 00-"
+              ],
+              [
+                "",
+                "4958-02"
+              ],
+              [
+                "Geltin",
+                "Difco 0143-01"
+              ]
+            ]
+          }
+        ],
+        "page": 51
+      }
+    ]
+  }
+}

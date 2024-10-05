@@ -1,0 +1,395 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.963"
+      },
+      {
+        "colspan": 1,
+        "content": "0.957"
+      },
+      {
+        "colspan": 1,
+        "content": "0.960"
+      },
+      {
+        "colspan": 1,
+        "content": "9550"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "brown rat"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "1.161"
+      },
+      {
+        "colspan": 1,
+        "content": "1.140"
+      },
+      {
+        "colspan": 1,
+        "content": "1.151"
+      },
+      {
+        "colspan": 1,
+        "content": "11667"
+      },
+      {
+        "colspan": 1,
+        "content": "7.78"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "1.146"
+      },
+      {
+        "colspan": 1,
+        "content": "1.147"
+      },
+      {
+        "colspan": 1,
+        "content": "1.147"
+      },
+      {
+        "colspan": 1,
+        "content": "11622"
+      },
+      {
+        "colspan": 1,
+        "content": "10.24"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "1.264"
+      },
+      {
+        "colspan": 1,
+        "content": "1.334"
+      },
+      {
+        "colspan": 1,
+        "content": "1.299"
+      },
+      {
+        "colspan": 1,
+        "content": "13317"
+      },
+      {
+        "colspan": 1,
+        "content": "8.96"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "common ostrich"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "1.084"
+      },
+      {
+        "colspan": 1,
+        "content": "0.708"
+      },
+      {
+        "colspan": 1,
+        "content": "0.896"
+      },
+      {
+        "colspan": 1,
+        "content": "8839"
+      },
+      {
+        "colspan": 1,
+        "content": "33.20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "1.486"
+      },
+      {
+        "colspan": 1,
+        "content": "1.431"
+      },
+      {
+        "colspan": 1,
+        "content": "1.459"
+      },
+      {
+        "colspan": 1,
+        "content": "15089"
+      },
+      {
+        "colspan": 1,
+        "content": "17.78"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "1.929"
+      },
+      {
+        "colspan": 1,
+        "content": "1.515"
+      },
+      {
+        "colspan": 1,
+        "content": "1.722"
+      },
+      {
+        "colspan": 1,
+        "content": "18017"
+      },
+      {
+        "colspan": 1,
+        "content": "19.26"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "large milkweed bug"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "1.585"
+      },
+      {
+        "colspan": 1,
+        "content": "1.652"
+      },
+      {
+        "colspan": 1,
+        "content": "1.619"
+      },
+      {
+        "colspan": 1,
+        "content": "16867"
+      },
+      {
+        "colspan": 1,
+        "content": "38.32"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "1.402"
+      },
+      {
+        "colspan": 1,
+        "content": "1.311"
+      },
+      {
+        "colspan": 1,
+        "content": "1.357"
+      },
+      {
+        "colspan": 1,
+        "content": "13956"
+      },
+      {
+        "colspan": 1,
+        "content": "35.10"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "1.214"
+      },
+      {
+        "colspan": 1,
+        "content": "1.276"
+      },
+      {
+        "colspan": 1,
+        "content": "1.245"
+      },
+      {
+        "colspan": 1,
+        "content": "12717"
+      },
+      {
+        "colspan": 1,
+        "content": "38.84"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gold tegu"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "1.024"
+      },
+      {
+        "colspan": 1,
+        "content": "1.071"
+      },
+      {
+        "colspan": 1,
+        "content": "1.048"
+      },
+      {
+        "colspan": 1,
+        "content": "10522"
+      },
+      {
+        "colspan": 1,
+        "content": "10.51"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "1.018"
+      },
+      {
+        "colspan": 1,
+        "content": "0.981"
+      },
+      {
+        "colspan": 1,
+        "content": "1.000"
+      },
+      {
+        "colspan": 1,
+        "content": "9989"
+      },
+      {
+        "colspan": 1,
+        "content": "9.99"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "0.853"
+      },
+      {
+        "colspan": 1,
+        "content": "0.600"
+      },
+      {
+        "colspan": 1,
+        "content": "0.727"
+      },
+      {
+        "colspan": 1,
+        "content": "6956"
+      },
+      {
+        "colspan": 1,
+        "content": "10.41"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "paper_id": "583283_main",
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Reagent type (species) or resource",
+                " Designation",
+                "Source Or reference",
+                " Identifiers",
+                "Additional information"
+              ],
+              [
+                " Cell line (SKBR3)",
+                " HER2+ breast cancer cell line",
+                "  ATCC",
+                "",
+                "Cell line cultured in McCoy\u2019s 5A Culture medium supplemented with 10% FBS"
+              ],
+              [
+                " Cell line",
+                " ER+/PR+",
+                "",
+                "",
+                "Cell line cultured in DMEM high glucose"
+              ],
+              [
+                "(MCF-7)",
+                "breast cancer cell line",
+                "ATCC",
+                "",
+                "Culture medium supplemented with 10% FBS"
+              ],
+              [
+                " Cell line (MDA-MB- 231)",
+                "Triple- negative breast cancer cell line",
+                " ATCC",
+                "",
+                "Cell line cultured in L-15 Culture medium supplemented with 10% FBS"
+              ],
+              [
+                "Transfected construct (human)",
+                "RGS10 shRNA#161,3 21,506",
+                "Syngentech Biotechnology",
+                "",
+                "Lentiviral construct to transfect and express the shRNA"
+              ],
+              [
+                "Transfected construct (human)",
+                "miRNA-539-5 p mimics and inhibitor",
+                "GenePharma Biotechnology",
+                "",
+                ""
+              ],
+              [
+                " Antibody",
+                "Anti- RGS10 (rabbit monoclonal)",
+                " Abcam",
+                " Cat# ab154172",
+                " WB (1:250) IHC (1:50)"
+              ],
+              [
+                " Antibody",
+                "Anti- lipocalin-2 (rabbit monoclonal)",
+                " ABclonal",
+                " Cat# A2092",
+                " WB(1:1000) IHC (1:500)"
+              ],
+              [
+                " Antibody",
+                "Anti- E-cadherin",
+                " Proteintech",
+                "Cat# 20874-1-A",
+                "WB (1:1000) IHC (1:500)"
+              ]
+            ]
+          }
+        ],
+        "page": 5
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "(rabbit monoclonal)",
+                "",
+                "P",
+                "IF (1:100)"
+              ],
+              [
+                " Antibody",
+                "Anti- vimentin (mouse monoclonal)",
+                " HUABIO",
+                " Cat# EM0401",
+                "WB (1:1000) IHC (1:200) IF (1:100)"
+              ],
+              [
+                " Antibody",
+                "Anti-snail (rabbit monoclonal)",
+                " ABclonal",
+                "Cat# A5243",
+                "WB (1:1000) IHC (1:00) IF (1:100)"
+              ],
+              [
+                " Antibody",
+                "Anti-GAPDH (rabbit monoclonal)",
+                " CST",
+                "Cat# 5174",
+                " WB (1:1000)"
+              ],
+              [
+                " Antibody",
+                "Anti- \u03b2-tubulin (rabbit monoclonal)",
+                " ABclonal",
+                " Cat# AC008",
+                " WB (1:5000)"
+              ],
+              [
+                "Sequence- based reagent",
+                "RGS10_F",
+                "This paper",
+                "PCR primers",
+                "CACGACAGCGAT GGCAGTTCC"
+              ],
+              [
+                "Sequence- based reagent",
+                "RGS10_R",
+                "This paper",
+                "PCR primers",
+                "CTTTTCACGCCTT CTGGGTCTTCC"
+              ],
+              [
+                "Sequence- based reagent",
+                "MiR-539-5p_F",
+                "This paper",
+                "PCR primers",
+                "CGCTGCATGGAG AAATTATCCT"
+              ],
+              [
+                "Sequence- based reagent",
+                "MiR-539-5p_R",
+                "This paper",
+                "PCR primers",
+                "CAGTGCAGGGTC CGAGGT"
+              ],
+              [
+                " Software, algorithm",
+                "  SPSS",
+                "  SPSS",
+                "SPSS, version 25.0",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "Armonk, NY, USA",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 6
+      }
+    ]
+  }
+}

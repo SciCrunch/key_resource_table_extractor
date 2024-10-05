@@ -1,0 +1,269 @@
+{
+  "name": "586589_main_page_15_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "TYR qPCR Primer: CTTGAAAAGAGTCTGGGTCTGA"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " PMEL qPCR Primer: CCCCAGGAAACTGACGATGC"
+      },
+      {
+        "colspan": 1,
+        "content": "P. Zhang et a., 2012 83"
+      },
+      {
+        "colspan": 1,
+        "content": " DOI:10.1371/journal. pone.004295"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " PMEL qPCR Primer: AGCCACAGGAGGTGAGAGGAAT"
+      },
+      {
+        "colspan": 1,
+        "content": "P. Zhang et al., 2012 83"
+      },
+      {
+        "colspan": 1,
+        "content": " DOI:10.1371/journal. pone.004295"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TYRP1 qPCR Primer: CGAAACACAGTGGAAGGTTACAG"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TYRP1 qPCR Primer: AAGGTGTGCAGGAGGACAAA"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MITF qPCR Primer: GGGCTCTGTTCTCACTTTCCA"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MITF qPCR Primer: GGCGGAACTGCTGCTCTT"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Beta-actin qPCR Primer: CACCAACTGGGACGACAT"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Beta-actin qPCR Primer: ACAGCCTGGATAGCAACG"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Recombinant DNA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pLenti CMV TetR Blast (716-1) "
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene "
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:Addgene_174 92"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PLIN2-V5-APEX2, pLenti CMV/TO Puro Dest "
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene "
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:Addgene_170 573"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cyto-V5-APEX2, pLenti CMV/TO Puro Dest "
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene "
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:Addgene_170 572"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CCSB-Broad LentiORF - DHRS3 Clone "
+      },
+      {
+        "colspan": 1,
+        "content": "Dharmacon "
+      },
+      {
+        "colspan": 1,
+        "content": "OHS6085- 213579870"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Software and algorithms"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "R/RStudio 4.3.2 "
+      },
+      {
+        "colspan": 1,
+        "content": "R Foundation for Statistical Computing"
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.r-project.org/"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MATLAB R2022b  "
+      },
+      {
+        "colspan": 1,
+        "content": "Mathworks  "
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.mathworks.com/products/matlab.html"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FIJI  2.0.0-rc-65/1.54f "
+      },
+      {
+        "colspan": 1,
+        "content": "ImageJ "
+      },
+      {
+        "colspan": 1,
+        "content": "https://imagej.net/software/fiji/downloads"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PRISM 9.4.1 "
+      },
+      {
+        "colspan": 1,
+        "content": "GraphPad "
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.graphpad.com/features"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " gProfiler "
+      },
+      {
+        "colspan": 1,
+        "content": "Kolberg et al., 2023 84"
+      },
+      {
+        "colspan": 1,
+        "content": "https://biit.cs.ut.ee/gprofiler/page/citing"
+      }
+    ]
+  ]
+}

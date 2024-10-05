@@ -1,0 +1,317 @@
+{
+  "name": "527394_media-1_page_19_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Target"
+      },
+      {
+        "colspan": 1,
+        "content": "Vendor"
+      },
+      {
+        "colspan": 1,
+        "content": "Product Number"
+      },
+      {
+        "colspan": 1,
+        "content": "Species"
+      },
+      {
+        "colspan": 1,
+        "content": "Dilution"
+      },
+      {
+        "colspan": 1,
+        "content": "Use"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Collagen"
+      },
+      {
+        "colspan": 1,
+        "content": "DSHB"
+      },
+      {
+        "colspan": 1,
+        "content": "M3F5"
+      },
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IQGAP2"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      },
+      {
+        "colspan": 1,
+        "content": "Rabbit"
+      },
+      {
+        "colspan": 1,
+        "content": "1:50"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Iqgap2"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz Biotechnology"
+      },
+      {
+        "colspan": 1,
+        "content": "sc-55525"
+      },
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GAPDH (D16H11)"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technologies"
+      },
+      {
+        "colspan": 1,
+        "content": "5174"
+      },
+      {
+        "colspan": 1,
+        "content": "Rabbit"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Vcam1"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz"
+      },
+      {
+        "colspan": 1,
+        "content": "sc-13160"
+      },
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD31 (MEC 13.3)"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Biosciences"
+      },
+      {
+        "colspan": 1,
+        "content": "553370"
+      },
+      {
+        "colspan": 1,
+        "content": "Rat"
+      },
+      {
+        "colspan": 1,
+        "content": "1:200"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD45 (30-F11)"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Biosciences"
+      },
+      {
+        "colspan": 1,
+        "content": "550539"
+      },
+      {
+        "colspan": 1,
+        "content": "Rat"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Claudin-5-488"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "352588"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Occludin-594"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "331594"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ZO1-594"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "339194"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GLUT1-488"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab195359"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      },
+      {
+        "colspan": 1,
+        "content": "1:300"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ]
+  ]
+}

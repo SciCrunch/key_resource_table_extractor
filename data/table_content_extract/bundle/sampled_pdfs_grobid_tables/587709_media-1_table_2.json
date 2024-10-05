@@ -1,0 +1,884 @@
+{
+  "headers": [],
+  "caption": "Modified Lowry protein assay raw data for the BSA standard curve, protein samples, and the corresponding downstream Na, K-ATPase activity based on Lowry assay concentrations. The average of two technical replicates (M1 and M2) were used to calculate the final concentration for each sample.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "BSA standard"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Concentration"
+      },
+      {
+        "colspan": 1,
+        "content": "Absorbance [655 nm]"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "[µg/mL]"
+      },
+      {
+        "colspan": 1,
+        "content": "M1"
+      },
+      {
+        "colspan": 1,
+        "content": "M2"
+      },
+      {
+        "colspan": 1,
+        "content": "average"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "0.123"
+      },
+      {
+        "colspan": 1,
+        "content": "0.078"
+      },
+      {
+        "colspan": 1,
+        "content": "0.101"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "1"
+      },
+      {
+        "colspan": 1,
+        "content": "0.093"
+      },
+      {
+        "colspan": 1,
+        "content": "0.060"
+      },
+      {
+        "colspan": 1,
+        "content": "0.077"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "5"
+      },
+      {
+        "colspan": 1,
+        "content": "0.067"
+      },
+      {
+        "colspan": 1,
+        "content": "0.061"
+      },
+      {
+        "colspan": 1,
+        "content": "0.064"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "25"
+      },
+      {
+        "colspan": 1,
+        "content": "0.184"
+      },
+      {
+        "colspan": 1,
+        "content": "0.172"
+      },
+      {
+        "colspan": 1,
+        "content": "0.178"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "125"
+      },
+      {
+        "colspan": 1,
+        "content": "0.212"
+      },
+      {
+        "colspan": 1,
+        "content": "0.195"
+      },
+      {
+        "colspan": 1,
+        "content": "0.204"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "250 untransfected Sf9 cells 0.421 500 0.701 750 0.848 1000 1.155"
+      },
+      {
+        "colspan": 1,
+        "content": "Treatment 0.462 0.442 non-lyophilized 0.708 0.705 lyophilized 0.917 0.883 1.201 1.178"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Area under curve 1052 1539"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "brown rat 1500"
+      },
+      {
+        "colspan": 1,
+        "content": "1.381"
+      },
+      {
+        "colspan": 1,
+        "content": "non-lyophilized 1.371 1.376"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "4488"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "2000"
+      },
+      {
+        "colspan": 1,
+        "content": "1.636"
+      },
+      {
+        "colspan": 1,
+        "content": "lyophilized 1.636 1.636"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3972"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "common ostrich"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "non-lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3487"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "4582"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "large milkweed bug"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "non-lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "1968"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "1560"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gold tegu"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "non-lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3985"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "2942"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Miranda's white-lipped frog"
+      },
+      {
+        "colspan": 1,
+        "content": "non-lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3419"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3937"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "red-necked keelback snake"
+      },
+      {
+        "colspan": 1,
+        "content": "non-lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3688"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3711"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ELISA"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Absorbance [490 nm]"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Species"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Treatment"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "M1"
+      },
+      {
+        "colspan": 1,
+        "content": "M2"
+      },
+      {
+        "colspan": 1,
+        "content": "average"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "untransfected Sf9 cells"
+      },
+      {
+        "colspan": 1,
+        "content": "non-lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": "0.229"
+      },
+      {
+        "colspan": 1,
+        "content": "0.248"
+      },
+      {
+        "colspan": 1,
+        "content": "0.239"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.201"
+      },
+      {
+        "colspan": 1,
+        "content": "0.256"
+      },
+      {
+        "colspan": 1,
+        "content": "0.229"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "brown rat"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "non-lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": "0.576"
+      },
+      {
+        "colspan": 1,
+        "content": "0.570"
+      },
+      {
+        "colspan": 1,
+        "content": "0.573"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.598"
+      },
+      {
+        "colspan": 1,
+        "content": "0.602"
+      },
+      {
+        "colspan": 1,
+        "content": "0.600"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "common ostrich"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "non-lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": "0.911"
+      },
+      {
+        "colspan": 1,
+        "content": "0.969"
+      },
+      {
+        "colspan": 1,
+        "content": "0.940"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "1.004"
+      },
+      {
+        "colspan": 1,
+        "content": "0.993"
+      },
+      {
+        "colspan": 1,
+        "content": "0.999"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "large milkweed bug"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "non-lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": "0.641"
+      },
+      {
+        "colspan": 1,
+        "content": "0.693"
+      },
+      {
+        "colspan": 1,
+        "content": "0.667"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.893"
+      },
+      {
+        "colspan": 1,
+        "content": "0.909"
+      },
+      {
+        "colspan": 1,
+        "content": "0.901"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gold tegu"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "non-lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": "0.723"
+      },
+      {
+        "colspan": 1,
+        "content": "0.705"
+      },
+      {
+        "colspan": 1,
+        "content": "0.714"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.788"
+      },
+      {
+        "colspan": 1,
+        "content": "0.789"
+      },
+      {
+        "colspan": 1,
+        "content": "0.789"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Miranda's white-lipped frog"
+      },
+      {
+        "colspan": 1,
+        "content": "non-lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": "0.694"
+      },
+      {
+        "colspan": 1,
+        "content": "0.691"
+      },
+      {
+        "colspan": 1,
+        "content": "0.693"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.816"
+      },
+      {
+        "colspan": 1,
+        "content": "0.788"
+      },
+      {
+        "colspan": 1,
+        "content": "0.802"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "red-necked keelback snake"
+      },
+      {
+        "colspan": 1,
+        "content": "non-lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": "0.479"
+      },
+      {
+        "colspan": 1,
+        "content": "0.498"
+      },
+      {
+        "colspan": 1,
+        "content": "0.489"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "lyophilized"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.509"
+      },
+      {
+        "colspan": 1,
+        "content": "0.461"
+      },
+      {
+        "colspan": 1,
+        "content": "0.485"
+      }
+    ]
+  ]
+}

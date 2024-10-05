@@ -1,0 +1,335 @@
+{
+  "name": "527394_media-1_page_19_table_2",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Species Reactivity"
+      },
+      {
+        "colspan": 1,
+        "content": "Vendor"
+      },
+      {
+        "colspan": 1,
+        "content": "Product Number"
+      },
+      {
+        "colspan": 1,
+        "content": "Host"
+      },
+      {
+        "colspan": 1,
+        "content": "Conjugate"
+      },
+      {
+        "colspan": 1,
+        "content": "Dilution"
+      },
+      {
+        "colspan": 1,
+        "content": "Use"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit"
+      },
+      {
+        "colspan": 1,
+        "content": "LI-COR"
+      },
+      {
+        "colspan": 1,
+        "content": "926-32211"
+      },
+      {
+        "colspan": 1,
+        "content": "Goat"
+      },
+      {
+        "colspan": 1,
+        "content": "IRDye 800"
+      },
+      {
+        "colspan": 1,
+        "content": "1:15000"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rat"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "A21247"
+      },
+      {
+        "colspan": 1,
+        "content": "Goat"
+      },
+      {
+        "colspan": 1,
+        "content": "AlexaFluor 647"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rat"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "A11006"
+      },
+      {
+        "colspan": 1,
+        "content": "Goat"
+      },
+      {
+        "colspan": 1,
+        "content": "AlexaFluor 488"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "A21206"
+      },
+      {
+        "colspan": 1,
+        "content": "Donkey"
+      },
+      {
+        "colspan": 1,
+        "content": "AlexaFluor 488"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "A31572"
+      },
+      {
+        "colspan": 1,
+        "content": "Donkey"
+      },
+      {
+        "colspan": 1,
+        "content": "AlexaFluor 555"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "A21202"
+      },
+      {
+        "colspan": 1,
+        "content": "Donkey"
+      },
+      {
+        "colspan": 1,
+        "content": "AlexaFluor 488"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab150073"
+      },
+      {
+        "colspan": 1,
+        "content": "Donkey"
+      },
+      {
+        "colspan": 1,
+        "content": "AlexaFluor 488"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab150108"
+      },
+      {
+        "colspan": 1,
+        "content": "Donkey"
+      },
+      {
+        "colspan": 1,
+        "content": "AlexaFluor 594"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "-"
+      },
+      {
+        "colspan": 1,
+        "content": "Vector Labs"
+      },
+      {
+        "colspan": 1,
+        "content": "DL-1174-1"
+      },
+      {
+        "colspan": 1,
+        "content": "Lectin"
+      },
+      {
+        "colspan": 1,
+        "content": "DyLight 488"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "-"
+      },
+      {
+        "colspan": 1,
+        "content": "Vector Labs"
+      },
+      {
+        "colspan": 1,
+        "content": "DL-1178-1"
+      },
+      {
+        "colspan": 1,
+        "content": "Lectin"
+      },
+      {
+        "colspan": 1,
+        "content": "DyLight 649"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "IHC"
+      }
+    ]
+  ]
+}

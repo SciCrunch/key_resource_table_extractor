@@ -1,0 +1,420 @@
+{
+  "headers": [],
+  "caption": "The table lists mean MDs from the apex of maximal RFIs, as well as of proximal and distal half-maximal RFIs (if available), along with the distance between the proximal and distal half-maximal RFIs, if both these values are available. In case one of the half-maximal RFIs is not available, the distance between the maximal and the other half-maximal RFI is indicated.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Supplemental"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "MD from the apex [µm]"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Distance between"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PM domain or free eYFP"
+      },
+      {
+        "colspan": 1,
+        "content": "Proximal half-maximal RFI"
+      },
+      {
+        "colspan": 1,
+        "content": "Maximal RFI"
+      },
+      {
+        "colspan": 1,
+        "content": "Distal half-maximal RFI"
+      },
+      {
+        "colspan": 1,
+        "content": "distal & proximal half-maximal RFI [µm]"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PI4P (eYFP-PHFAPP1)"
+      },
+      {
+        "colspan": 1,
+        "content": "2.381"
+      },
+      {
+        "colspan": 1,
+        "content": "4.04"
+      },
+      {
+        "colspan": 1,
+        "content": "7.287"
+      },
+      {
+        "colspan": 1,
+        "content": "4.906"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PI4,5P2 (eYFP-PHPLCδ1)"
+      },
+      {
+        "colspan": 1,
+        "content": "2.309"
+      },
+      {
+        "colspan": 1,
+        "content": "4.401"
+      },
+      {
+        "colspan": 1,
+        "content": "7.648"
+      },
+      {
+        "colspan": 1,
+        "content": "5.339"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DAG (C1PKCγ-eYFP)"
+      },
+      {
+        "colspan": 1,
+        "content": "2.02"
+      },
+      {
+        "colspan": 1,
+        "content": "4.329"
+      },
+      {
+        "colspan": 1,
+        "content": "11.616"
+      },
+      {
+        "colspan": 1,
+        "content": "9.596"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PS (eYFP-C2Lact)"
+      },
+      {
+        "colspan": 1,
+        "content": "5.123"
+      },
+      {
+        "colspan": 1,
+        "content": "9.884"
+      },
+      {
+        "colspan": 1,
+        "content": "22.871"
+      },
+      {
+        "colspan": 1,
+        "content": "17.748"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PA (eYFP-Spo20p)"
+      },
+      {
+        "colspan": 1,
+        "content": "5.628"
+      },
+      {
+        "colspan": 1,
+        "content": "10.39"
+      },
+      {
+        "colspan": 1,
+        "content": "19.625"
+      },
+      {
+        "colspan": 1,
+        "content": "13.997"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NtPLC3 (NtPLC3-eYFP)"
+      },
+      {
+        "colspan": 1,
+        "content": "5.916"
+      },
+      {
+        "colspan": 1,
+        "content": "13.781"
+      },
+      {
+        "colspan": 1,
+        "content": "25.036"
+      },
+      {
+        "colspan": 1,
+        "content": "19.12"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NtPI4P-5K4 (NtPI4P5K4-eYFP)"
+      },
+      {
+        "colspan": 1,
+        "content": "4.978"
+      },
+      {
+        "colspan": 1,
+        "content": "8.441"
+      },
+      {
+        "colspan": 1,
+        "content": "12.554"
+      },
+      {
+        "colspan": 1,
+        "content": "7.576"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NtRAC5 (eYFP-NtRAC5)"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "0.072"
+      },
+      {
+        "colspan": 1,
+        "content": "6.782"
+      },
+      {
+        "colspan": 1,
+        "content": "6.782"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RAC/ROP GTP (CRIBNtGAP1-eYFP)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "2.742"
+      },
+      {
+        "colspan": 1,
+        "content": "2.742"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NtGEF12a (eYFP-NtGEF12a)"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "0.072"
+      },
+      {
+        "colspan": 1,
+        "content": "1.804"
+      },
+      {
+        "colspan": 1,
+        "content": "1.804"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NtGAP1 (eYFP-NtGAP1)"
+      },
+      {
+        "colspan": 1,
+        "content": "3.752"
+      },
+      {
+        "colspan": 1,
+        "content": "5.988"
+      },
+      {
+        "colspan": 1,
+        "content": "11.039"
+      },
+      {
+        "colspan": 1,
+        "content": "7.287"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "F-actin fringe (LIFEACT-eYFP)"
+      },
+      {
+        "colspan": 1,
+        "content": "3.824"
+      },
+      {
+        "colspan": 1,
+        "content": "4.906"
+      },
+      {
+        "colspan": 1,
+        "content": "7.792"
+      },
+      {
+        "colspan": 1,
+        "content": "3.968"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TGN (eYFP-NtRISAP)"
+      },
+      {
+        "colspan": 1,
+        "content": "2.597"
+      },
+      {
+        "colspan": 1,
+        "content": "4.257"
+      },
+      {
+        "colspan": 1,
+        "content": "6.061"
+      },
+      {
+        "colspan": 1,
+        "content": "3.464"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "VAR (NtINT4-eYFP)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "3.824"
+      },
+      {
+        "colspan": 1,
+        "content": "3.824"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ca 2+ (2xR-GECO1)"
+      },
+      {
+        "colspan": 1,
+        "content": "0.072"
+      },
+      {
+        "colspan": 1,
+        "content": "0.505"
+      },
+      {
+        "colspan": 1,
+        "content": "3.896"
+      },
+      {
+        "colspan": 1,
+        "content": "3.824"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "eYFP"
+      },
+      {
+        "colspan": 1,
+        "content": "22.944"
+      },
+      {
+        "colspan": 1,
+        "content": "53.319"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "30.735"
+      }
+    ]
+  ]
+}

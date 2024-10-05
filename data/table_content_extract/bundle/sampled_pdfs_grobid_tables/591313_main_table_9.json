@@ -1,0 +1,502 @@
+{
+  "headers": [],
+  "caption": "List of the 50 most frequent substitutions found among 2,351 sequences of S.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "1432"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "1433"
+      },
+      {
+        "colspan": 1,
+        "content": "enterica."
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Substitution"
+      },
+      {
+        "colspan": 1,
+        "content": "#"
+      },
+      {
+        "colspan": 1,
+        "content": "Frequency (10 -3 )"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "N86S"
+      },
+      {
+        "colspan": 1,
+        "content": "608"
+      },
+      {
+        "colspan": 1,
+        "content": "258,6134"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R30Q"
+      },
+      {
+        "colspan": 1,
+        "content": "259"
+      },
+      {
+        "colspan": 1,
+        "content": "110,1659"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "A124S"
+      },
+      {
+        "colspan": 1,
+        "content": "257"
+      },
+      {
+        "colspan": 1,
+        "content": "109,3152"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "S220G"
+      },
+      {
+        "colspan": 1,
+        "content": "238"
+      },
+      {
+        "colspan": 1,
+        "content": "101,2335"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "V40I"
+      },
+      {
+        "colspan": 1,
+        "content": "227"
+      },
+      {
+        "colspan": 1,
+        "content": "96,55466"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "A275S"
+      },
+      {
+        "colspan": 1,
+        "content": "219"
+      },
+      {
+        "colspan": 1,
+        "content": "93,15185"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "A110D"
+      },
+      {
+        "colspan": 1,
+        "content": "217"
+      },
+      {
+        "colspan": 1,
+        "content": "92,30115"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "D72E"
+      },
+      {
+        "colspan": 1,
+        "content": "182"
+      },
+      {
+        "colspan": 1,
+        "content": "77,41387"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "K169Q"
+      },
+      {
+        "colspan": 1,
+        "content": "142"
+      },
+      {
+        "colspan": 1,
+        "content": "60,39983"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "A130V"
+      },
+      {
+        "colspan": 1,
+        "content": "126"
+      },
+      {
+        "colspan": 1,
+        "content": "53,59422"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "V228I"
+      },
+      {
+        "colspan": 1,
+        "content": "122"
+      },
+      {
+        "colspan": 1,
+        "content": "51,89281"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "T226P"
+      },
+      {
+        "colspan": 1,
+        "content": "115"
+      },
+      {
+        "colspan": 1,
+        "content": "48,91536"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "V125I"
+      },
+      {
+        "colspan": 1,
+        "content": "108"
+      },
+      {
+        "colspan": 1,
+        "content": "45,9379"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "T127V"
+      },
+      {
+        "colspan": 1,
+        "content": "108"
+      },
+      {
+        "colspan": 1,
+        "content": "45,9379"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "S164N"
+      },
+      {
+        "colspan": 1,
+        "content": "103"
+      },
+      {
+        "colspan": 1,
+        "content": "43,81114"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "N165S"
+      },
+      {
+        "colspan": 1,
+        "content": "102"
+      },
+      {
+        "colspan": 1,
+        "content": "43,38579"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "G162S"
+      },
+      {
+        "colspan": 1,
+        "content": "100"
+      },
+      {
+        "colspan": 1,
+        "content": "42,53509"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "V125K"
+      },
+      {
+        "colspan": 1,
+        "content": "97"
+      },
+      {
+        "colspan": 1,
+        "content": "41,25904"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "P137S"
+      },
+      {
+        "colspan": 1,
+        "content": "96"
+      },
+      {
+        "colspan": 1,
+        "content": "40,83369"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "K157M"
+      },
+      {
+        "colspan": 1,
+        "content": "92"
+      },
+      {
+        "colspan": 1,
+        "content": "39,13228"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "D230E"
+      },
+      {
+        "colspan": 1,
+        "content": "90"
+      },
+      {
+        "colspan": 1,
+        "content": "38,28158"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "M123R"
+      },
+      {
+        "colspan": 1,
+        "content": "80"
+      },
+      {
+        "colspan": 1,
+        "content": "34,02807"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "K169R"
+      },
+      {
+        "colspan": 1,
+        "content": "80"
+      },
+      {
+        "colspan": 1,
+        "content": "34,02807"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "T121I"
+      },
+      {
+        "colspan": 1,
+        "content": "79"
+      },
+      {
+        "colspan": 1,
+        "content": "33,60272"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "I215L"
+      },
+      {
+        "colspan": 1,
+        "content": "77"
+      },
+      {
+        "colspan": 1,
+        "content": "32,75202"
+      }
+    ]
+  ]
+}

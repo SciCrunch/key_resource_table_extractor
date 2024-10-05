@@ -1,0 +1,257 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "plasmid"
+      },
+      {
+        "colspan": 1,
+        "content": "α-subunit gene"
+      },
+      {
+        "colspan": 1,
+        "content": "Β-subunit gene"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "number"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rattus norvegicus"
+      },
+      {
+        "colspan": 1,
+        "content": "187416"
+      },
+      {
+        "colspan": 1,
+        "content": "X05882"
+      },
+      {
+        "colspan": 1,
+        "content": "NM013113.2"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3072 bp"
+      },
+      {
+        "colspan": 1,
+        "content": "915 bp"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rhabdophis subminiatus"
+      },
+      {
+        "colspan": 1,
+        "content": "187418"
+      },
+      {
+        "colspan": 1,
+        "content": "MT928191"
+      },
+      {
+        "colspan": 1,
+        "content": "ON168934"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3069 bp"
+      },
+      {
+        "colspan": 1,
+        "content": "915 bp"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tupinambis teguixin"
+      },
+      {
+        "colspan": 1,
+        "content": "187421"
+      },
+      {
+        "colspan": 1,
+        "content": "MT928189"
+      },
+      {
+        "colspan": 1,
+        "content": "ON168937"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3069 bp"
+      },
+      {
+        "colspan": 1,
+        "content": "918 bp"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Struthio camelus"
+      },
+      {
+        "colspan": 1,
+        "content": "187422"
+      },
+      {
+        "colspan": 1,
+        "content": "XM009675281"
+      },
+      {
+        "colspan": 1,
+        "content": "XM009675170"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3060 bp"
+      },
+      {
+        "colspan": 1,
+        "content": "747 bp"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Leptodactylus macrosternum"
+      },
+      {
+        "colspan": 1,
+        "content": "167172"
+      },
+      {
+        "colspan": 1,
+        "content": "MT396189"
+      },
+      {
+        "colspan": 1,
+        "content": "SRR11583987"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3045 bp"
+      },
+      {
+        "colspan": 1,
+        "content": "915 bp"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Oncopeltus fasciatus"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      },
+      {
+        "colspan": 1,
+        "content": "OW028346"
+      },
+      {
+        "colspan": 1,
+        "content": "OW028347"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3024 bp"
+      },
+      {
+        "colspan": 1,
+        "content": "993 bp"
+      }
+    ]
+  ]
+}

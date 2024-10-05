@@ -1,0 +1,86 @@
+{
+  "job_id": 81,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_589232_main",
+  "pdf_file": "589232_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Antibodies",
+                "",
+                ""
+              ],
+              [
+                "Rabbit monoclonal anti-Cofilin",
+                "Cell Signaling",
+                "Cat#D3F9"
+              ],
+              [
+                "Rabbit monoclonal anti-phospho-Cofilin (Ser3)",
+                "Cell Signaling",
+                "Cat#77G2"
+              ],
+              [
+                "Phospho-Myosin Light Chain 2 (Ser19)",
+                "Cell Signaling",
+                "Cat#3671"
+              ],
+              [
+                "Alexa Fluor 488 Phalloidin",
+                "Thermo Fisher",
+                "Cat#A12379"
+              ],
+              [
+                "Myosin IIa  Goat anti-Rabbit IgG (H+L) Cross-Adsorbed Secondary",
+                "Cell Signaling Thermo Fisher",
+                "Cat#3403 Cat #A-21428"
+              ],
+              [
+                "Antibody, Alexa Fluor 555",
+                "",
+                ""
+              ],
+              [
+                "Biological samples Mouse: bone marrow harvested from C57BL/6J &",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "indicated conditional knockout mice Mouse: Tibia and femur harvested from indicated",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "conditional knockout mice Chemicals, peptides, and recombinant proteins",
+                "",
+                ""
+              ],
+              [
+                "Human plasma purified Protein S",
+                "Enzyme Research",
+                "Cat#HPS"
+              ],
+              [
+                "",
+                "Laboratories",
+                ""
+              ],
+              [
+                "Gas6",
+                "Thermo Fisher",
+                "Mm00490378_m1"
+              ]
+            ]
+          }
+        ],
+        "page": 15
+      }
+    ]
+  }
+}

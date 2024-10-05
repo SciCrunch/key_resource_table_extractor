@@ -1,0 +1,283 @@
+{
+  "name": "587299_media-1_page_10_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Reagent or Resource"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      },
+      {
+        "colspan": 1,
+        "content": "Identifier"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-mouse TUBB3 (1:200)"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab18207"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-mouse NeuF (1:200)"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "PA3-16721"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-mouse CGRP (1:200)"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "C8198"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-mouse TH (1:200)"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "AB152"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-mouse/rat CD31 (1:200)"
+      },
+      {
+        "colspan": 1,
+        "content": "R&D Systems"
+      },
+      {
+        "colspan": 1,
+        "content": "AF3628"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rat anti\u2010mouse/rat Endomucin (1:50)"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz Biotechnology"
+      },
+      {
+        "colspan": 1,
+        "content": "sc\u201065495"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Donkey anti\u2010goat AF800 plus, 0.67 mg/mL (1:100)"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "A32930"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Donkey anti\u2010rabbit AF647 plus, 0.67 mg/mL (1:300)"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "A32795"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Donkey anti\u2010rat biotin, 0.75 mg/mL (1:200)"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "A18749"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Streptavidin AF555 conjugate, 0.67 mg/mL (1:200)"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "S32355"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Reagents"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Heparin sodium salt from porcine mucosa"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "H3393\u201050KU"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Paraformaldehyde, 16% aq. soln., methanol free"
+      },
+      {
+        "colspan": 1,
+        "content": "Alfa Aesar"
+      },
+      {
+        "colspan": 1,
+        "content": "433689M"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Normal donkey serum"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "D9663\u201010ML"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Trizma base"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "T6066\u20101KG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Trizma hydrochloride"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "T5941\u20101KG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium chloride"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "S5886"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tween 20"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "P7949"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Dimethylsulfoxide"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "PI20688"
+      }
+    ]
+  ]
+}

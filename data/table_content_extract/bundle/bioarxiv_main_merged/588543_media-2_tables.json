@@ -1,0 +1,151 @@
+{
+  "paper_id": "588543_media-2",
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Plasmid name",
+                "Expression cassette",
+                "DNA template1",
+                "Primer combination2",
+                "Target vector3",
+                "Restriction enzymes",
+                "Reference"
+              ],
+              [
+                "pWEN240",
+                "pLat52:eYFP-NosT",
+                "",
+                "",
+                "",
+                "",
+                "Klahre et al. 2006"
+              ],
+              [
+                "pFAU422",
+                "pLat52:eYFP-5xGA-NtGEF12a-NosT",
+                "tobacco pollen tube cDNA",
+                "FAU-B122, FAU-B123",
+                "pWEN240",
+                "SalI, XmaI",
+                "This study"
+              ],
+              [
+                "pHD341",
+                "pLat52:eYFP-5xGA-NtGAP1-NosT",
+                "",
+                "",
+                "",
+                "",
+                "Klahre and Kost 2006"
+              ],
+              [
+                "pHD342",
+                "pLat52:CRIBNtGAP1-5xGA-eYFP-NosT",
+                "",
+                "",
+                "",
+                "",
+                "Klahre and Kost 2006"
+              ],
+              [
+                "pHD23",
+                "pLat52:eYFP-5xGA-NtRAC5-NosT",
+                "",
+                "",
+                "",
+                "",
+                "Sun et al. 2015"
+              ],
+              [
+                "pFAU581",
+                "pLat52:NtPI4P-5K4-5xGA-eYFP-NosT",
+                "pSLUobt13",
+                "FAU-B910, FAU-B911",
+                "pHD32",
+                "NgoMIV, ApaI",
+                "This study"
+              ],
+              [
+                "pHD133",
+                "pLat52:NtPLC3-eYFP-NosT",
+                "",
+                "",
+                "",
+                "",
+                "Helling et al. 2006"
+              ],
+              [
+                "pFAU699",
+                "pLat52:eYFP-5xGA-PHFAPP1-NosT4",
+                "pFAUobt100",
+                "FAU-C459, FAU-C460",
+                "pWEN240",
+                "NgoMIV, ApaI",
+                "This study"
+              ],
+              [
+                "pFAU780",
+                "pLat52:eYFP-5xGA-C2Lact-NosT5",
+                "pFAUobt104",
+                "FAU-C624, FAU-C625",
+                "pWEN240",
+                "NgoMIV, SacII",
+                "This study"
+              ],
+              [
+                "pWEN106",
+                "pLat52:eYFP-PHPLC\u03b41-NosT6",
+                "",
+                "",
+                "",
+                "",
+                "Helling et al. 2006"
+              ],
+              [
+                "pFAU131",
+                "pLat52:eYFP-5xGA-Spo20p-NosT7",
+                "",
+                "",
+                "",
+                "",
+                "Potock\u00fd et al. 2014"
+              ],
+              [
+                "pHD274",
+                "pLat52:C1PKC\u03b3-eYFP-NosT8",
+                "",
+                "",
+                "",
+                "",
+                "Helling et al. 2006"
+              ],
+              [
+                "pFAU351",
+                "pLat52:NtINT4-eYFP-NosT",
+                "",
+                "",
+                "",
+                "",
+                "Grebnev et al. 2020"
+              ],
+              [
+                "pHD86 pSLU29",
+                "pLat52:eYFP-5xGA-NtRISAP-NosT pLat52:LIFEACT-5xGA-eYFP-NosT",
+                "",
+                "",
+                "",
+                "",
+                "Stephan et al. 2014 Montes-Rodriguez and Kost 2017"
+              ]
+            ]
+          }
+        ],
+        "page": 1
+      }
+    ]
+  }
+}

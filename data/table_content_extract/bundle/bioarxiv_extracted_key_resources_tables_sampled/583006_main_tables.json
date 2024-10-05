@@ -1,0 +1,149 @@
+{
+  "job_id": 1963,
+  "job_status": "finished",
+  "paper_id": "583006_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "treatments.  Experim",
+                ""
+              ],
+              [
+                "persons who conduct",
+                ""
+              ],
+              [
+                "Quantification of We",
+                ""
+              ],
+              [
+                "target protein\u2019s intens",
+                "ity to house-keeping proteins. Patch-clamp recordings were analysed with pClamp"
+              ],
+              [
+                "10.5 software. All fig",
+                ""
+              ],
+              [
+                "Prism 6, and Adobe I",
+                ""
+              ],
+              [
+                "When normally distri",
+                ""
+              ],
+              [
+                "unpaired samples or",
+                ""
+              ],
+              [
+                "the same samples undused for two sample",
+                "er different conditions. When normality was rejected, the Mann-Whitney test was"
+              ]
+            ]
+          }
+        ],
+        "page": 7
+      }
+    ]
+  }
+}

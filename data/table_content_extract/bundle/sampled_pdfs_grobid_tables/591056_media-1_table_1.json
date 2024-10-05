@@ -1,0 +1,370 @@
+{
+  "headers": [],
+  "caption": "Real time primer sequences",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Gene name"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward primer"
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse primer"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GAPDH"
+      },
+      {
+        "colspan": 1,
+        "content": "CACCATCTTCCAGGAGCGAG"
+      },
+      {
+        "colspan": 1,
+        "content": "CCTTCTCCATGGTGGTGAAGAC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PEX5"
+      },
+      {
+        "colspan": 1,
+        "content": "TCAAACTTTCGCCAGGCTCC"
+      },
+      {
+        "colspan": 1,
+        "content": "GAATTCTTGGGACCAGTCGGT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ATROGIN1"
+      },
+      {
+        "colspan": 1,
+        "content": "GCAAACACTGCCACATTCTCTC"
+      },
+      {
+        "colspan": 1,
+        "content": "CTTGAGGGGAAAGTGAGACG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MURF1"
+      },
+      {
+        "colspan": 1,
+        "content": "ACCTGCTGGTGGAAAACATC"
+      },
+      {
+        "colspan": 1,
+        "content": "CTTCGTGTTCCTTGCACATC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MUSA1"
+      },
+      {
+        "colspan": 1,
+        "content": "TCGTGGAATGGTAATCTTGC"
+      },
+      {
+        "colspan": 1,
+        "content": "TCGTGGAATGGTAATCTTGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FOXO1"
+      },
+      {
+        "colspan": 1,
+        "content": "GCTGGGTGTCAGGCTAAGAG"
+      },
+      {
+        "colspan": 1,
+        "content": "AGGGGTGAAGGGCATCT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FOXO3"
+      },
+      {
+        "colspan": 1,
+        "content": "CTGTGGCTGAGTGAGTCTGAA"
+      },
+      {
+        "colspan": 1,
+        "content": "ACCTTCGTCTCTGAACTCCTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FOXO4"
+      },
+      {
+        "colspan": 1,
+        "content": "CGGAGTGAAAGGGACAGTTTAG"
+      },
+      {
+        "colspan": 1,
+        "content": "CCCTGTGGCTGACTTCTTATTC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CATHEPSIN-L"
+      },
+      {
+        "colspan": 1,
+        "content": "GTGGACTGTTCTCACGCTCAAG"
+      },
+      {
+        "colspan": 1,
+        "content": "TCCGTCCTTCGCTTCATAGG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GABARAP-L"
+      },
+      {
+        "colspan": 1,
+        "content": "CATCGTGGAGAAGGCTCCTA"
+      },
+      {
+        "colspan": 1,
+        "content": "ATACAGCTGGCCCATGGTAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "LC3"
+      },
+      {
+        "colspan": 1,
+        "content": "CACTGCTCTGTCTTGTGTAGGTTG"
+      },
+      {
+        "colspan": 1,
+        "content": "TCGTTGTGCCTTTATTAGTGCATC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BECLIN1"
+      },
+      {
+        "colspan": 1,
+        "content": "TGGAAGGGTCTAAGACGT"
+      },
+      {
+        "colspan": 1,
+        "content": "GGCTGTGGTAAGTAATGGA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BNIP3"
+      },
+      {
+        "colspan": 1,
+        "content": "TTCCACTAGCACCTTCTGATGA"
+      },
+      {
+        "colspan": 1,
+        "content": "GAACACCGCATTTACAGAACAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "COX-I"
+      },
+      {
+        "colspan": 1,
+        "content": "TGCTAGCCCGACAGGCATTACT"
+      },
+      {
+        "colspan": 1,
+        "content": "CTGACCACACGAGCTGGTAGAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RNAseP"
+      },
+      {
+        "colspan": 1,
+        "content": "GCCTACACTGGAGTCGTGCTAGT"
+      },
+      {
+        "colspan": 1,
+        "content": "CGGGATCAAAGAAAGTTGTGTTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CPT1A"
+      },
+      {
+        "colspan": 1,
+        "content": "GAAGAAGAAGTTCATCCGATTCAAG"
+      },
+      {
+        "colspan": 1,
+        "content": "CGCCACTCACGATGTTCTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CPT2"
+      },
+      {
+        "colspan": 1,
+        "content": "GCCAGTTCAGGAAGACAGA"
+      },
+      {
+        "colspan": 1,
+        "content": "GCAGAAACAGTCAAGTTGGTG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ACAD-M"
+      },
+      {
+        "colspan": 1,
+        "content": "CCAATGATGTGTGCTTACTGTG"
+      },
+      {
+        "colspan": 1,
+        "content": "GGGTACTTTAGGATCTGGGTTA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ACAD-L"
+      },
+      {
+        "colspan": 1,
+        "content": "GGCTGGTTAAGTGATCTCGTG"
+      },
+      {
+        "colspan": 1,
+        "content": "CTGGCAATCGGACATCTTC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FBXL22"
+      },
+      {
+        "colspan": 1,
+        "content": "TGGCATTCCAGCCGTGT"
+      },
+      {
+        "colspan": 1,
+        "content": "GTGACGGACGTCAGGTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NCAM"
+      },
+      {
+        "colspan": 1,
+        "content": "ACAATGCTGCGAACTAAGGA"
+      },
+      {
+        "colspan": 1,
+        "content": "TGCCACTTCACACACAGGA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MUSK"
+      },
+      {
+        "colspan": 1,
+        "content": "ATCACCACGCCTCTTGAAAC"
+      },
+      {
+        "colspan": 1,
+        "content": "TGTCTTCCACGCTCAGAATG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "AchRγ"
+      },
+      {
+        "colspan": 1,
+        "content": "AGTGCAGGCAGTATTGGAGA"
+      },
+      {
+        "colspan": 1,
+        "content": "AGGTTACAGGCATCCACACAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MyoG"
+      },
+      {
+        "colspan": 1,
+        "content": "TGAATGCAACTCCCACAGC"
+      },
+      {
+        "colspan": 1,
+        "content": "GCAACAGACATATCCTCCACC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RUNX"
+      },
+      {
+        "colspan": 1,
+        "content": "CGGCAGAACTGAGAAATGCT"
+      },
+      {
+        "colspan": 1,
+        "content": "CAACTTGTGGCGGATTTGTA"
+      }
+    ]
+  ]
+}

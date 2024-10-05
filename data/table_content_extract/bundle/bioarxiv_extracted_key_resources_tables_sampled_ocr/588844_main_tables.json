@@ -1,0 +1,135 @@
+{
+  "paper_id": "588844_main",
+  "result": {
+    "pages": [
+      {
+        "page": 31,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Gene",
+                "Forward",
+                "Reverse",
+                "Accession No.",
+                "Size, bp"
+              ],
+              [
+                "<human>",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "ACTB",
+                "5\u2019-GTAGCACAGCTTCTCCTTAATGTCA-3\u201d",
+                "5\u2019-CTGACTGACTACCTCATGAAGATCC-3\"",
+                "NM_001101.3",
+                "102"
+              ],
+              [
+                "1L6",
+                "5\u2019-TATACCTCAAACTCCAAAAGACCAG-3\"",
+                "5\u2019-ACAAGAGTAACATGTGTGAAAGCAG-3\u00b0",
+                "NM_000600.4",
+                "157"
+              ],
+              [
+                "IL8",
+                "5\u2019-TCAGTGCATAAAGACATACTCCAAA-3\"",
+                "5\u2019-TCTTCCATCAGAAAGCTTTACAATAA-3\u00b0",
+                "NM_000584.4",
+                "121"
+              ],
+              [
+                "MCPI",
+                "5\u2019-CACCTGCTGTTATAACTICACCAAT-3\u201d",
+                "5\u2019-GTTGAAAGATGATAAGCCCACTCTA-3\u201d",
+                "NM_002982.4",
+                "130"
+              ],
+              [
+                "TABI",
+                "5\u2019-ATCCCTCAGTGCCAACTAAACC-3\u2019",
+                "5\u2019-GAAGATCCCAGTGCACAAGTCA-3\u00b0",
+                "NM_153497.3",
+                "137"
+              ],
+              [
+                "IRAK4",
+                "5\u2019-CGGAAATCTCTTTATCATCCGTGAG-3\u201d",
+                "5\u2019-GCACATATGTTGATGGTGTTATGGG-3\u201d",
+                "NM_001351341.2",
+                "126"
+              ],
+              [
+                "RELA",
+                "5\u00b0-TTCCAAGTTCCTATAGAAGAGCAGC-3\u201d",
+                "5\u00b0-TCAAAGATGGGATGAGAAAGGACAG-3\u201d",
+                "NM 021975.4.",
+                "134"
+              ],
+              [
+                "FSTL]",
+                "S*_CCATGACCTGTGACGGAAAGAAT-3\u201d,",
+                "5*_TTAGATCTCTTTGGTGCTCACTCT-3\u201d",
+                "NM 007085.5",
+                "137"
+              ],
+              [
+                "<rat>",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Actb",
+                "5'-GTAAAGACCTCTATGCCAACACAGT-3\u00b0",
+                "5'-GGAGCAATGATCTTGATCTICATGG -3\u201d",
+                "NM_031144.3",
+                "127"
+              ],
+              [
+                "116",
+                "5'-TAAGGACCAAGACCATCCAACTCAT-3\u00b0",
+                "5\u2019-AGTGAGGAATGTCCACAAACTGATA-3\u2019",
+                "NM_012589.2",
+                "125"
+              ],
+              [
+                "Mcp!",
+                "5\u00b0-CTAAGGACTTCAGCACCTITGAATG-3\u00b0",
+                "5\u2019-GTTCTCTGTCATACTGGTCACTTCT-3\u00b0",
+                "NM_031530.1",
+                "120"
+              ],
+              [
+                "Tabl",
+                "5'-TAGTGTCTGCTTCTGTTAGATCCTG-3\"",
+                "5\u2019-AATCAGCTTCCTCATCAGAGTGAAA-3\u201d",
+                "NM_001109976.2",
+                "134"
+              ],
+              [
+                "Irak",
+                "5\u2019-CTGAACGTGCTTTGTCTTTAACAAG-3\u201d",
+                "5\u2019-GTTGAAATGAGCTCCGTACTAAGTG-3\u201d",
+                "NM_001106791. 2",
+                "121"
+              ],
+              [
+                "Rela",
+                "S*-CTTTCTCAAGTGCCTTAATAGCAGG-3\u00b0",
+                "5*_TTCAGAGCTAGAAAGAGCAAGAGTC-3\u201d.",
+                "NM 1999672",
+                "D1"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

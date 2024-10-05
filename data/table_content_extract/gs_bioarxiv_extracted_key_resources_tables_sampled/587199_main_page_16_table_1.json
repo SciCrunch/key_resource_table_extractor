@@ -1,0 +1,243 @@
+{
+  "name": "587199_main_page_16_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Resource"
+      },
+      {
+        "colspan": 1,
+        "content": "Name / Sequence"
+      },
+      {
+        "colspan": 1,
+        "content": "Reference"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plant material"
+      },
+      {
+        "colspan": 1,
+        "content": "fer-4"
+      },
+      {
+        "colspan": 1,
+        "content": "Duan et al., 2010"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plant material"
+      },
+      {
+        "colspan": 1,
+        "content": "fer-4/pFER::FER-GFP"
+      },
+      {
+        "colspan": 1,
+        "content": "Duan et al., 2010"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plant material"
+      },
+      {
+        "colspan": 1,
+        "content": "fer-4/p35S::FER\u2206MalA-YFP"
+      },
+      {
+        "colspan": 1,
+        "content": "Gronnier et al., 2022"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plant material"
+      },
+      {
+        "colspan": 1,
+        "content": "Col-0/p35S::RALF23-GFP"
+      },
+      {
+        "colspan": 1,
+        "content": "Stegmann et al., 2017"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plant material"
+      },
+      {
+        "colspan": 1,
+        "content": "Plant llg1-2"
+      },
+      {
+        "colspan": 1,
+        "content": "Li et al., 2015"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plant material"
+      },
+      {
+        "colspan": 1,
+        "content": "bak1-4"
+      },
+      {
+        "colspan": 1,
+        "content": "Chinchilla et al., 2007"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plant material"
+      },
+      {
+        "colspan": 1,
+        "content": "bri1-301"
+      },
+      {
+        "colspan": 1,
+        "content": "Xu et al., 2008"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plant material"
+      },
+      {
+        "colspan": 1,
+        "content": "fer-4/bak1-4"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plant material"
+      },
+      {
+        "colspan": 1,
+        "content": "fer-4/bri1-301"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plant material"
+      },
+      {
+        "colspan": 1,
+        "content": "Col-0/pBRI1::BRI1-GFP"
+      },
+      {
+        "colspan": 1,
+        "content": "Geldner et al., 2007"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plant material"
+      },
+      {
+        "colspan": 1,
+        "content": "fer-4/pBRI1::BRI1-GFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Primer CPD (AT5G05690) forward"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-CCCAAACCACTTCAAAGATGCT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "Albrecht et al. 2012."
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Primer CPD (AT5G05690) reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019-GGGCCTGTCGTTACCGAGTT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "Albrecht et al. 2012."
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Primer DWF4 (AT3G50660) forward"
+      },
+      {
+        "colspan": 1,
+        "content": "\u20185-CATAAAGCTCTTCAGTCACGA-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "Albrecht et al. 2012."
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Primer DWF4 (AT3G50660) reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "\u20185-CGTCTGTTCTTTGTTTCCTAA-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "Albrecht et al. 2012."
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Primer U-BOX"
+      },
+      {
+        "colspan": 1,
+        "content": "\u20185-TGCGCTGCCAGATAATACACTATT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "Albrecht et al. 2012."
+      }
+    ]
+  ]
+}

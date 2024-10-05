@@ -1,0 +1,56 @@
+{
+  "paper_id": "497862_media-1",
+  "result": {
+    "pages": [
+      {
+        "page": 17,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Gene",
+                " Primer sequences",
+                "Amplicon\nsize (bp)"
+              ],
+              [
+                "FTL",
+                "Forward: 5\u00b0-AGGCCCTTTTGGATCTTCAT-3*\nReverse: 5'-CAGGTGGTCACCCATCTTCT-3*",
+                "122"
+              ],
+              [
+                "FTH",
+                "Forward: 5\u00b0-CTGAATGCAATGGAGTGTGC-3*\nReverse: 5\\-AATGGGGGTCATTTTTGTCA-3\u00b0",
+                "aa"
+              ],
+              [
+                "FSP1",
+                "Forward: 5'-GGCCAACATCGTCAACTCTG-3*\nReverse: 5\u00b0-ACACCGTCATTTCTCCCCAT-5*",
+                "ry"
+              ],
+              [
+                "GPX4",
+                "Forward: 5\u00b0-TCAGCAAGATCTGCGTGAAC-3*\nReverse: 5*-GGGGCAGGTCCTTCTCTATC-3*",
+                "195"
+              ],
+              [
+                "SLC40A1",
+                "Forward: 5\\-CAGGGACTGAGTGGTTCCAT-3\u00b0",
+                "102"
+              ],
+              [
+                "(FPN1)",
+                " Reverse: 5'-ACCACATTTTCGACGTAGCC-3*",
+                ""
+              ],
+              [
+                "TFRI",
+                "Forward: 5\u00b0-ACCATTGTCATATACCCGGTTCA-3*",
+                "219"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "name": "588740_main_page_62_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Strain Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Genotype"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "N2"
+      },
+      {
+        "colspan": 1,
+        "content": "Wild-Type"
+      },
+      {
+        "colspan": 1,
+        "content": "N.A."
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SP2101"
+      },
+      {
+        "colspan": 1,
+        "content": "mnIs17 [osm-6::GFP unc-36(+)]"
+      },
+      {
+        "colspan": 1,
+        "content": "N.A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " JIM113 "
+      },
+      {
+        "colspan": 1,
+        "content": "ujls113  [Ppie-1::H2B::mCherry; Pnhr-2::his-24::mCherry II]"
+      },
+      {
+        "colspan": 1,
+        "content": " N.A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PHX7618"
+      },
+      {
+        "colspan": 1,
+        "content": "tbb-2 (gfp11-i) (syb7618)"
+      },
+      {
+        "colspan": 1,
+        "content": "SunyBiotech."
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PHX4515"
+      },
+      {
+        "colspan": 1,
+        "content": "che-3::t2a::sfgfp1-10 (syb4515)"
+      },
+      {
+        "colspan": 1,
+        "content": "SunyBiotech."
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SHX2025"
+      },
+      {
+        "colspan": 1,
+        "content": "Pcol-19::sfgfp1-10 single copy KI (zjuSi177)"
+      },
+      {
+        "colspan": 1,
+        "content": "Zhejiang Univ."
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DUP228"
+      },
+      {
+        "colspan": 1,
+        "content": "glh-1::t2a::sfgfp1-10 (sam129)"
+      },
+      {
+        "colspan": 1,
+        "content": "Zhejiang Univ."
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GOU4772"
+      },
+      {
+        "colspan": 1,
+        "content": "dyf-11::wrmScarlet (cas1086); him-5 (e1490)"
+      },
+      {
+        "colspan": 1,
+        "content": "Microinjection"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " GOU5351 "
+      },
+      {
+        "colspan": 1,
+        "content": "tbb-2 (gfp11-i) (syb7618); cas1086;  che-3::t2a::sfgfp1-10 (syb4515)"
+      },
+      {
+        "colspan": 1,
+        "content": " Genetic cross "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GOU5352"
+      },
+      {
+        "colspan": 1,
+        "content": "tbb-2 (gfp11-i) (syb7618); Pcol-19::sfgfp1-10 (zjuSi177)"
+      },
+      {
+        "colspan": 1,
+        "content": "Genetic cross"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " GOU5353 "
+      },
+      {
+        "colspan": 1,
+        "content": "tbb-2 (gfp11-i) (syb7618);  glh-1::t2a::sfgfp1-10 (sam129)"
+      },
+      {
+        "colspan": 1,
+        "content": " Genetic cross "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GOU5354"
+      },
+      {
+        "colspan": 1,
+        "content": "gfp::tbb-2 (cas970)"
+      },
+      {
+        "colspan": 1,
+        "content": "Microinjection"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GOU5355"
+      },
+      {
+        "colspan": 1,
+        "content": "tbb-2::gfp (cas722)"
+      },
+      {
+        "colspan": 1,
+        "content": "Microinjection"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " GOU5356 "
+      },
+      {
+        "colspan": 1,
+        "content": "tbb-2 (gfp11-i) (syb7618); ujls113; him-5 (e1490);  glh-1::t2a::sfgfp1-10 (sam129)"
+      },
+      {
+        "colspan": 1,
+        "content": " Genetic cross "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GOU5057"
+      },
+      {
+        "colspan": 1,
+        "content": "tba-5 (A19V) (qj14)"
+      },
+      {
+        "colspan": 1,
+        "content": "Microinjection"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GOU5058"
+      },
+      {
+        "colspan": 1,
+        "content": "tba-5 (A19V) (qj14); mnIs17; him-5 (e1490)"
+      },
+      {
+        "colspan": 1,
+        "content": "Genetic cross"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GOU5067"
+      },
+      {
+        "colspan": 1,
+        "content": "gfp:tbb-4 (cas2563)"
+      },
+      {
+        "colspan": 1,
+        "content": "Microinjection"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GOU5068"
+      },
+      {
+        "colspan": 1,
+        "content": "tba-5 (A19V) (qj14); cas2563; him-5 (e1490)"
+      },
+      {
+        "colspan": 1,
+        "content": "Genetic cross"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " GOU5357 "
+      },
+      {
+        "colspan": 1,
+        "content": "tba-5 (A19V) (qj14); mnIs17;  Pdyf-1::tba-5 (A19V) (casEx6062)"
+      },
+      {
+        "colspan": 1,
+        "content": " Microinjection "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " GOU5358 "
+      },
+      {
+        "colspan": 1,
+        "content": "tba-5 (A19V) (qj14);  Pdyf-1::tba-5 (A19V) (GFP-N) (casEx6063)"
+      },
+      {
+        "colspan": 1,
+        "content": " Microinjection "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " GOU5359"
+      },
+      {
+        "colspan": 1,
+        "content": "tba-5 (A19V) (qj14); Pdyf-1::tba-5 (A19V) (GFP-C) (casEx6064)"
+      },
+      {
+        "colspan": 1,
+        "content": " Microinjection"
+      }
+    ]
+  ]
+}

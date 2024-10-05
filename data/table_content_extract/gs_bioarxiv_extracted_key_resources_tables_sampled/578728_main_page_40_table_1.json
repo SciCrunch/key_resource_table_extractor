@@ -1,0 +1,719 @@
+{
+  "name": "578728_main_page_40_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Fetal bovine serum"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 10270106"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Formaldehyde solution"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# F8775"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Glutathione reduced (GSH)"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 11514"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Glycerol"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 77453"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Glycine"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 66327"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GST"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GST-Rbfox1"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GST-Rbfox2"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HEPES Sodium Salt"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 68744"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Hexadimethrine bromide (Polybrene)"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#107689"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Horse serum"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 26050088"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Immobilon Forte Western HRP substrate"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# WBLUF"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Immobilon\u00ae-P PVDF Membrane"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# IPVH00010"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Insulin solution from bovine pancreas"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# I0516"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Isopropanol"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 62986"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Isopropyl-\u03b2-D-Thiogalactopyranoside (IPTG)"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 67208"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Kanamycin Monosulphate"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 99311"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "KY02111 (Wnt inhibitor)"
+      },
+      {
+        "colspan": 1,
+        "content": "AdooQ bioscience"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# A12362"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lithium chloride"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 105679"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Magnesium Chloride Hexahydrate"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 54269"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Magnesium Sulphate Heptahydrate"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 85611"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Maxima SYBR Green/ROX qPCR Master Mix (2X)"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# K0223"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Methanol"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 1.07018.2521"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "N,N,N\u2032,N\u2032-Tetramethylethylenediamine (TEMED)"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# T9281"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "N,N-Methylene Bisacrylamide"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 67320"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NdeI"
+      },
+      {
+        "colspan": 1,
+        "content": "Takara"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 1629"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Nonidet\u00ae P-40"
+      },
+      {
+        "colspan": 1,
+        "content": "HiMedia"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# MB143"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Paraformaldehyde"
+      },
+      {
+        "colspan": 1,
+        "content": "HiMedia"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# GRM3660"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PCR Master Mix (2X)"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# K0171"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Phenylmethylsulfonyl fluoride"
+      },
+      {
+        "colspan": 1,
+        "content": "HiMedia"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# RM1592"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Pierce\u2122 Glutathione Agarose"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 16100"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Poly (ethylene glycol)"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 89510"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Potassium acetate"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# P1190"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Potassium chloride"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 104936"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Potassium Dihydrogen Orthophosphate"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 50451"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Precision Plus Protein Dual Color Standards"
+      },
+      {
+        "colspan": 1,
+        "content": "Bio-Rad"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 1610374"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Protein A Agarose/Salmon Sperm DNA"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 16-157"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Protein A-agarose"
+      },
+      {
+        "colspan": 1,
+        "content": "SCBT"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# sc-2001"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Proteinase K"
+      },
+      {
+        "colspan": 1,
+        "content": "Calbiochem"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 539480"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PureLink\u2122 Dnase"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 12185010"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Puromycin Dihydrochloride"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 82361"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Quick-cut Restriction digestion buffer"
+      },
+      {
+        "colspan": 1,
+        "content": "Takara"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# AH70016A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SalI"
+      },
+      {
+        "colspan": 1,
+        "content": "Takara"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 1636"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SeaKem\u00ae LE Agarose"
+      },
+      {
+        "colspan": 1,
+        "content": "Lonza"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 50004"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium bicarbonate"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 92957"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium chloride"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 33205"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium citrate monobasic"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 71497"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium deoxycholate"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# D6750"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium fluoride (NAF)"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 106449"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sodium hydroxide pellets"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 68151"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium lauryl sulphate (SDS, SLS)"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 54468"
+      }
+    ]
+  ]
+}

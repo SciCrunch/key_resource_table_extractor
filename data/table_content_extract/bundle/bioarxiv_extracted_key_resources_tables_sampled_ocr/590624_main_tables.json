@@ -1,0 +1,70 @@
+{
+  "paper_id": "590624_main",
+  "result": {
+    "pages": [
+      {
+        "page": 31,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Plasmi",
+                "d",
+                "Description",
+                "Source"
+              ],
+              [
+                "",
+                "",
+                " from the RRP4 promoter in pRS313.",
+                " 2022)"
+              ],
+              [
+                "p966",
+                "",
+                "loop 2A derivative of p674",
+                "this study"
+              ],
+              [
+                "p967",
+                "",
+                "loop 1A derivative of p674",
+                "this study"
+              ],
+              [
+                "p972",
+                "",
+                "loop 3A derivative of p674",
+                "this study"
+              ],
+              [
+                "poa72",
+                "",
+                "loop 5A derivative of p6/4",
+                "this study"
+              ],
+              [
+                "p973",
+                "",
+                "wild-type Rex3 expressed as an N-terminal zz protein\nfrom the RRP4 promoter in pRS416.",
+                "this study"
+              ],
+              [
+                "p974",
+                "",
+                "A1-106 variant of p973",
+                "this study"
+              ],
+              [
+                "p975",
+                "",
+                "A1-218 variant of p973",
+                "this study"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

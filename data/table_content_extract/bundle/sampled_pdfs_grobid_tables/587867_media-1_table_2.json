@@ -1,0 +1,55 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Sequence (5'-to-3')"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GCCAAGCTGAAGGTGACCAAGTTTTAGAGCTAGAAATAGCAAGTTAAAATAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ppp-RNA"
+      },
+      {
+        "colspan": 1,
+        "content": "GGCTAGTCCGTTATCAACTTGAAAAAGTGGCACCGAGTCGGTGCTTTTTTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sgRNA sequences"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Spacer sequence (5'-to-3'"
+      }
+    ]
+  ]
+}

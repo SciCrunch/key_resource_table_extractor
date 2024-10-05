@@ -1,0 +1,1027 @@
+{
+  "paper_id": "555134_main",
+  "result": {
+    "pages": [
+      {
+        "page": 35,
+        "tables": [
+          {
+            "rows": [
+              [
+                "REAGENT or RESOURCE",
+                "SOURCE",
+                "IDENTIFIER"
+              ],
+              [
+                "Antibodies",
+                "",
+                ""
+              ],
+              [
+                "Anti-Lamin A/C",
+                "Abcam",
+                "Cat # Ab26300"
+              ],
+              [
+                "Anti-Lamin A/C",
+                "Santa Cruz",
+                "Cat # sc-376248"
+              ],
+              [
+                "Anti-Lamin A/C",
+                "Santa Cruz",
+                "Cat # sc-20681"
+              ],
+              [
+                "Anti-CD45 antibody",
+                "R&D Systems",
+                "Cat # AF114-SP"
+              ],
+              [
+                "Anti-CD68 antibody",
+                "Cell Signaling",
+                "Cat #97778"
+              ],
+              [
+                "Anti-y-H2A.X antibody",
+                "Cell Signaling",
+                "Cat #9718"
+              ],
+              [
+                "Anti-desmin antibody",
+                "Invitrogen",
+                "Cat # PAS-19063."
+              ],
+              [
+                "Anti-PCM-1 antibody",
+                "Sigma",
+                "Cat # HPA023370"
+              ],
+              [
+                "Anti-tdTomato antibody",
+                "OriGene",
+                "Cat #AB8181"
+              ],
+              [
+                "Anti-COX4 antibody",
+                "R&D Systems",
+                "Cat # MAB6980"
+              ],
+              [
+                "ef ehanaa iet ieee caine\nAntic AC antihndu",
+                "Ce eee\nTall Ganaling",
+                "Tat # 214E00"
+              ],
+              [
+                "Anti-cGAS antibody",
+                "Cell Signaling",
+                "Cat #31659"
+              ],
+              [
+                "Anti-STING antibody",
+                "Cell Signaling",
+                "Cat # 13647"
+              ],
+              [
+                "FL See\noon met",
+                "ME a ee\n\u2014",
+                "Se he\naT enn"
+              ],
+              [
+                "Anti-GAPDH antibody",
+                "ABclonal",
+                "Cat # ACOO1"
+              ],
+              [
+                "Alexa Fluor Plus 647 Phalloidin",
+                "ThermoFisher",
+                "Cat # A30107"
+              ],
+              [
+                "",
+                "OO",
+                ""
+              ],
+              [
+                "$$\nBacterial and virus strains",
+                "\u2014\u2014$\u2014<\u2014",
+                ""
+              ],
+              [
+                "BDalleltal dla VIFUS stalls:",
+                "",
+                ""
+              ],
+              [
+                "Chemicals, peptides, and recombinant proteins",
+                "",
+                ""
+              ],
+              [
+                "Chemicals, peptiaes, ana recomoinant proteins\n\u2014\u2014_\u2014\u2014\u2014 55858588",
+                "\u2014_\u2014\u2014\u2014\u2014",
+                ""
+              ],
+              [
+                "Tamoxifen",
+                "Sigma",
+                "Cat #75648"
+              ],
+              [
+                "tamoxiren",
+                "sigma",
+                "Cat # 15640"
+              ],
+              [
+                "Collagenase Type II",
+                "Worthington",
+                "Cat #LS004177"
+              ],
+              [
+                "Collagenase lype ll\nPolvethvienimine linear MW 25000 Trancfectinn Grade (PFI",
+                "Worthington\nEicher Sriantific",
+                "Cat # LS0041//\nCat # 22066-1N0"
+              ],
+              [
+                "Polyethylenimine, Linear, MW 25000, Transfection Grade (PEI\nmete",
+                "Fisher Scientific",
+                "Cat # 23966-100"
+              ],
+              [
+                "ee ee ee ee Qe\n25k\u2122)",
+                "",
+                ""
+              ],
+              [
+                "bomb 2\nTarvet Retrieval Solution",
+                "DAKO",
+                "Cat #S2267"
+              ],
+              [
+                "Target Retrieval Solution",
+                "DAKO",
+                "Cat # $2367"
+              ],
+              [
+                "Corn oil",
+                "Sigma",
+                "Cat # C8267"
+              ],
+              [
+                "Corn oll",
+                "sigma",
+                "Cat # C8267"
+              ],
+              [
+                "Phenol/Chloroform/Isoamyl alcohol",
+                "Invitrogen",
+                "Cat # 15593031"
+              ],
+              [
+                "Trizol LS",
+                "Invitrogen",
+                "Cat # 10296010"
+              ],
+              [
+                "Henarin",
+                "Sagent Pharmaceuticals.",
+                "Cat # 25021-40N0-10"
+              ],
+              [
+                "Heparin",
+                "Sagent Pharmaceuticals.",
+                "Cat # 25021-400-1\u20ac"
+              ],
+              [
+                "VectaStain ELITE ABC Kits.",
+                "Vector Laboratories",
+                "Cat # PK-6100"
+              ],
+              [
+                "DAB",
+                "DAKO",
+                "Cat # K3468"
+              ],
+              [
+                "DAD",
+                "DAKU",
+                "Cat # Ka406"
+              ],
+              [
+                "Frotong Glass Antifade Wiountant\nhinwwnnl danbes enn",
+                "Invitrogen\nTanbone",
+                "Lat # Fs03604\nau ania Anna"
+              ],
+              [
+                "Normal aonkey serum",
+                "Jackson\nImmunoResearch",
+                "Cat # UL/-UUU-L2a"
+              ],
+              [
+                "Sudan Black B",
+                "Electron Microscopy\nSlides",
+                "Cat #21610"
+              ],
+              [
+                "NEBuilder HiFi DNA Assembly Master Mix",
+                "NEB",
+                "Cat #E2621"
+              ],
+              [
+                "Dulbecco's modified Eagle medium",
+                "Fisher Scientific",
+                "Cat # 11965-092"
+              ],
+              [
+                "penicillin/streptomycin",
+                "Invitrogen",
+                "Cat #105727"
+              ],
+              [
+                "OptiPRO\u2122-SFM",
+                "Thermo Fisher",
+                "Cat # 12309019"
+              ],
+              [
+                "Fetal Bovine Serum",
+                "Sigma",
+                "Cat #F1051"
+              ],
+              [
+                "Critical commercial assays",
+                "",
+                ""
+              ],
+              [
+                "Masson\u2019s Trichrome Kit",
+                "Thomas Scientific LLC",
+                "Cat # KTMTRPT"
+              ],
+              [
+                "Click-iT\u2122 Plus TUNEL Assay Kits for In Situ Apoptosis\nDetection; Alexa Fluor\u2122 488",
+                "Invitrogen",
+                "Cat # C10617"
+              ],
+              [
+                "Luna Universal One-Step RT-qPCR Kit",
+                "New England Biolabs",
+                "Cat # \u00a33005"
+              ],
+              [
+                "NEBNext Ultrall Directional RNA Library Prep Kit",
+                "New England Biolabs",
+                "Cat # E7760"
+              ],
+              [
+                "Quant-seg 3\u2019 mRNA-seq FWD kit ",
+                "Lexogen ",
+                "Cat #K01596"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 36,
+        "tables": [
+          {
+            "rows": [
+              [
+                "imna-toxr mice",
+                "Jackson Laboratory",
+                "JAK StOck NO: 20264"
+              ],
+              [
+                "Myh6-MerCreMer transgene mice",
+                "Jackson Laboratory",
+                "JAX stock No: 005657"
+              ],
+              [
+                "Rosa264e Ph talomato mice",
+                "Jackson Laboratory",
+                "JAX stock No: 25106"
+              ],
+              [
+                "Cgas-null mice",
+                "Jackson Laboratory",
+                "JAX stock No: 026554"
+              ],
+              [
+                "CAG-Lox-Stop-Lox-Uprt transgene mice",
+                "Jackson Laboratory",
+                "JAX stock No: 021469"
+              ],
+              [
+                "Sting-flox mice",
+                "Jackson Laboratory",
+                "JAX stock No: 031670"
+              ],
+              [
+                "Mice carrying the Mej2C-AHF-Cre transgene allele",
+                " Verzi et a/., 2005",
+                "DOI:\n10.1016/j.ydbio.2005.\n08.041"
+              ],
+              [
+                "Sting-null (generated from Sting-l oxP mouse)",
+                "This study.",
+                "N/A"
+              ],
+              [
+                "AAVoro 293T Cell",
+                "TaKaRa",
+                "Cat # 632273"
+              ],
+              [
+                "Oligonucleotides",
+                "$e",
+                "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014"
+              ],
+              [
+                "DNA oligonucleotide KI279 for Lmna genotype primer:\nAACCCAGCCTCAGAAACTGGTGGATG",
+                "This paper",
+                "Ikegami lab ID: KI279"
+              ],
+              [
+                "DNA oligonucleotide KI280 for Lmna genotype primer:\nGACAGCTCTCCTCTGAAGTGCTIGGA",
+                "This paper",
+                "Ikegami lab ID: Ki280"
+              ],
+              [
+                "DNA oligonucleotide EAQ62 for EGFP cloning:\nAGTACTTAATACGACTCACTATAGGCTAGCGCCACCATGGTGAGC\nAAGGGCGAGGA",
+                "This paper",
+                "Ikegami lab ID: EAO62"
+              ],
+              [
+                "DNA oligonucleotide EA064 for EGFP with GS linker cloning:\nTTATCATGTCTGGATCCGCGCGGCCGCGCTGCCCCCGCCTCCCTT\nGTACAGCTCGTCCATGC",
+                "This paper",
+                "Ikegami lab ID: EAO64"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 37,
+        "tables": [
+          {
+            "rows": [
+              [
+                "DNA oligonucleotide EAO86 for icGAS (human cGAS with ",
+                "This paper",
+                " Ikegami lab ID: EAOS"
+              ],
+              [
+                "\u00a3225A/D227A amino acid substitutions): ",
+                "",
+                ""
+              ],
+              [
+                "AAGGGAGGCGGGGGCAGCGCGGCCGCAGACTACAAAGACGAT ",
+                "",
+                ""
+              ],
+              [
+                "GACGACAAGATGCAGCCCTGGCACGGTAAAGCAATGCAACGGG ",
+                "",
+                ""
+              ],
+              [
+                "CTAGTGAAGCAGGAGCTACTGCTCCAAAGGCCAGTGCTAGGAAT ",
+                "",
+                ""
+              ],
+              [
+                "GCCAGGGGCGCTCCCATGGATCCAAATGAAAGCCCCGCAGCACC ",
+                "",
+                ""
+              ],
+              [
+                "CGAAGCAGCTCTGCCTAAAGCAGGTAAGTTTGGCCCTGCTCGGA ",
+                "",
+                ""
+              ],
+              [
+                "AGTCTGGTTCCAGACAAAAGAAATCAGCTCCTGATACTCAAGAG ",
+                "",
+                ""
+              ],
+              [
+                "AGGCCTCCAGTAAGGGCTACCGGAGCTAGGGCCAAGAAAGCAC ",
+                "",
+                ""
+              ],
+              [
+                "CCCAGAGAGCCCAGGATACCCAGCCTAGTGATGCAACTTICAGCC ",
+                "",
+                ""
+              ],
+              [
+                "CCAGGCGCAGAGGGGCTGGAACCTCCCGCCGCACGAGAGCCCG ",
+                "",
+                ""
+              ],
+              [
+                "CCCTTTCACGAGCCGGATCCTGCCGCCAACGAGGTGCCAGATGC ",
+                "",
+                ""
+              ],
+              [
+                "AGCACAAAACCCAGGCCCCCTCCCGGTCCATGGGATGTACCCAG ",
+                "",
+                ""
+              ],
+              [
+                "OT RA pee ape ",
+                "",
+                ""
+              ],
+              [
+                "MELE OBSTETPECES AAG TGLALCLAATALTOO I TLGAAGSVALS ",
+                "",
+                ""
+              ],
+              [
+                "CCGCACCAGGGGCCTCTAAACTGCGGGCCGTGCTGGAGAAGCT ",
+                "",
+                ""
+              ],
+              [
+                "GAAGTTGTCTCQAGGATGATATCAGCACTGCCGOCTGGCATGGCTTA ",
+                "",
+                ""
+              ],
+              [
+                "GAAGTTGTCTCGGGATGATATCAGCACTGCCGCTGGCATGGTTA ",
+                "",
+                ""
+              ],
+              [
+                "DM ACCCCTICTICACCATCTCCTICTGCCACTCAARATCrCACTCA. ",
+                "",
+                ""
+              ],
+              [
+                "AAGGGGTTGTTGACCATCTGCTTCTGCGACTGAAATGCGACTCA ",
+                "",
+                ""
+              ],
+              [
+                "COTTA CCT CTACCCCTIOTCAACACTCOATCOCTATTACEA ",
+                "",
+                ""
+              ],
+              [
+                "GC AGGGGTGTAGGGCTTCTGAACACTGGATCCTATTACGA ",
+                "",
+                ""
+              ],
+              [
+                "COACCTCAACATTARTCOCTCCCAACCCCTICCCACTCATCTTTAA ",
+                "",
+                ""
+              ],
+              [
+                "GCACGTCAAGATTAGTGCTCCCAACGCCTTCGCAGTCATGTTTAA ",
+                "",
+                ""
+              ],
+              [
+                "COT OOAACTICCTACAATTCACCTOCAACACTATTCTAACACTCO ",
+                "",
+                ""
+              ],
+              [
+                "GCTGGAAGTTCCTAGAATTCAGCTGGAAGAGTATTCTAACACTCG ",
+                "",
+                ""
+              ],
+              [
+                "eet ERE MPAA ATER AORTA AA AMA AT AA ",
+                "",
+                ""
+              ],
+              [
+                "AGCTTATTA GTCAAATTTAAGCGAAACCCAAAGGAGAATCA ",
+                "",
+                ""
+              ],
+              [
+                "STOTT ISTTCICA AEC CARATAST ET rrereicrakcay ",
+                "",
+                ""
+              ],
+              [
+                "CCTGTCTCAGTTCTTGGAAGGGGAGATACTGTCCGCCTCTAAGAT ",
+                "",
+                ""
+              ],
+              [
+                "OTT OTA NTTORAANATTATARACCAPARATTCAAT ATA ",
+                "",
+                ""
+              ],
+              [
+                "GCTGTCTAAGTTCAGAAAGATTATAAAGGAGGAAATTAATGATA ",
+                "",
+                ""
+              ],
+              [
+                "TCARACATACTCACCTCATTATCAARACCAACCCCOCACCTTCT ",
+                "",
+                ""
+              ],
+              [
+                "TLARAGATALTGALGIGATIAIGAAAAGGAAGLSLOUASGTICT ",
+                "",
+                ""
+              ],
+              [
+                "COT OCARTCACTCTOCTCATTACCCACAACATATCTOTTCACATA ",
+                "",
+                ""
+              ],
+              [
+                "ACCCTCGCACTCGAATCCAAGTCTAGCTGGCCTGCCTCTACCCAG ",
+                "",
+                ""
+              ],
+              [
+                "CACCCCTTCACAATTCAAAACTCRTICTCTCCAAAACTAACCAA ",
+                "",
+                ""
+              ],
+              [
+                "Se  ene ae ne eee ",
+                "",
+                ""
+              ],
+              [
+                "ACAALTTLGALTGAAGLEALTT IATL ICO ILLLAAAGLALOLAAA ",
+                "",
+                ""
+              ],
+              [
+                "AGAGGGCAAIGGIIICCAAGAAGAAALTIGGUGCIIGICCIIIIC ",
+                "",
+                ""
+              ],
+              [
+                "ACALA! TG AGAAQQAGAT TL TOAALAATLALCOUGAAAG TLCCAAAA ",
+                "",
+                ""
+              ],
+              [
+                "LETGLTGLGAGAATAAQUAAGARAAS TOL IO TLGAAAGSALIG ",
+                "",
+                ""
+              ],
+              [
+                "eee Eee ea ",
+                "",
+                ""
+              ],
+              [
+                "TT AAAGALARGAAALAL TTOGALAAATLI FAG TILE LALLALGIOA ",
+                "",
+                ""
+              ],
+              [
+                "AGALCAGLEEIEEI TEAL IOI ILALLCLAGAATLELCEAQUATTLAL ",
+                "",
+                ""
+              ],
+              [
+                "AGT SSSATAGAAAGGALLILGGALILIGUITIGACAALIGUGIL ",
+                "",
+                ""
+              ],
+              [
+                "EIT ISIN HOTNESS IEEE NINE",
+                "",
+                ""
+              ],
+              [
+                "TTTATCOCCOCGAATTIIAALTIGIICICATCAAACCIGATIGACAAGA ",
+                "",
+                ""
+              ],
+              [
+                "GATCIAAAGAATICCTCACAAAACAGATCGAGTACGAACGCAAC ",
+                "",
+                ""
+              ],
+              [
+                "AALGAALTIOOCUGIECITIGATGAATTLIGAGLOEGLESLSLSSATL \nCAGACATGATAA",
+                "",
+                ""
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 38,
+        "tables": [
+          {
+            "rows": [
+              [
+                "DNA oligonucleotide EA087 for mouse cGAS: ",
+                "This paper",
+                " Ikegami lab ID: EAO87"
+              ],
+              [
+                "AGTACTTAATACGACTCACTATAGGCTAGCGCCACCATGGACTAC",
+                "",
+                ""
+              ],
+              [
+                "AAAGACGATGACGATAAGATGGAGGATCCTCGCAGGCGCACCA",
+                "",
+                ""
+              ],
+              [
+                "CAGCTCCACGCGCAAAGAAACCATCTGCTAAGAGAGCACCTACC",
+                "",
+                ""
+              ],
+              [
+                "CAGCCTTCTAGGACAAGAGCCCATGCCGAGTCCTGCGGACCACA.",
+                "",
+                ""
+              ],
+              [
+                "ACGAGGCGCCAGGAGTCGGCGGGCAGAACGGGACGGAGACAC",
+                "",
+                ""
+              ],
+              [
+                "AACCGAGAAACCTAGGGCTCCTGGCCCTAGAGTGCACCCAGCAC",
+                "",
+                ""
+              ],
+              [
+                "GCGCTACAGAGCTGACTAAAGATGCACAGCCCAGTGCAATGGAT",
+                "",
+                ""
+              ],
+              [
+                "GCAGCTGGTGCCACCGCACGCCCAGCCGTGCGGGTTCCACAACA",
+                "",
+                ""
+              ],
+              [
+                "GCAGGCTATATIGGACCCCGAACTTCCTGCTGTAAGGGAACCTCA",
+                "",
+                ""
+              ],
+              [
+                "ACCCCCCGCAGATCCCGAAGCTAGAAAAGTAGTACGAGGACCTT",
+                "",
+                ""
+              ],
+              [
+                "CTCACCGACGAGGGGCTCGATCAACCGGCCAGCCACGGGCTCCC",
+                "",
+                ""
+              ],
+              [
+                "EL PEALLUALUAD SSE PEGA TLAALLUGLEASGLEALCSUSL ILL",
+                "",
+                ""
+              ],
+              [
+                "AGGGGGTCACGCAAAGAACCAGATAAGCTCAAGAAAGTCCTGG",
+                "",
+                ""
+              ],
+              [
+                "ATAAGTTGCGGTTGAAAAGAAAAGACATCAGTGAAGCTGCTGAA",
+                "",
+                ""
+              ],
+              [
+                "ACAGTTAACAAAGTCGTCGAGAGACTGTTGCGGCGCATGCAAAA",
+                "",
+                ""
+              ],
+              [
+                "AAGGGAATCTGAATICAAAGGAGTCGAACAACTCAACACCGGTT",
+                "",
+                ""
+              ],
+              [
+                "CATACTACGAGCATGTTAAAATCTCAGCCCCAAATGAGTTIGATG",
+                "",
+                ""
+              ],
+              [
+                "CATACTACGAGCAIGTTAAAATCICAGCCCCAAATGAGITIGATG",
+                "",
+                ""
+              ],
+              [
+                "IGAIGITIAAGULIIGAAGIGLUICGCATIGAACIGLAGGAGIACT",
+                "",
+                ""
+              ],
+              [
+                "ATOAGALIOGAGLETTETALLT LG TAAAG TI TAAGLOUAATTLOILA",
+                "",
+                ""
+              ],
+              [
+                "GGOGGIAAICCOETIGICICATIIICICGAAGGIGAAGICIIGICAG",
+                "",
+                ""
+              ],
+              [
+                "CTACCAAAATGCTGAGTAAATTTAGGAAGATAATAAAAGAGGAG",
+                "",
+                ""
+              ],
+              [
+                "GTTAAGGAAATAAAGGACATCGACGTTTCAGTGGAGAAGGAGA",
+                "",
+                ""
+              ],
+              [
+                "AGCCCGGTTICTCCAGCAGTTACACTCCTCATCAGGAATCCCGAGG",
+                "",
+                ""
+              ],
+              [
+                "AGCLUCGGTICICCAGCAGTIACACICCICATCAGGAAICCUEGAGG",
+                "",
+                ""
+              ],
+              [
+                "AAATTAGCGTAGACATCATTCTCGCTTTGGAAAGCAAGGGTAGTT",
+                "",
+                ""
+              ],
+              [
+                "ARATIAGLOLAGALATEATILICGCI TI GGAAAGLAAGSGIAGTI",
+                "",
+                ""
+              ],
+              [
+                "GGCCCATTTCTACCAAAGAAGGACTICCCATICAGGGTTIGGCTCG",
+                "",
+                ""
+              ],
+              [
+                "RIERA TEER LINIISININOISIRES ETCETERA",
+                "",
+                ""
+              ],
+              [
+                "GTACCAAAGTACGCACCAATCTCCGAAGGGAACCTTTCTACCTGG",
+                "",
+                ""
+              ],
+              [
+                "en en ee amin oe ieee, pipe ete ",
+                "",
+                ""
+              ],
+              [
+                "TTCCTAAAAATGCTAAAGATGGAAACTCTTTCCAGGGCGAGACTT",
+                "",
+                ""
+              ],
+              [
+                "CERECCTCTCCTTTICCCACACACACAACTACATCCTTAACAACC ",
+                "",
+                ""
+              ],
+              [
+                "RATA ARAN OOTP RT reer apt ",
+                "",
+                ""
+              ],
+              [
+                "ACGGAATCGAAAAAACCTGCTGCGAAAGTTCCGGTGCCAAGTGT",
+                "",
+                ""
+              ],
+              [
+                "IGICGAARAGGAAIGCEIIAAALCTGAIGAAATACCT TTI GGAGCA ",
+                "",
+                ""
+              ],
+              [
+                "COTTAACACCOCTATTTTCCACATCTCCACACACCACCCACAACA",
+                "",
+                ""
+              ],
+              [
+                "TTCTCAATGGGACCCTAGGAATCTCAGCTCATGTTTCGATAAGTT",
+                "",
+                ""
+              ],
+              [
+                "GTTGGC CCTCGAATGTCTGCGCACCGAGAAGTTGGATCA",
+                "",
+                ""
+              ],
+              [
+                "TTACTICATICCCAAGTICAACCICTICICACAGGAALIGAIAGAT",
+                "",
+                ""
+              ],
+              [
+                "LGAAAGICIAAGGAATICLIGICIAAAAAAATAGAGIAIGAGLCG",
+                "",
+                ""
+              ],
+              [
+                "See ere EE Re ENN Net tee Nae nae ee erent Nee tel Te Nal\nCATSOCACACATOATAA",
+                "",
+                ""
+              ],
+              [
+                "DNA oligonucleotide EA096 for Cxc/10 qPCR primer:",
+                "This paper",
+                "Ikegami lab ID: EAO96"
+              ],
+              [
+                "eee eee\nGCCGTCA CTGCCTCA ",
+                "a ee",
+                " I ne ne nee"
+              ],
+              [
+                "DNA oligonucleotide EA097 for Cxc/10 qPCR primer:",
+                "This paper",
+                "Ikegami lab ID: EA097"
+              ],
+              [
+                "ee ee EE NS Gee eee\nCATCCTIGCGAGAGGGATC ",
+                "ee ee eet",
+                " egw aa"
+              ],
+              [
+                "CGTCCTTGCGAGAGGGATC",
+                "",
+                ""
+              ],
+              [
+                "DNA oligonucleotide EA098 for /fnb1 gPCR primer:",
+                "This paper",
+                "Ikegami lab ID: EAO98"
+              ],
+              [
+                "CCTGGAGCAGCTGAATGGAA",
+                "",
+                ""
+              ],
+              [
+                "DNA oligonucleotide EA099 for /fnb1 qPCR primer:",
+                "This paper",
+                "Ikegami lab ID: EAO99"
+              ],
+              [
+                "TGGATGGCAAAGGCAGTGTAA",
+                "",
+                ""
+              ],
+              [
+                "DNA oligonucleotide EA100 for /fit3 qPCR primer: ",
+                "This paper",
+                " Ikegami lab ID: EA100"
+              ],
+              [
+                "CCTACATAAAGCACCTAGATGGC",
+                "",
+                "ee"
+              ],
+              [
+                "ANA anlignaniurlontide FAIN1 far Ifit2 ADCP mrimor\u2019",
+                "Thie nei",
+                "Ibaocami lahIn- EAINI"
+              ],
+              [
+                "lela alsielinatahs - jctalahaannceiacieiniinateaiicmniemaaien tania baleen, inaaiell latina\nATGTGATAGTAGATCCAGGCGT ",
+                "tins Peper",
+                " IRE SGI Tah hh. BAN"
+              ],
+              [
+                "DNA oligonucleotide Kl444 for Actb qPCR primer: \nCTTTGCAGCTCCTTCGTTGC",
+                "This paper",
+                "Ikegami lab ID: Kl444"
+              ],
+              [
+                "DNA oligonucleotide KI445 for Actb qPCR primer:",
+                "This paper",
+                "Ikegami lab ID: KI445"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 39,
+        "tables": [
+          {
+            "rows": [
+              [
+                "DNA oligonucleotide KI466 for AAV titering primer:",
+                " This paper",
+                " Ikegami lab ID: KI466."
+              ],
+              [
+                "GCGGATCCAGACATGATAAG",
+                "",
+                ""
+              ],
+              [
+                "DNA oligonucleotide KI467 for AAV titering primer:",
+                "This paper",
+                "Ikegami lab ID: KI1467"
+              ],
+              [
+                "GCCTATAGTGAGTCGTATTAAG",
+                "",
+                ""
+              ],
+              [
+                "Recombinant DNA",
+                "",
+                ""
+              ],
+              [
+                "pAAV:cTNT::Luciferase",
+                "Addgene",
+                "Addgene plasmid\n#69915"
+              ],
+              [
+                "pAAV:cTNT::GFP-GS linker",
+                "This paper",
+                "Ikegami lab ID:\nhacoc2 41"
+              ],
+              [
+                "pAAV:cTNT::GFP-icGAS",
+                "This paper",
+                "Ikegami lab ID:\nhAEIOQ 1"
+              ],
+              [
+                "pAAV:cTNT::cGAS",
+                "This paper",
+                "Ikegami lab ID:\nkAroOO 4"
+              ],
+              [
+                "pLJM1-EGFP",
+                "Addgene",
+                "\u2018Addgene plasmid\n#19319"
+              ],
+              [
+                "Software and algorithms",
+                "_\u2014$\u2014<$<\u2014<\u2014<\u2014$\u2014<\u2014<\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+                "re"
+              ],
+              [
+                "Image)",
+                "N/A",
+                "https://imagej.net/ij/"
+              ],
+              [
+                "NIS Elements",
+                "Nikon Instruments Inc.",
+                "RRID:SCR_014329"
+              ],
+              [
+                "Odyssey CLx Imaging System",
+                "LI-COR Biosciences",
+                "https://www.licor.com\n/bio/odyssey-dix/"
+              ],
+              [
+                "CellProfiler",
+                "Broad Institute",
+                "https://cellprofiler.org\nf"
+              ],
+              [
+                "Other",
+                "",
+                ""
+              ],
+              [
+                "Bio-Rad CFX96 Real-Time PCR Detection System",
+                "Bio-Rad",
+                "RRID:SCR_018064"
+              ],
+              [
+                "Yokogawa CSU-W1 Sora spinning disk confocal microscope",
+                "Nikon Instruments Inc.",
+                "https://www.microsco\npe.healthcare.nikon.co\nm/products/confocal-\nmicroscopes/csu-\nseries/csu-w1"
+              ],
+              [
+                "Nikon A1R laser-scanning confocal microscope",
+                "Nikon Instruments Inc.",
+                "RRID:SCR_ 020317"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

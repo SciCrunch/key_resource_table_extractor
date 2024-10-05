@@ -1,0 +1,76 @@
+{
+  "paper_id": "590647_media-1",
+  "result": {
+    "pages": [
+      {
+        "page": 2,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Strain",
+                " Reference",
+                " Forward primer ",
+                "Reverse primer"
+              ],
+              [
+                "E. coli BW25113",
+                "fo",
+                "se",
+                ""
+              ],
+              [
+                "E. coli BW25113 Ahfq",
+                "(1)",
+                "ee",
+                ""
+              ],
+              [
+                "E. coli BW25113 ArhIB",
+                "(1)",
+                "",
+                ""
+              ],
+              [
+                "E. coli BW25113 Apnp",
+                "(1)",
+                "fT",
+                ""
+              ],
+              [
+                "E. coli BW25113 AmicF",
+                "This study",
+                "CAACTAGAATA\nACTCCCGGTGT\nAGGCTGGAGCT\nGCTTC",
+                "AAACCGAATGC\nGAGGCATATG\nGGAATTAGCCA\nTGGTCC"
+              ],
+              [
+                "E. coli BW25113 rne-131",
+                "This study",
+                "CriCllCGGCG\nCACTGAAAGCG\nCTGTTCAGCGG\nTGGTTAAGTGT\nAGGCTGGAGCT\nGCTTC\nCRATAARRTACT",
+                "GATTACTT IGA\nGCTAATTATTA\nCTCAACAGGTT\nGCGGACGATG\nGGAATTAGCCA\nTGGTCC\nPRRARRRCPAA"
+              ],
+              [
+                "C. UU DY\u00a5eOLIOG THe lol\nE. coli BW25113 ArhiB Apnp",
+                "His stugy\nThis studv",
+                "Mvitv\nCGTAAGGTACT\nGTCTAAGAAAG\nAGAAAGGATAT\nTACATTGGTGT\nAGGCTGGAGCT\nGCTTC",
+                "faa tvv\nCGGAGGGCAA\nATGGCAACCTT\nACTCGCCCTGT\nTCAGCAGCAT\nGGGAATTAGC\nCATGGTCC"
+              ],
+              [
+                "Se eee eee ee ee\nE. coli BW25113 AmicF\nobaE:3xFLAG",
+                "fie ee\nThis studv",
+                "CGAAGACGACG\nAAGAAGGCGTT\nGAGTTCATTTAG\nAAGCGTGACTA\nCAAAGACCATG\nACGG",
+                "AAATCGTGCAA\nATTCAACATAT\nTGCAATTCTCT\nTGTAGGCATG\nGGAATTAGCCA\nTGGTCC"
+              ],
+              [
+                "E. coli BW25113 AmicF\nseqA:3xFLAG",
+                "This study",
+                "ATTCCCGGCGG\nAATTGATTGAG\nAAGGTTTGCGG\nAACTATCGACT\nACAAAGACCAT\nGACGG",
+                "TGGGCGACGT\nTAATCAAATCA\nCTCTGTTGTGC\nAGGTTGGCAT\nGGGAATTAGC\nCATGGTCC."
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "name": "589980_main_page_18_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Antibody (Ab)"
+      },
+      {
+        "colspan": 1,
+        "content": "Ab species"
+      },
+      {
+        "colspan": 1,
+        "content": "Ab source"
+      },
+      {
+        "colspan": 1,
+        "content": "Ab concentration"
+      },
+      {
+        "colspan": 1,
+        "content": "Step of protocol applied"
+      },
+      {
+        "colspan": 1,
+        "content": "Reference/cat no."
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-Pbcircumsporozoite protein (3D11)"
+      },
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "BEI Resources"
+      },
+      {
+        "colspan": 1,
+        "content": "1: 1000"
+      },
+      {
+        "colspan": 1,
+        "content": "Primary Ab"
+      },
+      {
+        "colspan": 1,
+        "content": "MRA-100A36"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-mouse IgG Alexa Fluor 555 (H+L)"
+      },
+      {
+        "colspan": 1,
+        "content": "Goat"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500 (2mg/ml stock)"
+      },
+      {
+        "colspan": 1,
+        "content": "Second Ab"
+      },
+      {
+        "colspan": 1,
+        "content": "A21422"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-mouse IgG Alexa Fluor 488 Superclonal (H+L)"
+      },
+      {
+        "colspan": 1,
+        "content": "Goat"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500  (1mg/ml)"
+      },
+      {
+        "colspan": 1,
+        "content": "Second Ab"
+      },
+      {
+        "colspan": 1,
+        "content": "A28175"
+      }
+    ]
+  ]
+}

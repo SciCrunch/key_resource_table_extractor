@@ -1,0 +1,313 @@
+{
+  "name": "590927_media-2_page_12_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Antigen"
+      },
+      {
+        "colspan": 1,
+        "content": "Clone"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "B220-V500"
+      },
+      {
+        "colspan": 1,
+        "content": "RA3-6B2"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Bioscience"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD115-PE"
+      },
+      {
+        "colspan": 1,
+        "content": "ASF98"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD115-PE/Cyanine7"
+      },
+      {
+        "colspan": 1,
+        "content": "ASF98"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD11b-BV605"
+      },
+      {
+        "colspan": 1,
+        "content": "M1/70"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD11b-PECyanine7"
+      },
+      {
+        "colspan": 1,
+        "content": "M1/70"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD25-BV421"
+      },
+      {
+        "colspan": 1,
+        "content": "PC61"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD3-PerCP/Cyanine5.5"
+      },
+      {
+        "colspan": 1,
+        "content": "145-2C11"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD44-APC/Cyanine7"
+      },
+      {
+        "colspan": 1,
+        "content": "IM7"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD45.1-APC"
+      },
+      {
+        "colspan": 1,
+        "content": "A20"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD45.2-FITC"
+      },
+      {
+        "colspan": 1,
+        "content": "104"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD4-BV421"
+      },
+      {
+        "colspan": 1,
+        "content": "GK1.5"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD4-PerCP/Cyanine5.5"
+      },
+      {
+        "colspan": 1,
+        "content": "GK1.5"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD8a-APC"
+      },
+      {
+        "colspan": 1,
+        "content": "53-6.7"
+      },
+      {
+        "colspan": 1,
+        "content": "eBioscience"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD8a-PE"
+      },
+      {
+        "colspan": 1,
+        "content": "53-6.7"
+      },
+      {
+        "colspan": 1,
+        "content": "BDpharmingen"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "cMet-PE "
+      },
+      {
+        "colspan": 1,
+        "content": "eBioclone7 "
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen eBioscience"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Phospho cMet-APC"
+      },
+      {
+        "colspan": 1,
+        "content": "MetY12341235-6F11"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "F4/80-AF700"
+      },
+      {
+        "colspan": 1,
+        "content": "BM8"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Gr1-PerCP/Cyanine5.5"
+      },
+      {
+        "colspan": 1,
+        "content": "RB6-8C5"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ly6C-APC"
+      },
+      {
+        "colspan": 1,
+        "content": "HK1.4"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ly6C-BV711"
+      },
+      {
+        "colspan": 1,
+        "content": "HK1.4"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ly6G-BV421"
+      },
+      {
+        "colspan": 1,
+        "content": "1A8"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ]
+  ]
+}

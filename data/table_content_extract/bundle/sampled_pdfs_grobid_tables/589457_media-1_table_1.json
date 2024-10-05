@@ -1,0 +1,41 @@
+{
+  "headers": [],
+  "notes": "* [𝐶𝑎] *",
+  "caption": "𝑁 ,,* ⋅ 𝑖𝑐𝑎 where PO is a binary variable describing whether a LTCC channel is open or closed, NL,O is the total number of open LTCC, and ica is the unitary current and computed as 𝑖𝑐𝑎 = 4𝑃 () 𝑧𝐹 ⋅ 𝛾 ! 𝐶 . ⋅ 0.001 ⋅ exp(2 ⋅ 𝑧) -𝛾 ICaT formula from the Kharche et al. model (37) was coupled with the 3D Ca 2+ signaling model. We evenly distributed the Ca 2+ flux carried by ICaT to the peripheral CRUs, with 50% of the proteins in the cleft and 50% in the submembrane compartment for each CRU (Data",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "exp(2 ⋅ 𝑧) -1.0"
+    }],
+    [
+      {
+        "colspan": 1,
+        "content": "where"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "𝑧 ="
+      },
+      {
+        "colspan": 1,
+        "content": "𝑉𝐹 𝑅𝑇"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "T-"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ]
+  ]
+}

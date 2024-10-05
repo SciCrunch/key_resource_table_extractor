@@ -1,0 +1,187 @@
+{
+  "name": "586589_main_page_16_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Biorender "
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.biorender.com/"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MaxQuant 2.0.3.0   "
+      },
+      {
+        "colspan": 1,
+        "content": "Cox & Mann, 2008; Tyanova, Temu, &  Cox, 2016 85,86"
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.maxquant.org/"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Perseus 1.6.15.0    "
+      },
+      {
+        "colspan": 1,
+        "content": "Tyanova, Temu, Sinitcyn, et al., 2016 87"
+      },
+      {
+        "colspan": 1,
+        "content": "https://cox- labs.github.io/coxdocs/perseus_instructions.html#cite"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GSEA  "
+      },
+      {
+        "colspan": 1,
+        "content": "  "
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.gsea-msigdb.org/gsea/msigdb"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Salmon v1.10.2  "
+      },
+      {
+        "colspan": 1,
+        "content": "Patro, Duggal, Love, Irizarry, & Kingsford, 2017 88"
+      },
+      {
+        "colspan": 1,
+        "content": "https://salmon.readthedocs.io/en/latest/salmon.html"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Trimmomatic v0.39.1  "
+      },
+      {
+        "colspan": 1,
+        "content": "Bolger, Lohse, & Usadel, 2014 88"
+      },
+      {
+        "colspan": 1,
+        "content": "http://www.usadellab.org/cms/?page=trimmomatic"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DESeq2 1.36.0    "
+      },
+      {
+        "colspan": 1,
+        "content": "Love, Huber, & Anders, 2014 90"
+      },
+      {
+        "colspan": 1,
+        "content": "https://bioconductor.org/packages/release/bioc/html/DESeq2. html"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "EdgeR    "
+      },
+      {
+        "colspan": 1,
+        "content": "Robinson, McCarthy, & Smyth, 2010 91"
+      },
+      {
+        "colspan": 1,
+        "content": "https://bioconductor.org/packages/release/bioc/html/edgeR.html"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " STAR (v.2.5.1b) "
+      },
+      {
+        "colspan": 1,
+        "content": "Dobin, et al., 2013 92"
+      },
+      {
+        "colspan": 1,
+        "content": "https://github.com/alexdobin/STAR"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FastQC (v.0.11.7)  "
+      },
+      {
+        "colspan": 1,
+        "content": "Babraham Bioinformatics "
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.bioinformatics.babraham.ac.uk/projects/fastqc/"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " CutAdapt (v.2.8)   "
+      },
+      {
+        "colspan": 1,
+        "content": "Martin, 2011 93"
+      },
+      {
+        "colspan": 1,
+        "content": "https://journal.embnet.org/index.php/embnetjournal/article/view/200"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Homer (v4.11) "
+      },
+      {
+        "colspan": 1,
+        "content": "Heinz et al., 2010 94"
+      },
+      {
+        "colspan": 1,
+        "content": "http://homer.ucsd.edu/homer/"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Fgsea (v1.28.0)   "
+      },
+      {
+        "colspan": 1,
+        "content": "Gennady et al., 2021 95"
+      },
+      {
+        "colspan": 1,
+        "content": "https://bioconductor.org/packages/release/bioc/html/fgsea.html"
+      }
+    ]
+  ]
+}

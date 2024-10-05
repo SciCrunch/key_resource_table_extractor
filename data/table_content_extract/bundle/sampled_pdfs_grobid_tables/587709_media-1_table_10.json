@@ -1,0 +1,194 @@
+{
+  "headers": [],
+  "caption": "P-values of post-hoc Dunn's test comparing the differences in the rank sums of the determined protein concentrations between the four protein quantification methods. Marked differences: ** p < 0.05 (significant)",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Samples derived from Sf9 cells"
+      },
+      {
+        "colspan": 1,
+        "content": "Adjusted p-value (Dunn's test)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lowry"
+      },
+      {
+        "colspan": 1,
+        "content": "BCA"
+      },
+      {
+        "colspan": 1,
+        "content": "0.545"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lowry"
+      },
+      {
+        "colspan": 1,
+        "content": "Bradford"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lowry"
+      },
+      {
+        "colspan": 1,
+        "content": "ELISA"
+      },
+      {
+        "colspan": 1,
+        "content": "0.00119 **"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BCA"
+      },
+      {
+        "colspan": 1,
+        "content": "Bradford"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BCA"
+      },
+      {
+        "colspan": 1,
+        "content": "ELISA"
+      },
+      {
+        "colspan": 1,
+        "content": "0.000000374 **"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bradford"
+      },
+      {
+        "colspan": 1,
+        "content": "ELISA"
+      },
+      {
+        "colspan": 1,
+        "content": "0.00033 **"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Samples derived from tissue isolates"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lowry"
+      },
+      {
+        "colspan": 1,
+        "content": "BCA"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lowry"
+      },
+      {
+        "colspan": 1,
+        "content": "Bradford"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lowry"
+      },
+      {
+        "colspan": 1,
+        "content": "ELISA"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BCA"
+      },
+      {
+        "colspan": 1,
+        "content": "Bradford"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BCA"
+      },
+      {
+        "colspan": 1,
+        "content": "ELISA"
+      },
+      {
+        "colspan": 1,
+        "content": "0.587"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bradford"
+      },
+      {
+        "colspan": 1,
+        "content": "ELISA"
+      },
+      {
+        "colspan": 1,
+        "content": "0.190"
+      }
+    ]
+  ]
+}

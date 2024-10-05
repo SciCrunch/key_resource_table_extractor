@@ -1,0 +1,103 @@
+{
+  "name": "497862_media-1_page_17_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Gene "
+      },
+      {
+        "colspan": 1,
+        "content": "Primer sequences "
+      },
+      {
+        "colspan": 1,
+        "content": "Amplicon size (bp)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FTL "
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: 5`-AGGCCCTTTTGGATCTTCAT-3` Reverse: 5`-CAGGTGGTCACCCATCTTCT-3`"
+      },
+      {
+        "colspan": 1,
+        "content": "122 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FTH "
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: 5`-CTGAATGCAATGGAGTGTGC-3` Reverse: 5`-AATGGGGGTCATTTTTGTCA-3`"
+      },
+      {
+        "colspan": 1,
+        "content": "97 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FSP1 "
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: 5`-GGCCAACATCGTCAACTCTG-3` Reverse: 5`-ACACCGTCATTTCTCCCCAT-5`"
+      },
+      {
+        "colspan": 1,
+        "content": "96 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GPX4 "
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: 5`-TCAGCAAGATCTGCGTGAAC-3` Reverse: 5`-GGGGCAGGTCCTTCTCTATC-3`"
+      },
+      {
+        "colspan": 1,
+        "content": "195 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SLC40A1 (FPN1)"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: 5`-CAGGGACTGAGTGGTTCCAT-3` Reverse: 5`-ACCACATTTTCGACGTAGCC-3`"
+      },
+      {
+        "colspan": 1,
+        "content": "102 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TFR1"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward: 5`-ACCATTGTCATATACCCGGTTCA-3` Reverse: 5`-CAATAGCCCAAGTAGCCAATCAT-3`"
+      },
+      {
+        "colspan": 1,
+        "content": "219"
+      }
+    ]
+  ]
+}

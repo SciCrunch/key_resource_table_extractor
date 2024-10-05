@@ -1,0 +1,60 @@
+{
+  "job_id": 102,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_590927_media-2",
+  "pdf_file": "590927_media-2.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "Forward",
+                "Reverse"
+              ],
+              [
+                "TAL1",
+                "5\u2019-CACAGGGTCCTTGCCAGTC-3\u2019",
+                "5\u2019-CTACCCTGCAAACAGACCTC-3\u2019"
+              ],
+              [
+                "transgene",
+                "",
+                "5\u2019-"
+              ],
+              [
+                "LMO1",
+                "5\u2019-CGGGATCCGAGATGATGGTGCTGG-3\u2019",
+                "CCCAAGCTTACTGAACTTGGCATTCAAAGG-3\u2019"
+              ],
+              [
+                "transgene",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 11
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Ly6G-BV421",
+                "1A8",
+                "BioLegend"
+              ]
+            ]
+          }
+        ],
+        "page": 12
+      }
+    ]
+  }
+}

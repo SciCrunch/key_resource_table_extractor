@@ -1,0 +1,401 @@
+{
+  "name": "579982_media-1_page_1_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Company"
+      },
+      {
+        "colspan": 1,
+        "content": "Catalog#"
+      },
+      {
+        "colspan": 1,
+        "content": "Dilution"
+      },
+      {
+        "colspan": 1,
+        "content": "Species"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "tdTomato (tdTom)"
+      },
+      {
+        "colspan": 1,
+        "content": "LifeSpan Bio"
+      },
+      {
+        "colspan": 1,
+        "content": "LS\u2011C340696"
+      },
+      {
+        "colspan": 1,
+        "content": "1:250 (IF); 1:1500 (IHC)"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Goat"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Pou2f3"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz Biotechnology"
+      },
+      {
+        "colspan": 1,
+        "content": "sc-330"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Dclk1"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab31704"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 (IF&IHC)"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Vav1"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "2502s"
+      },
+      {
+        "colspan": 1,
+        "content": "1:200"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cox1"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "MA5-32259"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Synaptophysin (Syp)"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "336R-95"
+      },
+      {
+        "colspan": 1,
+        "content": "1:200 (IF/IHC)"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Gkn1"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "PA5-47913"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Sheep"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lectin GS-II"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "L21415"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "488 Conjugated"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Glucagon (Gcg)"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "2760s"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Insulin (Ins)"
+      },
+      {
+        "colspan": 1,
+        "content": "Novus Biological"
+      },
+      {
+        "colspan": 1,
+        "content": "MAB1417"
+      },
+      {
+        "colspan": 1,
+        "content": "1:150"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rat"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Somatostatin (Sst)"
+      },
+      {
+        "colspan": 1,
+        "content": "Phoenix Pharmaceuticals"
+      },
+      {
+        "colspan": 1,
+        "content": "h-060-03"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Guinea Pig"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ghrelin (Ghrl)"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "31865s"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Pancreatic Polypeptide (Pp/Ppy)"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab272732"
+      },
+      {
+        "colspan": 1,
+        "content": "1:200"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Serotonin (5-HT)"
+      },
+      {
+        "colspan": 1,
+        "content": "Immunostar"
+      },
+      {
+        "colspan": 1,
+        "content": "20080"
+      },
+      {
+        "colspan": 1,
+        "content": "1:250"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Nrxn3"
+      },
+      {
+        "colspan": 1,
+        "content": "Alomone Labs"
+      },
+      {
+        "colspan": 1,
+        "content": "ANR-033"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Acetylated alpha Tubulin"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "T7451-100UL"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Mouse"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Wide-spectrum cytokeratin (PanCK)"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab9377"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit"
+      }
+    ]
+  ]
+}

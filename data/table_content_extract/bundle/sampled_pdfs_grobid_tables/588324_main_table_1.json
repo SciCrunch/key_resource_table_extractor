@@ -1,0 +1,655 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster:w*;Cka c305a -Gal4"
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC:30829"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Drosophila Stock"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Company"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster: y 1 w*;UAS-mcd8::GFP;;"
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC:5137"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Drosophila Stock"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Company"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster: w*;;;OK107-Gal4"
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC:854"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Drosophila Stock"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Company"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster:y 1 w*:UAS-trio-GEF1"
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC:9133"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Drosophila Stock"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "REAGENT or RESOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "SOURCE Company"
+      },
+      {
+        "colspan": 1,
+        "content": "IDENTIFIER"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster: y 1 w*:UAS-trio-GEF2 Antibodies Mouse monoclonal 9.4A anti-Trio Mouse monoclonal ADL101 anti-Lamin D. melanogaster:w*;;ppk-Gal4"
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington University of Iowa Drosophila Stock Company Developmental University of Iowa Company Bank Drosophila Stock Studies Hybridoma Bloomington"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC:9134 RRID:AB_528494 RRID:AB_528332 BSDC:32079"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Developmental"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Studies Hybridoma"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Bank"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse monoclonal 1D4 anti-Fasciclin II"
+      },
+      {
+        "colspan": 1,
+        "content": "University of Iowa"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_528235"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Developmental"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Studies Hybridoma"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Bank"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit Polyclonal Anti-Green Fluorescent Protein (GFP) ThermoFisher"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#A-11122"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Alexa Fluor® 488 AffiniPure Polyclonal Goat Anti-rabbit"
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_2338046"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "ImmunoResearch"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Laboratories"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cy™3 AffiniPure Polyclonal Goat Anti-Mouse IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_2338690"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ImmunoResearch"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Laboratories"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Chemicals, peptides, and recombinant proteins"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TRIzol reagent"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#15596018"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "1-Bromo-3-chloropropane"
+      },
+      {
+        "colspan": 1,
+        "content": "Scientific Laboratory"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# B9673"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Supplies"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "2-propanol/isopropanol"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#A416-1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ethanol 200 proof"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#04-355-233"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Diethyl pyrocarbonate (DEPC)"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#D5758"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Agarose LE, Quick Dissolve"
+      },
+      {
+        "colspan": 1,
+        "content": "Genesee Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#20-102QD"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Red Safe"
+      },
+      {
+        "colspan": 1,
+        "content": "iNtRON Biotechnology Cat# 21141"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NaCl"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#S7653"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "KCl"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#P3911"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ZnCl2"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#208086"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Polysorbate 20 (Tween® 20)"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Bioreagents"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#BP-337-500"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Triton X-100"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#T8787"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tris Base Ultrapure"
+      },
+      {
+        "colspan": 1,
+        "content": "USBiological Life"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#T8600"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Sciences"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium Dodecyl Sulfate"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Bioreagents"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#YBP166500"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium deoxycholate"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#89905"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NP-40"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#85124"
+      }
+    ]
+  ]
+}

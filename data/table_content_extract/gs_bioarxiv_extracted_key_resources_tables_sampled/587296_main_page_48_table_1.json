@@ -1,0 +1,335 @@
+{
+  "name": "587296_main_page_48_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 4,
+        "content": "Antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Primary AB  "
+      },
+      {
+        "colspan": 1,
+        "content": "Vendor or Source, Catalog # "
+      },
+      {
+        "colspan": 1,
+        "content": "Secondary AB  "
+      },
+      {
+        "colspan": 1,
+        "content": "Vendor or Source, Catalog #"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-SPARC "
+      },
+      {
+        "colspan": 1,
+        "content": "R&D Systems, AF942"
+      },
+      {
+        "colspan": 1,
+        "content": "Donkey-Anti-Goat IgG, AP "
+      },
+      {
+        "colspan": 1,
+        "content": "Promega, V115A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-desmin"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, 14-9747-82"
+      },
+      {
+        "colspan": 1,
+        "content": "IRDye\u00ae 800CW Goat anti- Mouse IgG "
+      },
+      {
+        "colspan": 1,
+        "content": "LICOR , 926- 32210 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-Smad2  "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, MA5-15112"
+      },
+      {
+        "colspan": 1,
+        "content": "IRDye\u00ae 800CW Goat anti-Mouse IgG Secondary Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "LICOR , 926-32212"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-SPARC"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, MA1-43027"
+      },
+      {
+        "colspan": 1,
+        "content": "IRDye\u00ae 800CW Goat anti-Mouse IgG Secondary Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "LICOR , 926-32213"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-Smad2"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, MA5-15112"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Mouse IgG (H+L) AP conj. "
+      },
+      {
+        "colspan": 1,
+        "content": "Promega, S372B  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-SPARC"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, MA5-29821"
+      },
+      {
+        "colspan": 1,
+        "content": "IRDye\u00ae 800CW Goat anti-Rabbit IgG Secondary Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "LICOR , 926-32211"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-SPARC"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, PA5-78178"
+      },
+      {
+        "colspan": 1,
+        "content": "IRDye\u00ae 800CW Goat anti-Rabbit IgG Secondary Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "LICOR , 926-32211"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-SPARC"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, PA5-78178"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit IgG (Fc) AP conj. "
+      },
+      {
+        "colspan": 1,
+        "content": "Promega, S3731  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-SPARC"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, PA5-89864"
+      },
+      {
+        "colspan": 1,
+        "content": "IRDye\u00ae 800CW Goat anti-Rabbit IgG Secondary Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "LICOR , 926-32211"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-SPARC"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, MA5-29821"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit IgG (Fc) AP conj. "
+      },
+      {
+        "colspan": 1,
+        "content": "Promega, S3741  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-SPARC"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz, sc-25574  "
+      },
+      {
+        "colspan": 1,
+        "content": "Alkaline phosphatase-conjugated anti-rabbit IgG antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Dianova, 111-035-003"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Vinculin"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, 700062"
+      },
+      {
+        "colspan": 1,
+        "content": "IRDye\u00ae 800CW Goat anti-Rabbit IgG Secondary Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "LICOR , 926-32211"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Desmin"
+      },
+      {
+        "colspan": 1,
+        "content": "ABCAM, ab8592 "
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit IgG (Fc) AP conj."
+      },
+      {
+        "colspan": 1,
+        "content": "Promega, S3731 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Desmin"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, PA5-117909"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit IgG (Fc) AP conj. "
+      },
+      {
+        "colspan": 1,
+        "content": "Promega, S3731  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Vinculin"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, 700062"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit IgG (Fc) AP conj. "
+      },
+      {
+        "colspan": 1,
+        "content": "Promega, S3731  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-pSmad2"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific, MA5-15122"
+      },
+      {
+        "colspan": 1,
+        "content": "IRDye\u00ae 800CW Goat anti-Rabbit IgG Secondary Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "LICOR , 926-32211"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-pSmad2"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen, 44-244G  "
+      },
+      {
+        "colspan": 1,
+        "content": "IRDye\u00ae 800CW Goat anti-Rabbit IgG Secondary Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "LICOR , 926-32211"
+      }
+    ]
+  ]
+}

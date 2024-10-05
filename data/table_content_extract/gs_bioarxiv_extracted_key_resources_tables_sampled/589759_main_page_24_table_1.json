@@ -1,0 +1,285 @@
+{
+  "name": "589759_main_page_24_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: C57BL/6J"
+      },
+      {
+        "colspan": 1,
+        "content": "The Jackson laboratory"
+      },
+      {
+        "colspan": 1,
+        "content": "000664"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: Ng2-cre (B6;FVB-Ifi208Tg(Cspg4-cre)1Akik/J)"
+      },
+      {
+        "colspan": 1,
+        "content": "The Jackson laboratory"
+      },
+      {
+        "colspan": 1,
+        "content": "008533"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: Plp1-creERT (B6.Cg-Tg(Plp1-cre/ERT)3Pop/J)"
+      },
+      {
+        "colspan": 1,
+        "content": "The Jackson laboratory"
+      },
+      {
+        "colspan": 1,
+        "content": "005975"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: Prkci flox"
+      },
+      {
+        "colspan": 1,
+        "content": "Scott et al., iScience, 2019."
+      },
+      {
+        "colspan": 1,
+        "content": "PMID: 31546104"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: Prkcz flox"
+      },
+      {
+        "colspan": 1,
+        "content": "Chibly et al., Sci Rep, 2018"
+      },
+      {
+        "colspan": 1,
+        "content": "PMID: 29679075"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: Ribotag Tg/Tg (B6N.129-Rpl22tm1.1Psam/J)"
+      },
+      {
+        "colspan": 1,
+        "content": "The Jackson laboratory"
+      },
+      {
+        "colspan": 1,
+        "content": "011029"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Oligonucleotides"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "See table"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Software and Algorithms"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Image Studio Lite Software Version 5.2.5"
+      },
+      {
+        "colspan": 1,
+        "content": "Li-Cor"
+      },
+      {
+        "colspan": 1,
+        "content": "n/a"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Adobe Photoshop"
+      },
+      {
+        "colspan": 1,
+        "content": "Adobe Systems"
+      },
+      {
+        "colspan": 1,
+        "content": "n/a"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GraphPad Prism 8"
+      },
+      {
+        "colspan": 1,
+        "content": "GraphPad software"
+      },
+      {
+        "colspan": 1,
+        "content": "n/a"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ImageJ software"
+      },
+      {
+        "colspan": 1,
+        "content": "NIH, USA"
+      },
+      {
+        "colspan": 1,
+        "content": "n/a"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Other"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RNeasy Plus Micro Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "QIAGEN"
+      },
+      {
+        "colspan": 1,
+        "content": "74034"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "iScript cDNA Synthesis kit"
+      },
+      {
+        "colspan": 1,
+        "content": "BioRad"
+      },
+      {
+        "colspan": 1,
+        "content": "1708891"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mini-PROTEAN\u00ae TGX Stain-Free\u2122 Precast Gels"
+      },
+      {
+        "colspan": 1,
+        "content": "BioRad"
+      },
+      {
+        "colspan": 1,
+        "content": "4568025, 4568125"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Immun-Blot PVDF Membrane"
+      },
+      {
+        "colspan": 1,
+        "content": "BioRad"
+      },
+      {
+        "colspan": 1,
+        "content": "1620177"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "cOmplete\u2122 Protease Inhibitor Cocktail"
+      },
+      {
+        "colspan": 1,
+        "content": "Roche"
+      },
+      {
+        "colspan": 1,
+        "content": "11697498001"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Pierce\u2122 BCA Protein Assay Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "23227"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "paper_id": "591056_media-1",
+  "result": {
+    "pages": [
+      {
+        "page": 7,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Gene name",
+                "Forward primer",
+                "Reverse primer"
+              ],
+              [
+                "GAPDH",
+                "CACCATCTTCCAGGAGCGAG",
+                "CCTTCTCCATGGTGGTGAAGAC"
+              ],
+              [
+                "PEX5 ",
+                "TCAAACTTTCGCCAGGCTCC",
+                "GAATTCTTGGGACCAGTCGGT"
+              ],
+              [
+                "ATROGIN1",
+                "GCAAACACTGCCACATTCTCTC",
+                "CTTGAGGGGAAAGTGAGACG"
+              ],
+              [
+                "MURF1",
+                "ACCTGCTGGTGGAAAACATC",
+                "CTTCGTGTTCCTTGCACATC"
+              ],
+              [
+                "MUSA1",
+                "TCGTGGAATGGTAATCTTGC",
+                "TCGTGGAATGGTAATCTTGC"
+              ],
+              [
+                "FOXO1",
+                "GCTGGGTGTCAGGCTAAGAG",
+                "AGGGGTGAAGGGCATCT"
+              ],
+              [
+                "FOXO3",
+                "CTGTGGCTGAGTGAGTCTGAA",
+                "ACCTTCGTCTCTGAACTCCTT"
+              ],
+              [
+                "FOXO4",
+                "CGGAGTGAAAGGGACAGTTTAG",
+                "CCCTGTGGCTGACTTCTTATTC"
+              ],
+              [
+                "CATHEPSIN-L",
+                "GTGGACTGTTCTCACGCTCAAG",
+                "TCCGTCCTTCGCTTCATAGG"
+              ],
+              [
+                "GABARAP-L",
+                "CATCGTGGAGAAGGCTCCTA",
+                "ATACAGCTGGCCCATGGTAG"
+              ],
+              [
+                "Lc3",
+                "CACTGCTCTGTCTTGTGTAGGTTG",
+                "TCGTTGTGCCTTTATTAGTGCATC"
+              ],
+              [
+                "BECLIN1",
+                "TGGAAGGGTCTAAGACGT",
+                "GGCTGTGGTAAGTAATGGA"
+              ],
+              [
+                "BNIP3",
+                "TTCCACTAGCACCTTCTGATGA",
+                "GAACACCGCATTTACAGAACAA"
+              ],
+              [
+                "COX-I",
+                "TGCTAGCCCGACAGGCATTACT",
+                "CTGACCACACGAGCTGGTAGAA"
+              ],
+              [
+                "RNAseP",
+                "GCCTACACTGGAGTCGTGCTAGT",
+                "CGGGATCAAAGAAAGTTGTGTTT"
+              ],
+              [
+                "CPTIA",
+                "GAAGAAGAAGTTCATCCGATTCAAG",
+                "CGCCACTCACGATGTTCTT"
+              ],
+              [
+                "CPT2",
+                "GCCAGTTCAGGAAGACAGA",
+                "GCAGAAACAGTCAAGTTGGTG"
+              ],
+              [
+                "ACAD-M",
+                "CCAATGATGTGTGCTTACTGTG",
+                "GGGTACTTTAGGATCTGGGTTA"
+              ],
+              [
+                "ACAD-L ",
+                "GGCTGGTTAAGTGATCTCGTG",
+                "CTGGCAATCGGACATCTTC"
+              ],
+              [
+                "FBXL22",
+                "TGGCATTCCAGCCGTGT",
+                "GTGACGGACGTCAGGTT"
+              ],
+              [
+                "NCAM",
+                "ACAATGCTGCGAACTAAGGA",
+                "TGCCACTTCACACACAGGA"
+              ],
+              [
+                "MUSK",
+                "ATCACCACGCCTCTTGAAAC",
+                "TGTCTTCCACGCTCAGAATG"
+              ],
+              [
+                "AchRy [",
+                "AGTGCAGGCAGTATTGGAGA",
+                "AGGTTACAGGCATCCACACAG"
+              ],
+              [
+                "MyoG",
+                "TGAATGCAACTCCCACAGC",
+                "GCAACAGACATATCCTCCACC"
+              ],
+              [
+                "RUNX",
+                "CGGCAGAACTGAGAAATGCT",
+                "CAACTIGTGGCGGATTIGTA"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Antibody",
+                "Customer",
+                "Dilution"
+              ],
+              [
+                "Goat Anti rabbit-HRP",
+                "BIO-RAD 1706515",
+                "1:2000 WB"
+              ],
+              [
+                "Goat Anti mouse-HRP",
+                "BIO-RAD 1706516",
+                "1:2000 WB"
+              ],
+              [
+                "MitoProfile\u00ae Total\nOXPHOS Rodent WB\nAntibody Cocktail",
+                "MitoSciences MS604",
+                " 1:1000 WB"
+              ],
+              [
+                "Antibody Cocktail",
+                "Aan a oe",
+                "y eS"
+              ],
+              [
+                "Antibody COcktall\nRAaniico ANKLCADNL",
+                "\u2018Alpaca:",
+                "\n 4.4900"
+              ],
+              [
+                "Mouse antt-GAFUR",
+                "ADCaM abDo24D",
+                "4\u00a3:L000U0"
+              ],
+              [
+                "Mouse anti-ACOX1",
+                "Santacruz-51/306",
+                "1:1000 WB"
+              ],
+              [
+                "Rapbit anti-ACOAL",
+                "Froteintecn LOJ5 /-1-AP",
+                "4:L000 WB"
+              ],
+              [
+                "EEE ESE Py eet\nDahhit anti_Dovi\u00a3",
+                "Bo aa a a\n14AQ1E4.1_.AD",
+                "eek Ne\n4.42000 \\A/D"
+              ],
+              [
+                "ANQDDIT GNTI-PEXLO",
+                "L4010-1-AP",
+                "1:LUUU WD"
+              ],
+              [
+                "Rabbit anti-Pex5",
+                "CST 83020S",
+                "11-1000 WB"
+              ],
+              [
+                "Rabbit anti-Pex5",
+                "CST 83020S",
+                " 1:1000 WB"
+              ],
+              [
+                "Rabbit anti-PGC1-\nalohatbeta",
+                "Ab54481",
+                "1:1000 WB"
+              ],
+              [
+                "Rabbit anti-FLNC",
+                "Abclonal A13018",
+                "1:1000 WB"
+              ],
+              [
+                "Rabbit anti-CapZ",
+                "25043-1-AP",
+                "1:1000 WB"
+              ],
+              [
+                "Rabbit anti-MYOZ",
+                "23880-1-AP",
+                " 1:1000 WB"
+              ],
+              [
+                "Rabbit anti-Alpha-Actinin",
+                "Proteintech 24378-1-AP",
+                "1:1000 WB"
+              ],
+              [
+                "Rabbit anti-PMP70",
+                "Sigma P0497-200UL",
+                "1:1000 WB; 1:100 IF"
+              ],
+              [
+                "Rabbit anti-VDAC",
+                "CST 4866S",
+                "1:1000 WB; 1:100 IF"
+              ],
+              [
+                "Rabbit anti-NCAM",
+                "Sigma AB5032",
+                "1:100 IF"
+              ],
+              [
+                "Rabbit anti-Dystrophin",
+                "Abcam ab15277",
+                "1:100 IF"
+              ],
+              [
+                "Rabbit anti-ACAA1",
+                "Sigma HPAOQO07244",
+                "1:100 IF"
+              ],
+              [
+                "Anti-VAMP1",
+                "homemade*",
+                " 1:200 IF"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

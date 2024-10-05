@@ -1,0 +1,185 @@
+{
+  "name": "590647_media-1_page_2_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Strain"
+      },
+      {
+        "colspan": 1,
+        "content": "Reference"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward primer"
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse primer"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 \u0394hfq"
+      },
+      {
+        "colspan": 1,
+        "content": "(1)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 \u0394rhlB"
+      },
+      {
+        "colspan": 1,
+        "content": "(1)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 \u0394pnp"
+      },
+      {
+        "colspan": 1,
+        "content": "(1)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 \u0394micF"
+      },
+      {
+        "colspan": 1,
+        "content": "     This study"
+      },
+      {
+        "colspan": 1,
+        "content": "GTCAAAACAAA ACCTTCACTCG CAACTAGAATA ACTCCCGGTGT AGGCTGGAGCT GCTTC"
+      },
+      {
+        "colspan": 1,
+        "content": "AGTGTGTAAAG AAGGGTAAAAA AAACCGAATGC GAGGCATATG GGAATTAGCCA TGGTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "     E. coli BW25113 rne-131"
+      },
+      {
+        "colspan": 1,
+        "content": "     This study"
+      },
+      {
+        "colspan": 1,
+        "content": "CTTCTTCGGCG CACTGAAAGCG CTGTTCAGCGG TGGTTAAGTGT AGGCTGGAGCT GCTTC"
+      },
+      {
+        "colspan": 1,
+        "content": "GATTACTTTGA GCTAATTATTA CTCAACAGGTT GCGGACGATG GGAATTAGCCA TGGTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 \u0394rhlB \u0394pnp"
+      },
+      {
+        "colspan": 1,
+        "content": "     This study"
+      },
+      {
+        "colspan": 1,
+        "content": "CGTAAGGTACT GTCTAAGAAAG AGAAAGGATAT TACATTGGTGT AGGCTGGAGCT GCTTC"
+      },
+      {
+        "colspan": 1,
+        "content": "CGGAGGGCAA ATGGCAACCTT ACTCGCCCTGT TCAGCAGCAT GGGAATTAGC CATGGTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 \u0394micF obgE:3xFLAG"
+      },
+      {
+        "colspan": 1,
+        "content": "     This study"
+      },
+      {
+        "colspan": 1,
+        "content": "CGAAGACGACG AAGAAGGCGTT GAGTTCATTTAC AAGCGTGACTA CAAAGACCATG ACGG"
+      },
+      {
+        "colspan": 1,
+        "content": "AAATCGTGCAA ATTCAACATAT TGCAATTCTCT TGTAGGCATG GGAATTAGCCA TGGTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "E. coli BW25113 \u0394micF seqA:3xFLAG"
+      },
+      {
+        "colspan": 1,
+        "content": "     This study"
+      },
+      {
+        "colspan": 1,
+        "content": "ATTCCCGGCGG AATTGATTGAG AAGGTTTGCGG AACTATCGACT ACAAAGACCAT GACGG"
+      },
+      {
+        "colspan": 1,
+        "content": "TGGGCGACGT TAATCAAATCA CTCTGTTGTGC AGGTTGGCAT GGGAATTAGC CATGGTCC"
+      }
+    ]
+  ]
+}

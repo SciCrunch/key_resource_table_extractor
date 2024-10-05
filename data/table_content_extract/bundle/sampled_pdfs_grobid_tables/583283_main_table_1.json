@@ -1,0 +1,147 @@
+{
+  "headers": [],
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "Human breast cancer cell lines SKBR3, MCF-7, and MDA-MB-231 were obtained from Lipofectamine 3000 (L3000015, Thermo Fisher Scientific, Invitrogen, USA) was used for cell"
+    }],
+    [{
+      "colspan": 1,
+      "content": "American Type Culture Collection (ATCC, Manassas, VA). The identity of cell lines had been transfection."
+    }],
+    [{
+      "colspan": 1,
+      "content": "authenticated by using STR profiling and with no contamination in the mycoplasma test."
+    }],
+    [{
+      "colspan": 1,
+      "content": "SKBR3 cells were cultured in McCoy's 5A (modified) medium supplemented with 10% fetal"
+    }],
+    [{
+      "colspan": 1,
+      "content": "bovine serum at 37°C and 5% CO 2 . MCF7 cells were cultured in DMEM high glucose"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(Invitrogen) medium supplemented with 10% fetal bovine serum at 37°C and 5% CO 2 ."
+    }],
+    [{
+      "colspan": 1,
+      "content": "MDA-MB-231 cells were cultured in Leibovitz's L-15 medium supplemented with 10% fetal"
+    }],
+    [
+      {
+        "colspan": 1,
+        "content": "bovine serum at 37°C without CO 2 ."
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Transfection"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [{
+      "colspan": 1,
+      "content": "SKBR3 cells were transfected with short hairpin (sh)RNAs specifically targeting RGS10"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(Syngentech Biotechnology, Beijing, China). shRNA sequences were: shRNA-RGS10-161,"
+    }],
+    [
+      {
+        "colspan": 1,
+        "content": "5\u2032-GCCTCAAGAGCACAGCCAAAT-3\u2032;"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "shRNA-RGS10-321, 5\u2032-"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GGAGATCTACATGACCTTTCT-3\u2032;"
+      },
+      {
+        "colspan": 1,
+        "content": "a n d"
+      },
+      {
+        "colspan": 1,
+        "content": "shRNA-RGS10-506,"
+      }
+    ],
+    [{
+      "colspan": 1,
+      "content": "5\u2032-GCACCCTCTGATGTTCCAGAA-3\u2032. The shRNA-negative control (NC) sequence was"
+    }],
+    [{
+      "colspan": 1,
+      "content": "5\u2032-AAACGTGACACGTTCGGAGAA-3\u2032. As transfection efficiencies of shRNA-RGS10-161"
+    }],
+    [{
+      "colspan": 1,
+      "content": "and shRNA-RGS10-506 were better than shRNA-RGS10-321, shRNA-RGS10-161 and"
+    }],
+    [
+      {
+        "colspan": 1,
+        "content": "shRNA-RGS10-506 were used for subsequent experiments."
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [{
+      "colspan": 1,
+      "content": "A miR-539-5p mimic, miR-539-5p inhibitor, and corresponding NC were designed and"
+    }],
+    [{
+      "colspan": 1,
+      "content": "synthesized by GenePharma Biotechnology (Shanghai, China). The sequences of miRNA"
+    }],
+    [{
+      "colspan": 1,
+      "content": "The study was approved by the Institutional Ethics Committee of Shengjing Hospital were: miR-539-5p mimic, 5\u2032-GGAGAAAUUAUCCUUGGUGUGU-3\u2032; miR-539-5p mimic"
+    }],
+    [{
+      "colspan": 1,
+      "content": "of China Medical University and complied with the principles of the Declaration of Helsinki NC,5\u2032-UUCUCCGAACGUGUCACGUTT-3\u2032; miR-539-5p"
+    }],
+    [{
+      "colspan": 1,
+      "content": "and Good Clinical Practice guidelines of the National Medical Products Administration of inhibitor,5\u2032-ACACACCAAGGAUAAUUUCUCC-3\u2032; miR-539-5p inhibitor NC"
+    }],
+    [{
+      "colspan": 1,
+      "content": "China. Informed consent was obtained from all the participants. 5\u2032-CAGUACUUUUGUGUAGUACAA\u2032. SKBR3 cells were transfected with the miR-539-5p"
+    }],
+    [{
+      "colspan": 1,
+      "content": "mimic or NC. MDA-MB-231 cells were transfected with the miR-539-5p inhibitor or NC."
+    }]
+  ]
+}

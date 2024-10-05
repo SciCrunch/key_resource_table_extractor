@@ -1,0 +1,337 @@
+{
+  "job_id": 1540,
+  "job_status": "finished",
+  "paper_id": "587571_media-1",
+  "pdf_file": "media-1.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Primer type",
+                "Name",
+                "Forward primer",
+                "Reverse primer"
+              ],
+              [
+                "",
+                "RPS28",
+                "GGTGACGTGCTCACCCTATT",
+                "TTCCGTGGGCTAAGTAGTGG"
+              ],
+              [
+                "",
+                "Irx3",
+                "ACAGCACCTGCTGGGACTT",
+                "TTCTCCACTTCCAAGGCACT"
+              ],
+              [
+                "",
+                "Pax6",
+                "ATGGCAAACAACCTGCCTAT",
+                "CATGGGCTGACTGTTCATGT"
+              ],
+              [
+                "",
+                "Dbx1",
+                "CTGAAGTTTGGGGTGAATGCC",
+                "CGAACGTCTTGGGAGGAGG"
+              ],
+              [
+                "",
+                "Oct4",
+                "TTGCAGCTCAGCCTTAAGAA",
+                "TGGTCTCCAGACTCCACCTC"
+              ],
+              [
+                "",
+                "Nanog",
+                "AAGCAGAAGATGCGGACTGT",
+                "GCACTTCATCCTTTGGTTTTG"
+              ],
+              [
+                "",
+                "Meis1",
+                "CAGAAAAAGCAGTTGGCACA",
+                "TGCTGACCGTCCATTACAAA"
+              ],
+              [
+                "",
+                "Wnt1",
+                "GAACTGCCCCACTGCTCC",
+                "GCGGAGGTGATTGCGAAGAT"
+              ],
+              [
+                "",
+                "Wnt11",
+                "ACAACAGTGAAGTGGGGAGAC",
+                "GTGCGGATGGAGCAGGAG"
+              ],
+              [
+                "RT-qPCR",
+                "Brachyury (T)",
+                "GCTTTCCCGAGACCCAGTTC",
+                "GGCATCAAGGAAGGCTTTAGC"
+              ],
+              [
+                "",
+                "Cyp26a1",
+                "CCCATTGACGTGCCCTTTAG",
+                "ATATCCAGCCTCTCTCCCCT"
+              ],
+              [
+                "",
+                "TDG",
+                "CCCCGATCCTGTGGTGAGTC",
+                "CCAGTCGTGACTGCCATGT"
+              ],
+              [
+                "",
+                "Acta2",
+                "ATGTCCCCGCCATGTATGTG",
+                "CCATCTCCAGAGTCCAGCAC"
+              ],
+              [
+                "",
+                "Asns",
+                "CGTATCCTTTTTGACAACGCTATCA",
+                "GCAGAGAGGCAGCAACCAAG"
+              ],
+              [
+                "",
+                "Atf4",
+                "GCTATGGATGATGGCTTGGC",
+                "GCATCGAAGTCAAACTCTTTCAGA"
+              ],
+              [
+                "",
+                "Bcat1",
+                "CTGCCAGCCTCTACATCCG",
+                "CGGTCTTCAAGGAGGGTCAC"
+              ],
+              [
+                "",
+                "Bdnf",
+                "TACCTGGATGCCGCAAACAT",
+                "GCTGTGACCCACTCGCTAAT"
+              ],
+              [
+                "",
+                "Chac1",
+                "GGGCTTCGTTCGTGGCTATA",
+                "GAGGCGGTAGAACTCAAAGA"
+              ],
+              [
+                "",
+                "Mthfd2",
+                "TGCTTGGACCAGTACTCTATGC",
+                "CTGCCAGCCACTACCACAT"
+              ],
+              [
+                "",
+                "Psat1",
+                "TTGGAACGGTGAACATTGTCC",
+                "GCGTCCGGGTTGAGGTTC"
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Asns",
+                "CAGAGAAGGTGGAGCAGAGG",
+                "ATGATGAAACTTCCCGCACG"
+              ],
+              [
+                "",
+                "Atf4",
+                "CGCCTTGTAAGACACCGGAA",
+                "GCCCCATGAGAGAAAAGTGC"
+              ],
+              [
+                "ChIP-qPCR",
+                "Bcat1",
+                "GGGTGCAAATGTGAGTCTCC",
+                "GCCCAGCTCTCCATCTTCC"
+              ],
+              [
+                "",
+                "Chac1",
+                "CTGACGCAATCTGACTCGCC",
+                "CTCCTCCTCCCGTGGCAG"
+              ],
+              [
+                "",
+                "Mthfd2",
+                "AAGGCTAGAACTGGTGGGCT",
+                "TACCAACTTCCCTCCTCCCG"
+              ],
+              [
+                "",
+                "Psat1",
+                "ACGATCAATCAACTCCTCCTGG",
+                "GGTGGCTGGTGCAATCCC"
+              ],
+              [
+                "",
+                "Nampt-nuc1",
+                "CCCATTTTTCTCCTTGCTCGC",
+                "GATGTTGAACTCGGCTTCTGC"
+              ],
+              [
+                "",
+                "Nampt-nuc2",
+                "GACTGGATGAGACCGTGGGA",
+                "ACACCGCCAGGACCTCTC"
+              ],
+              [
+                "",
+                "Negative ctrl",
+                "TCCTTTGACCTCCACACACA",
+                "GCAACAGAAGATGCGATGAA"
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Asns",
+                "GACAGCACATCCTCCGGC",
+                "CTGCTCCACCTTCTCTGGC"
+              ],
+              [
+                "",
+                "Atf4",
+                "GAAGTGTTGGCGGGGGAC",
+                "AAGTGCTTGGCCACCTCC"
+              ],
+              [
+                "MNase-qPCR",
+                "Herpud1",
+                "CCGTTCGGCATCCCTGAG",
+                "GCGCTGATTGGGACTCTTCA"
+              ],
+              [
+                "",
+                "Mthfd2",
+                "CACACTCACCGCACTGCC",
+                "TTCCTTGTTGTCTGCGTTGG"
+              ],
+              [
+                "",
+                "Psat1",
+                "CACCTTACCGAGTGTGGCAG",
+                "GCTGTCGCCTTAGCACCAT"
+              ],
+              [
+                "",
+                "Trib3  Ctrl",
+                "TACCTTGTCCTGGAGCCTCA  ATCTGGAAGCAGACGGACAC",
+                "CACTAGCGTGCAGGAGACTC TGGAGGCAAAAGAGAAGCTC"
+              ]
+            ]
+          }
+        ],
+        "page": 7
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Primer type",
+                "Name",
+                "Sequence"
+              ],
+              [
+                "",
+                "Cyp26a1 gRNA105 sense",
+                "CACCGGAGGGCGCAGCTGCGATCG"
+              ],
+              [
+                "",
+                "Cyp26a1 gRNA105 antisense",
+                "AAACCGATCGCAGCTGCGCCCTCC"
+              ],
+              [
+                "CRISPR/Cas9",
+                "Cyp26a1 gRNA170 sense",
+                "CACCGCGCGTCGGTGCGCACCATCC"
+              ],
+              [
+                "Gene Inactivation",
+                "Cyp26a1 gRNA170 antisense",
+                "AAACGGATGGTGCGCACCGACGCGC"
+              ],
+              [
+                "",
+                "Cyp26a1_screen_PCR_up",
+                "GCTCTGCACCTTCGTGCT"
+              ],
+              [
+                "",
+                "Cyp26a1_screen_PCR_dw",
+                "GAATCGTGCAGGTTGGAGAG"
+              ],
+              [
+                "",
+                "TDG non-recombined_locus_up",
+                "AGCCCCACTTGGGTAAGACT"
+              ],
+              [
+                "",
+                "TDG non-recombined locus_dw",
+                "ACACTTACCCGTGCGTTAGC"
+              ],
+              [
+                "",
+                "TDG recombined locus_up",
+                "GCCTGAAGAACGAGATCAGC"
+              ],
+              [
+                "",
+                "TDG recombined locus_dw",
+                "CAAACCCCTCTGAAAGTTGG"
+              ]
+            ]
+          }
+        ],
+        "page": 8
+      }
+    ]
+  }
+}

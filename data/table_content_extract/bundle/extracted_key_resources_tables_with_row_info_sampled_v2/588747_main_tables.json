@@ -1,0 +1,123 @@
+{
+  "job_id": 89,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_588747_main",
+  "pdf_file": "588747_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Name",
+                "Species",
+                "Forward",
+                "Reverse"
+              ],
+              [
+                "ADCY6",
+                "mouse",
+                "GGCCGCATCCACATCACTC",
+                "CTTTGCTAGAATCATCAATGCCCATC"
+              ],
+              [
+                "AGO2",
+                "mouse",
+                "CGTCCTTCCCACTACCACG",
+                "CCAGAGGTATGGCTTCCTTCA"
+              ],
+              [
+                "COL4A1",
+                "rat",
+                "GGATCTCCAGGTGTGTCTTTAC",
+                "CCAGGTTGACACTCCACAAT"
+              ],
+              [
+                "GAPDH",
+                "mouse and rat",
+                "TGCACCACCAACTGCTTAG",
+                "TGGATGCAGGGATGATGTT"
+              ],
+              [
+                "HPRT",
+                "rat",
+                "GCTGACCTGCTGGATTACAT",
+                "CCCGTTGACTGGTCATTACA"
+              ],
+              [
+                "HPRT",
+                "mouse",
+                "AATGTCTTGATTGTTGAGGATAT",
+                "ACAAAGTCAGGTTTATAGCC"
+              ],
+              [
+                "KIM1",
+                "rat",
+                "GTATTGTTGCCGAGTGGAGAT",
+                "GTGGTTGTGGGTCTTGTAGTT"
+              ],
+              [
+                "LCN2",
+                "rat",
+                "CTACAACGTCACTTCCATCCTC",
+                "TTGCACATCGTAGCTCTGTATC"
+              ],
+              [
+                "NPHP1",
+                "mouse",
+                "AGAGAGGAGAGTTAAGCTGTGGCT",
+                "TGGCATCGAAAAGCTTAAGAAAC"
+              ],
+              [
+                "PATCH1",
+                "mouse",
+                "CTGCCTGTCCTCTTATCCTTC",
+                "AGACCCATTGTTCGTGTGAC"
+              ],
+              [
+                "PATCH1",
+                "Human",
+                "GTTGTGGGCCTCCTCATATT",
+                "GACTTACTCGTCCTCCAACTTC"
+              ],
+              [
+                "TGFB1",
+                "Rat",
+                "CTGAACCAAGGAGACGGAATAC",
+                "GTTTGGGACTGATCCCATTGA"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "Si Bicc1",
+                "mouse",
+                "AAGACAGACAUGAUCAUUUCUUUGG55"
+              ],
+              [
+                "Si Bicc1 Scramble",
+                "mouse",
+                "GCUGAAAUUAAGGUCUCAUGUCAAU55"
+              ],
+              [
+                "Si Ago2",
+                "mouse",
+                "CAUCGAACAUGAGACGUCU55"
+              ],
+              [
+                "Si Ago2 Scramble",
+                "mouse",
+                "GCAUUUAACGCGCAUACGA55"
+              ]
+            ]
+          }
+        ],
+        "page": 53
+      }
+    ]
+  }
+}

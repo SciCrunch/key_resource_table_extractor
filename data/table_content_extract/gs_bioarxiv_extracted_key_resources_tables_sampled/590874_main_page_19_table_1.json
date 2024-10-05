@@ -1,0 +1,303 @@
+{
+  "name": "590874_main_page_19_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 3,
+        "content": "Key resources table"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reagent type or resource"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      },
+      {
+        "colspan": 1,
+        "content": "Identifier"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-HA (rat, 3F10)"
+      },
+      {
+        "colspan": 1,
+        "content": "Roche"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-GFP (rabbit)"
+      },
+      {
+        "colspan": 1,
+        "content": "Molecular Probes"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-rabbit Alexa Fluor 488"
+      },
+      {
+        "colspan": 1,
+        "content": "Molecular Probes"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-rabbit Alexa Fluor 546"
+      },
+      {
+        "colspan": 1,
+        "content": "Molecular Probes"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-rabbit Alexa Fluor 647"
+      },
+      {
+        "colspan": 1,
+        "content": "Molecular Probes"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-rat Alexa Fluor 647"
+      },
+      {
+        "colspan": 1,
+        "content": "Molecular Probes"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Bacterial and Virus Strains"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "For recombinant DNA cloning: Escherichia coli: DH5\u03b1"
+      },
+      {
+        "colspan": 1,
+        "content": "New England Biolabs"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Experimental Models: Organisms/Strains"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila: wild-type: Canton S"
+      },
+      {
+        "colspan": 1,
+        "content": "Soller lab"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila ST stock: w; Sco/CyO actGFP; PrDr/TM6 Sb DfdGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "Soller lab "
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila CT stock: w; Sco/SM6 Roi; PrDr/TM3 Sb"
+      },
+      {
+        "colspan": 1,
+        "content": "Soller lab"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila: w*; UASmSP (3rd, 61C)"
+      },
+      {
+        "colspan": 1,
+        "content": " T. Aigaki"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila: dsx-GAL4 inserted into the endogenous dsx gene (84E5-84E6)"
+      },
+      {
+        "colspan": 1,
+        "content": "S. Goodwin "
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila: fru-GAL4 inserted into the endogenous fru gene (91A6-91B3)"
+      },
+      {
+        "colspan": 1,
+        "content": "B. Dickson "
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila: nSyb GAL4 (3rd)"
+      },
+      {
+        "colspan": 1,
+        "content": " S. Goodwin"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila: ppk-GAL4/CyO "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC 49021 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila: tshGAL4-1/CyO "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC 3040 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "elav FRTstopFRT GAL4"
+      },
+      {
+        "colspan": 1,
+        "content": "Soller lab"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Otdflp (2nd)"
+      },
+      {
+        "colspan": 1,
+        "content": "D. Anderson"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ]
+  ]
+}

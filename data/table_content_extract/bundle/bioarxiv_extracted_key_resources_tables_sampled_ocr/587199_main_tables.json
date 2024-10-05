@@ -1,0 +1,148 @@
+{
+  "paper_id": "587199_main",
+  "result": {
+    "pages": [
+      {
+        "page": 16,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Resource  Name / Sequence",
+                " Reference"
+              ],
+              [
+                "Plant fer-4\nmaterial",
+                "Duan et al.,\n2010"
+              ],
+              [
+                "Plant fer-4/pFER::FER-GFP\nmaterial",
+                "Duan et al.,\n2010"
+              ],
+              [
+                "Plant fer-4/p35S::FERSM34_yFp\nmaterial",
+                "Gronnier et\nal., 2022"
+              ],
+              [
+                "Plant Col-0/p35S::RALF23-GFP\nmaterial",
+                "Stegmann et\nal., 2017"
+              ],
+              [
+                "Plant Hg1-2\nmaterial",
+                "Liet al., 2015"
+              ],
+              [
+                "Plant bak1-4\nmaterial",
+                "Chinchilla et\nal., 2007"
+              ],
+              [
+                "Plant bri1-301\nmaterial",
+                "Xu et al., 2008"
+              ],
+              [
+                "Plant fer-4/bak1-4\nmaterial",
+                "This study"
+              ],
+              [
+                "Plant fer-4/bri1-301\nmaterial",
+                "This study"
+              ],
+              [
+                "Matertal\nPlant Col-0/pBRI1::BRI1-GFP",
+                "Geldner et al."
+              ],
+              [
+                "Matertal\nPlant fer-4/pBRI1::BRI1-GFP\ner ae",
+                "4uur\nThis study"
+              ],
+              [
+                "Primer CPD  5\u2019CCCAAACCACTTCAAAGATGCT-3\u2019\n(AT5G05690)\nfarnararr",
+                "Albrecht et al\n2012."
+              ],
+              [
+                "Primer CPD  5\u2019-GGGCCTGTCGTTACCGAGTT-3\u2019\n(AT5G05690)\na",
+                "Albrecht et al\n2012."
+              ],
+              [
+                "Primer \u201c5-CATAAAGCTCTTCAGTCACGA-3\"\nDWF4\n\n(AT3G50660)\n\nfar aarr",
+                "Albrecht et al\n2012."
+              ],
+              [
+                "Primer \u201c5-CGTCTGTICTTTGTTTCCTAA-3\u2019\nDWF4\n\n(AT3G50660)\n\nreverse",
+                "Albrecht et al\n2012."
+              ],
+              [
+                "Primer U- \u20185-TGCGCTGCCAGATAATACACTATT-3\u2019",
+                "Albrecht et al"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 17,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Primer U- ",
+                "\u20185-TGCTGCCCAACATCAGGTT-3\u2019",
+                "Albrecht et al."
+              ],
+              [
+                "ee ee Ee\nreverse",
+                "a",
+                ""
+              ],
+              [
+                "Hormone",
+                "epi-Brassinolide",
+                "Sigma, E1641"
+              ],
+              [
+                "Enzyme",
+                "Pectin methylesterase from orange peel",
+                "Sigma, P5400."
+              ],
+              [
+                "Primary-\nAntibody",
+                "LM20",
+                "Kerafast,\nELDOO3"
+              ],
+              [
+                "A\nPrimary-\nAntihady",
+                "JIMS",
+                "\u2014\u2014_\u2014_\u2014_\u2014_\u2014_\u2014\nKerafast,\ncinnna"
+              ],
+              [
+                "Primary-\nAntibody",
+                "LM19",
+                "Absolute\nAntibody,\nABO2545-23.0"
+              ],
+              [
+                "Secondary-\nAntibody",
+                "anti-Rat-HRP",
+                "ThermoFischer\nScientific,\n31470"
+              ],
+              [
+                "Secondary-\nAntibody",
+                "Anti-Rabbit-HRP",
+                "Sigma, A0545"
+              ],
+              [
+                "Synthetic\npeptide",
+                "RALF23\n(ATRRYISYGALRRNTIPCSRRGASYYNCRRGAQANPYSRGCSAITRCRRS)",
+                "Synpeptide\n95% purity"
+              ],
+              [
+                "Synthetic \npeptide",
+                "RALF23n\n(ATRRYISYGALRRNTIPCSAAGASYYNCAAGAQANPYSAGCSAITACAAS) ",
+                "Synpeptide\n95% purity"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

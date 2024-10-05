@@ -1,0 +1,205 @@
+{
+  "job_id": 1530,
+  "job_status": "finished",
+  "paper_id": "590927_media-2",
+  "pdf_file": "media-2.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Primers for TAL1 and",
+                "LMO1 constructions"
+              ],
+              [
+                "",
+                "Forward",
+                "Reverse"
+              ],
+              [
+                "TAL1",
+                "",
+                ""
+              ],
+              [
+                "",
+                "5\u2019-CACAGGGTCCTTGCCAGTC-3\u2019",
+                "5\u2019-CTACCCTGCAAACAGACCTC-3\u2019"
+              ],
+              [
+                "transgene",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "5\u2019-"
+              ],
+              [
+                "LMO1",
+                "",
+                ""
+              ],
+              [
+                "",
+                "5\u2019-CGGGATCCGAGATGATGGTGCTGG-3\u2019",
+                "CCCAAGCTTACTGAACTTGGCATTCAAAGG-"
+              ],
+              [
+                "",
+                "",
+                "3\u2019"
+              ],
+              [
+                "transgene",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 11
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Antigen",
+                "Clone",
+                "Source"
+              ],
+              [
+                "B220-V500",
+                "RA3-6B2",
+                "BD Bioscience"
+              ],
+              [
+                "CD115-PE",
+                "ASF98",
+                "BioLegend"
+              ],
+              [
+                "CD115-PE/Cyanine7",
+                "ASF98",
+                "BioLegend"
+              ],
+              [
+                "CD11b-BV605",
+                "M1/70",
+                "BioLegend"
+              ],
+              [
+                "CD11b-PECyanine7",
+                "M1/70",
+                "BioLegend"
+              ],
+              [
+                "CD25-BV421",
+                "PC61",
+                "BioLegend"
+              ],
+              [
+                "CD3-PerCP/Cyanine5.5",
+                "145-2C11",
+                "BioLegend"
+              ],
+              [
+                "CD44-APC/Cyanine7",
+                "IM7",
+                "BioLegend"
+              ],
+              [
+                "CD45.1-APC",
+                "A20",
+                "BioLegend"
+              ],
+              [
+                "CD45.2-FITC",
+                "104",
+                "BioLegend"
+              ],
+              [
+                "CD4-BV421",
+                "GK1.5",
+                "BioLegend"
+              ],
+              [
+                "CD4-PerCP/Cyanine5.5",
+                "GK1.5",
+                "BioLegend"
+              ],
+              [
+                "CD8a-APC",
+                "53-6.7",
+                "eBioscience"
+              ],
+              [
+                "CD8a-PE",
+                "53-6.7",
+                "BDpharmingen"
+              ],
+              [
+                "cMet-PE",
+                "eBioclone7",
+                "Invitrogen"
+              ],
+              [
+                "",
+                "",
+                "eBioscience"
+              ],
+              [
+                "Phospho cMet-APC",
+                "MetY12341235-6F11",
+                "Invitrogen"
+              ],
+              [
+                "F4/80-AF700",
+                "BM8",
+                "BioLegend"
+              ],
+              [
+                "Gr1-PerCP/Cyanine5.5",
+                "RB6-8C5",
+                "BioLegend"
+              ],
+              [
+                "Ly6C-APC",
+                "HK1.4",
+                "Invitrogen"
+              ],
+              [
+                "Ly6C-BV711",
+                "HK1.4",
+                "BioLegend"
+              ],
+              [
+                "Ly6G-BV421",
+                "1A8",
+                "BioLegend"
+              ]
+            ]
+          }
+        ],
+        "page": 12
+      }
+    ]
+  }
+}

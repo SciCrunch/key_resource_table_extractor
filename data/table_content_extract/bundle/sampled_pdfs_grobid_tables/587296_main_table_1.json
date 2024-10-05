@@ -1,0 +1,273 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Quick-Load® Purple 1 kb DNA Ladder ABCAM, ab217553"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit IgG (Fc) AP New England Biolabs, B7025 Promega, S3731"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Smad2+3 Reporter-gene Assays"
+      },
+      {
+        "colspan": 1,
+        "content": "conj."
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Antibodies Primary AB Rabbit anti-pSmad2+3 Dual-Luciferase® Reporter Assay System Vendor or Source, Catalog # ABCAM, ab272332 ONE-Glo™ Luciferase Assay System Goat anti-SPARC R&D Systems, AF942 Machines & Software Plasmids DNA/cDNA Clones Name CellDrop FL pNKE24 Nanodrop 2000c Spectrophotometer"
+      },
+      {
+        "colspan": 1,
+        "content": "Secondary AB Anti-Rabbit IgG (Fc) AP Promega, E1910 conj. Promega, E6110 Donkey-Anti-Goat IgG, AP Promega, V115A Vendor or Promega, S3731 Source, Catalog # Sequence DeNovix Source / Repository 44 peqlab"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-desmin Mouse anti-Smad2 Thermo Fisher Thermo Fisher Scientific, 14-9747-82 Scientific, MA5-pGL3-Basic Odyssey CLx Fluorescence Imager phRL-TK Biometra Tadvanced mouse 1.2kb pT-BraP-Puro-IRES2-eGFP CFX384 Touch Real-Time PCR Detection System Bio-Rad IRDye® 800CW Goat anti-Mouse IgG IRDye® 800CW Goat anti-Mouse IgG Secondary Addgene LI-COR Addgene Analytik Jena human 3.4 kb pMesP1-eGFP CFX Opus 96 Real-Time PCR System Bio-Rad"
+      },
+      {
+        "colspan": 1,
+        "content": "LICOR , 926-32210 Promega, E1751 Promega, E2241 40 LICOR , 926-32212 41"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pCSX-EGFP-PPDT PowerPac 300"
+      },
+      {
+        "colspan": 1,
+        "content": "15112"
+      },
+      {
+        "colspan": 1,
+        "content": "Antibody Bio-Rad"
+      },
+      {
+        "colspan": 1,
+        "content": "42"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-pCMV3-SPARC Omega Fluor Plus"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": "IRDye® 800CW Goat anti-NM_009242.4 Aplegen"
+      },
+      {
+        "colspan": 1,
+        "content": "LICOR , 926-SinoBiological, MG50494-UT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SPARC desmin expression cassette Scientific, MA1-43027 Chemidoc Imaging System Mouse anti-Smad2 Thermo Fisher Scientific, pmCherry N1 vector Excelsior Tissue Processor Histostar embedding station"
+      },
+      {
+        "colspan": 1,
+        "content": "Mouse IgG Secondary GenBank: Z18892.2 Bio-Rad Antibody Anti-Mouse IgG (H+L) AP conj. Addgene Histocom Histocom"
+      },
+      {
+        "colspan": 1,
+        "content": "32213 Clontech, 632523 15 Promega, S372B"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MA5-15112 RM2255 Fully Automated Rotary Microtome Cultured Cells"
+      },
+      {
+        "colspan": 1,
+        "content": "Leica"
+      }
+    ],
+    [{
+      "colspan": 1,
+      "content": "Rabbit anti-SPARC Rabbit anti-SPARC Name SNL 76/7 Axio Imager.Z2 STO Axivert 135 TV STO S ect LSM 510 Confocal Microscope Thermo Fisher Scientific, MA5-29821 Thermo Fisher Scientific, Background Mouse Strain IRDye® 800CW Goat anti-Rabbit IgG Secondary Antibody IRDye® 800CW Goat anti-Rabbit IgG Secondary Vendor or Source LICOR , 926-32211 LICOR , 926-32211 Sex (F, M, or unknown) SIM Zeiss 34 unknown SIM 35 Zeiss unknown SIM This study Zeiss unknown 3T3 Swiss albino ? unknown BD FACSCalibur™ Flow Cytometer BD Biosciences"
+    }],
+    [
+      {
+        "colspan": 1,
+        "content": "PA5-78178 Swiss albino BD CellQuest™ Pro Software 3T3 S ect"
+      },
+      {
+        "colspan": 1,
+        "content": "Antibody BD Biosciences This study"
+      },
+      {
+        "colspan": 1,
+        "content": "unknown"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-A5 FlowJo v10.4"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher C57BL/J6:129Sv"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit IgG (Fc) AP 12 BD Biosciences"
+      },
+      {
+        "colspan": 1,
+        "content": "Promega, S3731 F"
+      }
+    ],
+    [{
+      "colspan": 1,
+      "content": "SPARC Rabbit anti-SPARC Rabbit anti-SPARC Rabbit anti-SPARC Rabbit anti-A5 sparc +/-Photoshop CS2™ A5 sparc +/+ S ect Maestro CFX1.1 Software Scientific, PA5-78178 Thermo Fisher Scientific, PA5-89864 Thermo Fisher Scientific, MA5-29821 Santa Cruz, sc-25574 Alkaline phosphatase-conj. IRDye® 800CW Goat anti-Rabbit IgG Secondary Antibody Anti-Rabbit IgG (Fc) AP conj. conjugated anti-rabbit IgG antibody Thermo Fisher IRDye® 800CW Goat anti-C57BL/J6:129Sv This study Adobe C57BL/J6:129Sv This study Bio-Rad A5 sparc +/+ SmC ect C57BL/J6:129Sv This study A5 sparc +/+ mC ect C57BL/J6:129Sv Excel 2013 Microsoft 16 Graph Pad 5 Prism A5 des +/+/ D ect C57BL/J6:129Sv This study Other A5 des +/-C57BL/J6:129Sv This study BSA Biotech, P06-139-1500 LICOR , 926-32211 Promega, S3741 Dianova, 111-035-003 LICOR , 926-F F F F F F A5 des +/+ DmC ect C57BL/J6:129Sv This study F He2 Balb/c DAPI Sigma, D9542 12 M DAPI Thermo Fischer Scientific, 00-He2K2 sparc +/-Balb/c This study M W4 C3H 4958-02 36 F AB2.2 129Sv F 59 Geltin Difco 0143-01"
+    }],
+    [
+      {
+        "colspan": 1,
+        "content": "Vinculin qPCR Primer"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Scientific, 700062"
+      },
+      {
+        "colspan": 1,
+        "content": "Rabbit IgG Secondary Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "32211"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Target (mouse)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ABCAM, ab8592 Sequence 5´-3´ forward Anti-Rabbit IgG (Fc) AP"
+      },
+      {
+        "colspan": 1,
+        "content": "Promega, S3731 Sequence 5´-3´ reverse"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Desmin Atp5f1"
+      },
+      {
+        "colspan": 1,
+        "content": "conj. GTCCAGGGGTATTACAGGCAA"
+      },
+      {
+        "colspan": 1,
+        "content": "TCAGGAATCAGCCCAAGACG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Rpl32"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher TTGTTGCTCCCATAACCGATGT Anti-Rabbit IgG (Fc) AP GCCTCTGGTGAAGCCCAAG Promega, S3731"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Desmin Nanog Rabbit anti-Vinculin Sdha Sparc Mesp1 Rabbit anti-pSmad2 Desmin Nodal"
+      },
+      {
+        "colspan": 1,
+        "content": "Scientific, GTTTCAGAAGCAGAAGTACC conj. PA5-117909 Thermo Fisher Scientific, Anti-Rabbit IgG (Fc) AP TCAGACCATTGCTAGTCTTC GCTCCTGCCTCTGTGGTTGA AGCAACACCGATGAGCCTG Promega, S3731 CTCAAAAATGTCCTGGTCAC CTCATGGATCTTCTTCACAC conj. GTACACGCTCTAAAGATGAAG TTTTGACACTAGCACAATCG 700062 Thermo Fisher Scientific, IRDye® 800CW Goat anti-Rabbit IgG Secondary ACACCTAAAGGATGAGATGG GAGAAGGTCTGGATAGGAAG LICOR , 926-32211 TTCCTTCTCAGGTCACGTTTGC GGTGGGGTTGGTATCGTTTCA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Gata4"
+      },
+      {
+        "colspan": 1,
+        "content": "MA5-15122 GAAAACGGAAGCCCAAGAAC Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "GGGAGGGTCTCACCAGCA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Nkx2.5"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen, 44-244G CCACCTTTAGGAGAAGGGCG IRDye® 800CW Goat anti-TGGATCGGAGAAAGGTCCCA LICOR , 926-"
+      }
+    ],
+    [{
+      "colspan": 1,
+      "content": "pSmad2 T (Brachyury) AGAATGAGGAGATTACAGCC Rabbit IgG Secondary GGTTCCTCCATTACATCTTTG 32211"
+    }],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Antibody"
+      }
+    ]
+  ]
+}

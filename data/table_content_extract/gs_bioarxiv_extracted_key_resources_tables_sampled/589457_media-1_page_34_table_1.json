@@ -1,0 +1,291 @@
+{
+  "name": "589457_media-1_page_34_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Target"
+      },
+      {
+        "colspan": 1,
+        "content": "Company and number"
+      },
+      {
+        "colspan": 1,
+        "content": "Host species"
+      },
+      {
+        "colspan": 1,
+        "content": "Dilution"
+      },
+      {
+        "colspan": 1,
+        "content": "Fixation type"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cav-3"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam, ab4930"
+      },
+      {
+        "colspan": 1,
+        "content": "Polyclonal rabbit"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500"
+      },
+      {
+        "colspan": 1,
+        "content": "Methanol/PFA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cav-3 "
+      },
+      {
+        "colspan": 1,
+        "content": "BD Biosciences, 610421"
+      },
+      {
+        "colspan": 1,
+        "content": "Mouse monoclonal "
+      },
+      {
+        "colspan": 1,
+        "content": "1:800 "
+      },
+      {
+        "colspan": 1,
+        "content": "Methanol/PFA "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cav1.2 "
+      },
+      {
+        "colspan": 1,
+        "content": "Alomone Labs, ACC-003"
+      },
+      {
+        "colspan": 1,
+        "content": "Rabbit polyclonal "
+      },
+      {
+        "colspan": 1,
+        "content": "1:100 "
+      },
+      {
+        "colspan": 1,
+        "content": "Methanol "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cav1.3 "
+      },
+      {
+        "colspan": 1,
+        "content": "Alomone Labs, ACC-005"
+      },
+      {
+        "colspan": 1,
+        "content": "Rabbit polyclonal "
+      },
+      {
+        "colspan": 1,
+        "content": "1:100 "
+      },
+      {
+        "colspan": 1,
+        "content": "PFA "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cav3.1"
+      },
+      {
+        "colspan": 1,
+        "content": "Neuro Mab, MABN464"
+      },
+      {
+        "colspan": 1,
+        "content": "Mouse monoclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "Methanol"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NCX"
+      },
+      {
+        "colspan": 1,
+        "content": "Swant, p 11-13"
+      },
+      {
+        "colspan": 1,
+        "content": "Rabbit polyclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "1:200"
+      },
+      {
+        "colspan": 1,
+        "content": "Methanol"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HCN4 "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermofisher scientific, MA3-903"
+      },
+      {
+        "colspan": 1,
+        "content": "Rat monoclonal "
+      },
+      {
+        "colspan": 1,
+        "content": "1:100 "
+      },
+      {
+        "colspan": 1,
+        "content": "PFA "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NKA"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore, 05-369"
+      },
+      {
+        "colspan": 1,
+        "content": "Mouse monoclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "PFA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RyR2 "
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma Aldrich, HPA0200228"
+      },
+      {
+        "colspan": 1,
+        "content": "Rabbit polyclonal "
+      },
+      {
+        "colspan": 1,
+        "content": "1:500 "
+      },
+      {
+        "colspan": 1,
+        "content": "Methanol "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RyR "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermofisher scientific, MA3-916"
+      },
+      {
+        "colspan": 1,
+        "content": "Mouse monoclonal "
+      },
+      {
+        "colspan": 1,
+        "content": "1:100 "
+      },
+      {
+        "colspan": 1,
+        "content": "Methanol "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pSer2808 RyR"
+      },
+      {
+        "colspan": 1,
+        "content": "Badrilla, A01031AP"
+      },
+      {
+        "colspan": 1,
+        "content": "Rabbit polyclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "Methanol"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pSer2814 RyR"
+      },
+      {
+        "colspan": 1,
+        "content": "Badrilla, A01030AP"
+      },
+      {
+        "colspan": 1,
+        "content": "Rabbit polyclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100"
+      },
+      {
+        "colspan": 1,
+        "content": "Methanol"
+      }
+    ]
+  ]
+}

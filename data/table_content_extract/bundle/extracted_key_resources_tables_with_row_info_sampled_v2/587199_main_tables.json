@@ -1,0 +1,131 @@
+{
+  "job_id": 75,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_587199_main",
+  "pdf_file": "587199_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                ""
+              ],
+              [
+                "Resource Name / Sequence Plant fer-4",
+                "Reference Duan et al.,"
+              ],
+              [
+                "material Plant Col-0/p35S::RALF23-GFP material",
+                "al., 2022 Stegmann et al., 2017"
+              ],
+              [
+                "Plant llg1-2 material",
+                "Li et al., 2015"
+              ],
+              [
+                "Plant bak1-4",
+                "Chinchilla et"
+              ],
+              [
+                "material Plant fer-4/bri1-301 material",
+                "This study"
+              ],
+              [
+                "Plant Col-0/pBRI1::BRI1-GFP",
+                "Geldner et al.,"
+              ],
+              [
+                "material Plant fer-4/pBRI1::BRI1-GFP",
+                "2007 This study"
+              ],
+              [
+                "material Primer CPD 5\u2019-CCCAAACCACTTCAAAGATGCT-3\u2019 (AT5G05690)",
+                "Albrecht et al. 2012."
+              ],
+              [
+                "forward Primer CPD 5\u2019-GGGCCTGTCGTTACCGAGTT-3\u2019 (AT5G05690)",
+                "Albrecht et al. 2012."
+              ],
+              [
+                "reverse Primer \u20185-CATAAAGCTCTTCAGTCACGA-3\u2019 DWF4 (AT3G50660)",
+                "Albrecht et al. 2012."
+              ],
+              [
+                "forward Primer \u20185-CGTCTGTTCTTTGTTTCCTAA-3\u2019 DWF4 (AT3G50660)",
+                "Albrecht et al. 2012."
+              ],
+              [
+                "reverse Primer U-\u20185-TGCGCTGCCAGATAATACACTATT-3\u2019",
+                "Albrecht et al."
+              ],
+              [
+                "BOX",
+                "2012."
+              ]
+            ]
+          }
+        ],
+        "page": 16
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "(AT5G15400) reverse",
+                "",
+                ""
+              ],
+              [
+                "Hormone",
+                "epi-Brassinolide",
+                "Sigma, E1641"
+              ],
+              [
+                "Primary-Antibody",
+                "LM20",
+                "Kerafast, ELD003"
+              ],
+              [
+                "Primary-",
+                "JIM5",
+                "Kerafast,"
+              ],
+              [
+                "Antibody Primary-Antibody",
+                "LM19",
+                "ELD004 Absolute Antibody,"
+              ],
+              [
+                "Secondary-Antibody",
+                "Anti-Rabbit-HRP",
+                "31470 Sigma, A0545"
+              ],
+              [
+                "Synthetic peptide",
+                "RALF23 (ATRRYISYGALRRNTIPCSRRGASYYNCRRGAQANPYSRGCSAITRCRRS)",
+                "Synpeptide 95% purity"
+              ],
+              [
+                "Synthetic",
+                "RALF23n",
+                "Synpeptide"
+              ],
+              [
+                "peptide",
+                "(ATRRYISYGALRRNTIPCSAAGASYYNCAAGAQANPYSAGCSAITACAAS)",
+                "95% purity"
+              ]
+            ]
+          }
+        ],
+        "page": 17
+      }
+    ]
+  }
+}

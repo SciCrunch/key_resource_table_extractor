@@ -1,0 +1,222 @@
+{
+  "headers": [],
+  "notes": "* -not a substrate.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Enzyme Substrate"
+      },
+      {
+        "colspan": 1,
+        "content": "KM"
+      },
+      {
+        "colspan": 1,
+        "content": "Vmax"
+      },
+      {
+        "colspan": 1,
+        "content": "Vmax / KM"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "(µM)"
+      },
+      {
+        "colspan": 1,
+        "content": "(µmol/10 10 cells/min)"
+      },
+      {
+        "colspan": 1,
+        "content": "(L/10 10 cells/min)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Riboflavin"
+      },
+      {
+        "colspan": 1,
+        "content": "1.2 ± 0.1"
+      },
+      {
+        "colspan": 1,
+        "content": "0.12 ± 0.01"
+      },
+      {
+        "colspan": 1,
+        "content": "0.10 ± 0.01"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "WT"
+      },
+      {
+        "colspan": 1,
+        "content": "Roseoflavin"
+      },
+      {
+        "colspan": 1,
+        "content": "1.3 ± 0.2"
+      },
+      {
+        "colspan": 1,
+        "content": "0.15 ± 0.01"
+      },
+      {
+        "colspan": 1,
+        "content": "0.12 ± 0.01"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PfFK"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "8-aminoriboflavin"
+      },
+      {
+        "colspan": 1,
+        "content": "1.1 ± 0.1"
+      },
+      {
+        "colspan": 1,
+        "content": "142 ± 2"
+      },
+      {
+        "colspan": 1,
+        "content": "134 ± 7"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Riboflavin"
+      },
+      {
+        "colspan": 1,
+        "content": "27 ± 5"
+      },
+      {
+        "colspan": 1,
+        "content": "0.44 ± 0.06"
+      },
+      {
+        "colspan": 1,
+        "content": "16 ± 1 × 10 -3"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mutant"
+      },
+      {
+        "colspan": 1,
+        "content": "Roseoflavin"
+      },
+      {
+        "colspan": 1,
+        "content": "53 ± 8"
+      },
+      {
+        "colspan": 1,
+        "content": "0.35 ± 0.03"
+      },
+      {
+        "colspan": 1,
+        "content": "7 ± 1 × 10 -3"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PfFK"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "8-aminoriboflavin"
+      },
+      {
+        "colspan": 1,
+        "content": "-*"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      }
+    ]
+  ]
+}

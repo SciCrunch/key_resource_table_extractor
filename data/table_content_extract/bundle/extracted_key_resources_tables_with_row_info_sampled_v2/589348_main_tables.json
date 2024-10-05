@@ -1,0 +1,121 @@
+{
+  "job_id": 91,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_589348_main",
+  "pdf_file": "589348_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Gene",
+                "Primer sequence (5\u2032 to 3\u2032)"
+              ],
+              [
+                "18S rRNA",
+                "F: GGTCTGTGATGCCCTTAGATGTC"
+              ],
+              [
+                "",
+                "R: AGTGGGGTTCAGCGGGTTAC"
+              ],
+              [
+                "shp-1",
+                "F: GCTCAAGTACCCGGTCAA"
+              ],
+              [
+                "",
+                "R: TCTCGTGTTCCCAGCATC"
+              ],
+              [
+                "il-1\u03b2",
+                "F: ACAAGCGGGACACTGGCGTAA"
+              ],
+              [
+                "",
+                "R: TTGGTGGATGGTGAAGTTCTGATAG"
+              ],
+              [
+                "myd88",
+                "F: GACGCCTTCATCTGTTACTGC"
+              ],
+              [
+                "",
+                "R: CCATCCTCCTACACCTTTGC"
+              ],
+              [
+                "nf\u03bab1",
+                "F: AGAGGCATTTAGGATGGGATA"
+              ],
+              [
+                "",
+                "R: CAAAGATGGGTTCTGACACG"
+              ],
+              [
+                "nf\u03bab2",
+                "F: GGGGCTTTCGTTTCCGTTAT"
+              ],
+              [
+                "",
+                "R: GAGGCCGTGAGGTCATTAGG"
+              ],
+              [
+                "stat3",
+                "F: TCTGCCCGTTGTCGTCATTT"
+              ],
+              [
+                "jak2",
+                "F: CTGACTGAGCTGGCTTCCAT"
+              ],
+              [
+                "",
+                "R: CTCCCGCTGATCTGAATCCC"
+              ],
+              [
+                "il-6",
+                "F: TCCTGCGTGATGGCATAGTG"
+              ],
+              [
+                "",
+                "R: GGACGTCAGAGCCTGTTTCC"
+              ],
+              [
+                "tlr5",
+                "F: TCCAACCGTATAGCCAGAAT"
+              ],
+              [
+                "",
+                "R: CTTGTTGACATTGAACCCATT"
+              ],
+              [
+                "il-10",
+                "F\uff1aGGAAACCACTGCTGAATGCG"
+              ],
+              [
+                "",
+                "R: TCGCTCTGCCTCGTTTCAAT"
+              ],
+              [
+                "nos1",
+                "F: ACTCTGGAAGACGCAGGATTT"
+              ],
+              [
+                "",
+                "R: GGATTCTGAACGCAACCTATTT"
+              ],
+              [
+                "arg-2",
+                "F: AAGCAAGATGCCGTCACTCCC R: CCCAGTCTGTCAATGTCCCTC"
+              ]
+            ]
+          }
+        ],
+        "page": 43
+      }
+    ]
+  }
+}

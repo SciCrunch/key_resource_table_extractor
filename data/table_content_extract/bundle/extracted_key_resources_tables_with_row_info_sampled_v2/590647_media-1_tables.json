@@ -1,0 +1,75 @@
+{
+  "job_id": 72,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_590647_media-1",
+  "pdf_file": "590647_media-1.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Strain",
+                "Reference",
+                "Forward primer",
+                "Reverse primer"
+              ],
+              [
+                "E. coli BW25113",
+                "",
+                "",
+                ""
+              ],
+              [
+                "E. coli BW25113 \uf044hfq",
+                "(1)",
+                "",
+                ""
+              ],
+              [
+                "E. coli BW25113 \uf044rhlB",
+                "(1)",
+                "",
+                ""
+              ],
+              [
+                "E. coli BW25113 \uf044micF",
+                "This study",
+                "ACCTTCACTCGCAACTAGAATAACTCCCGGTGTAGGCTGGAGCTGCTTC",
+                "AAGGGTAAAAAAAACCGAATGCGAGGCATATGGGAATTAGCCATGGTCC"
+              ],
+              [
+                "E. coli BW25113 rne-131",
+                "This study",
+                "CTTCTTCGGCGCACTGAAAGCGCTGTTCAGCGGTGGTTAAGTGTAGGCTGGAGCTGCTTC",
+                "GATTACTTTGAGCTAATTATTACTCAACAGGTTGCGGACGATGGGAATTAGCCATGGTCC"
+              ],
+              [
+                "",
+                "",
+                "CGTAAGGTACTGTCTAAGAAAGAGAAAGGATATTACATTGGTGTAGGCTGGAGCT",
+                "CGGAGGGCAAATGGCAACCTTACTCGCCCTGTTCAGCAGCATGGGAATTAGC"
+              ],
+              [
+                "E. coli BW25113 \uf044rhlB \uf044pnp E. coli BW25113 \uf044micF",
+                "This study",
+                "GCTTC CGAAGACGACGAAGAAGGCGTTGAGTTCATTTACAAGCGTGACTACAAAGACCATG",
+                "CATGGTCC AAATCGTGCAAATTCAACATATTGCAATTCTCTTGTAGGCATGGGAATTAGCCA"
+              ]
+            ]
+          }
+        ],
+        "page": 2
+      }
+    ]
+  }
+}

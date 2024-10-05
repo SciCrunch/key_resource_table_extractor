@@ -1,0 +1,205 @@
+{
+  "name": "588708_main_page_47_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "s1"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-ATG CAA AAC TAA ACG GTG TCA TTG AGG CAT ATG AGA AGG CAA TTG CAG AGC TCA TTA GTG AGA AGG AGC"
+      },
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "Amplifying WT-TACC cDNA and adding attB sites on both ends of the cDNA, which allowed the cDNA to be flipped into a pDonor plasmid "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s2"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-TTG TTT TGT CCT TTT CTG TAA TAC GCT TGA TCA GAG CCT CCT CGC GCA GCT CTC CCT CCT TGA GC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s3"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-TGC TGC TGT TGA AGT TTG ATC CCC TCC TTG"
+      },
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "Mutating Aurora A phosphorylation site Serine 863 on WT-TACC to a Leucine"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s4"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-GAC TGC GGT CAA TAG GCA CAC TAT TGC TG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s5"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-CCG GCG GCA GCT AAG CGG CCG  CGG ATC TGG TTAC"
+      },
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "Linearising pRNA destination vector backbone with overlapping regions with mScarlet-I3"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s6"
+      },
+      {
+        "colspan": 1,
+        "content": "5'- GGT GCT ATC CAT GCT AGA TCG AAC CAC TTT GTA CAA GAA AGC TG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s7"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-TGG CCG GAG ATC CAG ACT TTA GCC CGA ATC GTT CGC GAA C"
+      },
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "Deleting the region on Spd-2 that contains ABD1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s8"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-AAA GTC TGG ATC TCC GGC CAA G"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s9"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-AGC CCG AAT CGT TCG CGA ACC AAC CAA C"
+      },
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "Deleting the region on Spd-2 that contains ABD2"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s10"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-AAA GTC TGG ATC TCC GGC CAA GAC AGA ATT GGA CAC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s11"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-AGA AGA ACT GCG TCG TCG TCT GAC CGA ATA AAT GGT GAG CAA GGG CGA GG"
+      },
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "Replacing GFP on various versions of pRNA-Spd-2-GFP vectors with ALFA-tag"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s12"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-ACG ACG ACG CAG TTC TTC TTC CAG ACG AGA GCT AGA TCG AAC CAC TTT G"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s13"
+      },
+      {
+        "colspan": 1,
+        "content": "5'- ATC CAG CAC AGT GGC GGC CGC TCG AGG CTA GCA TGG ACA AAG ACT GCG AAA TGA AGC GCA CC"
+      },
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "Cloning codon-optimised SNAP-tag into pUbq destination vector"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s14"
+      },
+      {
+        "colspan": 1,
+        "content": "5'- CTA GTT CTA GAG CGG CCG CCA CCG CGG TTA ACC CAG CCC AGG CTT GCC CAG TCT GT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s15"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-TGG GTC GCG GAT CCG ATC AAG TTC AGT TAC AAG AGA GTG GGG G"
+      },
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "Amplifying anti-ALFA nanobody"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "s16"
+      },
+      {
+        "colspan": 1,
+        "content": "5'- GGA TAG TCG AAT TCA CTA GTG CTG CTC ACA GTC ACT TGGG TG"
+      }
+    ]
+  ]
+}

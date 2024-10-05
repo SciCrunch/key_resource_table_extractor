@@ -1,0 +1,30 @@
+{
+  "headers": [],
+  "caption": "calculated for C15H17BrClN2OS (M ( 79 Br) + H + ): 386.9933, found: 386.9954; calculated for C15H16BrClN2OS (M ( 81 Br) + H + ): 388.9913, found: 388.9905.",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "1 H NMR (500 MHz, DMSO-d6) δ 8.41 (s, 1H), 7.39 -7.36 (m, 2H), 7.29 -7.26 (m, 2H), 7.10"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(d, J = 3.3 Hz, 1H), 6.90 (s, br, 1H), 4.29 (d, J = 6.1 Hz, 2H), 3.90 (s, 2H), 3.19 (s, 2H), 2.34"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(s, 3H)."
+    }],
+    [{
+      "colspan": 1,
+      "content": "13 C NMR (176 MHz, DMSO-d6) δ 158.1, 140.4, 138.5, 131.3, 130.8, 129.9, 129.1, 128.8, 128.2,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "127.9, 55.2, 42.9, 35.8."
+    }],
+    [{
+      "colspan": 1,
+      "content": "HRMS (ESI)"
+    }]
+  ]
+}

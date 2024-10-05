@@ -1,0 +1,253 @@
+{
+  "job_id": 88,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_590837_media-1",
+  "pdf_file": "590837_media-1.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": []
+          }
+        ],
+        "page": 1
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Tamoxifen",
+                "Sigma-Aldrich",
+                "T5648"
+              ],
+              [
+                "4-hydroxy Tamoxifen (4-OHT)",
+                "Sigma-Aldrich",
+                "H7904"
+              ],
+              [
+                "A\u03b21-42 peptide",
+                "Anaspec",
+                "AS-20276"
+              ],
+              [
+                "A\u03b21-42, Hylite 647, conj.",
+                "Anaspec",
+                "AS-64161"
+              ],
+              [
+                "RNase Inhibitor",
+                "New England Biolabs",
+                "M0314S"
+              ],
+              [
+                "DMEM, high glucose medium",
+                "ThermoFisher Scientific",
+                "11965118"
+              ],
+              [
+                "HBSS medium",
+                "ThermoFisher Scientific",
+                "14175095"
+              ],
+              [
+                "Recombinant murine GM-CSF",
+                "PeproTech",
+                "315-03"
+              ],
+              [
+                "Recombinant murine M-CSF",
+                "PeproTech",
+                "315-02"
+              ],
+              [
+                "G418 Sulfate (Geneticin)",
+                "ThermoFisher Scientific",
+                "11811098"
+              ],
+              [
+                "4\u2019 ,6-Diamidino-2-phenylindole (DAPI)",
+                "Life Technologies",
+                "D21490"
+              ],
+              [
+                "MACS buffer",
+                "Miltenyi",
+                "130-092-987"
+              ],
+              [
+                "RIPA buffer",
+                "ThermoFisher Scientific",
+                "32955"
+              ],
+              [
+                "BCA Protein Assay",
+                "ThermoFisher Scientific",
+                "23228"
+              ],
+              [
+                "Triton X-100",
+                "Sigma-Aldrich",
+                "X100"
+              ],
+              [
+                "SDS",
+                "Fisher Scientific",
+                "BP166"
+              ],
+              [
+                "EDTA",
+                "Fisher Scientific",
+                "S311"
+              ],
+              [
+                "DMSO",
+                "Sigma-Aldrich",
+                "D1435"
+              ],
+              [
+                "Acetone",
+                "Sigma-Aldrich",
+                "1006801"
+              ],
+              [
+                "ProLong Gold, hard set mounting media",
+                "ThermoFisher Scientific",
+                "P36930"
+              ],
+              [
+                "Percoll Density Gradient Media",
+                "Fisher Scientific",
+                "45001748"
+              ],
+              [
+                "DNase I TLCK Trypsin Inhibitor",
+                "ThermoFisher Scientific Santa Cruz",
+                "EN0521 sc-201296"
+              ],
+              [
+                "",
+                "Biotechnology",
+                ""
+              ],
+              [
+                "HEPES",
+                "Thermofisher Scientific",
+                "15630080"
+              ],
+              [
+                "Paraformaldehyde",
+                "Millipore-Sigma",
+                "P6148"
+              ],
+              [
+                "Xylazine (20 mg/mL)",
+                "MWI Animal Health",
+                "003437"
+              ],
+              [
+                "Protease and phosphatase inhibitor",
+                "Roche",
+                "1836153"
+              ]
+            ]
+          }
+        ],
+        "page": 2
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Murine BAC plasmid",
+                "BACPAC Genomics",
+                "RP23-401D9"
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "GACTAGAGCTTGCGGAACCCTT",
+                "IDT DNA",
+                "PR1"
+              ],
+              [
+                "GGAGCCATTCAGTGTTCACTATGT",
+                "IDT DNA",
+                "PR2"
+              ],
+              [
+                "GGAGAGGCGTTCAGGAAGATTATGG",
+                "IDT DNA",
+                "PR3"
+              ],
+              [
+                "CAGCTACCTTTACACACCATTGCACC",
+                "IDT DNA",
+                "PR4"
+              ],
+              [
+                "CCACATCAAGTTCTATCTAGGA",
+                "IDT DNA",
+                "OT2138"
+              ],
+              [
+                "TAGCAAACAAGAGACCACAT",
+                "IDT DNA",
+                "OT2139"
+              ],
+              [
+                "TTTTTTGTGTCTCTCACTCG",
+                "IDT DNA",
+                "OT2141"
+              ],
+              [
+                "CACGTGATCTGGTTTGCTGC",
+                "IDT DNA",
+                "OT2011"
+              ],
+              [
+                "CACCAGACCGAACGTGAA",
+                "IDT DNA",
+                "OT2012"
+              ],
+              [
+                "GACCGACGATGAAGCATG",
+                "IDT DNA",
+                "OT2013"
+              ],
+              [
+                "",
+                "",
+                "MsWTA"
+              ],
+              [
+                "Commercial Assays and kits",
+                "",
+                ""
+              ],
+              [
+                "DIG-High Prime DNA labeling kit",
+                "Millipore Sigma",
+                "11745832910"
+              ],
+              [
+                "GeoMx (Nanostring)",
+                "Nanostring, this paper",
+                "N/A"
+              ]
+            ]
+          }
+        ],
+        "page": 3
+      }
+    ]
+  }
+}

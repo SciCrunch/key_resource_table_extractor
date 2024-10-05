@@ -1,0 +1,245 @@
+{
+  "job_id": 79,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_589759_main",
+  "pdf_file": "589759_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "REAGENT or RESOURCE",
+                "SOURCE",
+                "IDENTIFIER"
+              ],
+              [
+                "Antibodies",
+                "",
+                ""
+              ],
+              [
+                "Anti-HA.11 Epitope Tag Antibody",
+                "Biolegend",
+                "901514"
+              ],
+              [
+                "Mouse \uf062 Actin Antibody",
+                "Cell signaling",
+                "3700S"
+              ],
+              [
+                "Rabbit \uf062 Actin Antibody",
+                "Cell signaling",
+                "8457S"
+              ],
+              [
+                "Purified anti-Myelin Basic Protein [SMI 99]",
+                "Biolegend",
+                "808401"
+              ],
+              [
+                "MOG (E5K6T) XP\u00ae Rabbit mAb",
+                "Cell signaling",
+                "96457S"
+              ],
+              [
+                "Donkey Anti-Rabbit IgG Antibody, IRDye800",
+                "Li-COR Biosciences",
+                "926-32213"
+              ],
+              [
+                "Donkey Anti-Mouse IgG Antibody, IRDye680",
+                "Li-COR Biosciences",
+                "926-68072"
+              ],
+              [
+                "Chicken anti-GFP",
+                "Abcam",
+                "ab13970"
+              ],
+              [
+                "Anti-chicken 488",
+                "Invitrogen",
+                "A11039"
+              ],
+              [
+                "Chemicals, Peptides, and Recombinant Proteins",
+                "",
+                ""
+              ],
+              [
+                "4OH-tamoxifen",
+                "Sigma",
+                "H7904"
+              ],
+              [
+                "VECTASHIELD Antifade Mounting Medium w/ DAPI",
+                "Vector Labs",
+                "H-1200"
+              ],
+              [
+                "Recombinant RNAsin Ribonuclease Inhibitor",
+                "Promega",
+                "N2515"
+              ],
+              [
+                "Dithiothreitol (DTT)",
+                "Sigma-Aldrich",
+                "10708984001"
+              ],
+              [
+                "Cycloheximide",
+                "Sigma-Aldrich",
+                "C7698-1G"
+              ],
+              [
+                "Dynabeads; Protein G",
+                "Invitrogen",
+                "10004D"
+              ],
+              [
+                "Alcohol, ethyl for DNA and RNA",
+                "American Bio",
+                "AB00515"
+              ],
+              [
+                "Water, nuclease free, endotoxin tested, ultra-pure",
+                "American Bio",
+                "AB02123"
+              ],
+              [
+                "0.3% Cuprizone diet",
+                "Envigo",
+                "TD.140805"
+              ],
+              [
+                "Critical Commercial Assays",
+                "",
+                ""
+              ],
+              [
+                "Luxol fast blue (Myelin stain)",
+                "iHisto",
+                "https://www.ihisto.io/"
+              ],
+              [
+                "Deposited Data",
+                "",
+                ""
+              ],
+              [
+                "10x Single Nucleus RNA-seq",
+                "This paper",
+                "GEO: GSE263981"
+              ]
+            ]
+          }
+        ],
+        "page": 23
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Mouse: C57BL/6J",
+                "The Jackson laboratory",
+                "000664"
+              ],
+              [
+                "Mouse: Ng2-cre (B6;FVB-Ifi208Tg(Cspg4-cre)1Akik/J)",
+                "The Jackson laboratory",
+                "008533"
+              ],
+              [
+                "Mouse: Plp1-creERT (B6.Cg-Tg(Plp1-cre/ERT)3Pop/J)",
+                "The Jackson laboratory",
+                "005975"
+              ],
+              [
+                "Mouse: Prkci flox",
+                "Scott et al., iScience, 2019.",
+                "PMID: 31546104"
+              ],
+              [
+                "Mouse: Prkcz flox",
+                "Chibly et al., Sci Rep, 2018",
+                "PMID: 29679075"
+              ],
+              [
+                "Mouse: Ribotag Tg/Tg (B6N.129-Rpl22tm1.1Psam/J)",
+                "The Jackson laboratory",
+                "011029"
+              ],
+              [
+                "Oligonucleotides",
+                "",
+                ""
+              ],
+              [
+                "See table",
+                "",
+                ""
+              ],
+              [
+                "Software and Algorithms",
+                "",
+                ""
+              ],
+              [
+                "Image Studio Lite Software Version 5.2.5",
+                "Li-Cor",
+                "n/a"
+              ],
+              [
+                "ImageJ software",
+                "NIH, USA",
+                "n/a"
+              ],
+              [
+                "Other",
+                "",
+                ""
+              ],
+              [
+                "RNeasy Plus Micro Kit",
+                "QIAGEN",
+                "74034"
+              ],
+              [
+                "iScript cDNA Synthesis kit",
+                "BioRad",
+                "1708891"
+              ],
+              [
+                "Mini-PROTEAN\u00ae TGX Stain-Free\u2122 Precast Gels",
+                "BioRad",
+                "4568025, 4568125"
+              ],
+              [
+                "Immun-Blot PVDF Membrane",
+                "BioRad",
+                "1620177"
+              ],
+              [
+                "cOmplete\u2122 Protease Inhibitor Cocktail",
+                "Roche",
+                "11697498001"
+              ],
+              [
+                "Pierce\u2122 BCA Protein Assay Kit",
+                "Thermo Scientific",
+                "23227"
+              ]
+            ]
+          }
+        ],
+        "page": 24
+      }
+    ]
+  }
+}

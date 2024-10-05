@@ -8,9 +8,9 @@ from collections import defaultdict
 
 from grits import grits_from_html
 from html_table_converter import to_html_table, load_json
-from scipy import stats
+from pg_config import get_work_dir
 
-HOME = os.path.expanduser("~")
+WD = get_work_dir()
 
 
 class DataCollector:
@@ -33,11 +33,6 @@ class DataCollector:
     @classmethod
     def from_json(cls, json_file: Path):
         return cls(json_file)
-
-
-
-
-
 
 
 def eval_perf(gs_table_json_paths, pred_table_json_paths, data_collector: DataCollector = None):
@@ -73,7 +68,7 @@ def eval_perf(gs_table_json_paths, pred_table_json_paths, data_collector: DataCo
 
 
 def test_driver():
-    in_root = Path(HOME, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
+    in_root = Path(WD, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
     json_table_files = list(in_root.glob("*.json"))
     for json_table_file in json_table_files:
         js_dict = load_json(json_table_file)
@@ -85,7 +80,7 @@ def test_driver():
 
 
 def do_eval_with_row_info():
-    in_root = Path(HOME, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
+    in_root = Path(WD, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
     json_table_files = list(in_root.glob("*.json"))
     pred_ri_root = Path("/tmp/bioarxiv_extracted_key_resources_tables_with_row_info_sampled_table_json")
     pred_ri_json_table_files = list(pred_ri_root.glob("*.json"))
@@ -93,7 +88,7 @@ def do_eval_with_row_info():
 
 
 def do_eval_main():
-    in_root = Path(HOME, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
+    in_root = Path(WD, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
     pred_root = Path("/tmp/bioarxiv_extracted_key_resources_tables_sampled_table_json")
     json_table_files = list(in_root.glob("*.json"))
     pred_json_table_files = list(pred_root.glob("*.json"))
@@ -101,27 +96,23 @@ def do_eval_main():
 
 
 def do_eval_main_merged():
-    in_root = Path(HOME, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
+    in_root = Path(WD, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
     pred_root = Path("/tmp/bioarxiv_main_merged_table_json")
     json_table_files = list(in_root.glob("*.json"))
     pred_json_table_files = list(pred_root.glob("*.json"))
-    data_collector = DataCollector()
-    eval_perf(json_table_files, pred_json_table_files, data_collector)
-    data_collector.save(Path("/tmp/merged_grits_stats.json"))
+    eval_perf(json_table_files, pred_json_table_files)
 
 
 def do_eval_ocr():
-    in_root = Path(HOME, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
+    in_root = Path(WD, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
     gs_json_table_files = list(in_root.glob("*.json"))
     pred_root = Path("/tmp/bioarxiv_extracted_key_resources_tables_sampled_ocr_table_json")
     pred_json_table_files = list(pred_root.glob("*.json"))
-    data_collector = DataCollector()
-    eval_perf(gs_json_table_files, pred_json_table_files, data_collector)
-    data_collector.save(Path("/tmp/ocr_grits_stats.json"))
+    eval_perf(gs_json_table_files, pred_json_table_files)
 
 
 def do_eval_grobid():
-    in_root = Path(HOME, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
+    in_root = Path(WD, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
     gs_json_table_files = list(in_root.glob("*.json"))
     pred_root = Path("/tmp/bioarxiv_extracted_key_resources_tables_sampled_grobid_table_json")
     pred_json_table_files = list(pred_root.glob("*.json"))

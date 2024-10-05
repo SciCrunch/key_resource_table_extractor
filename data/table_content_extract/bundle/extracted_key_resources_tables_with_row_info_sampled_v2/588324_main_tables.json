@@ -1,0 +1,363 @@
+{
+  "job_id": 84,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_588324_main",
+  "pdf_file": "588324_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Antibodies Mouse monoclonal 9.4A anti-Trio",
+                "University of Iowa Developmental Studies Hybridoma",
+                "RRID:AB_528494"
+              ],
+              [
+                "Mouse monoclonal ADL101 anti-Lamin",
+                "Bank University of Iowa Developmental Studies Hybridoma",
+                "RRID:AB_528332"
+              ],
+              [
+                "Mouse monoclonal 1D4 anti-Fasciclin II",
+                "Bank University of Iowa Developmental Studies Hybridoma",
+                "RRID: AB_528235"
+              ],
+              [
+                "Rabbit Polyclonal Anti-Green Fluorescent Protein (GFP)",
+                "Bank ThermoFisher",
+                "Cat#A-11122"
+              ],
+              [
+                "Alexa Fluor\u00ae 488 AffiniPure Polyclonal Goat Anti-rabbit IgG",
+                "Scientific Jackson ImmunoResearch",
+                "RRID: AB_2338046"
+              ],
+              [
+                "",
+                "Laboratories",
+                ""
+              ],
+              [
+                "Chemicals, peptides, and recombinant proteins",
+                "",
+                ""
+              ],
+              [
+                "TRIzol reagent",
+                "Invitrogen",
+                "Cat#15596018"
+              ],
+              [
+                "2-propanol/isopropanol",
+                "Fisher Scientific",
+                "Cat#A416-1"
+              ],
+              [
+                "Ethanol 200 proof",
+                "Fisher Scientific",
+                "Cat#04-355-233"
+              ],
+              [
+                "Diethyl pyrocarbonate (DEPC)",
+                "Sigma-Aldrich",
+                "Cat#D5758"
+              ],
+              [
+                "Tris Base Ultrapure",
+                "USBiological Life",
+                "Cat#T8600"
+              ],
+              [
+                "",
+                "Sciences",
+                ""
+              ],
+              [
+                "Sodium Dodecyl Sulfate",
+                "Fisher Bioreagents",
+                "Cat#YBP166500"
+              ],
+              [
+                "Sodium deoxycholate",
+                "Thermo Scientific",
+                "Cat#89905"
+              ],
+              [
+                "NP-40",
+                "Thermo Scientific",
+                "Cat#85124"
+              ]
+            ]
+          }
+        ],
+        "page": 21
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Bromophenol Blue",
+                "Thermo Scientific",
+                "Cat#A18469-18"
+              ],
+              [
+                "Glycerol",
+                "Chemicals USBiological Life",
+                "Cat#G8145"
+              ],
+              [
+                "",
+                "Sciences",
+                ""
+              ],
+              [
+                "RNaseOUT",
+                "Invitrogen",
+                "Cat#10777019"
+              ],
+              [
+                "p-Coumaric acid",
+                "Sigma-Aldrich",
+                "Cat#C9008"
+              ],
+              [
+                "Luminol",
+                "Sigma-Aldrich",
+                "Cat#A8511"
+              ],
+              [
+                "Acetic Acid, Glacial EDTA",
+                "Fisher Scientific USBiological Life",
+                "Cat# A38-212 Cat#E2210"
+              ],
+              [
+                "Paraformaldehyde",
+                "Sciences Electron Microscopy",
+                "Cat#15713"
+              ],
+              [
+                "VECTASHEILD mounting medium",
+                "Sciences Vector Laboratories",
+                "REF#H-1000"
+              ],
+              [
+                "Diethyl Ether Anhydrous (stabilized with BHT)",
+                "ImmunoResearch Laboratories Tokyo Chemical",
+                "Cat#D3497"
+              ],
+              [
+                "",
+                "Industry (TCI) America",
+                ""
+              ],
+              [
+                "iScript Reverse Transcriptase Supermix",
+                "Bio-Rad",
+                "Cat#1708841"
+              ],
+              [
+                "Phusion High Fidelity PCR",
+                "Thermo Scientific",
+                "Cat#F530S"
+              ],
+              [
+                "D. melanogaster: w-;;Nab2pex41  (Control);",
+                "(Pak et al., 2011)",
+                "N/A"
+              ],
+              [
+                "D. melanogaster: w-;;Nab2ex3  (Nab2null);",
+                "(Pak et al., 2011)",
+                "N/A"
+              ],
+              [
+                "D. melanogaster: w-;;Mettl3null;",
+                "(Lence et al., 2016)",
+                "N/A"
+              ],
+              [
+                "D. melanogaster: Ythdf\u2206YTH (Ythdf0)",
+                "(Worpenberg et al.,",
+                "N/A"
+              ],
+              [
+                "D. melanogaster:w1118;;Df(3R)BSC655 (ythdf deficiency)",
+                "2021) Bloomington Drosophila Stock",
+                "BDSC:26507"
+              ],
+              [
+                "D. melanogaster: y1w67c23;UAS-mcd8::GFP, 201Y-Gal4;;",
+                "Company Bloomington Drosophila Stock Company",
+                "BDSC:64296"
+              ]
+            ]
+          }
+        ],
+        "page": 22
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "D. melanogaster:w*;Ckac305a-Gal4",
+                "Bloomington Drosophila Stock",
+                "BDSC:30829"
+              ],
+              [
+                "D. melanogaster: y1w*;UAS-mcd8::GFP;;",
+                "Company Bloomington Drosophila Stock",
+                "BDSC:5137"
+              ],
+              [
+                "D. melanogaster: w*;;;OK107-Gal4",
+                "Company Bloomington Drosophila Stock",
+                "BDSC:854"
+              ],
+              [
+                "D. melanogaster:y1w*:UAS-trio-GEF1",
+                "Company Bloomington Drosophila Stock",
+                "BDSC:9133"
+              ],
+              [
+                "D. melanogaster: y1w*:UAS-trio-GEF2",
+                "Company Bloomington Drosophila Stock",
+                "BDSC:9134"
+              ],
+              [
+                "D. melanogaster:w*;;ppk-Gal4",
+                "Company Bloomington Drosophila Stock",
+                "BSDC:32079"
+              ],
+              [
+                "",
+                "Company",
+                ""
+              ],
+              [
+                "Oligonucleotides RT-PCR trio L Forward:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "AACAAAACAGAGAGCGCCC RT-PCR trio L Reverse:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "5\u2019-GTTGTGTTGACAAAAGAGTG-3\u2019 RT-qPCR trio L Properly Spliced Reverse: 5\u2019-GATGGGCACTGCAGCATAA-3\u2019",
+                "This study",
+                "N/A"
+              ],
+              [
+                "RT-PCR trio M Intron Retention (1) Forward:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "5\u2019-CAGCAGTCTCTTCTTCACTAA-3\u2019 RT-PCR trio M Intron Retention (1) Reverse:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "5\u2019-ACTCGGATTGTTGTTTCACTTT-3\u2019 RT-PCR trio M Intron Retention (2) Forward:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "5\u2019-GACTGCGCAAACATAGCATTA-3\u2019 RT-PCR trio M Intron Retention (2) Reverse:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "5\u2019-ATCCGCTCGTTGAGAAACT-3\u2019 RT-PCR trio M Properly Spliced Forward:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "5\u2019-CGCTAAAGAGGAGCGCAATA-3\u2019 RT-PCR trio M Properly Spliced Reverse:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "5\u2019-CTTCTTAACACTCTTCATGATTCG-3\u2019 RT-qPCR trio M Intron Retention Forward:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "5\u2019-TTGAGTGAACCCGCTAAAG-3\u2019 RT-qPCR trio M  Intron Retention Reverse:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "5\u2019-CTTTGGAGTGCTTGTTCTTATC-3\u2019 RT-qPCR trio M Properly Spliced Forward:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "CGTCCATAAATTGAGTCGGAGAAC RT-qPCR trio M Properly Spliced Reverse:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "5\u2019-CTTCTTAACACTCTTCATGATTCG-3\u2019 RT-PCR and RT-qPCR rpl32 Forward:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "AAGATGACCATCCGCCCAGCATAC RT-PCR and RT-qPCR rpl32 Reverse:",
+                "This study",
+                "N/A"
+              ],
+              [
+                "ACGCACTCTGTTGTCGATACCCTT",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 23
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "2017)",
+                ""
+              ],
+              [
+                "Integrated Genome Viewer (IGV) Image Lab",
+                "(Robinson et al., 2011) Bio-Rad",
+                "https://igv.org/ https://image-lab-4-0.software.informer.c"
+              ],
+              [
+                "GraphPad (Prism)",
+                "",
+                "om/"
+              ],
+              [
+                "Other",
+                "",
+                ""
+              ],
+              [
+                "NanodropOne",
+                "Thermo Fisher",
+                "N/A"
+              ]
+            ]
+          }
+        ],
+        "page": 24
+      }
+    ]
+  }
+}

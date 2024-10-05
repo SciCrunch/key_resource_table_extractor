@@ -1,0 +1,355 @@
+{
+  "job_id": 111,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_587867_media-1",
+  "pdf_file": "587867_media-1.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "PCR primers",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Name",
+                "Forward primer (5'-to-3')",
+                "",
+                "Reverse primer (5'-to-3')",
+                ""
+              ],
+              [
+                "SP110 NGS",
+                "CTTTCCCTACACGACGCTCTTCCGATCT",
+                "",
+                "",
+                ""
+              ],
+              [
+                "SP100 NGS",
+                "CTTTCCCTACACGACGCTCTTCCGATCT",
+                "",
+                "",
+                ""
+              ],
+              [
+                "ACTB qPCR",
+                "GGGTCAGAAGGATTCCTATG",
+                "",
+                "GGTCTCAAACATGATCTGGG",
+                ""
+              ],
+              [
+                "SP110 qPCR",
+                "GGGACAGCCTCATCTAGACA",
+                "",
+                "AAGTGCCATCAATGATCTCCTC",
+                ""
+              ],
+              [
+                "SP100 qPCR",
+                "GGAGAAGAGCTTCAGGAAACCTG",
+                "",
+                "GGCTTCTTGGCACACCTTTTGG",
+                ""
+              ],
+              [
+                "SP140 qPCR",
+                "GCATGGCTGGAGCAGAATGAGA",
+                "",
+                "CGTTCGCCTTCTTTTCACTGGAG",
+                ""
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "ppp-RNA sequenc",
+                "e"
+              ],
+              [
+                "Name",
+                "Sequence (5'-to-3')"
+              ],
+              [
+                "",
+                "GCCAAGCTGAAGGTGACCAAGTTTTAGAGCTAGAAATAGCAAG"
+              ],
+              [
+                "ppp-RNA",
+                "GGCTAGTCCGTTATCAACTTGAAAAAGTGGCACCGAGTCGGTG"
+              ],
+              [
+                "sgRNA sequence",
+                ""
+              ],
+              [
+                "Name",
+                "Spacer sequence (5'-to-3')"
+              ],
+              [
+                "sgSP110-1 KD",
+                "GGGGATCACTCCTCAAGATT"
+              ],
+              [
+                "sgSP110-2 KD",
+                "GCAAGATTGGGAGAGTTACA"
+              ],
+              [
+                "sgSP100-1 KD",
+                "GGGCCGACTGAGGGGCTCAG"
+              ],
+              [
+                "sgSP100-2 KD",
+                "GGCAGGCTGGGCCGACTGAG"
+              ],
+              [
+                "sgPML-1 KD",
+                "GGTGCGTGAAGAGAAGCTGA"
+              ],
+              [
+                "sgPML-2 KD",
+                "GAGTAGAAAAGAGGACACGG"
+              ],
+              [
+                "sgZNFX1-1 KD",
+                "GAAGCCCCAGCACTCGCCGG"
+              ],
+              [
+                "sgZNFX1-2 KD",
+                "GGCGAGGCAAGGAAGAATCA"
+              ],
+              [
+                "sgCNOT2-1 KD",
+                "GAGCGGCGGTAAGGGCGGTA"
+              ],
+              [
+                "sgCNOT2-2 KD",
+                "GCGGGACAAGAAAATTCATG"
+              ],
+              [
+                "sgUSP18-1 KD",
+                "GCGAGCGCGGGGCCAGACCA"
+              ],
+              [
+                "sgUSP18-2 KD",
+                "GACGTGGAACTCAGCAGCGG"
+              ],
+              [
+                "sgSMC5-1 KD",
+                "GGCCCGGACGACTGCAACAG"
+              ],
+              [
+                "sgSMC5-2 KD",
+                "GCAGCACACCTCCACACCCG"
+              ],
+              [
+                "sgSMC6-1 KD",
+                "GCAGGAGAAGGTAGATTCCC"
+              ],
+              [
+                "sgSMC6-2 KD",
+                "GGCAGGCGCGGTTAGTACCG"
+              ],
+              [
+                "sgSP110 KO",
+                "CCAGATTGGGATATTCACGC"
+              ],
+              [
+                "sgSP100 KO",
+                "GCAGCCTGTCATCTACACCC"
+              ],
+              [
+                "sgNT",
+                "GCGGTGGGGCCGCTCACTAG"
+              ]
+            ]
+          }
+        ],
+        "page": 14
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                ""
+              ],
+              [
+                "Cell line",
+                "Source"
+              ],
+              [
+                "HEK-293T",
+                "ATCC"
+              ],
+              [
+                "Jurkat",
+                "ATCC"
+              ]
+            ]
+          }
+        ],
+        "page": 15
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Table S4. Antibo",
+                "dies",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Primary Antibody",
+                "Application",
+                "Species",
+                "Supplier",
+                "Product #",
+                "Clone #",
+                "Lot #",
+                "Working dilution"
+              ],
+              [
+                "SP110",
+                "WB",
+                "Ms",
+                "Santa Cruz Biotech",
+                "sc-376741",
+                "Monoclonal B-10",
+                "K0116",
+                "1:1000"
+              ],
+              [
+                "SP100",
+                "WB, IF, ChIP",
+                "Rb",
+                "Novus Biologicals",
+                "NBP1-86060",
+                "Polyclonal",
+                "A106767",
+                "1:1000 (WB), 1:200 (IF)"
+              ],
+              [
+                "FLAG",
+                "WB, IP",
+                "Ms",
+                "Sigma",
+                "F3165",
+                "Monoclonal M2",
+                "SLCQ9255",
+                "1:1000 (WB)"
+              ],
+              [
+                "HA",
+                "WB",
+                "Rb",
+                "Cell Signalling Technologies",
+                "3724",
+                "Monoclonal C29F4",
+                "11",
+                "1:1000 (WB)"
+              ],
+              [
+                "P-KAP1 (S824)",
+                "WB",
+                "Rb",
+                "Abcam",
+                "ab70369",
+                "Polyclonal",
+                "GR3316128-13",
+                "1:1000"
+              ],
+              [
+                "Cyclin B1",
+                "WB",
+                "Rb",
+                "R&D Systems",
+                "MAB60001",
+                "Monoclonal 2061D",
+                "CKJC022109A",
+                "1:1000"
+              ],
+              [
+                "GAPDH",
+                "WB",
+                "Rb",
+                "Cell Signalling Technologies",
+                "2118",
+                "Monoclonal 14C10",
+                "16",
+                "1:2000"
+              ],
+              [
+                "GAPDH",
+                "WB",
+                "Ms",
+                "Cell Signalling Technologies",
+                "97166",
+                "Monoclonal D4C6R",
+                "7",
+                "1:2000"
+              ],
+              [
+                "SOX9",
+                "WB",
+                "Rb",
+                "Abcam",
+                "ab185966",
+                "Monoclonal EPR14335-78",
+                "GR3183675-1",
+                "1:1000"
+              ],
+              [
+                "53BP1",
+                "IF",
+                "Rb",
+                "Novus Biologicals",
+                "NB100-304",
+                "Polyclonal",
+                "D148226",
+                "1:1000"
+              ],
+              [
+                "PML",
+                "IF",
+                "Ms",
+                "Santa Cruz",
+                "sc-966",
+                "Monoclonal PG-M3",
+                "G1122",
+                "1:200"
+              ],
+              [
+                "Rabbit IgG isotype control",
+                "ChIP",
+                "Rb",
+                "Novus Biologicals",
+                "NBP2-24891",
+                "Polyclonal",
+                "n/a",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 16
+      }
+    ]
+  }
+}

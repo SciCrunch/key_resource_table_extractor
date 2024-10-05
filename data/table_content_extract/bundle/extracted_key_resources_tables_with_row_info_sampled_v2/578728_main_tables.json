@@ -1,0 +1,367 @@
+{
+  "job_id": 71,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_578728_main",
+  "pdf_file": "578728_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "REAGENT or RESOURCE",
+                "SOURCE",
+                "IDENTIFIER"
+              ],
+              [
+                "",
+                "",
+                "RRID: AB_2534069"
+              ],
+              [
+                "Alexa anti-Rabbit IgG",
+                "Life Technologies",
+                "Cat# 1745478"
+              ],
+              [
+                "",
+                "",
+                "RRID:"
+              ],
+              [
+                "Anti-Beta Catenin (\u03b2-catenin) Monoclonal Antibody",
+                "Cloud-Clone Corp.",
+                "AB_2534079 Cat# CAB021MI22"
+              ],
+              [
+                "",
+                "",
+                "RRID: A20230811413"
+              ],
+              [
+                "Anti-rabbit IgG, HRP-linked Antibody",
+                "CST",
+                "Cat# 7074P2"
+              ],
+              [
+                "Anti-Vinculin VCL antibody",
+                "Merck",
+                "RRID: AB_2099233 Cat# V9264,"
+              ],
+              [
+                "",
+                "Abcam",
+                "7  Cat#ab129002 RRID:"
+              ],
+              [
+                "",
+                "",
+                "AB_11144129"
+              ],
+              [
+                "",
+                "Boster",
+                "Cat# MA1103"
+              ],
+              [
+                "Ki-67",
+                "CST",
+                "AB_2769851 Cat# 9129 RRID:"
+              ],
+              [
+                "Monoclonal Anti-\u03b2-Actin antibody",
+                "Merck",
+                "AB_2314695 Cat# 0000106157"
+              ],
+              [
+                "Mouse Anti-Myogenin",
+                "BD Pharmingen",
+                "RRID: AB_262011 Cat# 556358"
+              ],
+              [
+                "Mouse Gamma Globulin",
+                "Invitrogen",
+                "RRID: AB_396383 Cat#31878"
+              ],
+              [
+                "",
+                "",
+                "RRID:"
+              ],
+              [
+                "",
+                "",
+                "AB_2532170"
+              ],
+              [
+                "MyoD antibody",
+                "SCBT",
+                "Cat# SC-377460"
+              ],
+              [
+                "",
+                "",
+                "RRID:"
+              ],
+              [
+                "Myosin Heavy Chain antibody",
+                "DSHB",
+                "AB_2813894 Cat# MF20"
+              ],
+              [
+                "",
+                "",
+                "RRID: AB_2147781"
+              ]
+            ]
+          }
+        ],
+        "page": 38
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Rabbit Gamma Globulin",
+                "Invitrogen",
+                "Cat# 31887"
+              ],
+              [
+                "",
+                "",
+                "RRID:"
+              ],
+              [
+                "",
+                "",
+                "AB_2532177"
+              ],
+              [
+                "RBFOX1 Rabbit pAb",
+                "Abclonal",
+                "Cat# A7811"
+              ],
+              [
+                "",
+                "",
+                "RRID: AB_2771954"
+              ],
+              [
+                "WNT7B Rabbit pAb",
+                "Abclonal",
+                "Cat# A7746"
+              ],
+              [
+                "",
+                "",
+                "RRID: AB_2772906"
+              ],
+              [
+                "Bacterial and virus strains",
+                "",
+                ""
+              ],
+              [
+                "BL21 Competent E. coli",
+                "NEB",
+                "Cat# C2530H"
+              ],
+              [
+                "One Shot\u2122 Stbl3\u2122 Chemically Competent E. coli",
+                "Invitrogen",
+                "Cat# C7373-03"
+              ],
+              [
+                "Ethyl alcohol",
+                "Merck",
+                "Cat# E7023"
+              ]
+            ]
+          }
+        ],
+        "page": 39
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Sodium lauryl sulphate (SDS, SLS)",
+                "SRL",
+                "Cat# 54468"
+              ]
+            ]
+          }
+        ],
+        "page": 40
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "TM",
+                "",
+                ""
+              ],
+              [
+                "Stains (masson)",
+                "",
+                ""
+              ],
+              [
+                "Tris Buffer",
+                "SRL",
+                "Cat# 71033"
+              ],
+              [
+                "Triton X-100",
+                "SRL",
+                "Cat# 64518"
+              ],
+              [
+                "TRIzol\u2122 Reagent",
+                "Invitrogen",
+                "Cat# 15596026"
+              ],
+              [
+                "Trypsin-EDTA solution 1X",
+                "HiMedia",
+                "Cat# TCL-155"
+              ],
+              [
+                "Oligonucleotides",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 41
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "ShScr",
+                "5\u2019-",
+                "IDT"
+              ],
+              [
+                "",
+                "GCTTCCCACCGAC",
+                ""
+              ],
+              [
+                "",
+                "ACTGAT-3\u2019",
+                ""
+              ],
+              [
+                "ShRbfx1",
+                "5\u2019-",
+                "IDT"
+              ],
+              [
+                "",
+                "CAGCCCCCACCTA",
+                ""
+              ],
+              [
+                "",
+                "CGGCGTTG-3\u2019",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "ShRbfx2",
+                "5\u2019-",
+                "IDT"
+              ],
+              [
+                "ShmVcl1",
+                "AAGCGACTACATGTCTCTAAT-3\u2019 5\u2019-",
+                "IDT"
+              ],
+              [
+                "",
+                "CGGTCAACCAGC",
+                ""
+              ],
+              [
+                "ShmVcl2",
+                "CCATTCT-3\u2019 5\u2019-",
+                "IDT"
+              ],
+              [
+                "",
+                "CGGCTCAGTCCTTGCATCG-3\u2019",
+                ""
+              ],
+              [
+                "Primers used for RT-qPCR, Crosslink-RIP, ChIP",
+                "This manuscript",
+                "IDT, Macrogen"
+              ],
+              [
+                "were given in Table  S2",
+                "",
+                ""
+              ],
+              [
+                "Recombinant DNA",
+                "",
+                ""
+              ],
+              [
+                "pBABE-Puro",
+                "Addgene",
+                "Cat#21836 RRID: Addgene_21836"
+              ],
+              [
+                "",
+                "",
+                "48"
+              ],
+              [
+                "pLKO.1TRC",
+                "Addgene",
+                "Cat#10879 RRID: Addgene_10879"
+              ],
+              [
+                "pLSL-Puro",
+                "Addgene",
+                "Cat#51493 RRID:"
+              ],
+              [
+                "",
+                "",
+                "Addgene_51493"
+              ],
+              [
+                "pLSL-ShmVcl1",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "pLSL-ShmVcl2",
+                "This manuscript",
+                "N/A"
+              ]
+            ]
+          }
+        ],
+        "page": 42
+      }
+    ]
+  }
+}

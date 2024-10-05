@@ -1,0 +1,82 @@
+{
+  "paper_id": "590656_main",
+  "result": {
+    "pages": [
+      {
+        "page": 16,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Purpose",
+                "Primary Ab / Tracer",
+                "Dilution",
+                "Secondary Ab"
+              ],
+              [
+                "To characterize Opn4\u201c*\nRpl22\" and Opn4**;\nBrn3b\u201c? Rpi22\u21224 lines (fig.\nS18)",
+                "Rabbit anti-HA\n(Abcam, ab9110)",
+                "1:500",
+                "Donkey anti-rabbit Alexa 488\n(Thermofisher, A-21206)"
+              ],
+              [
+                "To test the role of Brn3b on\nmelanopsin expression (Fig. 2)",
+                "Rabbit anti-\nmelanopsin\n(ATS, N38)",
+                "1:1000",
+                "Donkey anti-rabbit Alexa 488\n(Thermofisher, A-21206)"
+              ],
+              [
+                "Oo",
+                "Rabbit dsRed\n(Takara, 632496)",
+                "1:500",
+                "Donkey anti-rabbit Alexa 594\n(ThermoFisher, A-21207)"
+              ],
+              [
+                "Morphological studies\n(sparse labeling) (Fig. 3)",
+                "Goat anti-ChAT\n(Sigma, AB144P)",
+                "1:250",
+                "Donkey anti-goat Alexa 488\n(Invitrogen, A11055)"
+              ],
+              [
+                "oe",
+                "Mouse anti-SMI32\n(Biolegend, 801701)",
+                "1:500",
+                "Donkey anti-mouse Alexa 647\n(Invitrogen, A31571)"
+              ],
+              [
+                "",
+                "Neurobiotin\n(VectorLabs, SP-\n1120-50)",
+                "_",
+                "Streptavidin 546\n(Invitrogen, $11225)"
+              ],
+              [
+                "Morphological studies\n(filled cells) (Fig. 3)",
+                "Chicken anti-GFP\n(Abcam, ab13970)",
+                "1:500",
+                "Donkey anti-chicken Alexa 48\u00a7\n(Jackson IRL, 703-545-155)"
+              ],
+              [
+                "",
+                "Goat anti-Brn3b\n(Abcam, ab56026)",
+                "1:250",
+                "Donkey anti-goat Alexa 647\n(Invitrogen, A21447)"
+              ],
+              [
+                "Electrophysiological studies\n(filled cells) (Fig. 3; fig. $11",
+                "Neurobiotin\n(VectorLabs, SP-\n1120-50)",
+                "=",
+                "Streptavidin 546\n(Invitrogen, $11225)"
+              ],
+              [
+                "and fig. 13) ",
+                "Mouse anti-SMI32\n(Biolegend, 801701)",
+                "1:500",
+                "Donkey anti-mouse Alexa 488\n(Abcam, ab175472)"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

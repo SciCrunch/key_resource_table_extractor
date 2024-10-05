@@ -1,0 +1,126 @@
+{
+  "job_id": 101,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_587157_main",
+  "pdf_file": "587157_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Antibodies list",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Antibodies",
+                "Company",
+                "Species Catalog number",
+                "",
+                ""
+              ],
+              [
+                "SQSTM1",
+                "BioRad",
+                "mouse 2C11",
+                "",
+                ""
+              ],
+              [
+                "GFP",
+                "Invitrogen",
+                "rabbit A-6455",
+                "",
+                ""
+              ],
+              [
+                "RFP",
+                "ChromoTek",
+                "mouse 6g6-100",
+                "",
+                ""
+              ],
+              [
+                "GAPDH",
+                "Merck",
+                "mouse MAB374",
+                "",
+                ""
+              ],
+              [
+                "GABARAP",
+                "MBL",
+                "rabbit  PM037",
+                "",
+                ""
+              ],
+              [
+                "GABARAPL1",
+                "bioss",
+                "rabbit BS8035R",
+                "",
+                ""
+              ],
+              [
+                "GABARAPL2",
+                "MBL",
+                "rabbit PM038",
+                "",
+                ""
+              ],
+              [
+                "M2 Magnetic",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Beads",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "3XFlag-",
+                "gactataaggaccacgacggag",
+                "actacaaggatcatgatattgattacaaagacgatgacgataagGTGAGCAAGGGCGAGGCAG",
+                "T",
+                ""
+              ],
+              [
+                "(GGGS)3",
+                "GTGACCAAGGGTGGCTCCAGGGCCTTCAAGGGCTTCAAGTGGGGACACCTCCCTGGCCTCCTGACGGCCCTGTACCCCGAGGACCGGCCGCTACCTGGGGCGCCTACAACGTTGGAACAGTACGAA",
+                "CCCCCTGCCCTTCTCCTGGGACATCCTGTCCCCTCAGTTCATGTACGGTCAAGCACCCCGCCGACATCCCCGACTACTATAAGCAGTCCTTCCCCGGAGCGCGTGATGAACTTCGAGGACGGCGGCGCCGTGACCGTGACCCAGGACGGCACCCTGATCTACAAGGTGAAGCTCCGCGGCACCAACTTCCGTAATGCAGAAGAAGACAATGGGCTGGGAAGCGTCCACCGAGCGGGGCGTGCTGAAGGGCGACATTAAGATGGCCCTGCGCCTGAAGGACGCGGACTTCAAGACCACCTACAAGGCCAAGAAGCCCGTGCAGATGCCCCGACCGCAAGTTGGACATCACCTCCCACAACGAGGACTACACCGTGGCGCTCCGAGGGCCGCCACTCCACCGGCGGCATGGACGAGCTGTACA",
+                "ATGA",
+                ""
+              ],
+              [
+                "",
+                "AGTACAAGGA",
+                "",
+                "",
+                ""
+              ],
+              [
+                "ATG14",
+                "GG CTACTTCGACGGCCGCGACCG",
+                "(+) -",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 17
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "headers": [],
+  "notes": "1H NMR (500 MHz, CD3OD) δ 7.33 (t, J = 2.0 Hz, 1H), 7.27 (d, J = 2.0 Hz, 2H), 6.94 (d, J = 3.7 Hz, 1H), 6.79 (dt, J = 3.7, 0.9 Hz, 1H), 4.39 (s, 2H), 3.79 (d, J = 0.9 Hz, 2H), 3.10 (s, 2H), 2.36 (s, 3H). 13 C NMR (126 MHz,",
+  "caption": "CD3OD) δ 173.64, 145.03, 144.45, 136.29, 130.88, 128.43, 128.26, 127.33, 112.85, 60.33, 57.43, 43.48, 42.91. HRMS (ESI) calculated for C15H16BrCl2N2OS (M ( 79 Br) + H + ): 420.9544, found: 420.9548; calculated for C15H16BrCl2N2OS (M ( 81 Br) + H + ): 422.9523, found: 422.9558.",
+  "rows": []
+}

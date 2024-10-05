@@ -1,0 +1,123 @@
+{
+  "paper_id": "590624_main",
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Oligo o57",
+                "Primer/Probe northern probe",
+                "Sequence AATAGAGGTACCAGGTCAAGAAGC",
+                "Application detection of MRP RNA",
+                "Source (Allmang et al. 1999)"
+              ],
+              [
+                "o339",
+                "northern probe",
+                "AGAAACAAAGCACTCACGAT",
+                "detection of tRNA- Arg(UCU)",
+                "(van Hoof et al. 2000)"
+              ],
+              [
+                "o444",
+                "northern probe",
+                "GAAGCGCCATCTAGATG",
+                "detection of SNR30",
+                "this study"
+              ],
+              [
+                "o868",
+                "northern probe",
+                "GCATGTTTAATATGTATCAT",
+                "detection of SNR8",
+                "(Mitchell et al. 2003)"
+              ],
+              [
+                "o925",
+                "northern probe",
+                "CTACTCGGTCAGGCTC",
+                "detection of 5S rRNA",
+                "(Allmang et al. 2000)"
+              ],
+              [
+                "o950",
+                "northern probe",
+                "CCTTGCTTAAGCAAATGC",
+                "detection of pre-tRNA- Lys(UUU) intron",
+                "this study"
+              ],
+              [
+                "o1310",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "primer",
+                "TCCT",
+                "of the rex1 loop3\u2206 mutant",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 29
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Plasmi",
+                "",
+                "",
+                ""
+              ],
+              [
+                "p674",
+                "",
+                "wild-type Rex1 expressed as an N-terminal zz protein from the RRP4 promoter in pRS313.",
+                "(Daniels et al. 2022)"
+              ],
+              [
+                "p966",
+                "",
+                "loop 2\u2206 derivative of p674",
+                "this study"
+              ],
+              [
+                "p967",
+                "",
+                "loop 1\u2206 derivative of p674",
+                "this study"
+              ],
+              [
+                "p972",
+                "",
+                "loop 3\u2206 derivative of p674",
+                "this study"
+              ],
+              [
+                "p973",
+                "",
+                "wild-type Rex3 expressed as an N-terminal zz protein from the RRP4 promoter in pRS416.",
+                "this study"
+              ],
+              [
+                "p974 p975",
+                "",
+                "\u22061-106 variant of p973 \u22061-218 variant of p973",
+                "this study this study"
+              ]
+            ]
+          }
+        ],
+        "page": 31
+      }
+    ]
+  }
+}

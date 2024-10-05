@@ -1,0 +1,510 @@
+{
+  "headers": [],
+  "caption": "Isolated yields and ideneees of alkyl(arylsulfonamidobenzoates)",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Starting aldehyde"
+      },
+      {
+        "colspan": 1,
+        "content": "R"
+      },
+      {
+        "colspan": 1,
+        "content": "Product"
+      },
+      {
+        "colspan": 1,
+        "content": "Yield"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "107"
+      },
+      {
+        "colspan": 1,
+        "content": "4-(trifluoromethyl)phenyl"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOH"
+      },
+      {
+        "colspan": 1,
+        "content": "17%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "108"
+      },
+      {
+        "colspan": 1,
+        "content": "(3,4-dimethyl)phenyl"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOH"
+      },
+      {
+        "colspan": 1,
+        "content": "52%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "109"
+      },
+      {
+        "colspan": 1,
+        "content": "(3-chloro-4-methyl)phenyl"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOH"
+      },
+      {
+        "colspan": 1,
+        "content": "21%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "110"
+      },
+      {
+        "colspan": 1,
+        "content": "8-quinoline"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOH"
+      },
+      {
+        "colspan": 1,
+        "content": "43%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "111"
+      },
+      {
+        "colspan": 1,
+        "content": "3-quinoline"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOH"
+      },
+      {
+        "colspan": 1,
+        "content": "41%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "109"
+      },
+      {
+        "colspan": 1,
+        "content": "(3-chloro-4-methyl)phenyl"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOMe"
+      },
+      {
+        "colspan": 1,
+        "content": "26%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "125"
+      },
+      {
+        "colspan": 1,
+        "content": "3-pyridine"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOMe"
+      },
+      {
+        "colspan": 1,
+        "content": "96%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "127"
+      },
+      {
+        "colspan": 1,
+        "content": "2-napthalene"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOMe"
+      },
+      {
+        "colspan": 1,
+        "content": "76%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "128"
+      },
+      {
+        "colspan": 1,
+        "content": "1-napthalene"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOMe"
+      },
+      {
+        "colspan": 1,
+        "content": "79%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "131"
+      },
+      {
+        "colspan": 1,
+        "content": "3-pyridine"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOH"
+      },
+      {
+        "colspan": 1,
+        "content": "28%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "132"
+      },
+      {
+        "colspan": 1,
+        "content": "4-pyridine"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOH"
+      },
+      {
+        "colspan": 1,
+        "content": "26%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "133"
+      },
+      {
+        "colspan": 1,
+        "content": "2-napthalene"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOH"
+      },
+      {
+        "colspan": 1,
+        "content": "89%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "134"
+      },
+      {
+        "colspan": 1,
+        "content": "1-napthalene"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOH"
+      },
+      {
+        "colspan": 1,
+        "content": "41%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "136"
+      },
+      {
+        "colspan": 1,
+        "content": "(4-trifluoromethyl)benzyl"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOH"
+      },
+      {
+        "colspan": 1,
+        "content": "16%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "107"
+      },
+      {
+        "colspan": 1,
+        "content": "4-(trifluoromethyl)phenyl"
+      },
+      {
+        "colspan": 1,
+        "content": "2-(1H-tetrazole)"
+      },
+      {
+        "colspan": 1,
+        "content": "32%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "109"
+      },
+      {
+        "colspan": 1,
+        "content": "(3-chloro-4-methyl)phenyl"
+      },
+      {
+        "colspan": 1,
+        "content": "2-(1H-tetrazole)"
+      },
+      {
+        "colspan": 1,
+        "content": "25%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "109"
+      },
+      {
+        "colspan": 1,
+        "content": "(3-chloro-4-methyl)phenyl"
+      },
+      {
+        "colspan": 1,
+        "content": "2-(1H-tetrazole))"
+      },
+      {
+        "colspan": 1,
+        "content": "15%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "110"
+      },
+      {
+        "colspan": 1,
+        "content": "8-quinoline"
+      },
+      {
+        "colspan": 1,
+        "content": "2-(1H-tetrazole)"
+      },
+      {
+        "colspan": 1,
+        "content": "12%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "111"
+      },
+      {
+        "colspan": 1,
+        "content": "2-quinoline"
+      },
+      {
+        "colspan": 1,
+        "content": "2-(1H-tetrazole)"
+      },
+      {
+        "colspan": 1,
+        "content": "11%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "127"
+      },
+      {
+        "colspan": 1,
+        "content": "2-napthalene"
+      },
+      {
+        "colspan": 1,
+        "content": "2-(1H-tetrazole)"
+      },
+      {
+        "colspan": 1,
+        "content": "75%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Starting bromide"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "135"
+      },
+      {
+        "colspan": 1,
+        "content": "benzyl"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOMe"
+      },
+      {
+        "colspan": 1,
+        "content": "5%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "136"
+      },
+      {
+        "colspan": 1,
+        "content": "4-(trifluoromethyl)phenyl"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOMe"
+      },
+      {
+        "colspan": 1,
+        "content": "26%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Starting Compound"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "113"
+      },
+      {
+        "colspan": 1,
+        "content": "4-trifluoromethyl"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOMe"
+      },
+      {
+        "colspan": 1,
+        "content": "44%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "116"
+      },
+      {
+        "colspan": 1,
+        "content": "3,4-dimethyl"
+      },
+      {
+        "colspan": 1,
+        "content": "2-COOMe"
+      },
+      {
+        "colspan": 1,
+        "content": "13%"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Supplementary"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ]
+  ]
+}

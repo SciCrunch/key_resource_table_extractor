@@ -1,0 +1,938 @@
+{
+  "headers": [],
+  "caption": "Clinical isolates of S. enterica. UKT, University hospital of Tübingen. RKI, Robert 1436 Koch Institute. Antibiotic susceptibilities were investigated by broth microdilution according to 1437 EUCAST criteria (The European Committee on Antimicrobial Susceptibility Testing. Breakpoint tables for interpretation of MICs and zone diameters. Version 10.0, 2020. http://www.eucast.org) AMP, Ampicillin. MEZ, Mezlocillin. OTE, Oxytetracycline. SMZ, Sulfamethoxazole. STR, Streptomycin. CMP, Chloramphenicol. CTM, Cefotiam. CTX, Cefotaxime. MSU, Mezlocillin/Sulbactam. NAL, Nalidixic acid. SXT, Trimethoprim / Sulfamethoxazole. TCY, Tetracycline. AZM, Azithromycin. CAZ, Ceftazidime. CIP, Ciprofloxacin. FOX, Cefoxitin. GEN, Gentamicin. Table cells are left blank when the corresponding characteristic is unknown. *Identified using NCBI AMRFinderPlus 86 .",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      },
+      {
+        "colspan": 1,
+        "content": "phenotype Resistance"
+      },
+      {
+        "colspan": 1,
+        "content": "genes* Resistance"
+      },
+      {
+        "colspan": 1,
+        "content": "ST"
+      },
+      {
+        "colspan": 1,
+        "content": "Provider"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "S. Typhimurium"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67708850"
+      },
+      {
+        "colspan": 1,
+        "content": "Blood"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67529692"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67962944"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67775928"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67774011"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67738336"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67713042"
+      },
+      {
+        "colspan": 1,
+        "content": "Urine"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67708976"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67681882"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67625108"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67564932"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67547889"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67463497"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67459438"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67453336"
+      },
+      {
+        "colspan": 1,
+        "content": "Urine"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67447090"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67444809"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67411073"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67189086"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67187434"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67178294"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67065118"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "67064696"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "63957635"
+      },
+      {
+        "colspan": 1,
+        "content": "Blood"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "63852331"
+      },
+      {
+        "colspan": 1,
+        "content": "Blood"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "63804211"
+      },
+      {
+        "colspan": 1,
+        "content": "Blood"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SL3"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SL17"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SL18"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SL60"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SL131"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SL120"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SL256"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SL175"
+      },
+      {
+        "colspan": 1,
+        "content": "Stool"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "UKT"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "job_id": 343,
+  "job_status": "finished",
+  "paper_id": "585534_media-1",
+  "pdf_file": "media-1.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Genes",
+                "Strand",
+                "Sequence"
+              ],
+              [
+                "GAPDH",
+                "Forward Reverse",
+                "5\u2019- AAC AGC AAC TCC CAC TCT TC -3\u2019 5\u2019- CCT GTT GCT GTA GCC GTA TT -3\u2019"
+              ],
+              [
+                "CLOCK",
+                "Forward Reverse",
+                "5\u2019- CCA CCA CAG CAG TTC TTA CA -3\u2019 5\u2019- TGC TCT GTT GTA GTG GAA AGG -3\u2019"
+              ],
+              [
+                "CRY1",
+                "Forward Reverse",
+                "5\u2019- CTG AGG CAA GCA GAC TGA ATA -3\u2019 5\u2019- CCC TCC ATT CCC ATT AGA GTT AG -3\u2019"
+              ],
+              [
+                "CRY2",
+                "Forward Reverse",
+                "5\u2019- AGA GAC TAG TCG GCT CAA CA -3\u2019 5\u2019- GGA AGG GAC AGA TGC CAA TAG -3\u2019"
+              ],
+              [
+                "PER1",
+                "Forward Reverse",
+                "5\u2019- CAG TCA GAG CAG CCA TAC AA -3\u2019 5\u2019- GTC CTG GAG CAC ACA CTT AAT -3\u2019"
+              ],
+              [
+                "PER2",
+                "Forward Reverse",
+                "5\u2019- AAG CTG TCA CCA CCA TAG AAA G -3\u2019 5\u2019- GCA AGG AGG CTG GTT CTT ATA G -3\u2019"
+              ],
+              [
+                "BMAL1",
+                "Forward Reverse",
+                "5\u2019- CAT CAA GAC GAC ATA GGA CAC C -3\u2019 5\u2019- CAT CGA CTT CGT AGC GTG ATA A -3\u2019"
+              ],
+              [
+                "gp49B",
+                "Forward",
+                "5\u2019- ATT CTG GAA CCC AGG ACT GC -3\u2019"
+              ],
+              [
+                "(LILRB4a)",
+                "Reverse",
+                "5\u2019- GGA ACC CTG ACA CCA GGT AA -3\u2019"
+              ],
+              [
+                "CXCL5",
+                "Forward Reverse",
+                "5\u2019- CCC TTC CTC AGT CAT AGC CG -3\u2019 5\u2019- CTA TGA CTT CCA CCG TAG GGC -3\u2019"
+              ],
+              [
+                "CCL12",
+                "Forward Reverse",
+                "5\u2019- GCT ACC ACC ATC AGT CCT CAG -3\u2019 5\u2019- GAC ACT GGC TGC TTG TGA TTC -3\u2019"
+              ],
+              [
+                "CCL28",
+                "Forward Reverse",
+                "5\u2019- CAA GCA GGG CTC ACA CTC AT -3\u2019 5\u2019- GGC CAT GGG AAG TAT GGC TT -3\u2019"
+              ],
+              [
+                "IL17b",
+                "Forward Reverse",
+                "5\u2019- GGA CTG GCC GCA CAG C -3\u2019 5\u2019- GCC TCC CTT GCC CTT TTC TT -3\u2019"
+              ],
+              [
+                "IL10",
+                "Forward Reverse",
+                "5\u2019- AGG CGC TGT CAT CGA TTT CT -3\u2019 5\u2019- ATG GCC TTG TAG ACA CCT TGG -3\u2019"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Target",
+                "Isotype",
+                "Conjugate",
+                "Clone",
+                "Company",
+                "Cat #"
+              ],
+              [
+                "ki67",
+                "Rabbit IgG",
+                "Unconjugated",
+                "-",
+                "Abclonal",
+                "A16919"
+              ],
+              [
+                "CD4",
+                "Rat IgG2b, \u03ba",
+                "Alexa Fluor\u00ae 700",
+                "GK1.5",
+                "BioLegend",
+                "100429"
+              ],
+              [
+                "CD8a",
+                "Rat IgG2a, \u03ba",
+                "Pacific Blue\u2122",
+                "53-6.7",
+                "BioLegend",
+                "100728"
+              ],
+              [
+                "CD86",
+                "Rat IgG2a, \u03ba",
+                "Alexa Fluor\u00ae 488",
+                "GL-1",
+                "BioLegend",
+                "105017"
+              ],
+              [
+                "CD163",
+                "Rat IgG2a, \u03ba",
+                "PE",
+                "S15049F",
+                "BioLegend",
+                "156703"
+              ],
+              [
+                "CD45",
+                "Rat IgG2b, \u03ba",
+                "Alexa Fluor\u00ae 594",
+                "30-F11",
+                "BioLegend",
+                "103144"
+              ],
+              [
+                "FOXP3",
+                "Mouse IgG1, \u03ba",
+                "Alexa Fluor\u00ae 488",
+                "150D",
+                "BioLegend",
+                "320011"
+              ],
+              [
+                "LILRB4",
+                "Rabbit IgG",
+                "Unconjugated",
+                "-",
+                "Abclonal",
+                "A7073"
+              ]
+            ]
+          }
+        ],
+        "page": 11
+      }
+    ]
+  }
+}

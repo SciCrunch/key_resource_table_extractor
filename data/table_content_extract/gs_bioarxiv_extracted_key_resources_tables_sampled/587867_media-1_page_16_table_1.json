@@ -1,0 +1,691 @@
+{
+  "name": "587867_media-1_page_16_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 8,
+        "content": "Table S4. Antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Primary Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Application"
+      },
+      {
+        "colspan": 1,
+        "content": "Species"
+      },
+      {
+        "colspan": 1,
+        "content": "Supplier"
+      },
+      {
+        "colspan": 1,
+        "content": "Product #"
+      },
+      {
+        "colspan": 1,
+        "content": "Clone #"
+      },
+      {
+        "colspan": 1,
+        "content": "Lot #"
+      },
+      {
+        "colspan": 1,
+        "content": "Working dilution"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SP110"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      },
+      {
+        "colspan": 1,
+        "content": "Ms"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz Biotech"
+      },
+      {
+        "colspan": 1,
+        "content": "sc-376741"
+      },
+      {
+        "colspan": 1,
+        "content": "Monoclonal B-10"
+      },
+      {
+        "colspan": 1,
+        "content": "K0116"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SP100"
+      },
+      {
+        "colspan": 1,
+        "content": "WB, IF, ChIP"
+      },
+      {
+        "colspan": 1,
+        "content": "Rb"
+      },
+      {
+        "colspan": 1,
+        "content": "Novus Biologicals"
+      },
+      {
+        "colspan": 1,
+        "content": "NBP1-86060"
+      },
+      {
+        "colspan": 1,
+        "content": "Polyclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "A106767"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 (WB), 1:200 (IF)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FLAG"
+      },
+      {
+        "colspan": 1,
+        "content": "WB, IP"
+      },
+      {
+        "colspan": 1,
+        "content": "Ms"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "F3165"
+      },
+      {
+        "colspan": 1,
+        "content": "Monoclonal M2"
+      },
+      {
+        "colspan": 1,
+        "content": "SLCQ9255"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 (WB)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HA"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      },
+      {
+        "colspan": 1,
+        "content": "Rb"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signalling Technologies"
+      },
+      {
+        "colspan": 1,
+        "content": "3724"
+      },
+      {
+        "colspan": 1,
+        "content": "Monoclonal C29F4"
+      },
+      {
+        "colspan": 1,
+        "content": "11"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 (WB)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "P-KAP1 (S824)"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      },
+      {
+        "colspan": 1,
+        "content": "Rb"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab70369"
+      },
+      {
+        "colspan": 1,
+        "content": "Polyclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "GR3316128-13"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cyclin B1"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      },
+      {
+        "colspan": 1,
+        "content": "Rb"
+      },
+      {
+        "colspan": 1,
+        "content": "R&D Systems"
+      },
+      {
+        "colspan": 1,
+        "content": "MAB60001"
+      },
+      {
+        "colspan": 1,
+        "content": "Monoclonal 2061D"
+      },
+      {
+        "colspan": 1,
+        "content": "CKJC022109A"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GAPDH"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      },
+      {
+        "colspan": 1,
+        "content": "Rb"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signalling Technologies"
+      },
+      {
+        "colspan": 1,
+        "content": "2118"
+      },
+      {
+        "colspan": 1,
+        "content": "Monoclonal 14C10"
+      },
+      {
+        "colspan": 1,
+        "content": "16"
+      },
+      {
+        "colspan": 1,
+        "content": "1:2000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GAPDH"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      },
+      {
+        "colspan": 1,
+        "content": "Ms"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signalling Technologies"
+      },
+      {
+        "colspan": 1,
+        "content": "97166"
+      },
+      {
+        "colspan": 1,
+        "content": "Monoclonal D4C6R"
+      },
+      {
+        "colspan": 1,
+        "content": "7"
+      },
+      {
+        "colspan": 1,
+        "content": "1:2000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SOX9"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      },
+      {
+        "colspan": 1,
+        "content": "Rb"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab185966"
+      },
+      {
+        "colspan": 1,
+        "content": "Monoclonal EPR14335-78"
+      },
+      {
+        "colspan": 1,
+        "content": "GR3183675-1"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "53BP1"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "Rb"
+      },
+      {
+        "colspan": 1,
+        "content": "Novus Biologicals"
+      },
+      {
+        "colspan": 1,
+        "content": "NB100-304"
+      },
+      {
+        "colspan": 1,
+        "content": "Polyclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "D148226"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PML"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "Ms"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz"
+      },
+      {
+        "colspan": 1,
+        "content": "sc-966"
+      },
+      {
+        "colspan": 1,
+        "content": "Monoclonal PG-M3"
+      },
+      {
+        "colspan": 1,
+        "content": "G1122"
+      },
+      {
+        "colspan": 1,
+        "content": "1:200"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit IgG isotype control"
+      },
+      {
+        "colspan": 1,
+        "content": "ChIP"
+      },
+      {
+        "colspan": 1,
+        "content": "Rb"
+      },
+      {
+        "colspan": 1,
+        "content": "Novus Biologicals"
+      },
+      {
+        "colspan": 1,
+        "content": "NBP2-24891"
+      },
+      {
+        "colspan": 1,
+        "content": "Polyclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "n/a"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Secondary Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Application"
+      },
+      {
+        "colspan": 1,
+        "content": "Species"
+      },
+      {
+        "colspan": 1,
+        "content": "Supplier"
+      },
+      {
+        "colspan": 1,
+        "content": "Product #"
+      },
+      {
+        "colspan": 1,
+        "content": "Clone #"
+      },
+      {
+        "colspan": 1,
+        "content": "Lot #"
+      },
+      {
+        "colspan": 1,
+        "content": "Working dilution"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IRDye 800CW anti-Rabbit IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      },
+      {
+        "colspan": 1,
+        "content": "Gt"
+      },
+      {
+        "colspan": 1,
+        "content": "LI-COR Biosciences"
+      },
+      {
+        "colspan": 1,
+        "content": "926-32213"
+      },
+      {
+        "colspan": 1,
+        "content": "Polyclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "D30207-15"
+      },
+      {
+        "colspan": 1,
+        "content": "1:10000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IRDye 800CW anti-Mouse IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      },
+      {
+        "colspan": 1,
+        "content": "Gt"
+      },
+      {
+        "colspan": 1,
+        "content": "LI-COR Biosciences"
+      },
+      {
+        "colspan": 1,
+        "content": "926-32212"
+      },
+      {
+        "colspan": 1,
+        "content": "Polyclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "D30124-05"
+      },
+      {
+        "colspan": 1,
+        "content": "1:10000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IRDye 680RD anti-Rabbit IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      },
+      {
+        "colspan": 1,
+        "content": "Gt"
+      },
+      {
+        "colspan": 1,
+        "content": "LI-COR Biosciences"
+      },
+      {
+        "colspan": 1,
+        "content": "926-68073"
+      },
+      {
+        "colspan": 1,
+        "content": "Polyclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "D30328-05"
+      },
+      {
+        "colspan": 1,
+        "content": "1:10000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IRDye 680RD anti-Mouse IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      },
+      {
+        "colspan": 1,
+        "content": "Gt"
+      },
+      {
+        "colspan": 1,
+        "content": "LI-COR Biosciences"
+      },
+      {
+        "colspan": 1,
+        "content": "926-68072"
+      },
+      {
+        "colspan": 1,
+        "content": "Polyclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "D20503-05"
+      },
+      {
+        "colspan": 1,
+        "content": "1:10000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-rabbit Alexa Fluor Plus 405"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "Gt"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "A48254"
+      },
+      {
+        "colspan": 1,
+        "content": "Polyclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "YD369487"
+      },
+      {
+        "colspan": 1,
+        "content": "1:10000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-mouse Alexa Fluor 568"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "Gt"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "A11004"
+      },
+      {
+        "colspan": 1,
+        "content": "Polyclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "2447869"
+      },
+      {
+        "colspan": 1,
+        "content": "1:10000"
+      }
+    ]
+  ]
+}

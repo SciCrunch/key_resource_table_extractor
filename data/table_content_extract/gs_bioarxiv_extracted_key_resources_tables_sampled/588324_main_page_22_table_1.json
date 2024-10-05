@@ -1,0 +1,465 @@
+{
+  "name": "588324_main_page_22_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Dithiothreitol (DTT)"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#R0861"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bromophenol Blue "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific Chemicals"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#A18469-18 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Glycerol "
+      },
+      {
+        "colspan": 1,
+        "content": "USBiological Life Sciences"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#G8145 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RNaseOUT"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#10777019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p-Coumaric acid"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#C9008"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Luminol"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#A8511"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Acetic Acid, Glacial"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# A38-212"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "EDTA "
+      },
+      {
+        "colspan": 1,
+        "content": "USBiological Life Sciences"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#E2210 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Paraformaldehyde "
+      },
+      {
+        "colspan": 1,
+        "content": "Electron Microscopy Sciences"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#15713 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "VECTASHEILD mounting medium "
+      },
+      {
+        "colspan": 1,
+        "content": "Vector Laboratories Inc."
+      },
+      {
+        "colspan": 1,
+        "content": "REF#H-1000 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Normal Goat Serum  "
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson ImmunoResearch Laboratories"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:AB_2336990  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Diethyl Ether Anhydrous (stabilized with BHT) "
+      },
+      {
+        "colspan": 1,
+        "content": "Tokyo Chemical Industry (TCI) America"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#D3497 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Halocarbon oil 27"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#H8773"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Critical commercial assays"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DNase I, Amplification Grade"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#18068015"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "M-MLV Reverse Transcriptase"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#28025013"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Taq DNA Polymerase (1000U)"
+      },
+      {
+        "colspan": 1,
+        "content": "Qiagen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 201205"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "QuantiTect SYBR Green PCR Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Qiagen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 204145"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MicroAmp\u2122 Fast Optical 96-Well Reaction Plate with Barcode, 0.1 ml"
+      },
+      {
+        "colspan": 1,
+        "content": "Applied Biosystems"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 4346906"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MicroAmp\u2122 Optical Adhesive Film"
+      },
+      {
+        "colspan": 1,
+        "content": "Applied Biosystems"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 4311971"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "4\u201320% Mini-PROTEAN\u00ae TGX Stain-Free\u2122 Protein Gels"
+      },
+      {
+        "colspan": 1,
+        "content": "Bio-Rad "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#4568093 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Nitrocellulose Membrane, 0.2 \u00b5m"
+      },
+      {
+        "colspan": 1,
+        "content": "Bio-Rad"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#1620112"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "iScript Reverse Transcriptase Supermix"
+      },
+      {
+        "colspan": 1,
+        "content": "Bio-Rad"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#1708841"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Phusion High Fidelity PCR"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#F530S"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Pierce BCA Protein Assay Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#23225"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SuperFrost Plus slides"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 12-550-15"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Il90p-Experimental models: Organisms/Strains"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster: w-;;Nab2pex41  (Control);"
+      },
+      {
+        "colspan": 1,
+        "content": "(Pak et al., 2011)"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster: w-;;Nab2ex3  (Nab2null);"
+      },
+      {
+        "colspan": 1,
+        "content": "(Pak et al., 2011)"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster: w-;;Mettl3null;"
+      },
+      {
+        "colspan": 1,
+        "content": "(Lence et al., 2016)"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster:YT521-B\u2206N"
+      },
+      {
+        "colspan": 1,
+        "content": "(Lence et al., 2016)"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster: Ythdf\u2206YTH (Ythdf0) "
+      },
+      {
+        "colspan": 1,
+        "content": "(Worpenberg et al., 2021)"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster:w1118;;Df(3R)BSC655 (ythdf deficiency)  "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Drosophila Stock Company"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC:26507  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster: y1w67c23;UAS-mcd8::GFP, 201Y-Gal4;; "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Drosophila Stock Company"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC:64296 "
+      }
+    ]
+  ]
+}

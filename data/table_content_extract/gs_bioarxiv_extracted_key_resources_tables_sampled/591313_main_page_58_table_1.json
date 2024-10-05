@@ -1,0 +1,389 @@
+{
+  "name": "591313_main_page_58_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Insert: gib_pT12_hilD_f / gib_pT12_hilD_r"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB7649  "
+      },
+      {
+        "colspan": 1,
+        "content": "pT10-hilC. Vector: gib_uni_pT12_f / gib_uni_pT12_r Insert: gib_pT12_hilC_f / gib_pT12_hilC_r"
+      },
+      {
+        "colspan": 1,
+        "content": "This study  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB7648  "
+      },
+      {
+        "colspan": 1,
+        "content": "pT10-rtsA. Vector: gib_uni_pT12_f / gib_uni_pT12_r Insert: gib_pT12_rtsA_f / gib_pT12_rtsA_r"
+      },
+      {
+        "colspan": 1,
+        "content": "This study  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8048   "
+      },
+      {
+        "colspan": 1,
+        "content": "\u0394rhaRS-Prha::PhilD-hilD-PhilA-sfGFP Vector: gib_uni_pT12_f / gib_uni_pT10_rep_r Insert: gib_PhilD_pT10_f / gib_sfGFP_pT10_rrnB_r on gDNA of MIB5600"
+      },
+      {
+        "colspan": 1,
+        "content": "This study   "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Plasmids derived from pMIB8048 made by QuikChange"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8306 "
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-PhilA-sfGFP. gib_PhilA_rep_f / gib_rep_PhilA_r"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8049"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD Q31A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8056"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD I42A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8057"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD L45A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8058"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD Y46A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8059"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD S48A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8050"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD T51A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8060"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD V53A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8501"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD L60A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8508"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD L79A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8513"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD V85A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8502"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD V87A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8509"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD L89A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8503"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD F98A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8504"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD I100A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8510"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD L101A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8301"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD E102A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8505"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD Y212A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8515"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD I214A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8516"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD I215A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8517"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD S216A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8518"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD S217A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pMIB8506"
+      },
+      {
+        "colspan": 1,
+        "content": "PhilD-hilD N260A-PhilA-sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ]
+  ]
+}

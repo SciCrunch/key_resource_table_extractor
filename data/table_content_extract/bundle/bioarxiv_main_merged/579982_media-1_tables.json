@@ -1,0 +1,142 @@
+{
+  "paper_id": "579982_media-1",
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Antibody",
+                "Company",
+                "Catalog#",
+                "Dilution",
+                "Species"
+              ],
+              [
+                "tdTomato (tdTom)",
+                "LifeSpan Bio",
+                "LS\u2011C340696",
+                "1:250 (IF); 1:1500 (IHC)",
+                "Anti-Goat"
+              ],
+              [
+                "Pou2f3",
+                "Santa Cruz Biotechnology",
+                "sc-330",
+                "1:100",
+                "Anti-Rabbit"
+              ],
+              [
+                "Dclk1",
+                "Abcam",
+                "ab31704",
+                "1:1000 (IF&IHC)",
+                "Anti-Rabbit"
+              ],
+              [
+                "Vav1",
+                "Cell Signaling",
+                "2502s",
+                "1:200",
+                "Anti-Rabbit"
+              ],
+              [
+                "Cox1",
+                "Invitrogen",
+                "MA5-32259",
+                "1:1000",
+                "Anti-Rabbit"
+              ],
+              [
+                "Synaptophysin (Syp)",
+                "Sigma",
+                "336R-95",
+                "1:200 (IF/IHC)",
+                "Anti-Rabbit"
+              ],
+              [
+                "Gkn1",
+                "Invitrogen",
+                "PA5-47913",
+                "1:100",
+                "Anti-Sheep"
+              ],
+              [
+                "Lectin GS-II",
+                "Invitrogen",
+                "L21415",
+                "1:100",
+                "488 Conjugated"
+              ],
+              [
+                "Glucagon (Gcg)",
+                "Cell Signaling",
+                "2760s",
+                "1:100",
+                "Anti-Rabbit"
+              ],
+              [
+                "Insulin (Ins)",
+                "Novus Biological",
+                "MAB1417",
+                "1:150",
+                "Anti-Rat"
+              ],
+              [
+                "Somatostatin (Sst)",
+                "Phoenix Pharmaceuticals",
+                "h-060-03",
+                "1:100",
+                "Anti-Guinea Pig"
+              ],
+              [
+                "Ghrelin (Ghrl)",
+                "Cell Signaling",
+                "31865s",
+                "1:100",
+                "Anti-Rabbit"
+              ],
+              [
+                "Pancreatic Polypeptide (Pp/Ppy)",
+                "Abcam",
+                "ab272732",
+                "1:200",
+                "Anti-Rabbit"
+              ],
+              [
+                "Serotonin (5-HT)",
+                "Immunostar",
+                "20080",
+                "1:250",
+                "Anti-Rabbit"
+              ],
+              [
+                "Nrxn3",
+                "Alomone Labs",
+                "ANR-033",
+                "1:100",
+                "Anti-Rabbit"
+              ],
+              [
+                "Acetylated alpha Tubulin",
+                "Sigma",
+                "T7451-100UL",
+                "1:1000",
+                "Anti-Mouse"
+              ],
+              [
+                "Wide-spectrum cytokeratin (PanCK)",
+                "Abcam",
+                "ab9377",
+                "1:500",
+                "Anti-Rabbit"
+              ]
+            ]
+          }
+        ],
+        "page": 1
+      }
+    ]
+  }
+}

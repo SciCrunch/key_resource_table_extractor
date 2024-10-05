@@ -1,0 +1,30 @@
+{
+  "headers": [],
+  "notes": "19 F-NMR (DMSO-D6), δ: -61.76 (s, 3F). UPLC-MS: Rt 1.81 (100%) MS (ESI) + : 370.1 [M+H] + . \u2022 N-",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "Obtained as white solid in 42% yield. 1 H-NMR (DMSO-D6), δ: 7.36-6.39 (m, 1H, H-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "aromatic), 7.44 (dd; J1= 8.1 Hz, J2= 1.0 Hz, 1H, H-aromatic), 7.52-7.55 (m, 1H, H-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "aromatic), 7.85 (dd, J1= 7.8 Hz, J2= 1.4 Hz, 1H, H-aromatic), 7.88-7.91 (m, 4H, H-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "aromatic), 10-73 (bs, 1H, NH). 13 C-NMR (DMSO-D6), δ: 123.0, 126.2, 126.9, 128.3,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "129.9, 132.5 (CH, C-aromatic), 133.2 (d, J= 37.7 Hz, C) 117.0, 122.6, 124.8, 135.3, 143.0"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(C-aromatic)."
+    }]
+  ]
+}

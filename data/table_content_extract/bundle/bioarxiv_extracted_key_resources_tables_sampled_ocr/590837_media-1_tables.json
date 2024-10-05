@@ -1,0 +1,589 @@
+{
+  "paper_id": "590837_media-1",
+  "result": {
+    "pages": [
+      {
+        "page": 1,
+        "tables": [
+          {
+            "rows": [
+              [
+                "REAGENT OF NEOVURVLE",
+                "oVURLE",
+                "IVENITE"
+              ],
+              [
+                "Antibodies and Labeling reagents",
+                "",
+                ""
+              ],
+              [
+                "Normal Donkey Serum",
+                "Equitech",
+                "DS05"
+              ],
+              [
+                "Fc Receptor Blocker (1:50)",
+                "Biolegend",
+                "101319"
+              ],
+              [
+                "Thioflavin S",
+                "Sigma-Aldrich",
+                "76264-656"
+              ],
+              [
+                "Amylo-Glo RTD",
+                "VWR",
+                "TR-300-AG"
+              ],
+              [
+                "DAPI DNA staining solution",
+                "Abcam",
+                "ab228549"
+              ],
+              [
+                "SYTO Green nucleic acid stain",
+                "ThermoFisher Scientific",
+                "$7575"
+              ],
+              [
+                "P505 SYK inhibitor (PRT062607)",
+                "MedChemExpress",
+                "HY-15323"
+              ],
+              [
+                "",
+                "ee",
+                "Pe"
+              ],
+              [
+                "PRIMARY ANTIBODIES",
+                "",
+                "pe"
+              ],
+              [
+                "Mouse anti-Cx3Cr1, PE conj. (1:10)",
+                "R&D systems",
+                "FAB5825P."
+              ],
+              [
+                "Mouse anti-PSD95 (1:100)",
+                "Millipore-Sigma",
+                "MABN68"
+              ],
+              [
+                "Rat anti-CD11b, BV605 conj. (1:100)",
+                "Biolegend",
+                "101237"
+              ],
+              [
+                "Rat anti-mouse, Total-seq, Hashtag B-0301",
+                " Biolegend",
+                " 155831"
+              ],
+              [
+                "Rat anti-mouse, Total-seq, Hashtag B-0302",
+                "Biolegend",
+                "155833,"
+              ],
+              [
+                "Rat anti-mouse, Total-seq, Hashtag B-0303",
+                "Biolegend",
+                "155835"
+              ],
+              [
+                "Rat anti-mouse, Total-seq, Hashtag B-0304",
+                "Biolegend",
+                "155837"
+              ],
+              [
+                "Rat anti-mouse, Total-seg, Hashtag B-0305",
+                "Biolegend",
+                "155839"
+              ],
+              [
+                "Rat anti-mouse, Total-seq, Hashtag B-0306",
+                "Biolegend",
+                "155841"
+              ],
+              [
+                "Rabbit anti-lba1, Alexa 647 conj. (1:100)",
+                "Cell Signaling",
+                "78060S"
+              ],
+              [
+                "Mouse anti-AB, Alexa 488 conj. (1:100)",
+                "Biolegend",
+                "803013"
+              ],
+              [
+                "Goat anti-lba1 (1:500)",
+                "ThermoFisher Scientific",
+                "PA5-18039"
+              ],
+              [
+                "Goat anti-human ACE (1:500)",
+                "ThermoFisher Scientific",
+                "PA5-47964"
+              ],
+              [
+                "Rabbit anti-ACE (1:500)",
+                "Abcam",
+                "ab75762"
+              ],
+              [
+                "Rabbit anti-AB1-42 (1:250)",
+                "Abcam",
+                "ab201060"
+              ],
+              [
+                "Rabbit anti-Iba1 (1:500)",
+                "Wako",
+                "016-20001"
+              ],
+              [
+                "Rabbit anti-CD68 (1:500)",
+                "Abcam",
+                "ab125212"
+              ],
+              [
+                "Rabbit anti-C1q (1:1000)",
+                "Abcam",
+                "Ab182451"
+              ],
+              [
+                "Rabbit anti-pSyk, Y352 (1:200)",
+                "Cell Signaling",
+                "CST2717"
+              ],
+              [
+                "Rabbit anti-NeuN, Alexa 647 conj. (1:100)",
+                "Abcam",
+                "ab190565"
+              ],
+              [
+                "Rabbit anti-Sox10, Alexa 647 conj. (1:100)",
+                "Abcam",
+                "ab270151"
+              ],
+              [
+                "Rabbit anti-Sox9, Alexa 488 conj. (1:100)",
+                "Abcam",
+                "ab196450"
+              ],
+              [
+                "Guinea Pig anti-vGLUT1 (1:1000)",
+                "Millipore-Sigma",
+                "AB5905"
+              ],
+              [
+                "Guinea Pig antiNeuN (1:1000) }3}3\u00a9",
+                "Millipore-Sigma",
+                "ABNSO"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 2,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Tamoxifen",
+                " Sigma-Aldrich ",
+                " T5648"
+              ],
+              [
+                "4-hydroxy Tamoxifen (4-OHT)",
+                "Sigma-Aldrich",
+                "H7904"
+              ],
+              [
+                "AB1-42 peptide",
+                "Anaspec",
+                "AS-20276"
+              ],
+              [
+                "ABi-42, Hylite647, con. i ti itstst\u2014s",
+                "Anaspec",
+                "AS-64161"
+              ],
+              [
+                "RNase Inhibitor",
+                "New England Biolabs",
+                "M0314S"
+              ],
+              [
+                "DMEM, high glucose medium",
+                "ThermoFisher Scientific",
+                "11965118"
+              ],
+              [
+                "HBSS medium",
+                "ThermoFisher Scientific",
+                "14175095"
+              ],
+              [
+                "Recombinant murine GM-CSF",
+                "PeproTech",
+                "315-03."
+              ],
+              [
+                "Recombinant murine M-CSF",
+                "",
+                "315-02"
+              ],
+              [
+                "G418 Sulfate (Geneticin)",
+                "ThermoFisher Scientific",
+                "11811098"
+              ],
+              [
+                "4\u2019 6-Diamidino-2-phenylindole (DAPI)",
+                "Life Technologies",
+                "D21490"
+              ],
+              [
+                "MACS buffer",
+                "Miltenyi",
+                "130-092-987"
+              ],
+              [
+                "RIPA buffer",
+                "ThermoFisher Scientific",
+                "32955"
+              ],
+              [
+                "BCA Protein Assay",
+                "ThermoFisher Scientific",
+                "23228"
+              ],
+              [
+                "Triton X-100 -",
+                "Sigma-Aldrich",
+                "X100"
+              ],
+              [
+                "SDS",
+                "Fisher Scientific",
+                "BP166"
+              ],
+              [
+                "EDTA",
+                "Fisher Scientific",
+                "$311"
+              ],
+              [
+                "DMSO",
+                "Sigma-Aldrich",
+                "D1435"
+              ],
+              [
+                "Acetone",
+                "Sigma-Aldrich",
+                "1006801"
+              ],
+              [
+                "ProLong Gold, hard set mounting media",
+                "ThermoFisher Scientific",
+                "P36930"
+              ],
+              [
+                "Percoll Density Gradient Media",
+                "Fisher Scientific",
+                "45001748"
+              ],
+              [
+                "DNase ",
+                "ThermoFisher Scientific",
+                "EN0521"
+              ],
+              [
+                "TLCK Trypsin Inhibitor",
+                "Santa Cruz\nBiotechnology",
+                " sc-201296"
+              ],
+              [
+                "HEPES",
+                "Thermofisher Scientific",
+                "15630080"
+              ],
+              [
+                "Paraformaldehyde",
+                "Millipore-Sigma",
+                "P6148"
+              ],
+              [
+                "Ketamine (100 mg/mL\u2019",
+                "MWI Animal Health",
+                "501072"
+              ],
+              [
+                "Xylazine (20 mg/mL)",
+                "MWI Animal Health",
+                "003437"
+              ],
+              [
+                "Protease and phosphatase inhibitor",
+                "",
+                "1836153"
+              ],
+              [
+                "pHrodo-Red Zymosan bioparticles",
+                "Thermofisher Scientific",
+                "P35364"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 3,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Murine BAC plasmid = } } \u2014 ",
+                "BACPAC Genomics",
+                "RP23-401D9"
+              ],
+              [
+                "",
+                "POD",
+                ""
+              ],
+              [
+                "GACTAGAGCTTGCGGAACCCTT",
+                "IDT DNA",
+                "PR1"
+              ],
+              [
+                "GGAGCCATTCAGTGTTCACTATGT",
+                "IDT DNA",
+                "PR2"
+              ],
+              [
+                "GGAGAGGCGTTCAGGAAGATTATGG",
+                "IDT DNA",
+                "PR3"
+              ],
+              [
+                "CAGCTACCTTTACACACCATTGCACC",
+                "IDT DNA",
+                "PR4"
+              ],
+              [
+                "CCACATCAAGTTCTATCTAGGA",
+                "IDT DNA",
+                "OT2138"
+              ],
+              [
+                "TAGCAAACAAGAGACCACAT",
+                "IDT DNA",
+                "OT2139"
+              ],
+              [
+                "GTGTCTCTCACTCG",
+                "IDT DNA",
+                "OT2141"
+              ],
+              [
+                "CACGTGATCTGGTTTGCTGC",
+                "IDT DNA",
+                "OT2011"
+              ],
+              [
+                "CACCAGACCGAACGTGAA",
+                "IDT DNA",
+                "OT2012"
+              ],
+              [
+                "GACCGACGATGAAGCATG.",
+                "TINT DNA",
+                "012013"
+              ],
+              [
+                "GACCGACGATGAAGCATG",
+                "IDT DNA",
+                "0712013"
+              ],
+              [
+                "CGGGCCTCTICGCTATIAG.",
+                "TIDTDNA.",
+                "O12274"
+              ],
+              [
+                "CTCTGTAAACACATCACAGCATAAA",
+                "IDT DNA",
+                "OT2275"
+              ],
+              [
+                "eee a EE A es,\nMALRARRARTRAARTCRCAAAR",
+                "eee\nINT DALA.",
+                "Ne Se\nNYToA9.7A"
+              ],
+              [
+                "GACAGGAG I GAAGICOCAAAG",
+                "WT DNA",
+                "OlZ2fo"
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "a",
+                "MsWTA"
+              ],
+              [
+                "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 _\u2014_\u2014_\u2014\u2014@o@QGVwRa\u2014Ka_\u2014_\u2014\nDIG-Hich Prime DNA Iaheling kit",
+                "Millipore Siama",
+                "1174583299010"
+              ],
+              [
+                "DIG-high Frime UNA labeling Kit",
+                "Millipore sigma",
+                "T1f490529 10)"
+              ],
+              [
+                "DiG-Nucleic Acid Detection kit",
+                "Roche 7",
+                "11175041910"
+              ],
+              [
+                "DIG-Nucieic Acid Vetection Kit",
+                "mRocne",
+                "TV FOUSTITU"
+              ],
+              [
+                "pHrodo-Red_ succinimidvl ester",
+                "Thermofisher Scientific",
+                "P36600."
+              ],
+              [
+                "prrogo-ned, succinimiay! ester",
+                "thnermownsner oclentiic",
+                "FoooUU"
+              ],
+              [
+                "Nuclei EZ Nuclei Isolation kit",
+                "Millipore-Sigma",
+                "NUC101-1KT"
+              ],
+              [
+                "INUCTE! EL INUCICL ISUIGUOlT RIL\nrr ae a",
+                "NEN POTS olga\na",
+                "INYEY IVETE\nTVALAAER A"
+              ],
+              [
+                "V-FLEA Wouse UYLOKINEG Assay KIL",
+                "NMESO oCale VISCOVEry",
+                "KRloZ4oo0U-1"
+              ],
+              [
+                "V-PLEX AB Peptide Panel (6E10) kit",
+                "Meso Scale Discovery",
+                "K15200E-1"
+              ],
+              [
+                "VITOTTUTT SEN UIP\nALL LLL A == On bP GD A",
+                "IVA VENOMecs\nSa",
+                "Wyle\naA"
+              ],
+              [
+                "Chromium NEXT GEM 3\u2019 Kit (v.3.1)",
+                "10X Genomics",
+                "1000269"
+              ],
+              [
+                "3\u2019 Feature Bar Code Kit",
+                "10X Genomic",
+                "1000262"
+              ],
+              [
+                "Dual Index Kit NT Set A",
+                "140X Genomics",
+                "AN0N0242"
+              ],
+              [
+                "",
+                "TT...",
+                ""
+              ],
+              [
+                "",
+                "a:",
+                ""
+              ],
+              [
+                "Experimental models: Cell Lines",
+                "",
+                ""
+              ],
+              [
+                "Primary murine microglia",
+                "",
+                "N/A"
+              ],
+              [
+                "Murine ESC",
+                "Cyagan, Santa Clara,\nCA",
+                "MUBES-01001"
+              ],
+              [
+                "",
+                "eb",
+                ""
+              ],
+              [
+                "Experimental models: Organisms/strains",
+                "a",
+                ""
+              ],
+              [
+                "Rosa-hACE-flox mice",
+                "This paper",
+                "N/A."
+              ],
+              [
+                "RACE mice",
+                "This paper",
+                "N/A."
+              ],
+              [
+                "Cx3Cr1-CreERT2 mice",
+                "Jackson Laboratories",
+                "020940"
+              ],
+              [
+                "5xFAD (Tg6799) mice",
+                "Jackson Laboratories",
+                "008730"
+              ],
+              [
+                "C57BL/6J mice",
+                "Jackson Laboratories",
+                "000664"
+              ],
+              [
+                "",
+                "fo",
+                ""
+              ],
+              [
+                "Deposited Data",
+                "",
+                ""
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

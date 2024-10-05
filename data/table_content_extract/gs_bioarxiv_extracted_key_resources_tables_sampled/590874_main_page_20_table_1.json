@@ -1,0 +1,425 @@
+{
+  "name": "590874_main_page_20_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "UASmCD8GFP (X) "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC 5136 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "UASmCD8GFP (2nd) "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC 5137 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "UAS-H2B::YFP (2nd)"
+      },
+      {
+        "colspan": 1,
+        "content": " A. Hidalgo"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "elavLexA (2nd)"
+      },
+      {
+        "colspan": 1,
+        "content": " Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": " BDSC 52676 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "LexAop NLStomato (2nd)"
+      },
+      {
+        "colspan": 1,
+        "content": " Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": " BDSC 66690 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "UAS TNT (2nd)"
+      },
+      {
+        "colspan": 1,
+        "content": " J.J. Hodge"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "UAS TrpA1 (3rd)"
+      },
+      {
+        "colspan": 1,
+        "content": " Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": " BDSC 26264 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "UASFlybow 1.1 (myrGFP, 2nd)"
+      },
+      {
+        "colspan": 1,
+        "content": " Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": " BDSC 35537 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "UAS-NaCh::BacGFP (3rd)"
+      },
+      {
+        "colspan": 1,
+        "content": " Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": " BDSC9467 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "UAS reaper/FM7;UAS hid/CyO "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC 5823 BDSC65403"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "UAS FRTstopFRT GFP/CyO"
+      },
+      {
+        "colspan": 1,
+        "content": "B. Dickson"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "UAS FRTstopFRT TNT/CyO"
+      },
+      {
+        "colspan": 1,
+        "content": "B. Dickson"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "UAS FRTstopFRT TrpA1/CyO"
+      },
+      {
+        "colspan": 1,
+        "content": "B. Dickson"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "UAS FRTstopFRT mSP (3rd)"
+      },
+      {
+        "colspan": 1,
+        "content": " This study"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "UAS dicer2; UAS SPR RNAi (X, 3rd)"
+      },
+      {
+        "colspan": 1,
+        "content": " B. Dickson"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SPR "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC 7708 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Df(1)JC70/FM7c "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC 944 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila SPR8 AD: VT033616-p65.AD (attP40) "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC71392 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila Fru11/12 AD: VT043695-p65.AD (attP40) "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC72065 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila dsx DBD"
+      },
+      {
+        "colspan": 1,
+        "content": "S. Goodwin"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila dsx24 DBD: R42G02-GAL4.DBD (attP2) "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila SPR8 DBD: VT057286-Gal4.DBD (attP2) "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC71425 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila fru11/12 DBD: VT043695-GAL4.DBD (attP2) "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC72788 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila FD6 DBD: VT003280-GAL4.DBD (attP2) "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC75877 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila ppk DBD: ppk-GAL4.DBD (VK00027, 89E11)"
+      },
+      {
+        "colspan": 1,
+        "content": "W. J. Joiner"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila SPR12 AD: VT057292-p65.AD (attP40) "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC72924 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "UAS-myrGFP QUAS-mtdTomato-3xHA; trans-Tango "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC 95317 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "QUAS-mtdTomato-3xHA; retro-Tango"
+      },
+      {
+        "colspan": 1,
+        "content": "G. Barnea"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila: fru1 GAL4: R23C03-GAL4 (attP2) "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC 49021 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Drosophila: fru2 GAL4, R22H11-GAL4 (attP2) "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Stock Centre"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC 48043 "
+      }
+    ]
+  ]
+}

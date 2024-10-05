@@ -1,0 +1,339 @@
+{
+  "name": "588206_media-1_page_10_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "PE Mouse Anti-TCF-7/TCF-1 Antibody  "
+      },
+      {
+        "colspan": 1,
+        "content": "BD Biosciences  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 564217; RRID:AB_2687845"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rat Anti-Insulin Monoclonal antibody  "
+      },
+      {
+        "colspan": 1,
+        "content": "R&D Systems  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# MAB1417; RRID:AB_2126533"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IGF1 Monoclonal Antibody  "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# MA5-23772; RRID:AB_2609723"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse Anti-Human IGF1R Monoclonal antibody  "
+      },
+      {
+        "colspan": 1,
+        "content": "R&D Systems  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# MAB391; RRID:AB_2122409"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-\u03b2-Actin Antibody "
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# A5441; RRID:AB_476744"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-mTOR Antibody "
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 2972; RRID:AB_330978"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-phospho-mTOR "
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 2971; RRID:AB_330970"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FITC anti-mouse CD4 "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 100406; RRID:AB_312691"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PE anti-mouse FOXP3  "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 118904; RRID:AB_2936574"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FITC anti-mouse CD11c "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 117306; RRID:AB_313775"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PE anti-mouse/human CD11b "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 101208; RRID:AB_312791"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FITC anti-mouse F4/80 Recombinant  "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 157309; RRID:AB_2876535"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FITC anti-mouse Ly-6G/Ly-6C (Gr-1) "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 108405; RRID:AB_313370"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-Mouse IgG (H+L) Secondary Antibody, HRP"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 31430; RRID:AB_228307"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse Anti-Hamster IgG PE MAb  "
+      },
+      {
+        "colspan": 1,
+        "content": "R&D Systems  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# F0120; RRID:AB_1856861"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-Mouse IgG (H+L) Secondary Antibody, FITC"
+      },
+      {
+        "colspan": 1,
+        "content": "Novus Biologicals "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# NB720-F; "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Biological samples"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Type-1 diabetic patient blood   "
+      },
+      {
+        "colspan": 1,
+        "content": "Doyen Diagnostics and Research Foundation, Kolkata, India"
+      },
+      {
+        "colspan": 1,
+        "content": "NA   "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Chemicals, peptides, and recombinant proteins"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Streptozotocin"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 572201"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DMEM high glucose"
+      },
+      {
+        "colspan": 1,
+        "content": "Himedia"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# AL007,"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FBS heat inactivated"
+      },
+      {
+        "colspan": 1,
+        "content": "Himedia"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# RM10975,"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Collagenase"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# C4-BIOC,"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lymphocyte separation medium, human "
+      },
+      {
+        "colspan": 1,
+        "content": "Himedia "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# HiSep LSM 1077,"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lymphocyte separation medium, mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "Himedia"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# HiSep LSM 1084,"
+      }
+    ]
+  ]
+}

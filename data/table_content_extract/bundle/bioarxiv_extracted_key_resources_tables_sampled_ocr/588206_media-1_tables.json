@@ -1,0 +1,683 @@
+{
+  "paper_id": "588206_media-1",
+  "result": {
+    "pages": [
+      {
+        "page": 9,
+        "tables": [
+          {
+            "rows": [
+              [
+                "S1.No.",
+                "Sex",
+                "Age",
+                "Collected\nSample",
+                "Glucose\nRandom (mg/dl)",
+                "HbAIc",
+                "GAD65\nantibody",
+                "Anti-\ninsulin\nantibody"
+              ],
+              [
+                "1",
+                "MoM\nM",
+                " 27",
+                "Blood",
+                "109",
+                "fo Aq",
+                "Negative",
+                "Negative"
+              ],
+              [
+                "2",
+                "MoM\nM",
+                " 25",
+                "Blood",
+                "98",
+                "50",
+                "Negative",
+                "Negative"
+              ],
+              [
+                "3",
+                "oF\nF",
+                " 23",
+                "Blood",
+                "95",
+                "46",
+                "Negative",
+                "Negative"
+              ],
+              [
+                "4",
+                "MoM\nM",
+                " 28",
+                "Blood",
+                "102",
+                "[42",
+                "Negative",
+                "Negative"
+              ],
+              [
+                "5",
+                " F\nF",
+                "26",
+                "Blood",
+                "112",
+                "5.2",
+                "Negative",
+                "Negative"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "REAGENT or RESOURCE",
+                "SOURCE",
+                "IDENTIFIER"
+              ],
+              [
+                "Antibodies",
+                "",
+                ""
+              ],
+              [
+                "PE anti-mouse CD8a",
+                "BioLegend",
+                "Cat# 100708;\nRRIN-AB 312747"
+              ],
+              [
+                "FITC anti-mouse CD8a",
+                "BioLegend",
+                "Cat# 100705;\nRRIN-AR 219744"
+              ],
+              [
+                "APC anti-mouse CD8a",
+                "BioLegend",
+                "Cat# 100711;\nRRIN-AR 3217750"
+              ],
+              [
+                "PE-Cy5 Mouse Anti-Human CD8",
+                "BD Pharmingen",
+                "Cat#555368"
+              ],
+              [
+                "BD IMag Anti-Mouse CD8a Particles - DM",
+                "BD Bioscience",
+                "Cat# 551516"
+              ],
+              [
+                "PE anti-mouse CD28",
+                "BioLegend",
+                "Cat# 102106;\nDDIN-AD 219271"
+              ],
+              [
+                "FITC antimouseCD69 =\u201d",
+                "BioLegend",
+                "Cat# 104505;\nRPRIN-AR 212108"
+              ],
+              [
+                "APC anti-mouse CD183 (CXCR3)",
+                "BioLegend",
+                "Cat# 155906;\nRRID:AB_281407\nQ"
+              ],
+              [
+                "FITC anti-mouse CD279 (PD-1)",
+                "BioLegend",
+                "Cat# 135214;\nRRID:AB_ 106802\n38"
+              ],
+              [
+                "PE anti-mouse CD223 (LAG-3)",
+                "BioLegend",
+                "Cat# 125207;\nRRID:AB_213334\n4"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "SI.No.",
+                "Sex",
+                "Age",
+                "Collected\nSample",
+                "Glucose\nRandom (mg/dl)",
+                "HbAIc",
+                "GAD65\nantibody",
+                "Anti-\ninsulin\nantibody"
+              ],
+              [
+                "tT",
+                "*F",
+                "18",
+                "Blood",
+                "378",
+                "[79",
+                "Positive",
+                "Positive"
+              ],
+              [
+                "2",
+                "\u201cM~",
+                "19 ~*",
+                "Blood",
+                "213",
+                ". 76",
+                "Positive",
+                "Positive"
+              ],
+              [
+                "30",
+                "\u2014M~",
+                "20 ",
+                "Blood",
+                "518",
+                "12.6",
+                "Positive",
+                "Positive"
+              ],
+              [
+                "4\u201d",
+                "-F.",
+                "23",
+                "Blood",
+                "214",
+                ". 80 \u2014",
+                "Positive",
+                "Positive"
+              ],
+              [
+                "5",
+                "-F.",
+                "28",
+                "Blood",
+                "229",
+                ". 8.7",
+                "Positive",
+                "Positive"
+              ],
+              [
+                "6",
+                "\u2014M ",
+                "24 ",
+                "Blood",
+                "357",
+                "79",
+                "Positive",
+                "Positive"
+              ],
+              [
+                "7",
+                "\u2014M ",
+                "94 \u00ab",
+                "Blood",
+                "330",
+                "8.2",
+                "Positive",
+                "Positive"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 10,
+        "tables": [
+          {
+            "rows": [
+              [
+                "PE Mouse Anti-TCF-7/TCF-1 Antibody",
+                " BD Biosciences ",
+                "Cat# 564217;\nRRID:AB_268784\n5"
+              ],
+              [
+                "Rat Anti-Insulin Monoclonal antibody",
+                "R&D Systems",
+                "Cat# MAB1417;\nRRID:AB_212653\n3"
+              ],
+              [
+                "IGFl Monoclonal Antibody =\u2014\u2014\u2014\u2014s\u2014~\u2014tS",
+                "Thermo Fisher\nScientific",
+                "Cat# MA5-23772;\nRRID:AB_260972\n3"
+              ],
+              [
+                "Mouse Anti-Human IGF1R Monoclonal antibody",
+                "R&D Systems",
+                "Cat# MAB391;\nRRID:AB_212240\nrey"
+              ],
+              [
+                "Anti-B-Actin Antibody =",
+                "Sigma-Aldrich",
+                "Cat# A5441;\nRRID-AR AI6T7AZ"
+              ],
+              [
+                "Anti-mTOR Antibody",
+                "Cell Signaling\nTechnology",
+                "Cat## 2972;\nRRID:AB 330975"
+              ],
+              [
+                "Anti-phospho-mTOR",
+                "Cell Signaling\nTechnology",
+                "Cat# 2971;\nRRID:AB 33097("
+              ],
+              [
+                "FITC anti-mouse CD4",
+                "BioLegend",
+                "Cat# 100406;\nRRID:AB_ 312691"
+              ],
+              [
+                "PE anti-mouse FOXP3",
+                " BioLegend ",
+                "Cat# 118904;\nRRID:AB_293657\n4"
+              ],
+              [
+                "FITC antimouseCDIlc = \u2014\u2014ii\u2014\u2018\u2014s~S\u2122S",
+                "BioLegend",
+                "Cat# 117306;\nRPRIN-AR 212774"
+              ],
+              [
+                "PE anti-mouse/human CD11b",
+                "BioLegend",
+                "RRID:AB_313775\nCat# 101208:"
+              ],
+              [
+                "PE anti-mouse/human CDI 1b\nDYN nacet bte mene TA JOP: Danrenkownent",
+                "BioLegend\nDAT anand",
+                "Cat# 101208;\nRRID:AB_ 312791\nDattt TZ7IING."
+              ],
+              [
+                "FITC anti-mouse F4/80 Recombinant",
+                "BioLegend",
+                "Cat# 157309;\nRRID:AB_287653\n5"
+              ],
+              [
+                "FITC anti-mouse Ly-6G/Ly-6C (Gr-1)",
+                "BioLegend",
+                "Cat# 108405;\nRRID:AB 313370"
+              ],
+              [
+                "Goat anti-Mouse IgG (H+L) Secondary Antibody,\nHRP",
+                "Thermo Fisher\nScientific",
+                "Cat# 31430;\nRRID:AB _ 228307"
+              ],
+              [
+                "Mouse Anti-Hamster IgG PE MAb",
+                "R&D Systems",
+                "Cat# F0120;\nRRID:AB_ 185686\n1"
+              ],
+              [
+                "Goat anti-Mouse IgG (H+L) Secondary Antibody,\nFITC",
+                "Novus Biologicals",
+                "Cat# NB720-F;"
+              ],
+              [
+                "Biolosicalsamples 2 \u00a9",
+                "MA",
+                ""
+              ],
+              [
+                "Type-1 diabetic patient blood",
+                "Doyen Diagnostics\nand Research\nFoundation, Kolkata,\nIndia",
+                "NA"
+              ],
+              [
+                "Chemicals, peptides, and recombinant proteins",
+                "",
+                ""
+              ],
+              [
+                "Streptozotocin",
+                " Millipore ",
+                "Cat# 572201"
+              ],
+              [
+                "DMEM high glucose",
+                " Himedia ",
+                "Cat# AL007,"
+              ],
+              [
+                "FBS heatinactivated ",
+                "Himedia",
+                "Cat# RM10975,"
+              ],
+              [
+                "Collagenase",
+                " Merck ",
+                "Cat# C4-BIOC,"
+              ],
+              [
+                "Lymphocyte separation medium, human",
+                "Himedia",
+                "Cat# HiSep LSM\n1077,"
+              ],
+              [
+                "Lymphocyte separation medium, mouse",
+                "Himedia",
+                "Cat# HiSep LSM\n1084."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Trizol RNA extraction",
+                " Invitrogen",
+                " Cat# 15596018,"
+              ],
+              [
+                "2x green master mix",
+                "Promega",
+                "Cat# M7122,"
+              ],
+              [
+                "Cytofix/Cytoperm buffer ss",
+                "BD Bioscience",
+                "Cat# BDB554714"
+              ],
+              [
+                "Lipofectamine-2000",
+                "Invitrogen",
+                "Cat# 11668019"
+              ],
+              [
+                "Rapamycin (mTOR inhibitor)",
+                "Merck",
+                "Cat# R8781,"
+              ],
+              [
+                "Mouse recombinantIGFL \u2014\u201d",
+                "R&D Systems",
+                "Cat# 791-MG-050."
+              ],
+              [
+                "Picropodophyllotoxin (IGF1R inhibitor)",
+                "Sigma-Aldrich",
+                "Cat# T9576-IMG"
+              ],
+              [
+                "Critical commercial assays",
+                "",
+                ""
+              ],
+              [
+                "LDH Cytotoxicity Assay Kit",
+                "Roche",
+                "Cat# 4744926001"
+              ],
+              [
+                "Seahorse XF Glycolvtic Rate Assay Kit",
+                "Agilent",
+                "Cat# 103344-100."
+              ],
+              [
+                "First Strand cDNA Synthesis Kit",
+                "Thermo Scientific",
+                "Cat# K1622,"
+              ],
+              [
+                ">\nECT Wectern Rinttino Suhectrate Kit",
+                "Advancta",
+                "She satlhthcichleenriodnoioent\nCatt K.190AS_DS6"
+              ],
+              [
+                "ae ONS ee ee\nTImenlin BITCA bit",
+                "Elica hlbacarme chil\nTeas teanwan",
+                "Se eae\nDat GCRATNIC"
+              ],
+              [
+                "Insulin ELISA kit",
+                "Invitrogen",
+                "Cat# EMINS"
+              ],
+              [
+                "SOMES SRE AL\nTONED TOT TQUA 1a",
+                "AVE SE\ner",
+                "NEE DsTVE SLND\nNett Toh ATS\u201c I- 7"
+              ],
+              [
+                "IGF1 ELISA kit",
+                "Invitrogen",
+                "Cat# EMIGF1"
+              ],
+              [
+                "Silencer ciIRNA Construction Kit",
+                "Invitrogen",
+                "Catt AM1620_"
+              ],
+              [
+                "MELE! SUNN RV UMSOEMVU AE\nwhe et ws... AL ae",
+                "ee",
+                "Wohin \u00a3atvi bss"
+              ],
+              [
+                "Experimental models: Cell lines",
+                "$$",
+                "LK"
+              ],
+              [
+                "Experimental models: Cell lines",
+                "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+                "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\u2014<_\u2014_\u2014<\u2014$_\u2014\u2014\u2014\u2014\u2014\u2014\u2014"
+              ],
+              [
+                "Experimental models: Cell lines\nBI6F10",
+                "NCCS, Pune, India",
+                "RRID:CVCL XHz"
+              ],
+              [
+                "BI16F10",
+                " NCCS, Pune, India",
+                " RRID:CVCL_XH?\n7"
+              ],
+              [
+                "aaa aM\nATI",
+                "ae a eee\nNICCC Duna Indian",
+                "[7\nPOM mwvVveortr nia"
+              ],
+              [
+                "4T1",
+                "NCCS, Pune, India",
+                "RRID:CVCL_012\n5"
+              ],
+              [
+                "BALB/c",
+                "State Centre for\nLaboratory Animal\nBreeding, West\nBengal Livestock\nDevelopment\nCorporation\nLimited, India",
+                ";"
+              ],
+              [
+                "Cri:CD1-FoxnInu",
+                "CDRI, Lucknow",
+                "RRID:IMSR_CRL\n086"
+              ],
+              [
+                "Oliconucleotides",
+                "\u2014\u2014\u2014\u2014",
+                "\u2014\u2014\u2014\u2014\u2014\u2014"
+              ],
+              [
+                "silGF1R sense: 5\u2019\nAACCCTCCTCCGGAGCCAGACCCTGTCTC 3\u2019\nsilGF1R antisense: 5\u2019\nAAGTCTGGCTCCGGAGGAGGGCCTGTCTC 3\u2019",
+                "Integrated DNA\nTechnologies",
+                "}"
+              ],
+              [
+                "Software and algorithms",
+                "",
+                ""
+              ],
+              [
+                "ImageJ",
+                "Fiji",
+                "fo"
+              ],
+              [
+                "FlowJo 10.8.1",
+                "BD Biosciences",
+                ""
+              ],
+              [
+                "Seahorse XF Analyzer software",
+                "Agilent",
+                "fo"
+              ],
+              [
+                "GraphPad Prism 8",
+                "GraphPad Software\nInc.",
+                "Jo"
+              ],
+              [
+                "STRING v.11.5",
+                "Global Core Biodata\nResource",
+                ""
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page": 12,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Name of\ngene",
+                " Primers 5\u2019-3\u2019",
+                " Tm (PC)",
+                "Prime!\nlength\n(base)"
+              ],
+              [
+                "perforin",
+                "Forward: GATGTGAACCCTAGGCCAGA.",
+                " 59 ~~ ~",
+                "20"
+              ],
+              [
+                "",
+                " Reverse: GGTTTTTGTACCAGGCGAAA",
+                "} 55",
+                "20"
+              ],
+              [
+                "granzyme b",
+                "Forward: TCGACCCTACATGGCCTTAC\nReverse: TGGGGAATGCATTTTACCAT",
+                "59\n53",
+                "20\na0"
+              ],
+              [
+                "Ga,",
+                "Reverse: TGGGGAATGCATTTTACCAT\nTho. AIT AMATAAAALTRMTWATARAMN",
+                "53\nPry",
+                "20\na"
+              ],
+              [
+                "yny",
+                "POPWarG. SONS PRIA PRIA PUR TAU ATA\nReverse: TCAGCAGCGAGTGATTTTCCGCTT",
+                "36\n61",
+                "\u201ctT\n24"
+              ],
+              [
+                "actin",
+                "FROEVEDSO. PRN ARN AAU A PRS PRA PN\nForward: CAACCGTGAAAAGATGACCC",
+                "oF\n57",
+                "och\n20"
+              ],
+              [
+                "glut I",
+                "Reverse: ALGAGGIAGICIGICAGGIC\nForward: CAGGTGTTTGGCTTAGACTC",
+                "eyA\n57",
+                "\u00a30\n20"
+              ],
+              [
+                "g-6-pd",
+                "Reverse: GGATCAGATGCAAAGCTTTC\nForward: GGCCAGTTTCTATGAGGAGTATG",
+                "57\n65",
+                "20\n23"
+              ],
+              [
+                "pkm 2",
+                "Reverse: GCTGATGTTGAGAGGCAGTT\nForward: ACTGGCATCATTTGTACCAT",
+                "65\n54",
+                "20\n20"
+              ],
+              [
+                "Idha",
+                "Reverse: GGATCAGATGCAAAGCTTTC\nForward: CCTGAAGTCTCTTAACCCAG",
+                "35\n34",
+                "20\n20"
+              ],
+              [
+                "ana",
+                "POPWalG. UY PIAA EU LUE LAA\nReverse: CCGCCTAAGGTTCTTCATTA",
+                "ot\n[sa",
+                "\u201cVv\n20"
+              ],
+              [
+                "pex I",
+                "Forward: GFAAAGACCAACATCCCCTT\nReverse: ATGACATQTCCGAGCQTAATG",
+                "54\n54",
+                "20\non"
+              ],
+              [
+                "pdk 1",
+                "Forward: CTCCTTATTGTTCGGTGGAA\nReverse: TTGTATTGTCTGTCCTGGTG",
+                "55\n54",
+                "20\n20"
+              ],
+              [
+                "pdk 3",
+                "Forward: AACTCTCGTTACTCTGGGTA\nReverse: TACAGACGAGAAATTGGCAA",
+                "54\n55",
+                "20\n20"
+              ],
+              [
+                "idh I",
+                "Forward: GTGGAGATGCAAGGAGATGAA\nReverse: ATGCAGATCCAGTTCCACATAG",
+                "64\n64",
+                "21\noleh"
+              ],
+              [
+                "idh 2",
+                "Forward: AACACCGACGAGTCCATTTC\nReverse: TCAAGTAGAGCGGCCATTTC",
+                "65\n65",
+                "20\n20"
+              ],
+              [
+                "fal",
+                "Forward: TGCTGAAGTAAACCAGGAGTATG\nReverse: CCAAACCACCAGAGGAAAGT",
+                "64\n65",
+                "23\n90"
+              ],
+              [
+                "igf I",
+                "Forward: TCTGAGGAGACTGGAGATGT\nReverse: TAGGTCTTGTTTCCTGCACT",
+                "54\n55",
+                "20\n20"
+              ],
+              [
+                "igf IR",
+                "Forward: GAGATGACCAATCTCAAGGA\nReverece: CTTAQTTCOCCCACAATQAQTAGCT",
+                "55\n5A",
+                "20\nwn"
+              ],
+              [
+                "igf 2",
+                "Forward: GGCAAGTTCTTCCAATATGA\nReverse: CTTTGGGTGGTAACACGAT",
+                "55\n55",
+                "20\n19"
+              ],
+              [
+                "insulin R",
+                "Forward: ATACCATGAATTCCAGCAAC\nReverse: ATGTTGATGATCAGGCTACC",
+                "54\n54",
+                "20\n20"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

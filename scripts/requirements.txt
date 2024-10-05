@@ -16,4 +16,5 @@ python-multipart
 aiofiles
 requests
 click
-PyMuPDF-1.21.1
+PyMuPDF
+pydantic

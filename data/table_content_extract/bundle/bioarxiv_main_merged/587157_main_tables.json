@@ -1,0 +1,163 @@
+{
+  "paper_id": "587157_main",
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Supplementry ta Antibodies list",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Antibodies",
+                "Company",
+                "Species Catalog number",
+                "",
+                ""
+              ],
+              [
+                "SQSTM1",
+                "BioRad",
+                "mouse 2C11",
+                "",
+                ""
+              ],
+              [
+                "GFP",
+                "Invitrogen",
+                "rabbit A-6455",
+                "",
+                ""
+              ],
+              [
+                "RFP",
+                "ChromoTek",
+                "mouse 6g6-100",
+                "",
+                ""
+              ],
+              [
+                "GAPDH",
+                "Merck",
+                "mouse MAB374",
+                "",
+                ""
+              ],
+              [
+                "GABARAP",
+                "MBL",
+                "rabbit  PM037",
+                "",
+                ""
+              ],
+              [
+                "GABARAPL1",
+                "bioss",
+                "rabbit BS8035R",
+                "",
+                ""
+              ],
+              [
+                "GABARAPL2",
+                "MBL",
+                "rabbit PM038",
+                "",
+                ""
+              ],
+              [
+                "LC3B",
+                "Homemade",
+                "rabbit",
+                "",
+                ""
+              ],
+              [
+                "FLAG",
+                "Sigma-Aldrich",
+                "mouse F1804",
+                "",
+                ""
+              ],
+              [
+                "Anti-FLAG\u00ae",
+                "Sigma-Aldrich",
+                "mouse M8823",
+                "",
+                ""
+              ],
+              [
+                "M2 Magnetic Beads",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Endogenous taggi Knock-in (KI) cassette",
+                " Sequence",
+                "",
+                "",
+                ""
+              ],
+              [
+                "3XFlag- mScarletI- (GGGS)3",
+                "gactataaggaccacgacggag GATCAAGGAGTTCAGAGATCGAGGGCG GTGACCAAGGGTGG CTCCAGGGCCTTCA AGGGCTTCAAGTGG GGACACCTCCCTGG CCTCCTGACGGCCC TGTACCCCGAGGAC CGGCCGCTACCTGG GGCGCCTACAACGT TGGAACAGTACGAA Gggcggggggagtggggga",
+                "actacaaggatcatgatattgattacaaagacgatgacgataagGTGAGCAAGGGCGAGGCAG TGCGGTTCAAGGTGCACATGGAGGGCTCCATGAACGGCCACGAGTTCAGGGCGAGGGCCGCCCCTACGAGGGCACCCAGACCGCCAAGCTGAAG CCCCCTGCCCTTCTCCTGGGACATCCTGTCCCCTCAGTTCATGTACGG TCAAGCACCCCGCCGACATCCCCGACTACTATAAGCAGTCCTTCCCCG GAGCGCGTGATGAACTTCGAGGACGGCGGCGCCGTGACCGTGACCC AGGACGGCACCCTGATCTACAAGGTGAAGCTCCGCGGCACCAACTTC CGTAATGCAGAAGAAGACAATGGGCTGGGAAGCGTCCACCGAGCGG GGCGTGCTGAAGGGCGACATTAAGATGGCCCTGCGCCTGAAGGACG CGGACTTCAAGACCACCTACAAGGCCAAGAAGCCCGTGCAGATGCCC CGACCGCAAGTTGGACATCACCTCCCACAACGAGGACTACACCGTGG CGCTCCGAGGGCCGCCACTCCACCGGCGGCATGGACGAGCTGTACA ggatccggaggcggttcc",
+                "T    A  T G   A",
+                ""
+              ],
+              [
+                "3XFlag-Clover- (GGGS)3",
+                "gactataaggaccacgacggag GTTCACCGGGGTGGAGCGTCCGCGGCGA GCACCACCGGCAAG GCCTGCTTCAGCCG CGAAGGCTACGTCC GCCGAGGTGAAGTT TCAAGGAGGACGG CTATATCACGGCCG GTTGAGGACGGCAG GCCCCGTGCTGCTG AACGAGAAGCGCG GCATGGACGAGCTG",
+                "actacaaggatcatgatattgattacaaagacgatgacgataagGTGAGCAAGGGCGAGGAGC TGCCCATCCTGGTCGAGCTGGACGGCGACGTAAACGGCCACAAGTTCGGGCGAGGGCGATGCCACCAACGGCAAGCTGACCCTGAAGTTCATC CTGCCCGTGCCCTGGCCCACCCTCGTGACCACCTTCGGCTACGGCGT CTACCCCGACCACATGAAGCAGCACGACTTCTTCAAGTCCGCCATGC AGGAGCGCACCATCTCTTTCAAGGACGACGGTACCTACAAGACCCGC CGAGGGCGACACCCTGGTGAACCGCATCGAGCTGAAGGGCATCGAC CAACATCCTGGGGCACAAGCTGGAGTACAACTTCAACAGCCACAACG ACAAGCAGAAGAACGGCATCAAGGCTAACTTCAAGATCCGCCACAA CGTGCAGCTCGCCGACCACTACCAGCAGAACACCCCCATCGGCGAC CCCGACAACCACTACCTGAGCCATCAGTCCGCCCTGAGCAAAGACCC ATCACATGGTCCTGCTGGAGTTCGTGACCGCCGCCGGGATTACACATG TACAAGggcggggggagtgggggaggatccggaggcggttcc",
+                "T T G C  T T C G C",
+                ""
+              ],
+              [
+                "gRNAs list",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Gene Symbol  GABARAP",
+                "CRISPR gRNA  GTTCGAGAAG CGCCGCTCTGA GG",
+                "Mutated PAM site at the homologous arm i the donor Plasmid (+) AAG",
+                "",
+                "n"
+              ],
+              [
+                "GABARAPL1",
+                "CATGAAGTTCC AGTACAAGGA GG",
+                "(+) AAG",
+                "",
+                ""
+              ],
+              [
+                "GABARAPL2",
+                "TTCAAGGAGG ACCACTCGCTG GG",
+                "(-) GGA",
+                "",
+                ""
+              ],
+              [
+                "ATG14  Genotyping prime",
+                "CTACTTCGACG GCCGCGACCG GG",
+                "(+) -",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 17
+      }
+    ]
+  }
+}

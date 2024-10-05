@@ -1,0 +1,36 @@
+{
+  "headers": [],
+  "caption": "Drosophila stocks used in this study",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Allele"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "cnn f04547"
+      },
+      {
+        "colspan": 1,
+        "content": "Exelixis stock no. f04547, Exelixis Stock Centre (Harvard"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Medical School, Boston, MA)."
+      }
+    ]
+  ]
+}

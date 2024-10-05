@@ -1,0 +1,61 @@
+{
+  "job_id": 108,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_497862_media-1",
+  "pdf_file": "497862_media-1.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Gene",
+                "Primer sequences",
+                "Amplicon size (bp)"
+              ],
+              [
+                "FTL",
+                "Forward: 5`-AGGCCCTTTTGGATCTTCAT-3` Reverse: 5`-CAGGTGGTCACCCATCTTCT-3`",
+                "122"
+              ],
+              [
+                "FTH",
+                "Forward: 5`-CTGAATGCAATGGAGTGTGC-3` Reverse: 5`-AATGGGGGTCATTTTTGTCA-3`",
+                "97"
+              ],
+              [
+                "FSP1",
+                "Forward: 5`-GGCCAACATCGTCAACTCTG-3` Reverse: 5`-ACACCGTCATTTCTCCCCAT-5`",
+                "96"
+              ],
+              [
+                "GPX4",
+                "Forward: 5`-TCAGCAAGATCTGCGTGAAC-3`",
+                "195"
+              ],
+              [
+                "SLC40A1",
+                "Reverse: 5`-GGGGCAGGTCCTTCTCTATC-3` Forward: 5`-CAGGGACTGAGTGGTTCCAT-3`",
+                "102"
+              ],
+              [
+                "(FPN1)",
+                "Reverse: 5`-ACCACATTTTCGACGTAGCC-3`",
+                ""
+              ],
+              [
+                "TFR1",
+                "Forward: 5`-ACCATTGTCATATACCCGGTTCA-3` Reverse: 5`-CAATAGCCCAAGTAGCCAATCAT-3`",
+                "219"
+              ]
+            ]
+          }
+        ],
+        "page": 17
+      }
+    ]
+  }
+}

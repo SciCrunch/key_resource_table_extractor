@@ -1,0 +1,126 @@
+{
+  "paper_id": "588740_main",
+  "result": {
+    "pages": [
+      {
+        "page": 62,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Strain Name",
+                "Genotype ",
+                "Source"
+              ],
+              [
+                "N2",
+                "Wild-Type",
+                "N.A."
+              ],
+              [
+                "SP2101",
+                "munls17 [osm-6::GFP unc-36(+)}",
+                "NA"
+              ],
+              [
+                "JIM113",
+                "ujls113\n[Ppie-1::H2B::mCherry; Pnhr-2::his-24::mCherry I]",
+                "NA"
+              ],
+              [
+                "PHX7618",
+                "thb-2 (gfp11-i) (syb7618) ",
+                "SunyBiotech."
+              ],
+              [
+                "PHX4515",
+                "che-3::12a::sfefp1-10 (syb4515)",
+                "SunyBiotech."
+              ],
+              [
+                "SHX2025",
+                "Pcol-19::sfefp1-10 single copy KI (zjuSil77)",
+                "Zhejiang Univ."
+              ],
+              [
+                "DUP228",
+                "gth-1::t2a::sfgfp1-10 (sam129)",
+                "Zhejiang Univ."
+              ],
+              [
+                "GOU4772",
+                "ayf-11::wrmScarlet (cas 1086); him-5 (e1490)",
+                "Microinjection"
+              ],
+              [
+                "GOUS351",
+                "thb-2 (gfp11-i) (syb7618); cas 1086;\nche-3::12a::sfefp1-10 (syb4515)",
+                "Genetic cross"
+              ],
+              [
+                "GOUS352",
+                "thb-2 (gfp11-i) (syb7618); Pcol-19::sfgfp1-10 (zjuSi177)",
+                "Genetic cross"
+              ],
+              [
+                "GOUS353",
+                "thb-2 (gfp11-i) (syb7618);\ngth-1::t2a::sfgfp1-10 (sam129)",
+                "Genetic cross"
+              ],
+              [
+                "GOUS354",
+                "Ofp::tbb-2 (cas970)",
+                "Microinjection"
+              ],
+              [
+                "GOUS355",
+                "tbb-2::gfp (cas722) ",
+                "Microinjection"
+              ],
+              [
+                "GOUS356",
+                "thb-2 (gfp11-i) (syb7618); ujls113; him-5 (e1490);\ngth-1::t2a::sfgfp1-10 (sam129)",
+                "Genetic cross"
+              ],
+              [
+                "GOUS057",
+                "tha-5 (A19V) (qj14)",
+                "Microinjection"
+              ],
+              [
+                "GOUS0S8",
+                "tha-5 (A19V) (qj14); mnIs17; him-5 (1490)",
+                "Genetic cross"
+              ],
+              [
+                "GOUS067",
+                "gfp:tbb-4 (cas2563)",
+                "Microinjection"
+              ],
+              [
+                "GOUS068",
+                "tha-5 (A19V) (qj 14); cas2563; him-5 (e1490)",
+                "Genetic cross"
+              ],
+              [
+                "GOUS357",
+                "tha-5 (A19V) (qj14); mnIs17;\nPayf-1::tha-5 (A19V) (casEx6062)",
+                "Microinjection"
+              ],
+              [
+                "GOUS358",
+                "tha-5 (A19V) (qj14);\nPadyf-1::tba-5 (A19V) (GFP-N) (casEx6063)",
+                "Microinjection"
+              ],
+              [
+                "GOU5359",
+                " tha-5 (A19V) (qj14); ",
+                "Microinjection"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

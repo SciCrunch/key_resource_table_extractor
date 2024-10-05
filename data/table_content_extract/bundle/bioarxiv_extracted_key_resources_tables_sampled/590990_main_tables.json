@@ -1,0 +1,234 @@
+{
+  "job_id": 650,
+  "job_status": "finished",
+  "paper_id": "590990_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Strain",
+                "References",
+                "Source Information",
+                "Key Gene"
+              ],
+              [
+                "Hsd11b2-Cre",
+                "(36)",
+                "Jax 030545",
+                "IRES-Cre-GFP inserted after the"
+              ],
+              [
+                "",
+                "",
+                "",
+                "termination codon of Hsd11b2"
+              ],
+              [
+                "",
+                "",
+                "http://www.informatics",
+                ""
+              ],
+              [
+                "",
+                "",
+                ".jax.org/allele/key/8716",
+                ""
+              ],
+              [
+                "",
+                "",
+                "09",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "The Cre recombinase was cloned"
+              ],
+              [
+                "",
+                "",
+                "",
+                "following an IRES sequence. An"
+              ],
+              [
+                "Th-IRES-Cre",
+                "(107)",
+                "EMMA 00254  https://www.infrafrontier.eu/",
+                "frt-flanked neomycin selection cassette was added, and the construct cloned in the 3' untranslated end of the tyrosine hydroxylase gene (as described"
+              ],
+              [
+                "",
+                "",
+                "",
+                "by Althini et al., 2003, J Neurosci Res 72: 444-453)."
+              ]
+            ]
+          }
+        ],
+        "page": 56
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Antigen",
+                "Immunogen Description",
+                "Source, host species, RRID",
+                "Concentration"
+              ],
+              [
+                "11-beta-",
+                "Amino acids 261-405 from the C-",
+                "Santa Cruz, rabbit polyclonal,",
+                "1:500 (human"
+              ],
+              [
+                "hydroxysteroid",
+                "terminus of human 11b-HSD2",
+                "cat# sc_20176,",
+                "& porcine"
+              ],
+              [
+                "dehydrogenase",
+                "",
+                "RRID: AB_2233199",
+                "tissue)"
+              ],
+              [
+                "type 2 (HSD2)",
+                "",
+                "",
+                "1:700 (mouse"
+              ],
+              [
+                "",
+                "",
+                "",
+                "tissue)"
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "11-beta-",
+                "Fusion protein Ag5146 (amino",
+                "Protein Tech, rabbit",
+                "1:2,000 (mouse"
+              ],
+              [
+                "hydroxysteroid",
+                "acids 1\u2013405 encoded by human",
+                "polyclonal, cat# 14192-1-AP,",
+                "tissue)"
+              ],
+              [
+                "dehydrogenase",
+                "HSD11B2; GenBank BC036780)",
+                "RRID: AB_2119643",
+                ""
+              ],
+              [
+                "type 2 (HSD2)",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Choline",
+                "ChAT from human placenta",
+                "Millipore, goat polyclonal,",
+                "1:500 (human"
+              ],
+              [
+                "acetyltransferase",
+                "",
+                "cat# AB144P,",
+                "tissue)"
+              ],
+              [
+                "(ChAT)",
+                "",
+                "RRID: AB_2079751",
+                ""
+              ],
+              [
+                "Fos",
+                "Synthetic peptide corresponding",
+                "Synaptic System, guinea pig;",
+                "1:12,000"
+              ],
+              [
+                "",
+                "to residues near the amino",
+                "cat#226 308,",
+                "(mouse tissue)"
+              ],
+              [
+                "",
+                "terminus of rat c-Fos",
+                "RRID: AB_2905595",
+                ""
+              ],
+              [
+                "mCherry",
+                "Full length mCherry fluorescent",
+                "Life Sciences, rat monoclonal,",
+                "1:2,000 (mouse"
+              ],
+              [
+                "",
+                "protein",
+                "cat# M11217,",
+                "tissue)"
+              ],
+              [
+                "",
+                "",
+                "RRID: AB_2536611",
+                ""
+              ],
+              [
+                "Tyrosine",
+                "Native tyrosine hydroxylase",
+                "Millipore, sheep polyclonal,",
+                "1:2,000 (mouse"
+              ],
+              [
+                "hydroxylase (TH)",
+                "from rat pheochromocytoma in sheep host",
+                "cat#: Ab1542, RRID: AB_90755",
+                "tissue)"
+              ]
+            ]
+          }
+        ],
+        "page": 57
+      }
+    ]
+  }
+}

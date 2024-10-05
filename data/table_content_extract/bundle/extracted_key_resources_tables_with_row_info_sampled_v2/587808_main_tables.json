@@ -1,0 +1,48 @@
+{
+  "job_id": 65,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_587808_main",
+  "pdf_file": "587808_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "ab133474; 1:1000 for WB), rat anti-HA (7C9) (Chromotek, 7c9-100; 1:10,000 for WB and 1:500 f"
+              ],
+              [
+                "anti-EEA1 (Cell Signaling Technology, 3288; 1:100 for ICC), rabbit anti-LC3B (Cell Signaling Tech"
+              ],
+              [
+                "1:1000 for WB), rabbit anti-LAMTOR4 (Cell Signaling Technologies, 12284; 1:1000 for WB)"
+              ],
+              [
+                "calreticulin (D3E6) (Cell Signaling Technologies, 12238; 1:1000 for WB), mouse anti-GM130 (H7"
+              ],
+              [
+                "Biotechnology, sc-55590; 1:1000 for WB), rabbit anti-GAPDH (Millipore-Sigma, G9545; 1:10,000 f"
+              ],
+              [
+                "and rabbit anti-Tom20 (FL-145) (Santa Cruz Biotechnology, sc-11415; 1:5000 for WB)."
+              ],
+              [
+                "For ICC, unless otherwise stated, the secondary antibodies were purchased from Thermo Fisher"
+              ],
+              [
+                "Alexa Fluor 488 (A-21208, 1:500), donkey anti-rabbit Alexa Fluor 568 (A10042, 1:500), donkey anti"
+              ],
+              [
+                "Alexa Fluor 488 (703-545-155, 1:500) and donkey anti-rat Alexa Fluor 405 (712-475-153, 1:100)"
+              ]
+            ]
+          }
+        ],
+        "page": 19
+      }
+    ]
+  }
+}

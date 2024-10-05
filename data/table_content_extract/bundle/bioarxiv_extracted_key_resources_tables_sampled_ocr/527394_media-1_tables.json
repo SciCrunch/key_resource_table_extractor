@@ -1,0 +1,215 @@
+{
+  "paper_id": "527394_media-1",
+  "result": {
+    "pages": [
+      {
+        "page": 19,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Target",
+                "Vendor",
+                "Product Number",
+                "Species",
+                "Dilution",
+                "Use"
+              ],
+              [
+                "Collagen",
+                "DSHB",
+                "M3F5",
+                "Mouse",
+                "1:100",
+                "THC"
+              ],
+              [
+                "IQGAP2",
+                " ee",
+                "Se",
+                "Rabbit",
+                "1:50",
+                "THC"
+              ],
+              [
+                "Iqgap2",
+                "Santa Cruz Biotechnology",
+                "se-55525",
+                "Mouse",
+                "1:500",
+                " WB"
+              ],
+              [
+                "GAPDH (D16H11)",
+                "Cell Signaling Technologies",
+                "5174",
+                "Rabbit",
+                "1:1000",
+                " WB "
+              ],
+              [
+                "Vcam1",
+                "Santa Cruz",
+                "sc-13160",
+                "Mouse",
+                "1:500",
+                "THC"
+              ],
+              [
+                "CD31 (MEC 13.3)",
+                "BD Biosciences",
+                "553370",
+                "Rat",
+                "1:200",
+                "THC"
+              ],
+              [
+                "CD45 (30-F11)",
+                "BD Biosciences",
+                "550539",
+                "[Rat",
+                "1:100",
+                "THC"
+              ],
+              [
+                "Claudin-5-488",
+                "Invitrogen",
+                "352588",
+                "J-",
+                "1:100",
+                "THC"
+              ],
+              [
+                "Occludin-594",
+                "Invitrogen",
+                "331594",
+                "J-",
+                "1:100",
+                "THC"
+              ],
+              [
+                "ZO01-594",
+                "Invitrogen",
+                "339194",
+                " ee",
+                "1:100",
+                "THC"
+              ],
+              [
+                "GLUT1-488",
+                "Abcam",
+                "ab195359",
+                " ee",
+                "1:300",
+                "THC"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "Species Reactivity",
+                "Vendor",
+                "Product Number",
+                "Host",
+                "Conjugate",
+                "Dilution",
+                "Use"
+              ],
+              [
+                "Rabbit",
+                "LI-COR",
+                "926-32211",
+                "Goat",
+                "IRDye 800",
+                "1:15000",
+                " WB"
+              ],
+              [
+                "Rat",
+                "Invitrogen",
+                "A21247",
+                "Goat",
+                "AlexaFluor 647",
+                "1:500",
+                "THC"
+              ],
+              [
+                "Rat",
+                "Invitrogen",
+                "A11006",
+                "Goat",
+                "AlexaFluor 488",
+                "1:500",
+                "THC"
+              ],
+              [
+                "Rabbit",
+                "Invitrogen",
+                "A21206",
+                "Donkey",
+                "AlexaFluor 488",
+                "1:500",
+                "THC"
+              ],
+              [
+                "Rabbit",
+                "Invitrogen",
+                "A31572",
+                "Donkey",
+                "AlexaFluor 555",
+                "1:500",
+                "THC"
+              ],
+              [
+                "Mouse",
+                "Invitrogen",
+                "A21202",
+                "Donkey",
+                "AlexaFluor 488",
+                "1:500",
+                "THC"
+              ],
+              [
+                "Rabbit",
+                "Abcam",
+                "ab150073",
+                "Donkey",
+                "AlexaFluor 488",
+                "1:1000",
+                "THC"
+              ],
+              [
+                "Mouse",
+                "Abcam",
+                "ab150108",
+                "Donkey",
+                "AlexaFluor 594",
+                "1:1000",
+                "THC"
+              ],
+              [
+                "",
+                "Vector Labs",
+                "DL-1174-1",
+                "Lectin",
+                "DyLight 488",
+                "1:100",
+                "THC"
+              ],
+              [
+                "",
+                "Vector Labs",
+                "DL-1178-1",
+                "Lectin",
+                "DyLight 649",
+                "1:100",
+                "THC"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

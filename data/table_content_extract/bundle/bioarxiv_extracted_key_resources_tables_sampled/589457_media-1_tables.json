@@ -1,0 +1,357 @@
+{
+  "job_id": 1519,
+  "job_status": "finished",
+  "paper_id": "589457_media-1",
+  "pdf_file": "media-1.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Target",
+                "Company and number",
+                "Host species",
+                "Dilution",
+                "Fixation type"
+              ],
+              [
+                "Cav-3",
+                "Abcam, ab4930",
+                "Polyclonal rabbit",
+                "1:500",
+                "Methanol/PFA"
+              ],
+              [
+                "Cav-3",
+                "BD Biosciences,",
+                "Mouse monoclonal",
+                "1:800",
+                "Methanol/PFA"
+              ],
+              [
+                "",
+                "610421",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Cav1.2",
+                "Alomone Labs, ACC-",
+                "Rabbit polyclonal",
+                "1:100",
+                "Methanol"
+              ],
+              [
+                "",
+                "003",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Cav1.3",
+                "Alomone Labs, ACC-",
+                "Rabbit polyclonal",
+                "1:100",
+                "PFA"
+              ],
+              [
+                "",
+                "005",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Cav3.1",
+                "Neuro Mab, MABN464",
+                "Mouse monoclonal",
+                "1:100",
+                "Methanol"
+              ],
+              [
+                "NCX",
+                "Swant, p 11-13",
+                "Rabbit polyclonal",
+                "1:200",
+                "Methanol"
+              ],
+              [
+                "HCN4",
+                "Thermofisher scientific,",
+                "Rat monoclonal",
+                "1:100",
+                "PFA"
+              ],
+              [
+                "",
+                "MA3-903",
+                "",
+                "",
+                ""
+              ],
+              [
+                "NKA",
+                "Millipore, 05-369",
+                "Mouse monoclonal",
+                "1:100",
+                "PFA"
+              ],
+              [
+                "RyR2",
+                "Sigma Aldrich,",
+                "Rabbit polyclonal",
+                "1:500",
+                "Methanol"
+              ],
+              [
+                "",
+                "HPA0200228",
+                "",
+                "",
+                ""
+              ],
+              [
+                "RyR",
+                "Thermofisher scientific,",
+                "Mouse monoclonal",
+                "1:100",
+                "Methanol"
+              ],
+              [
+                "",
+                "MA3-916",
+                "",
+                "",
+                ""
+              ],
+              [
+                "pSer2808 RyR",
+                "Badrilla, A01031AP",
+                "Rabbit polyclonal",
+                "1:100",
+                "Methanol"
+              ],
+              [
+                "pSer2814 RyR",
+                "Badrilla, A01030AP",
+                "Rabbit polyclonal",
+                "1:100",
+                "Methanol"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "Changed"
+              ],
+              [
+                "Parameter",
+                "Description",
+                "Value",
+                "from Sato & Bers,"
+              ],
+              [
+                "",
+                "",
+                "",
+                "2011 (35)?"
+              ],
+              [
+                "vi",
+                "Local cytosolic volume",
+                "0.75 \u03bcm3",
+                "Y"
+              ],
+              [
+                "vs",
+                "Local submembrane space volume",
+                "0.025 \u03bcm3",
+                "N"
+              ],
+              [
+                "vp",
+                "Local cleft space volume",
+                "0.00252 \u03bcm3",
+                "Y"
+              ]
+            ]
+          }
+        ],
+        "page": 34
+      }
+    ]
+  }
+}

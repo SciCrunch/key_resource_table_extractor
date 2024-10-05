@@ -1,0 +1,31 @@
+{
+  "headers": [],
+  "notes": "Identification of prognostic biomarkers for early distant metastasis may inform clinical decision-making and improve patient outcomes.",
+  "caption": "To the best of our knowledge, this is the first study to characterize the role of RGS10 as a tumor suppressor and biomarker of EMT in breast cancer. RGS10 was expressed at lower levels in breast cancer tissues than in adjacent normal breast tissues. RGS10 expression was associated with molecular subtype of breast cancer, distant metastasis, and",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "survival status. Patients with high compared to low RGS10 mRNA expression in breast cancer"
+    }],
+    [{
+      "colspan": 1,
+      "content": "tissues had improved DFS and OS. RGS10 protein levels were lower in the highly aggressive"
+    }],
+    [{
+      "colspan": 1,
+      "content": "breast cancer cell line MDA-MB-231 compared to the poorly aggressive and less invasive"
+    }],
+    [{
+      "colspan": 1,
+      "content": "breast cancer cell lines MCF7 and SKBR3. RGS10 reduced breast cancer cell proliferation,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "colony formation, invasion, and migration by inhibiting EMT via a novel mechanism"
+    }],
+    [{
+      "colspan": 1,
+      "content": "dependent on LCN2 and miR-539-5p."
+    }]
+  ]
+}

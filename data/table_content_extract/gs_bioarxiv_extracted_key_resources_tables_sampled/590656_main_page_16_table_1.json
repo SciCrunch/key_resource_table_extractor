@@ -1,0 +1,186 @@
+{
+  "name": "590656_main_page_16_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Purpose"
+      },
+      {
+        "colspan": 1,
+        "content": "Primary Ab / Tracer"
+      },
+      {
+        "colspan": 1,
+        "content": "Dilution"
+      },
+      {
+        "colspan": 1,
+        "content": "Secondary Ab"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "To characterize Opn4Cre/+Rpl22HA  and Opn4Cre/+; \n Brn3bcKOAP Rpl22HA lines (fig. S18)"
+      },
+      {
+        "colspan": 1,
+        "content": "   Rabbit anti-HA  (Abcam, ab9110) "
+      },
+      {
+        "colspan": 1,
+        "content": "    1:500  "
+      },
+      {
+        "colspan": 1,
+        "content": "   Donkey anti-rabbit Alexa 488  (Thermofisher, A-21206) "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "To test the role of Brn3b on  melanopsin expression (Fig. 2)"
+      },
+      {
+        "colspan": 1,
+        "content": "Rabbit anti- melanopsin  (ATS, N38)"
+      },
+      {
+        "colspan": 1,
+        "content": "  1:1000  "
+      },
+      {
+        "colspan": 1,
+        "content": " Donkey anti-rabbit Alexa 488  (Thermofisher, A-21206) "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 3,
+        "content": "Morphological studies  (sparse labeling) (Fig. 3)"
+      },
+      {
+        "colspan": 1,
+        "content": "Rabbit dsRed  (Takara, 632496)"
+      },
+      {
+        "colspan": 1,
+        "content": " 1:500 "
+      },
+      {
+        "colspan": 1,
+        "content": "Donkey anti-rabbit Alexa 594  (ThermoFisher, A-21207)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-ChAT  (Sigma, AB144P)"
+      },
+      {
+        "colspan": 1,
+        "content": " 1:250 "
+      },
+      {
+        "colspan": 1,
+        "content": "Donkey anti-goat Alexa 488  (Invitrogen, A11055)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-SMI32  (Biolegend, 801701)"
+      },
+      {
+        "colspan": 1,
+        "content": " 1:500 "
+      },
+      {
+        "colspan": 1,
+        "content": "Donkey anti-mouse Alexa 647  (Invitrogen, A31571)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 3,
+        "content": "Morphological studies  (filled cells) (Fig. 3)"
+      },
+      {
+        "colspan": 1,
+        "content": "Neurobiotin  (VectorLabs, SP-  1120-50)"
+      },
+      {
+        "colspan": 1,
+        "content": "  -  "
+      },
+      {
+        "colspan": 1,
+        "content": " Streptavidin 546  (Invitrogen, S11225) "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Chicken anti-GFP (Abcam, ab13970)"
+      },
+      {
+        "colspan": 1,
+        "content": "  1:500"
+      },
+      {
+        "colspan": 1,
+        "content": " Donkey anti-chicken Alexa 488 (Jackson IRL, 703-545-155)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-Brn3b  (Abcam, ab56026)"
+      },
+      {
+        "colspan": 1,
+        "content": " 1:250 "
+      },
+      {
+        "colspan": 1,
+        "content": "Donkey anti-goat Alexa 647  (Invitrogen, A21447)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "Electrophysiological studies (filled cells) (Fig. 3; fig. S11 and fig. 13)"
+      },
+      {
+        "colspan": 1,
+        "content": "Neurobiotin  (VectorLabs, SP-  1120-50)"
+      },
+      {
+        "colspan": 1,
+        "content": "  -  "
+      },
+      {
+        "colspan": 1,
+        "content": " Streptavidin 546  (Invitrogen, S11225) "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-SMI32 (Biolegend, 801701)"
+      },
+      {
+        "colspan": 1,
+        "content": " 1:500"
+      },
+      {
+        "colspan": 1,
+        "content": "Donkey anti-mouse Alexa 488 (Abcam, ab175472)"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "1.428"
+      },
+      {
+        "colspan": 1,
+        "content": "1.267"
+      },
+      {
+        "colspan": 1,
+        "content": "1.348"
+      },
+      {
+        "colspan": 1,
+        "content": "13856"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "1.126"
+      },
+      {
+        "colspan": 1,
+        "content": "1.113"
+      },
+      {
+        "colspan": 1,
+        "content": "1.120"
+      },
+      {
+        "colspan": 1,
+        "content": "11322"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "0.256"
+      },
+      {
+        "colspan": 1,
+        "content": "0.241"
+      },
+      {
+        "colspan": 1,
+        "content": "0.249"
+      },
+      {
+        "colspan": 1,
+        "content": "1644"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "red-necked keelback"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "1.383"
+      },
+      {
+        "colspan": 1,
+        "content": "1.347"
+      },
+      {
+        "colspan": 1,
+        "content": "1.365"
+      },
+      {
+        "colspan": 1,
+        "content": "14050"
+      },
+      {
+        "colspan": 1,
+        "content": "8.09"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "snake"
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "1.570"
+      },
+      {
+        "colspan": 1,
+        "content": "1.523"
+      },
+      {
+        "colspan": 1,
+        "content": "1.547"
+      },
+      {
+        "colspan": 1,
+        "content": "16067"
+      },
+      {
+        "colspan": 1,
+        "content": "5.98"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "1.491"
+      },
+      {
+        "colspan": 1,
+        "content": "1.392"
+      },
+      {
+        "colspan": 1,
+        "content": "1.442"
+      },
+      {
+        "colspan": 1,
+        "content": "14900"
+      },
+      {
+        "colspan": 1,
+        "content": "2.42"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lowry assay of tissue-derived samples"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "black rat brain"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.996"
+      },
+      {
+        "colspan": 1,
+        "content": "0.976"
+      },
+      {
+        "colspan": 1,
+        "content": "0.986"
+      },
+      {
+        "colspan": 1,
+        "content": "9839"
+      },
+      {
+        "colspan": 1,
+        "content": "66.16"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "0.884"
+      },
+      {
+        "colspan": 1,
+        "content": "0.869"
+      },
+      {
+        "colspan": 1,
+        "content": "0.877"
+      },
+      {
+        "colspan": 1,
+        "content": "8622"
+      },
+      {
+        "colspan": 1,
+        "content": "21.58"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "1.151"
+      },
+      {
+        "colspan": 1,
+        "content": "1.127"
+      },
+      {
+        "colspan": 1,
+        "content": "1.139"
+      },
+      {
+        "colspan": 1,
+        "content": "11539"
+      },
+      {
+        "colspan": 1,
+        "content": "78.57"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "black rat kidney"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.452"
+      },
+      {
+        "colspan": 1,
+        "content": "0.436"
+      },
+      {
+        "colspan": 1,
+        "content": "0.444"
+      },
+      {
+        "colspan": 1,
+        "content": "4033"
+      },
+      {
+        "colspan": 1,
+        "content": "92.09"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "0.347"
+      },
+      {
+        "colspan": 1,
+        "content": "0.326"
+      },
+      {
+        "colspan": 1,
+        "content": "0.337"
+      },
+      {
+        "colspan": 1,
+        "content": "2839"
+      },
+      {
+        "colspan": 1,
+        "content": "92.75"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "0.300"
+      },
+      {
+        "colspan": 1,
+        "content": "0.285"
+      },
+      {
+        "colspan": 1,
+        "content": "0.293"
+      },
+      {
+        "colspan": 1,
+        "content": "2350"
+      },
+      {
+        "colspan": 1,
+        "content": "85.58"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "large milkweed bug"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.638"
+      },
+      {
+        "colspan": 1,
+        "content": "0.626"
+      },
+      {
+        "colspan": 1,
+        "content": "0.632"
+      },
+      {
+        "colspan": 1,
+        "content": "591"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "brain"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "porcine brain"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.800"
+      },
+      {
+        "colspan": 1,
+        "content": "0.791"
+      },
+      {
+        "colspan": 1,
+        "content": "0.796"
+      },
+      {
+        "colspan": 1,
+        "content": "772"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      }
+    ]
+  ]
+}

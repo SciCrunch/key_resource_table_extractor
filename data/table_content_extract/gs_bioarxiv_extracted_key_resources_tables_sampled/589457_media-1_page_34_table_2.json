@@ -1,0 +1,77 @@
+{
+  "name": "589457_media-1_page_34_table_2",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": " Parameter"
+      },
+      {
+        "colspan": 1,
+        "content": " Description"
+      },
+      {
+        "colspan": 1,
+        "content": " Value"
+      },
+      {
+        "colspan": 1,
+        "content": "Changed from Sato & Bers, 2011 (35)?"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "vi"
+      },
+      {
+        "colspan": 1,
+        "content": "Local cytosolic volume"
+      },
+      {
+        "colspan": 1,
+        "content": "0.75 \u03bcm3"
+      },
+      {
+        "colspan": 1,
+        "content": "Y"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "vs"
+      },
+      {
+        "colspan": 1,
+        "content": "Local submembrane space volume"
+      },
+      {
+        "colspan": 1,
+        "content": "0.025 \u03bcm3"
+      },
+      {
+        "colspan": 1,
+        "content": "N"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "vp"
+      },
+      {
+        "colspan": 1,
+        "content": "Local cleft space volume"
+      },
+      {
+        "colspan": 1,
+        "content": "0.00252 \u03bcm3"
+      },
+      {
+        "colspan": 1,
+        "content": "Y"
+      }
+    ]
+  ]
+}

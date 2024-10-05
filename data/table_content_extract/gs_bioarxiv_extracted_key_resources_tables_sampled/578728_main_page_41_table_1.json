@@ -1,0 +1,567 @@
+{
+  "name": "578728_main_page_41_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium orthovanadate"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# S6508"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium pyrophosphate tetrabasic"
+      },
+      {
+        "colspan": 1,
+        "content": "Avra"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# ASS2790"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium-\u03b2-glycerophosphate"
+      },
+      {
+        "colspan": 1,
+        "content": "Molychem"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 25760"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sucrose"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# S0389"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TM"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "T-Vector pMD20"
+      },
+      {
+        "colspan": 1,
+        "content": "Takara"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 3270"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "T4 DNA Ligase"
+      },
+      {
+        "colspan": 1,
+        "content": "Takara"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 2011A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Trichrome"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# HT15"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Stains (masson)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tris Buffer"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 71033"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Triton X-100"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 64518"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TRIzol\u2122 Reagent"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 15596026"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Trypsin-EDTA solution 1X"
+      },
+      {
+        "colspan": 1,
+        "content": "HiMedia"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# TCL-155"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tryptone"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 32007"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tween\u00ae 20"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 822184"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Water"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# W4502"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "XhoI"
+      },
+      {
+        "colspan": 1,
+        "content": "Takara"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 1094A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Yeast extract"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 34266"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Zinc chloride"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 87288"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "\u03b2-Mercaptoethanol"
+      },
+      {
+        "colspan": 1,
+        "content": "Calbiochem"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 444203"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Critical commercial assays"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GeneJET Plasmid Miniprep Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# K0502"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PureLink\u2122 Quick Gel Extraction and PCR Purification Combo Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# K220001 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RevertAid First Strand cDNA Synthesis Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# K1622"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Deposited data"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RNA sequencing data "
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript "
+      },
+      {
+        "colspan": 1,
+        "content": "NCBI, GSCE181789."
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Experimental models: Cell lines"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "293T "
+      },
+      {
+        "colspan": 1,
+        "content": "ATCC "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# CRL-3216 RRID: CVCL_0063"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "C2C12 "
+      },
+      {
+        "colspan": 1,
+        "content": "ATCC "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# CRL-1772 RRID: CVCL_0188"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "C2-Rbfox1"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "C2-shmVcl1"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "C2-shmVcl2"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "C2-shRbfox1"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "C2-shRbfox2"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "C2-shScr"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "C2-shScr"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HSMM"
+      },
+      {
+        "colspan": 1,
+        "content": "Lonza"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# CC-2580"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "L6 "
+      },
+      {
+        "colspan": 1,
+        "content": "ATCC "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# CRL-1458 RRID: CVCL_0385"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "L6-shmVCL2"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "L6-shScramble"
+      },
+      {
+        "colspan": 1,
+        "content": "This manuscript"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Experimental models: Organisms/strains"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "C57BL/6J  "
+      },
+      {
+        "colspan": 1,
+        "content": "The Jackson Laboratory "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 000664 RRID: IMSR_JAX:000664"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Oligonucleotides"
+      }
+    ]
+  ]
+}

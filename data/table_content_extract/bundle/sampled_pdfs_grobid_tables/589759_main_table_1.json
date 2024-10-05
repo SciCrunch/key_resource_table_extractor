@@ -1,0 +1,27 @@
+{
+  "headers": [],
+  "notes": "A.C.D. Representative images and quantification of luxol fast blue-stained brain sections obtained from P45Ng2-cre + Prkci f/f (left), Ng2-cre + Prkcz f/f (right) mice and littermate controls. Data is mean ± SEM, n=3-5 mice/ genotype. *p<0.05 vs. control by Student's t test.E. (left) Representative transmission electron microscopy (TEM) images of optic nerves from Ng2-cre +Prkci f/f and littermate controls at P45, quantification of % unmyelinated axons in 10 fields/mouse, axonal g ratio in 10 fields/mouse and axonal g ratio vs. axon diameter of optic nerves. Data is mean ± SEM, n=3-4 mice/ genotype. *p<0.05, **p<0.01 by Student's t test. Linear regression slopes are significantly different (p=0.0186). Scale bars= 1μm. (right) Representative electron microscopy of optic nerves from Ng2-cre + Prkcz f/f and littermate controls at P45, quantification of % unmyelinated axons in 10 fields/mouse, axonal g ratio in 10 fields/mouse and axonal g ratio vs. axon diameter of optic nerves.",
+  "caption": "Prkci was assessed by qPCR in cerebral cortices dissected at the indicated time-points from Ng2-cre + Ribotag Tg/+ mice. Data is mean ± SEM, n=3-5 mice/ time point. Non-significant (n.s.), *p<0.05, **p<0.01, vs. E15.5 by one way ANOVA, followed by Dunnet's test. F. Expression of Prkcz transcript 2 (encoding for PKM) was assessed by qPCR in cerebral cortices dissected at the indicated time-points from Ng2-cre + Ribotag Tg/+ mice. Data is mean ± SEM, n=3-5 mice/ time point. Non-significant (n.s.), *p<0.05, ****p<0.0001, vs. E15.5 by one way ANOVA, followed by Dunnet's test. Experimental scheme depicting Ng2-cre expression at E14 and sample collection and analyses at P30/45. B. qPCR for mRNA expression of Mbp and Plp1 in cerebral cortex of P30 mice, normalized to control. Cerebral cortices obtained at P30 were dissected and myelin-related proteins were analyzed by western blot. Representative immunoblots for MBP and MOG with corresponding  Actin loading controls, and quantification of Ng2-cre + Prkci f/f (left), Ng2-cre + Prkcz f/f (right) and littermate controls at P30. Data is mean ± SEM, n=3 mice/ genotype. *p<0.05, **p<0.01, ***p<0.001 by Student's t test.",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "Figure 2: Data is mean ± SEM, n=4 mice/ genotype. *p<0.05, **p<0.01, ***p<0.001 by ANOVA, followed by"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Dunnet's test."
+    }],
+    [{
+      "colspan": 1,
+      "content": "Axons were determined to be unmyelinated when surrounded by a single layer of membrane/ myelin"
+    }],
+    [{
+      "colspan": 1,
+      "content": "sheath. Data is mean ± SEM, n=3 mice/ genotype. *p<0.05, ***p<0.001 by Student's t test. Linear"
+    }],
+    [{
+      "colspan": 1,
+      "content": "regression slopes are significantly different (p=0.0183). Scale bars= 1μm."
+    }]
+  ]
+}

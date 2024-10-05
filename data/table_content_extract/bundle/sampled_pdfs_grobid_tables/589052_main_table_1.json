@@ -1,0 +1,1262 @@
+{
+  "headers": [],
+  "notes": "Scale bar: 200 𝜇𝜇m",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Keratin 15"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "MS-1068"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/300"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Control"
+      },
+      {
+        "colspan": 1,
+        "content": "GRK2 F/F"
+      },
+      {
+        "colspan": 1,
+        "content": "CD34 P-cadherin Ki67"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam R&D Systems Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ab81289 AF761 RM-9106-S"
+      },
+      {
+        "colspan": 1,
+        "content": "IF IF IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/400 1/200 1/300"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CD34-eFluor (660)"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "50-0341-80"
+      },
+      {
+        "colspan": 1,
+        "content": "IF, FACS"
+      },
+      {
+        "colspan": 1,
+        "content": "1/100"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "BrdU"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "6326"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/250"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GRK2 eKO"
+      },
+      {
+        "colspan": 1,
+        "content": "GRK2 F/F; K14-Cre"
+      },
+      {
+        "colspan": 1,
+        "content": "Lef1 βCatenin GRK2 Lrig1 Keratin 5 Keratin 6 CDP"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling BD Biosciences In house R&D Systems Convance Covance Proteintech"
+      },
+      {
+        "colspan": 1,
+        "content": "2230 610154 AF3688-SP PRB-160P 905701 11733-1-AP"
+      },
+      {
+        "colspan": 1,
+        "content": "IF IF IF IF IF IF IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/100 1/200 1/400 1/100 1/400 1/400 1/100"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Gata3"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "14-9966-82"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/100"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Control"
+      },
+      {
+        "colspan": 1,
+        "content": "Klf5 ΔNp63"
+      },
+      {
+        "colspan": 1,
+        "content": "R&D Systems Biolegend GRK2 eKO AF3758-SP Poly6190"
+      },
+      {
+        "colspan": 1,
+        "content": "IF IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/50 1/150"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "cJun"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "9165"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/100"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Tenascin C"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "T3413"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/200"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "αSMA"
+      },
+      {
+        "colspan": 1,
+        "content": "Dako"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "M0851"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/50"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Gata6"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "5851"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/250"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Filaggrin"
+      },
+      {
+        "colspan": 1,
+        "content": "Covance"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "PRB-417P"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/400"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Keratin 10"
+      },
+      {
+        "colspan": 1,
+        "content": "Dako"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "M 7002"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/100"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Loricrin"
+      },
+      {
+        "colspan": 1,
+        "content": "Covance"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "PRB-145P"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/400"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ZO-1"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "40-2200"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/100"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "E-Cadherin"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "3195"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/300"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Faloidin Alexa Fluor 555"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "A34055"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/100"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CD45"
+      },
+      {
+        "colspan": 1,
+        "content": "Life Technologies"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "14-0451"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/250"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Ƴ-H2AX"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "9718"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/150"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Cleaved Caspase 3"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "9661L"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/100"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CD3"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "100201"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/200"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ICAM1"
+      },
+      {
+        "colspan": 1,
+        "content": "R&D Systems"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "AF796"
+      },
+      {
+        "colspan": 1,
+        "content": "IHQ"
+      },
+      {
+        "colspan": 1,
+        "content": "1/100"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "MHC-II ( I-A/I-E)"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "107601"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/200"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "F4/80"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "16911"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/70"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Goat anti Rabbit IgG conjugated with Horseradish"
+      },
+      {
+        "colspan": 1,
+        "content": "Nordicmubio"
+      },
+      {
+        "colspan": 1,
+        "content": "GAR/IgG(H+L)/P"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      },
+      {
+        "colspan": 1,
+        "content": "1/50000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "peroxidase"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "O"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Goat anti Mouse IgG1 IgG2a IgG2b IgG3"
+      },
+      {
+        "colspan": 1,
+        "content": "Nordicmubio"
+      },
+      {
+        "colspan": 1,
+        "content": "GAM/IgG(H+L)/P"
+      },
+      {
+        "colspan": 1,
+        "content": "WB"
+      },
+      {
+        "colspan": 1,
+        "content": "1/50000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "conjugated with Horseradish peroxidase"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "O"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Biotin-SP AffiniPure Donkey Anti-Goat IgG (H+L)"
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "705-065-147"
+      },
+      {
+        "colspan": 1,
+        "content": "IHQ"
+      },
+      {
+        "colspan": 1,
+        "content": "1/3000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Immunoresearch"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Biotin-SP AffiniPure Donkey Anti-Rabbit IgG (H+L)"
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "711-065-152"
+      },
+      {
+        "colspan": 1,
+        "content": "IHQ"
+      },
+      {
+        "colspan": 1,
+        "content": "1/3000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Immunoresearch"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Alexa 488 Donkey anti-Goat IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "A-11055"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/250"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Alexa 488 Donkey anti-Mouse IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "A-21202"
+      },
+      {
+        "colspan": 1,
+        "content": "IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/250"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Target Alexa 488 Donkey anti-Rabbit IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "Source Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Ref. A-21206"
+      },
+      {
+        "colspan": 1,
+        "content": "Use IF"
+      },
+      {
+        "colspan": 1,
+        "content": "Dilutio 1/250"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GRK2 Alexa 555 Donkey anti-Goat IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "Novus Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "NBP1-32534 A-21432"
+      },
+      {
+        "colspan": 1,
+        "content": "IHQ IF"
+      },
+      {
+        "colspan": 1,
+        "content": "n 1/250 1/250"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GRK2 Alexa 555 Donkey anti-Mouse IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "137666 A-31570"
+      },
+      {
+        "colspan": 1,
+        "content": "WB IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/1500 1/250"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "β-Actin Alexa 555 Donkey anti-Rabbit IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "A5441 A-31572"
+      },
+      {
+        "colspan": 1,
+        "content": "WB IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/1000 1/250"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "α6 integrin/CD49f-conj Alexa 647 Donkey anti-Goat IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "11-0495-82 A-21447"
+      },
+      {
+        "colspan": 1,
+        "content": "IF, FACS IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/100 1/250"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Sox9 Alexa 647 Donkey anti-Mouse IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "AB5535 A-31571"
+      },
+      {
+        "colspan": 1,
+        "content": "IF IF"
+      },
+      {
+        "colspan": 1,
+        "content": "1/400 1/250"
+      }
+    ]
+  ]
+}

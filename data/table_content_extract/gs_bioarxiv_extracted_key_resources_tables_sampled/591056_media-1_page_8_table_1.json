@@ -1,0 +1,299 @@
+{
+  "name": "591056_media-1_page_8_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Customer"
+      },
+      {
+        "colspan": 1,
+        "content": "Dilution"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat Anti rabbit-HRP"
+      },
+      {
+        "colspan": 1,
+        "content": "BIO-RAD 1706515"
+      },
+      {
+        "colspan": 1,
+        "content": "1:2000 WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat Anti mouse-HRP"
+      },
+      {
+        "colspan": 1,
+        "content": "BIO-RAD 1706516"
+      },
+      {
+        "colspan": 1,
+        "content": "1:2000 WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MitoProfile\u00ae Total OXPHOS Rodent WB Antibody Cocktail"
+      },
+      {
+        "colspan": 1,
+        "content": "MitoSciences MS604  "
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 WB  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-GAPDH"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam ab8245"
+      },
+      {
+        "colspan": 1,
+        "content": "1:10000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-ACOX1"
+      },
+      {
+        "colspan": 1,
+        "content": "Santacruz-517306"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-ACOX1"
+      },
+      {
+        "colspan": 1,
+        "content": "Proteintech 10957-1-AP"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-LC3"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma L7543"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Pex16"
+      },
+      {
+        "colspan": 1,
+        "content": "14816-1-AP"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Pex5"
+      },
+      {
+        "colspan": 1,
+        "content": "CST 83020S"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-PGC1-alpha+beta"
+      },
+      {
+        "colspan": 1,
+        "content": "Ab54481 "
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 WB "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-FLNC"
+      },
+      {
+        "colspan": 1,
+        "content": "Abclonal A13018"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-CapZ"
+      },
+      {
+        "colspan": 1,
+        "content": "25043-1-AP"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-MYOZ"
+      },
+      {
+        "colspan": 1,
+        "content": "23880-1-AP"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Alpha-Actinin"
+      },
+      {
+        "colspan": 1,
+        "content": "Proteintech 24378-1-AP"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 WB"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-PMP70"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma P0497-200UL"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 WB; 1:100 IF"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-VDAC"
+      },
+      {
+        "colspan": 1,
+        "content": "CST 4866S"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 WB; 1:100 IF"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-NCAM"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma AB5032"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100 IF"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Dystrophin"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam ab15277"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100 IF"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-ACAA1"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma HPA007244"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100 IF"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-VAMP1"
+      },
+      {
+        "colspan": 1,
+        "content": "homemade1"
+      },
+      {
+        "colspan": 1,
+        "content": "1:200 IF"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "job_id": 100,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_587709_media-1",
+  "pdf_file": "587709_media-1.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Cell culture",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Insect-Xpress medium",
+                "Lonza, Walkersville, MD, USA",
+                "Cat#BE12-730P10"
+              ],
+              [
+                "Gentamycin PEI MAX",
+                "Roth, Karlsruhe, Germany Polysciences Inc., Warrington, PA,",
+                "Cat#0233.1 CAS#49553-93-7"
+              ],
+              [
+                "Biological samples",
+                "USA",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Na, K-ATPase from porcine (Adenosine 5\u02b9-Triphosphatase from porcine cerebral cortex)",
+                "Germany Merck KGaA, Darmstadt, Germany",
+                "CAS#9000-83-3"
+              ],
+              [
+                "(lyophilized)",
+                "",
+                ""
+              ],
+              [
+                "Technical devices",
+                "",
+                ""
+              ],
+              [
+                "Ultrasonic homogenizer",
+                "Bandelin Electronic Company, Berlin,",
+                ""
+              ],
+              [
+                "Sonopuls 2070",
+                "Germany",
+                ""
+              ],
+              [
+                "Ultra-Centrifuge L-80",
+                "Beckmann Coulter GmbH, Krefeld,",
+                ""
+              ],
+              [
+                "Freeze dryer",
+                "Germany Martin Christ",
+                ""
+              ],
+              [
+                "Alpha 1-2 LD plus",
+                "Gefriertrocknungsanlagen GmbH, Osterode am Harz, Germany",
+                ""
+              ],
+              [
+                "Ultrasonic homogenizer Omni Sonic Ruptor 400",
+                "Omni International Inc., Kennesaw, GA, USA",
+                ""
+              ],
+              [
+                "Cuvette spectrophotometer Ultrospec 2100 pro",
+                "Amersham Biosciences Europe GmbH, Freiburg im Breisgau, Germany",
+                ""
+              ],
+              [
+                "Microplate shaker BioShake iQ Microplate absorbance reader",
+                "Quantifoil Instruments, Jena, Germany Bio-Rad Laboratories GmbH,",
+                ""
+              ],
+              [
+                "Bio-Rad iMarkTM (spectrophotometers and software package)",
+                "",
+                ""
+              ],
+              [
+                "Scanner",
+                "Canon Europa N.V., Amsterdam,",
+                ""
+              ],
+              [
+                "Canon 9000F Mark II  Commercial assay kits and material",
+                "Netherlands",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 1
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Bovine serum albumin (BSA)",
+                "Roth, Karlsruhe, Germany",
+                "CAS#90604-29-8"
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Coomassie Bradford reagent Polystyrene cuvettes",
+                "Merck KGaA, Darmstadt, Germany SARSTEDT AG & Co. KG, N\u00fcmbrecht,",
+                "Cat#B6916 Cat#67.742"
+              ],
+              [
+                "Modified Lowry protein assay kit",
+                "Germany Thermo Fisher Scientific Inc.,",
+                "Cat#23240"
+              ],
+              [
+                "96-well polystyrene flat-well plate",
+                "Rockford, IL, USA SARSTEDT AG & Co. KG, N\u00fcmbrecht,",
+                "Cat#82.1581"
+              ],
+              [
+                "Bicinchoninic acid protein assay kit",
+                "Germany Thermo Fisher Scientific Inc.,",
+                "Cat#23227"
+              ],
+              [
+                "",
+                "Rockford, IL, USA",
+                ""
+              ],
+              [
+                "Nitrocellulose membrane BlueBlock PF",
+                "Roth, Karlsruhe, Germany SERVA Electrophoresis GmbH,",
+                "Cat#HP42.1 Cat#42591.01"
+              ],
+              [
+                "",
+                "Heidelberg, Germany",
+                ""
+              ],
+              [
+                "4-Chloro-1-naphthol",
+                "Merck KGaA, Darmstadt, Germany",
+                "Cat#C8890"
+              ],
+              [
+                "(TMB)",
+                "Rockford, IL, USA",
+                ""
+              ],
+              [
+                "Parafilm\u00ae Ouabain octahydrate, 96%",
+                "Merck KGaA, Darmstadt, Germany Thermo Fisher Scientific Inc.,",
+                "Cat#P7793 CAS#11018-89-6"
+              ],
+              [
+                "Adenosin-5-triphosphat Bis-(Tris)-",
+                "Rockford, IL, USA Merck KGaA, Darmstadt, Germany",
+                "CAS#102047-34-7"
+              ],
+              [
+                "salt hydrate (ATP) Antibodies",
+                "",
+                ""
+              ],
+              [
+                "\u03b15-antibody  (primary antibody)",
+                "Developmental Studies Hybridoma Bank, University of Iowa, Iowa City,",
+                "RRID: AB_2166869"
+              ],
+              [
+                "HRP-antibody  (secondary antibody conjugated",
+                "IA, USA Dianova, Hamburg, Germany",
+                "RRID: AB_2617176"
+              ],
+              [
+                "with horseradish peroxidase) Software",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "ImageJ",
+                "https://imagej.net/software/imagej/",
+                "ImageJ 1.53k"
+              ],
+              [
+                "R",
+                "https://www.r-project.org/",
+                "R version 4.1.1"
+              ]
+            ]
+          }
+        ],
+        "page": 2
+      }
+    ]
+  }
+}

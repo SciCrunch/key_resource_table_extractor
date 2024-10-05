@@ -1,0 +1,97 @@
+{
+  "job_id": 889,
+  "job_status": "finished",
+  "paper_id": "587808_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "and 1:500 for ICC), r",
+                "abbit anti-detyrosinated \u237a-tubulin, Abcam, ab48389; 1:1000 for WB and 1:100 for ICC),"
+              ],
+              [
+                "mouse anti-acetylate",
+                ""
+              ],
+              [
+                "ab52866; 1:10,000 fo",
+                ""
+              ],
+              [
+                "WB), rabbit anti-RAB",
+                "10 (Abcam, ab237703; 1:100 for ICC and 1:2000 for WB), rabbit anti-RAB10 (phospho-"
+              ],
+              [
+                "T73) (Abcam, MJF-",
+                ""
+              ],
+              [
+                "ab133474; 1:1000 for",
+                "WB), rat anti-HA (7C9) (Chromotek, 7c9-100; 1:10,000 for WB and 1:500 for ICC), rabbit"
+              ],
+              [
+                "anti-EEA1 (Cell Signa",
+                "ling Technology, 3288; 1:100 for ICC), rabbit anti-LC3B (Cell Signaling Technology, 2775;"
+              ],
+              [
+                "1:1000 for WB), rab",
+                "bit anti-LAMTOR4 (Cell Signaling Technologies, 12284; 1:1000 for WB), rabbit anti-"
+              ],
+              [
+                "calreticulin (D3E6) (C",
+                "ell Signaling Technologies, 12238; 1:1000 for WB), mouse anti-GM130 (H7) (Santa Cruz"
+              ],
+              [
+                "Biotechnology, sc-55",
+                ""
+              ],
+              [
+                "anti-Cathepsin D (Mill",
+                "ipore, 219361, 1:2000 for WB), mouse anti-pericentrin (Abcam, ab28144; 1:100 for ICC)"
+              ],
+              [
+                "and rabbit anti-Tom2",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "For ICC, unless other",
+                "wise stated, the secondary antibodies were purchased from Thermo Fisher Scientific. The"
+              ],
+              [
+                "following secondary",
+                ""
+              ],
+              [
+                "rabbit Alexa Fluor 48",
+                ""
+              ],
+              [
+                "Alexa Fluor 488 (A-21",
+                "208, 1:500), donkey anti-rabbit Alexa Fluor 568 (A10042, 1:500), donkey anti-mouse Alexa"
+              ]
+            ]
+          }
+        ],
+        "page": 19
+      }
+    ]
+  }
+}

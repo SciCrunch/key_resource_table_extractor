@@ -1,0 +1,29 @@
+{
+  "headers": [],
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": ". UPLC-MS: Rt"
+    }],
+    [{
+      "colspan": 1,
+      "content": "1.97 (>98%) MS (ESI) -: 300.2 [M-H] -."
+    }],
+    [{
+      "colspan": 1,
+      "content": "\u2022 3-Obtained as off-white solid in 40% yield. 1 H-NMR (DMSO-D6), δ: 2.37 (s, 3H, H-7), 4.50"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(s, 2H, H-8), 6.70-6.73 (m, 2H, H-aromatic), 7.08 (bs, 1H, NH), 7.21 (d, J= 7.2 Hz, 1H, H-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "aromatic), 7.30-7.33 (m, 2H, H-aromatic), 7.39 (s, 1H, H-2), 7.55 (d, J= 7.2 Hz, 1H, H-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "aromatic), 12.79 (bs, 1H, NH). 13 C-NMR (DMSO-D6), δ 19.6 (CH3, C-7), 45.7 (CH2, C-8),"
+    }]
+  ]
+}

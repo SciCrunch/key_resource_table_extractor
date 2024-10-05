@@ -1,0 +1,89 @@
+{
+  "name": "587206_main_page_32_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "X9090-19A"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa mec1-S1964E srs2-\u2206PIM"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9132-15B"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa mec1-S1964E srs2-\u2206PIM rfa1-zm2"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9091-13A"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa mec1-S1964E srs2-3KR::NAT"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9132-10B"
+      },
+      {
+        "colspan": 1,
+        "content": "MAT\u03b1 mec1-S1964A srs2-3KR::NAT rfa1-zm2"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9137-3B"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa mec1-S1964A 8His-SMT3::TRP1"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9136-2B"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa mec1-S1964E 8His-SMT3::TRP1"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ]
+  ]
+}

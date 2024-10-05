@@ -1,0 +1,239 @@
+{
+  "name": "585534_media-1_page_11_table_2",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Target"
+      },
+      {
+        "colspan": 1,
+        "content": "Isotype"
+      },
+      {
+        "colspan": 1,
+        "content": "Conjugate"
+      },
+      {
+        "colspan": 1,
+        "content": "Clone"
+      },
+      {
+        "colspan": 1,
+        "content": "Company"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat #"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ki67"
+      },
+      {
+        "colspan": 1,
+        "content": "Rabbit IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "Unconjugated"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      },
+      {
+        "colspan": 1,
+        "content": "Abclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "A16919"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD4"
+      },
+      {
+        "colspan": 1,
+        "content": "Rat IgG2b, \u03ba"
+      },
+      {
+        "colspan": 1,
+        "content": "Alexa Fluor\u00ae 700"
+      },
+      {
+        "colspan": 1,
+        "content": "GK1.5"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "100429"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD8a"
+      },
+      {
+        "colspan": 1,
+        "content": "Rat IgG2a, \u03ba"
+      },
+      {
+        "colspan": 1,
+        "content": "Pacific Blue\u2122"
+      },
+      {
+        "colspan": 1,
+        "content": "53-6.7"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "100728"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD86"
+      },
+      {
+        "colspan": 1,
+        "content": "Rat IgG2a, \u03ba"
+      },
+      {
+        "colspan": 1,
+        "content": "Alexa Fluor\u00ae 488"
+      },
+      {
+        "colspan": 1,
+        "content": "GL-1"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "105017"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD163"
+      },
+      {
+        "colspan": 1,
+        "content": "Rat IgG2a, \u03ba"
+      },
+      {
+        "colspan": 1,
+        "content": "PE"
+      },
+      {
+        "colspan": 1,
+        "content": "S15049F"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "156703"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD45"
+      },
+      {
+        "colspan": 1,
+        "content": "Rat IgG2b, \u03ba"
+      },
+      {
+        "colspan": 1,
+        "content": "Alexa Fluor\u00ae 594"
+      },
+      {
+        "colspan": 1,
+        "content": "30-F11"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "103144"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FOXP3"
+      },
+      {
+        "colspan": 1,
+        "content": "Mouse IgG1, \u03ba"
+      },
+      {
+        "colspan": 1,
+        "content": "Alexa Fluor\u00ae 488"
+      },
+      {
+        "colspan": 1,
+        "content": "150D"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "320011"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "LILRB4"
+      },
+      {
+        "colspan": 1,
+        "content": "Rabbit IgG"
+      },
+      {
+        "colspan": 1,
+        "content": "Unconjugated"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      },
+      {
+        "colspan": 1,
+        "content": "Abclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "A7073"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "job_id": 2569,
+  "job_status": "finished",
+  "paper_id": "589232_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "REAGENT or RESOURCE",
+                "SOURCE",
+                "IDENTIFIER"
+              ],
+              [
+                "Antibodies",
+                "",
+                ""
+              ],
+              [
+                "Rabbit monoclonal anti-Cofilin",
+                "Cell Signaling",
+                "Cat#D3F9"
+              ],
+              [
+                "Rabbit monoclonal anti-phospho-Cofilin (Ser3)",
+                "Cell Signaling",
+                "Cat#77G2"
+              ],
+              [
+                "Phospho-Myosin Light Chain 2 (Ser19)",
+                "Cell Signaling",
+                "Cat#3671"
+              ],
+              [
+                "Alexa Fluor 488 Phalloidin",
+                "Thermo Fisher",
+                "Cat#A12379"
+              ],
+              [
+                "Myosin IIa",
+                "Cell Signaling",
+                "Cat#3403"
+              ],
+              [
+                "Goat anti-Rabbit IgG (H+L) Cross-Adsorbed Secondary",
+                "Thermo Fisher",
+                "Cat #A-21428"
+              ],
+              [
+                "Antibody, Alexa Fluor 555",
+                "",
+                ""
+              ],
+              [
+                "Biological samples",
+                "",
+                ""
+              ],
+              [
+                "Mouse: bone marrow harvested from C57BL/6J &",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "indicated conditional knockout mice",
+                "",
+                ""
+              ],
+              [
+                "Mouse: Tibia and femur harvested from indicated",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "conditional knockout mice",
+                "",
+                ""
+              ],
+              [
+                "Chemicals, peptides, and recombinant proteins",
+                "",
+                ""
+              ],
+              [
+                "Human plasma purified Protein S",
+                "Enzyme Research",
+                "Cat#HPS"
+              ],
+              [
+                "",
+                "Laboratories",
+                ""
+              ],
+              [
+                "R9929",
+                "RIGEL inc.",
+                "N/A"
+              ],
+              [
+                "Human recombinant M-CSF",
+                "Peprotech",
+                "Cat#310-01"
+              ],
+              [
+                "Human recombinant soluble RANKL",
+                "Peprotech",
+                "Cat#300-25"
+              ],
+              [
+                "Critical commercial assays",
+                "",
+                ""
+              ],
+              [
+                "RhoA Activation Assay Kit",
+                "Cell Biolabs, INC",
+                "Cat#STA-403-A"
+              ],
+              [
+                "Taqman Universal PCR-Mastermix",
+                "Thermo Fisher",
+                "Cat#4304437"
+              ],
+              [
+                "RevertAid First Strand cDNA synthesis Kit",
+                "Thermo Fisher",
+                "Cat#K1621"
+              ],
+              [
+                "BlackPREP Rodent Tail DNA Kit",
+                "IST Innuscreen",
+                "N/A"
+              ],
+              [
+                "PureLink RNA Mini Kit",
+                "Thermo Fisher",
+                "Cat#12183020"
+              ],
+              [
+                "Experimental models: Cell lines",
+                "",
+                ""
+              ],
+              [
+                "EO771",
+                "M. Mazzone",
+                "N/A"
+              ],
+              [
+                "EO771-luc2",
+                "Our lab",
+                "Engelmann et.al.9"
+              ],
+              [
+                "Experimental models: Organisms/strains",
+                "",
+                ""
+              ],
+              [
+                "Mouse: C57BL/6J",
+                "FTH UKE",
+                ""
+              ],
+              [
+                "Mouse: Mertkflox/flox",
+                "C. Rothlin",
+                "Fourgeaud et. al.8"
+              ],
+              [
+                "Mouse: Tyro3flox/flox",
+                "C. Rothlin",
+                "Engelmann et.al.9"
+              ],
+              [
+                "Mouse: LysM-cre",
+                "H. Tapaleenm\u00e4ki",
+                "Strain #:004781"
+              ],
+              [
+                "Mouse: Ctsk-cre",
+                "H. Tapaleenm\u00e4ki",
+                "Nakamura et. al.52"
+              ],
+              [
+                "Oligonucleotides",
+                "",
+                ""
+              ],
+              [
+                "Mertk",
+                "Thermo Fisher",
+                "Mm07295861_m1"
+              ],
+              [
+                "Tyro3",
+                "Thermo Fisher",
+                "Mm00444557_g1"
+              ],
+              [
+                "Pros1",
+                "Thermo Fisher",
+                "Mm01343426_m1"
+              ],
+              [
+                "Gas6",
+                "Thermo Fisher",
+                "Mm00490378_m1"
+              ]
+            ]
+          }
+        ],
+        "page": 15
+      }
+    ]
+  }
+}

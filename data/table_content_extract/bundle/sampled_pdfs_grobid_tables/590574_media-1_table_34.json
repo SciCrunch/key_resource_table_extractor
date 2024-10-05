@@ -1,0 +1,19 @@
+{
+  "headers": [],
+  "notes": "1 H-NMR (CDCl3), δ: 2.14 (s, 3H, H-7), 4.68 (s, 2H, H-8), 5.94 (bs, 1H, NH),6.23 (d, J= 2.0",
+  "caption": "Obtained as white solid in 53% yield. Hz, 1H, H-2), 6.47 (dd, J1= 7.8 Hz, J2= 2.0 Hz, 1H, H-4),6.97 (d, J= 7.8 Hz, 1H, 1H, 7.42 (d, J= 7.3 Hz,  1H, 1H, 7.89 (dd, J1= 7.7  Hz, J2= 1.2 Hz, 1H, H-aromatic), 13.09 (bs, 1H, OH). 13 C-NMR (CDCl3), 17.6 (CH3, C-7), 45.2 (CH2, C-8),",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": ", 173.2 (C, C-15). 19 F-NMR (CDCl3), δ: -62.3"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(s, 3F). UPLC-MS: Rt 2.37 (100%) MS (ESI) + : 310.1 [M+H] + ."
+    }],
+    [{
+      "colspan": 1,
+      "content": "\u2022 2-(((5"
+    }]
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "paper_id": "587299_media-1",
+  "result": {
+    "pages": [
+      {
+        "page": 10,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Reagent or Resource",
+                "Source",
+                "Identifier"
+              ],
+              [
+                "Antibodies",
+                "",
+                ""
+              ],
+              [
+                "Rabbit anti-mouse TUBB3 (1:200)",
+                "Abcam",
+                "ab18207"
+              ],
+              [
+                "Rabbit anti-mouse NeuF (1:200)",
+                "Thermo Fisher Scientific",
+                "PA3-16721"
+              ],
+              [
+                "Rabbit anti-mouse CGRP (1:200)",
+                "Sigma Aldrich",
+                "C8198"
+              ],
+              [
+                "Rabbit anti-mouse TH (1:200)",
+                "Sigma Aldrich",
+                "AB152"
+              ],
+              [
+                "Goat anti-mouse/rat CD31 (1:200)",
+                "R&D Systems.",
+                "AF3628"
+              ],
+              [
+                "Rat anti-mouse/rat Endomucin (1:50)",
+                "Santa Cruz Biotechnology",
+                "sc-65495"
+              ],
+              [
+                "Donkey anti-goat AF800 plus, 0.67 mg/mL (1:100)",
+                "Thermo Fisher Scientific",
+                "A32930"
+              ],
+              [
+                "Donkey anti-rabbit AF647 plus, 0.67 mg/mL (1:300)",
+                "Thermo Fisher Scientific",
+                "A32795"
+              ],
+              [
+                "Donkey anti-rat biotin, 0.75 mg/mL (1:200)",
+                "Thermo Fisher Scientific",
+                "A18749"
+              ],
+              [
+                "Streptavidin AFSS5 conjugate, 0.67 mg/mL (1:200)",
+                "Thermo Fisher Scientific",
+                "$32355"
+              ],
+              [
+                "Reagents",
+                "",
+                ""
+              ],
+              [
+                "Heparin sodium salt from porcine mucosa",
+                "Sigma Aldrich",
+                "H3393-50KU"
+              ],
+              [
+                "Paraformaldehyde, 16% aq. soln., methanol free",
+                "Alfa Aesar",
+                "433689M"
+              ],
+              [
+                "Normal donkey serum",
+                "Sigma Aldrich",
+                "D9663-10ML"
+              ],
+              [
+                "Trizma base",
+                " Sigma Aldrich",
+                " T6066-1KG"
+              ],
+              [
+                "Trizma hydrochloride",
+                "Sigma Aldrich",
+                "T5941-1KG"
+              ],
+              [
+                "Sodium chloride",
+                "Sigma Aldrich",
+                "$5886"
+              ],
+              [
+                "Tween 20",
+                " Sigma Aldrich",
+                " P7949"
+              ],
+              [
+                "Dimethylsulfoxide",
+                "Thermo Fisher Scientific",
+                "PI20688"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

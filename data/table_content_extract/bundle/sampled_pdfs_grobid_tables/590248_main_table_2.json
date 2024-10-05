@@ -1,0 +1,1098 @@
+{
+  "headers": [],
+  "caption": "Mass spectrometry data from three experiments showing numbers of total peptides and unique peptides of proteins pulled down with Arp11-GFP in the wild-type background (vezA+) and in the ∆vezA background.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Protein/"
+      },
+      {
+        "colspan": 1,
+        "content": "vezA+"
+      },
+      {
+        "colspan": 1,
+        "content": "vezA+"
+      },
+      {
+        "colspan": 1,
+        "content": "∆vezA"
+      },
+      {
+        "colspan": 1,
+        "content": "∆vezA"
+      },
+      {
+        "colspan": 1,
+        "content": "∆vezA/vezA+ (ratio"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "number of"
+      },
+      {
+        "colspan": 1,
+        "content": "(unique)"
+      },
+      {
+        "colspan": 1,
+        "content": "(total)"
+      },
+      {
+        "colspan": 1,
+        "content": "(unique)"
+      },
+      {
+        "colspan": 1,
+        "content": "(total)"
+      },
+      {
+        "colspan": 1,
+        "content": "of total peptides"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "peptides"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "relative to the Arp11"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "(Experiment 1)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ratio set as 1)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p150 (An6323,"
+      },
+      {
+        "colspan": 1,
+        "content": "40"
+      },
+      {
+        "colspan": 1,
+        "content": "78"
+      },
+      {
+        "colspan": 1,
+        "content": "12"
+      },
+      {
+        "colspan": 1,
+        "content": "19"
+      },
+      {
+        "colspan": 1,
+        "content": "0.24"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "1342 aa)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p50 (An3589,"
+      },
+      {
+        "colspan": 1,
+        "content": "21"
+      },
+      {
+        "colspan": 1,
+        "content": "67"
+      },
+      {
+        "colspan": 1,
+        "content": "10"
+      },
+      {
+        "colspan": 1,
+        "content": "14"
+      },
+      {
+        "colspan": 1,
+        "content": "0.21"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "467 aa)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Arp1 (An1953,"
+      },
+      {
+        "colspan": 1,
+        "content": "12"
+      },
+      {
+        "colspan": 1,
+        "content": "79"
+      },
+      {
+        "colspan": 1,
+        "content": "5"
+      },
+      {
+        "colspan": 1,
+        "content": "13"
+      },
+      {
+        "colspan": 1,
+        "content": "0.13"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "380 aa)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Arp11 (An3185,"
+      },
+      {
+        "colspan": 1,
+        "content": "17"
+      },
+      {
+        "colspan": 1,
+        "content": "51"
+      },
+      {
+        "colspan": 1,
+        "content": "19"
+      },
+      {
+        "colspan": 1,
+        "content": "66"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "557 aa)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p62 (An4917,"
+      },
+      {
+        "colspan": 1,
+        "content": "12"
+      },
+      {
+        "colspan": 1,
+        "content": "24"
+      },
+      {
+        "colspan": 1,
+        "content": "9"
+      },
+      {
+        "colspan": 1,
+        "content": "26"
+      },
+      {
+        "colspan": 1,
+        "content": "0.84"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "637 aa)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p25 (An5022,"
+      },
+      {
+        "colspan": 1,
+        "content": "4"
+      },
+      {
+        "colspan": 1,
+        "content": "12"
+      },
+      {
+        "colspan": 1,
+        "content": "5"
+      },
+      {
+        "colspan": 1,
+        "content": "24"
+      },
+      {
+        "colspan": 1,
+        "content": "1.55"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "202 aa)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cap alpha"
+      },
+      {
+        "colspan": 1,
+        "content": "6"
+      },
+      {
+        "colspan": 1,
+        "content": "13"
+      },
+      {
+        "colspan": 1,
+        "content": "4"
+      },
+      {
+        "colspan": 1,
+        "content": "6"
+      },
+      {
+        "colspan": 1,
+        "content": "0.36"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "(An2126, 273 aa)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cap beta"
+      },
+      {
+        "colspan": 1,
+        "content": "4"
+      },
+      {
+        "colspan": 1,
+        "content": "8"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "0"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "(An0290, 266aa)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Dynein HC"
+      },
+      {
+        "colspan": 1,
+        "content": "88"
+      },
+      {
+        "colspan": 1,
+        "content": "150"
+      },
+      {
+        "colspan": 1,
+        "content": "27"
+      },
+      {
+        "colspan": 1,
+        "content": "34"
+      },
+      {
+        "colspan": 1,
+        "content": "0.18"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "(An0118, 4345 aa)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "(Experiment 2)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p150"
+      },
+      {
+        "colspan": 1,
+        "content": "63"
+      },
+      {
+        "colspan": 1,
+        "content": "88"
+      },
+      {
+        "colspan": 1,
+        "content": "12"
+      },
+      {
+        "colspan": 1,
+        "content": "12"
+      },
+      {
+        "colspan": 1,
+        "content": "0.16"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p50"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      },
+      {
+        "colspan": 1,
+        "content": "34"
+      },
+      {
+        "colspan": 1,
+        "content": "10"
+      },
+      {
+        "colspan": 1,
+        "content": "11"
+      },
+      {
+        "colspan": 1,
+        "content": "0.37"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Arp1"
+      },
+      {
+        "colspan": 1,
+        "content": "22"
+      },
+      {
+        "colspan": 1,
+        "content": "56"
+      },
+      {
+        "colspan": 1,
+        "content": "11"
+      },
+      {
+        "colspan": 1,
+        "content": "12"
+      },
+      {
+        "colspan": 1,
+        "content": "0.24"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Arp11"
+      },
+      {
+        "colspan": 1,
+        "content": "17"
+      },
+      {
+        "colspan": 1,
+        "content": "32"
+      },
+      {
+        "colspan": 1,
+        "content": "18"
+      },
+      {
+        "colspan": 1,
+        "content": "28"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p62"
+      },
+      {
+        "colspan": 1,
+        "content": "17"
+      },
+      {
+        "colspan": 1,
+        "content": "22"
+      },
+      {
+        "colspan": 1,
+        "content": "14"
+      },
+      {
+        "colspan": 1,
+        "content": "19"
+      },
+      {
+        "colspan": 1,
+        "content": "0.99"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p25"
+      },
+      {
+        "colspan": 1,
+        "content": "6"
+      },
+      {
+        "colspan": 1,
+        "content": "8"
+      },
+      {
+        "colspan": 1,
+        "content": "6"
+      },
+      {
+        "colspan": 1,
+        "content": "7"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cap alpha"
+      },
+      {
+        "colspan": 1,
+        "content": "6"
+      },
+      {
+        "colspan": 1,
+        "content": "9"
+      },
+      {
+        "colspan": 1,
+        "content": "2"
+      },
+      {
+        "colspan": 1,
+        "content": "2"
+      },
+      {
+        "colspan": 1,
+        "content": "0.25"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cap beta"
+      },
+      {
+        "colspan": 1,
+        "content": "7"
+      },
+      {
+        "colspan": 1,
+        "content": "10"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      },
+      {
+        "colspan": 1,
+        "content": "0.11"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Dynein HC"
+      },
+      {
+        "colspan": 1,
+        "content": "174"
+      },
+      {
+        "colspan": 1,
+        "content": "224"
+      },
+      {
+        "colspan": 1,
+        "content": "85"
+      },
+      {
+        "colspan": 1,
+        "content": "91"
+      },
+      {
+        "colspan": 1,
+        "content": "0.46"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "(Experiment 3)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p150"
+      },
+      {
+        "colspan": 1,
+        "content": "103"
+      },
+      {
+        "colspan": 1,
+        "content": "158"
+      },
+      {
+        "colspan": 1,
+        "content": "77"
+      },
+      {
+        "colspan": 1,
+        "content": "144"
+      },
+      {
+        "colspan": 1,
+        "content": "0.31"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p50"
+      },
+      {
+        "colspan": 1,
+        "content": "25"
+      },
+      {
+        "colspan": 1,
+        "content": "51"
+      },
+      {
+        "colspan": 1,
+        "content": "19"
+      },
+      {
+        "colspan": 1,
+        "content": "66"
+      },
+      {
+        "colspan": 1,
+        "content": "0.44"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Arp1"
+      },
+      {
+        "colspan": 1,
+        "content": "20"
+      },
+      {
+        "colspan": 1,
+        "content": "86"
+      },
+      {
+        "colspan": 1,
+        "content": "26"
+      },
+      {
+        "colspan": 1,
+        "content": "60"
+      },
+      {
+        "colspan": 1,
+        "content": "0.24"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Arp11"
+      },
+      {
+        "colspan": 1,
+        "content": "28"
+      },
+      {
+        "colspan": 1,
+        "content": "45"
+      },
+      {
+        "colspan": 1,
+        "content": "32"
+      },
+      {
+        "colspan": 1,
+        "content": "132"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p62"
+      },
+      {
+        "colspan": 1,
+        "content": "19"
+      },
+      {
+        "colspan": 1,
+        "content": "24"
+      },
+      {
+        "colspan": 1,
+        "content": "27"
+      },
+      {
+        "colspan": 1,
+        "content": "79"
+      },
+      {
+        "colspan": 1,
+        "content": "1.12"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p25"
+      },
+      {
+        "colspan": 1,
+        "content": "7"
+      },
+      {
+        "colspan": 1,
+        "content": "10"
+      },
+      {
+        "colspan": 1,
+        "content": "7"
+      },
+      {
+        "colspan": 1,
+        "content": "29"
+      },
+      {
+        "colspan": 1,
+        "content": "0.99"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cap alpha"
+      },
+      {
+        "colspan": 1,
+        "content": "9"
+      },
+      {
+        "colspan": 1,
+        "content": "9"
+      },
+      {
+        "colspan": 1,
+        "content": "9"
+      },
+      {
+        "colspan": 1,
+        "content": "19"
+      },
+      {
+        "colspan": 1,
+        "content": "0.72"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cap beta"
+      },
+      {
+        "colspan": 1,
+        "content": "12"
+      },
+      {
+        "colspan": 1,
+        "content": "15"
+      },
+      {
+        "colspan": 1,
+        "content": "7"
+      },
+      {
+        "colspan": 1,
+        "content": "7"
+      },
+      {
+        "colspan": 1,
+        "content": "0.16"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Dynein HC"
+      },
+      {
+        "colspan": 1,
+        "content": "243"
+      },
+      {
+        "colspan": 1,
+        "content": "479"
+      },
+      {
+        "colspan": 1,
+        "content": "211"
+      },
+      {
+        "colspan": 1,
+        "content": "552"
+      },
+      {
+        "colspan": 1,
+        "content": "0.39"
+      }
+    ]
+  ]
+}

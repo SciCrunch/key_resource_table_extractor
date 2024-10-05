@@ -1,0 +1,159 @@
+{
+  "name": "587199_main_page_17_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "(AT5G15400) forward"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Primer U-BOX (AT5G15400) reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "\u20185-TGCTGCCCAACATCAGGTT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "Albrecht et al. 2012."
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Hormone"
+      },
+      {
+        "colspan": 1,
+        "content": "epi-Brassinolide"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma, E1641"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Enzyme"
+      },
+      {
+        "colspan": 1,
+        "content": "Pectin methylesterase from orange peel"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma, P5400"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Primary-Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "LM20"
+      },
+      {
+        "colspan": 1,
+        "content": "Kerafast, ELD003"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Primary-Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "JIM5"
+      },
+      {
+        "colspan": 1,
+        "content": "Kerafast, ELD004"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Primary-Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "LM19"
+      },
+      {
+        "colspan": 1,
+        "content": "Absolute Antibody, AB02545-23.0"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Secondary-Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "anti-Rat-HRP"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFischer Scientific, 31470"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Secondary-Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-Rabbit-HRP"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma, A0545"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Synthetic peptide"
+      },
+      {
+        "colspan": 1,
+        "content": "RALF23 (ATRRYISYGALRRNTIPCSRRGASYYNCRRGAQANPYSRGCSAITRCRRS)"
+      },
+      {
+        "colspan": 1,
+        "content": "Synpeptide 95% purity"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Synthetic peptide"
+      },
+      {
+        "colspan": 1,
+        "content": "RALF23n (ATRRYISYGALRRNTIPCSAAGASYYNCAAGAQANPYSAGCSAITACAAS)"
+      },
+      {
+        "colspan": 1,
+        "content": "Synpeptide 95% purity"
+      }
+    ]
+  ]
+}

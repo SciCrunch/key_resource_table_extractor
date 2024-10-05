@@ -1,0 +1,62 @@
+{
+  "headers": [],
+  "caption": "Chemical properties of compound C26. Values were generated with ChemAxon and DataWarrior.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "MW (g/mol) clogP clogS HBD HBA"
+      },
+      {
+        "colspan": 1,
+        "content": "pI"
+      },
+      {
+        "colspan": 1,
+        "content": "Rotatable bonds"
+      },
+      {
+        "colspan": 1,
+        "content": "Druglikeness"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "397"
+      },
+      {
+        "colspan": 1,
+        "content": "2.69"
+      },
+      {
+        "colspan": 1,
+        "content": "-3.79"
+      },
+      {
+        "colspan": 1,
+        "content": "1"
+      },
+      {
+        "colspan": 1,
+        "content": "5"
+      },
+      {
+        "colspan": 1,
+        "content": "10.4"
+      },
+      {
+        "colspan": 1,
+        "content": "6"
+      },
+      {
+        "colspan": 1,
+        "content": "2.68"
+      }
+    ],
+    [{
+      "colspan": 1,
+      "content": "Molecular weight (MW), H-bond donor (HBD) and acceptor (HBA), isoelectric point (pI)."
+    }]
+  ]
+}

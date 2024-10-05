@@ -1,0 +1,351 @@
+{
+  "name": "589759_main_page_23_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "REAGENT or RESOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "SOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "IDENTIFIER"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-HA.11 Epitope Tag Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "901514"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse \u03b2 Actin Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "3700S"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit \u03b2 Actin Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "8457S"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Purified anti-Myelin Basic Protein [SMI 99]"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "808401"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MOG (E5K6T) XP\u00ae Rabbit mAb"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "96457S"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Donkey Anti-Rabbit IgG Antibody, IRDye800"
+      },
+      {
+        "colspan": 1,
+        "content": "Li-COR Biosciences"
+      },
+      {
+        "colspan": 1,
+        "content": "926-32213"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Donkey Anti-Mouse IgG Antibody, IRDye680"
+      },
+      {
+        "colspan": 1,
+        "content": "Li-COR Biosciences"
+      },
+      {
+        "colspan": 1,
+        "content": "926-68072"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Chicken anti-GFP"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab13970"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-chicken 488"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "A11039"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Chemicals, Peptides, and Recombinant Proteins"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "4OH-tamoxifen"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "H7904"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "VECTASHIELD Antifade Mounting Medium w/ DAPI"
+      },
+      {
+        "colspan": 1,
+        "content": "Vector Labs"
+      },
+      {
+        "colspan": 1,
+        "content": "H-1200"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Recombinant RNAsin Ribonuclease Inhibitor"
+      },
+      {
+        "colspan": 1,
+        "content": "Promega"
+      },
+      {
+        "colspan": 1,
+        "content": "N2515"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Dithiothreitol (DTT)"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "10708984001"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cycloheximide"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "C7698-1G"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Dynabeads; Protein G"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "10004D"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Alcohol, ethyl for DNA and RNA"
+      },
+      {
+        "colspan": 1,
+        "content": "American Bio"
+      },
+      {
+        "colspan": 1,
+        "content": "AB00515"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Water, nuclease free, endotoxin tested, ultra-pure"
+      },
+      {
+        "colspan": 1,
+        "content": "American Bio"
+      },
+      {
+        "colspan": 1,
+        "content": "AB02123"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "0.3% Cuprizone diet"
+      },
+      {
+        "colspan": 1,
+        "content": "Envigo"
+      },
+      {
+        "colspan": 1,
+        "content": "TD.140805"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Critical Commercial Assays"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Luxol fast blue (Myelin stain)"
+      },
+      {
+        "colspan": 1,
+        "content": "iHisto"
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.ihisto.io/"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Deposited Data"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "10x Single Nucleus RNA-seq"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper"
+      },
+      {
+        "colspan": 1,
+        "content": "GEO: GSE263981"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bulk RNA-seq"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper"
+      },
+      {
+        "colspan": 1,
+        "content": "GEO: GSE263979"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Experimental Models: Organisms/Strains"
+      }
+    ]
+  ]
+}

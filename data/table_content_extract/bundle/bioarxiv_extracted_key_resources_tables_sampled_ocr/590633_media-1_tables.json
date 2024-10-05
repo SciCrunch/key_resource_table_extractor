@@ -1,0 +1,200 @@
+{
+  "paper_id": "590633_media-1",
+  "result": {
+    "pages": [
+      {
+        "page": 12,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Organism ",
+                "Gene ",
+                "Forward (5-->3)",
+                " Reverse (5-->3)"
+              ],
+              [
+                "Mouse",
+                "Tnfa",
+                "CTTCTGTCTACTGAACTTCGGG",
+                "CAGGCTTGTCACTCGAATITTG"
+              ],
+              [
+                "Mouse",
+                "Ccl2",
+                "TTAAAAACCTGGATCGGAACCAA",
+                "GCATTAGCTTCAGATTTACGGGT"
+              ],
+              [
+                "Mouse",
+                "ling",
+                "ATGAACGCTACACACTGCATC",
+                "CCATCCTTTIGCCAGTTCCTC"
+              ],
+              [
+                "Mouse",
+                "Cxcl10",
+                "CCAAGTGCTGCCGTCATTTTC",
+                "GGCTCGCAGGGATGATTTCAA"
+              ],
+              [
+                "Mouse",
+                "Acta2",
+                "ATGCTCCCAGGGCTGTTTTICCCAT",
+                "GTGGTGCCAGATCTTTICCATGTCG"
+              ],
+              [
+                "Mouse",
+                "Mmp2",
+                "GAGATCTTICTTCTTCAAGGAC",
+                "AATAGACCCAGTACTCATTCC"
+              ],
+              [
+                "Mouse",
+                "Ddit3",
+                "CCACCACACCTGAAAGCAGAA",
+                "AGGTGAAAGGCAGGGACTCA"
+              ],
+              [
+                "Mouse",
+                "Mmp9",
+                "CTGGACAGCCAGACACTAAAG",
+                "CTCGCGGCAAGTCTTCAGAG"
+              ],
+              [
+                "Mouse",
+                "Mmp12",
+                "CTGCTCCCATGAATGACAGTG",
+                "AGTTGCTTCTAGCCCAAAGAAC."
+              ],
+              [
+                "Mouse",
+                "Hort",
+                "TCAGTCAACGGGGGACATAAA",
+                "GGGGCTGTACTGCTTAACCAG"
+              ],
+              [
+                "Human",
+                "HPRT",
+                "CCTGGCGTCGTGATTAGTGAT",
+                "AGACGTTCAGTCCTGTCCATAA"
+              ],
+              [
+                "Human",
+                "MMP2",
+                "CCCACTGCGGTTTICTCGAAT",
+                "CAAAGGGGTATCCATCGCCAT"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "ID",
+                " Age",
+                "",
+                " Sex",
+                "Pathological\ndiagnoses"
+              ],
+              [
+                "1.",
+                "Cf",
+                "N/A",
+                "N/A",
+                "Normal liver"
+              ],
+              [
+                "2",
+                "a",
+                "N/A",
+                "N/A",
+                "Normal liver"
+              ],
+              [
+                "3",
+                "a ae",
+                "N/A",
+                "N/A",
+                "Normal liver"
+              ],
+              [
+                "4",
+                "a",
+                "N/A",
+                "N/A",
+                "Normal liver"
+              ],
+              [
+                "5",
+                "nn",
+                "NIA",
+                "N/A",
+                "Normal liver"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "Antibodies",
+                "Supplier / Catalog. No"
+              ],
+              [
+                "Rabbit anti-FPR2 (M-73)",
+                "Santa Cruz Biotechnology / #sc-66901"
+              ],
+              [
+                "Rabbit anti-INOS -",
+                "Abcam /#ab213987."
+              ],
+              [
+                "Rabbit anti-Arq1",
+                "Cell Signaling Technoloay / #93668"
+              ],
+              [
+                "Rat anti-F4/80_",
+                "Biolegend /#123113."
+              ],
+              [
+                "Rabbit anti-ohospho-STAT1 (Tyr701)",
+                "Cell Signaling Technoloay / #9167"
+              ],
+              [
+                "Rabbit anti-STAT1",
+                "Cell Signaling Technology / #14994"
+              ],
+              [
+                "Rabbit anti-cleaved CASPASE-3 (Asp175)",
+                "Cell Signaling Technoloay / #9661"
+              ],
+              [
+                "",
+                "Santa Cruz Biotechnoloay / #sc-7351"
+              ],
+              [
+                "Rabbit anti-beta-ACTIN (HRP)",
+                "Cell Signaling Technoloay / #5125"
+              ],
+              [
+                "Rat anti-MAC-2 OO",
+                "Cedarlane /#CL8942AP \u2014"
+              ],
+              [
+                "Rabbit anti-HNF4a",
+                "Cell Signaling Technology / #3113"
+              ],
+              [
+                "Donkey anti-rabbit (AF647)",
+                "Invitrogen /#A31573.\u2014"
+              ],
+              [
+                "Donkey anti-mouse (AF555)\u2014 (wti(i\u2018Ct\u00e9S#",
+                "Invitrogen / #A31570"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

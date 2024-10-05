@@ -1,0 +1,76 @@
+{
+  "paper_id": "590647_media-1",
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Strain",
+                "Reference",
+                "Forward primer",
+                "Reverse primer"
+              ],
+              [
+                "E. coli BW25113",
+                "",
+                "",
+                ""
+              ],
+              [
+                "E. coli BW25113 \uf044hfq",
+                "(1)",
+                "",
+                ""
+              ],
+              [
+                "E. coli BW25113 \uf044rhlB",
+                "(1)",
+                "",
+                ""
+              ],
+              [
+                "E. coli BW25113 \uf044pnp",
+                "(1)",
+                "",
+                ""
+              ],
+              [
+                "     E. coli BW25113 \uf044micF",
+                "     This study",
+                "GTCAAAACAAA ACCTTCACTCG CAACTAGAATA ACTCCCGGTGT AGGCTGGAGCT GCTTC",
+                "AGTGTGTAAAG AAGGGTAAAAA AAACCGAATGC GAGGCATATG GGAATTAGCCA TGGTCC"
+              ],
+              [
+                "     E. coli BW25113 rne-131",
+                "     This study",
+                "CTTCTTCGGCG CACTGAAAGCG CTGTTCAGCGG TGGTTAAGTGT AGGCTGGAGCT GCTTC",
+                "GATTACTTTGA GCTAATTATTA CTCAACAGGTT GCGGACGATG GGAATTAGCCA TGGTCC"
+              ],
+              [
+                "     E. coli BW25113 \uf044rhlB \uf044pnp",
+                "     This study",
+                "CGTAAGGTACT GTCTAAGAAAG AGAAAGGATAT TACATTGGTGT AGGCTGGAGCT GCTTC",
+                "CGGAGGGCAA ATGGCAACCTT ACTCGCCCTGT TCAGCAGCAT GGGAATTAGC CATGGTCC"
+              ],
+              [
+                "    E. coli BW25113 \uf044micF obgE:3xFLAG",
+                "     This study",
+                "CGAAGACGACG AAGAAGGCGTT GAGTTCATTTAC AAGCGTGACTA CAAAGACCATG ACGG",
+                "AAATCGTGCAA ATTCAACATAT TGCAATTCTCT TGTAGGCATG GGAATTAGCCA TGGTCC"
+              ],
+              [
+                "    E. coli BW25113 \uf044micF seqA:3xFLAG",
+                "     This study",
+                "ATTCCCGGCGG AATTGATTGAG AAGGTTTGCGG AACTATCGACT ACAAAGACCAT GACGG",
+                "TGGGCGACGT TAATCAAATCA CTCTGTTGTGC AGGTTGGCAT GGGAATTAGC CATGGTCC"
+              ]
+            ]
+          }
+        ],
+        "page": 2
+      }
+    ]
+  }
+}

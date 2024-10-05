@@ -1,0 +1,352 @@
+{
+  "job_id": 78,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_586589_main",
+  "pdf_file": "586589_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Antibodies Rabbit Polyclonal anti-plin2",
+                "Abgent",
+                "AP5118c-ev, RRID:AB_10662954"
+              ],
+              [
+                "Rabbit Polyclonal anti-Calnexin",
+                "Proteintech",
+                "10427-2-AP, RRID: AB_2069033"
+              ],
+              [
+                "Mouse Monoclonal anti-alpha-Tubulin",
+                "EMD Millipore",
+                "CP06, RRID: AB_2617116"
+              ],
+              [
+                "Rabbit Polyclonal anti-ATGL",
+                "Cell Signaling Technology",
+                "2138, RRID: AB_2167955"
+              ],
+              [
+                "Rabbit Monoclonal anti-GM130",
+                "Cell Signaling Technology",
+                "12480, RRID: AB_2797933"
+              ],
+              [
+                "Rabbit Polyclonal anti-VDAC1",
+                "Cell Signaling Technology",
+                "4866, RRID: AB_2272627"
+              ],
+              [
+                "Mouse Monoclonal anti-\u03b2-actin",
+                "Millipore Sigma",
+                "A2228, RRID:"
+              ],
+              [
+                "Mouse Monoclonal anti-V5",
+                "Thermo Fisher Scientific",
+                "AB_476697 R960-25 RRID:AB_2556564"
+              ],
+              [
+                "Rabbit Monoclonal anti-GAPDH",
+                "Cell Signaling Technology",
+                "5174, RRID:AB_10622025"
+              ]
+            ]
+          }
+        ],
+        "page": 12
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Streptavidin-HRP",
+                "Cell Signaling Technology",
+                "3999 RRID:AB_10830897"
+              ],
+              [
+                "Rabbit Polyclonal anti-DHRS3",
+                "Proteintech",
+                "15393-1-AP, 15393-"
+              ],
+              [
+                "Goat anti-Rabbit IgG (H+L) Secondary Antibody, HRP",
+                "Abcam",
+                "1-AP ab97051-1003, RRID:AB_10679369"
+              ],
+              [
+                "Rabbit anti-Mouse IgG (H+L) Secondary antibody, HRP",
+                "Abcam",
+                "Abcam Cat# ab97046,"
+              ],
+              [
+                "Rabbit anti-MITF",
+                "Millipore Sigma",
+                "RRID:AB_10680920 (Atlas Antibodies Cat# HPA003259,"
+              ],
+              [
+                "Rabbit Monoclonal anti-GAPDH",
+                "Santa Cruz Biotechnology",
+                "RRID:AB_1079381) (Santa Cruz Biotechnology Cat# sc-32233, RRID:AB_627679)"
+              ],
+              [
+                "Anti-Rabbit IgG (H+L) F(ab')2 Fragment (Alexa Fluor 488 Conjugate",
+                "Cell Signaling Technology",
+                "(Cell Signaling Technology Cat# 4412 (also 4412S), RRID:AB_1904025)"
+              ],
+              [
+                "Goat anti-Mouse IgG (H+L) Cross Absorbed, Alexa Fluor 555",
+                "Fisher Scientific",
+                "(Thermo Fisher Scientific Cat# A-21422, RRID:AB_2535844)"
+              ]
+            ]
+          }
+        ],
+        "page": 13
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Applied Biosystems PowerUp SYBR Green Master Mix",
+                "Thermo Fisher",
+                "A25742"
+              ],
+              [
+                "",
+                "Scientific",
+                ""
+              ],
+              [
+                "Critical commercial assays Cyquant Direct Red Cell Proliferation Assay",
+                "Thermo Fisher",
+                "C35013"
+              ],
+              [
+                "Pierce BCA Protein Assay",
+                "Scientific Thermo Fisher",
+                "23225"
+              ],
+              [
+                "",
+                "Scientific",
+                ""
+              ],
+              [
+                "RNeasy Mini Kit",
+                "QIAGEN",
+                "74106"
+              ],
+              [
+                "QuantSeq Forward Kit SuperScript IV First-Strand Synthesis System",
+                "LEXOGEN Thermo Fisher",
+                "0.15.96 18091200"
+              ],
+              [
+                "",
+                "Oxford)",
+                ""
+              ],
+              [
+                "Oligonucleotides",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 14
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "TYR qPCR Primer:",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "CTTGAAAAGAGTCTGGGTCTGA PMEL qPCR Primer:  CCCCAGGAAACTGACGATGC",
+                "83P. Zhang et a., 2012",
+                "DOI:10.1371/journal.pone.004295"
+              ],
+              [
+                "PMEL qPCR Primer:  AGCCACAGGAGGTGAGAGGAAT",
+                "83P. Zhang et al., 2012",
+                "DOI:10.1371/journal.pone.004295"
+              ],
+              [
+                "TYRP1 qPCR Primer:  CGAAACACAGTGGAAGGTTACAG",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "TYRP1 qPCR Primer:  AAGGTGTGCAGGAGGACAAA",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "MITF qPCR Primer:  GGGCTCTGTTCTCACTTTCCA",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "MITF qPCR Primer:  GGCGGAACTGCTGCTCTT",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "Beta-actin qPCR Primer:",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "CACCAACTGGGACGACAT Beta-actin qPCR Primer:",
+                "This paper",
+                "N/A"
+              ],
+              [
+                "ACAGCCTGGATAGCAACG",
+                "",
+                ""
+              ],
+              [
+                "Recombinant DNA pLenti CMV TetR Blast (716-1)",
+                "Addgene",
+                "RRID:Addgene_174"
+              ],
+              [
+                "PLIN2-V5-APEX2, pLenti CMV/TO Puro Dest",
+                "Addgene",
+                "92 RRID:Addgene_170"
+              ],
+              [
+                "Cyto-V5-APEX2, pLenti CMV/TO Puro Dest",
+                "Addgene",
+                "573 RRID:Addgene_170"
+              ],
+              [
+                "CCSB-Broad LentiORF - DHRS3 Clone",
+                "Dharmacon",
+                "572 OHS6085-213579870"
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Software and algorithms R/RStudio 4.3.2",
+                "R Foundation for Statistical Computing",
+                "https://www.r-project.org/"
+              ],
+              [
+                "MATLAB R2022b",
+                "Mathworks",
+                "https://www.mathworks.com/products/matlab.html"
+              ],
+              [
+                "FIJI  2.0.0-rc-65/1.54f",
+                "ImageJ",
+                "https://imagej.net/software/fiji/downloads"
+              ],
+              [
+                "PRISM 9.4.1",
+                "GraphPad",
+                "https://www.graphpad.com/features"
+              ],
+              [
+                "gProfiler",
+                "84Kolberg et al., 2023",
+                "https://biit.cs.ut.ee/g"
+              ]
+            ]
+          }
+        ],
+        "page": 15
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Biorender",
+                "",
+                "https://www.biorender.com/"
+              ],
+              [
+                "MaxQuant 2.0.3.0",
+                "Cox & Mann, 2008; Tyanova, Temu, &",
+                "https://www.maxquant.org/"
+              ],
+              [
+                "Perseus 1.6.15.0",
+                "85,86Cox, 2016 Tyanova, Temu, 87Sinitcyn, et al., 2016",
+                "https://cox-labs.github.io/coxdocs/perseus_instructions.html#cite"
+              ],
+              [
+                "GSEA",
+                "",
+                "https://www.gsea-msigdb.org/gsea/msigdb"
+              ],
+              [
+                "Salmon v1.10.2",
+                "Patro, Duggal, Love, Irizarry, & Kingsford, 882017",
+                "https://salmon.readthedocs.io/en/latest/salmon.html"
+              ],
+              [
+                "Trimmomatic v0.39.1",
+                "Bolger, Lohse, & 89Usadel, 2014",
+                "http://www.usadellab.org/cms/?page=trimmomatic"
+              ],
+              [
+                "DESeq2 1.36.0",
+                "Love, Huber, & 90Anders, 2014",
+                "https://bioconductor.org/packages/release/bioc/html/DESeq2.html"
+              ],
+              [
+                "EdgeR",
+                "Robinson, McCarthy, 91& Smyth, 2010",
+                "https://bioconductor.org/packages/release/bioc/html/edgeR.html"
+              ],
+              [
+                "STAR (v.2.5.1b)",
+                "92Dobin, et al., 2013",
+                "https://github.com/alexdobin/STAR"
+              ],
+              [
+                "FastQC (v.0.11.7)",
+                "Babraham Bioinformatics",
+                "https://www.bioinformatics.babraham.ac.uk/projects/fastqc/"
+              ],
+              [
+                "CutAdapt (v.2.8)",
+                "93Martin, 2011",
+                "https://journal.embnet.org/index.php/embnetjournal/article/view/200"
+              ],
+              [
+                "Homer (v4.11)",
+                "94Heinz et al., 2010",
+                "http://homer.ucsd.edu/homer/"
+              ],
+              [
+                "Fgsea (v1.28.0)",
+                "95Gennady et al., 2021",
+                "https://bioconductor.org/packages/releas"
+              ]
+            ]
+          }
+        ],
+        "page": 16
+      }
+    ]
+  }
+}

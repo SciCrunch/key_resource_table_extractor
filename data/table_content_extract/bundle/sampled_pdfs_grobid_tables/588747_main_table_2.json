@@ -1,0 +1,27 @@
+{
+  "headers": [],
+  "notes": "***p≤0.001; ns, not significant p> 0.05. (C) RNA coimmunoprecipitation of Nphp1 mRNA with BICC1 in Ctrl, KD_GFP, KD_WT, and KD_P269L mIMCD3 cells. Immunoprecipitates were subjected to RT-PCR for Nphp1, Adcy6 as negative control and Gapdh. Western blot with BICC1 antibody (bottom panel) was performed on immunoprecipitates. Quantifications of total and immunoprecipitated Nphp1 and Adcy6 mRNAs are based on 4 independent experiments. Values are the mean ± sem. p-values were determined by one-way ANOVA followed by Dunn's multiple comparison test; *p ≤ 0.05; ns, not significant p> 0.05. (D) qPCR analysis of relative Nphp1 mRNA expression normalized to",
+  "caption": "Hprt in Ctrl, KD_GFP, KD_WT, and KD_P269L mIMCD3 cells transfected with a scramble siRNA or BICC1targeting siRNA. Values are the mean ± sem. from 3 independent experiments; p-values were determined by one-way ANOVA followed by Dunn's multiple comparison test; ***p ≤ 0.001; ns, not significant p> 0.05. (E-F) qPCR analysis of murine Nphp1 mRNA decay kinetics after actinomycin D (ActD) treatment in Ctrl, KD_GFP, KD_WT, and KD_P269L mIMCD3 cells (E), and transfected with scramble or BICC1-targeting siRNA (F). Values are the mean ± sem. of 3 independent experiments; *comparison of Ctrl vs. KD_GFP; # comparison of Ctrl vs KD_P269L; p-values were determined by one-way ANOVA followed by Dunn's multiple comparison test; ns: non-significant p>0.05, **/## p ≤ 0.01, ***/### p ≤0.001.",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": ". (B) Western blot analysis of"
+    }],
+    [{
+      "colspan": 1,
+      "content": "NPHP1 expression in KD_GFP, KD_WT, and KD_P269L mIMCD3 cells transfected with a scramble siRNA"
+    }],
+    [{
+      "colspan": 1,
+      "content": "or BICC1-targeting siRNA. Quantification of NPHP1 expression by western blot is based on 3 independent"
+    }],
+    [{
+      "colspan": 1,
+      "content": "experiments. Error bars represent the sem. p-values were determined by one-way ANOVA followed by"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Dunn's multiple comparison test,"
+    }]
+  ]
+}

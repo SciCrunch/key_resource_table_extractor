@@ -1,0 +1,31 @@
+{
+  "headers": [],
+  "notes": "\u2022 2-((3-Chloro-4-methylphenyl)sulfonamido)-N-methylbenzamide (101) Obtained as white solid in 30% yield. 1 H-NMR (CDCl3), δ: 2.39, (s, 3H, H-7), 2.94 (d, J= 4.8 Hz, 3H, H-15), 6.06 (bs, 1H, NH), 7.07-7.11 (m, 1H, H-aromatic), 7.26-7.29 (m, 1H, H-aromatic), 7.36 (d, J= 7.9 Hz, 1H, H-3), 7. 1H, 7.60 (dd, J1=  8.1 Hz, J2= 1.7 Hz, 1H, 7.69 (d, J= 7.9 Hz, 1H, 1H,, 10.87 (bs, 1H, NH). 13 C-NMR (CDCl3), δ 20.2 (CH3), 26.7 (CH3",
+  "caption": "was then added and the resulting solution was stirred at room temperature for 6 hours. The solvent was evaporated and the residue dissolved in ethyl acetate (10mL/mmol). The solution was washed sequentially with water and brine. The organic layer was dried over MgSO4 and then evaporated. Desired products were purified by column chromatography or recrystallisation.",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": ", 167.0 (C,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "C-14). UPLC-MS: Rt 2.38 (>97%%) MS (ESI) -: 414.1 [M-H] -."
+    }],
+    [{
+      "colspan": 1,
+      "content": "1.7 General procedure for the synthesis of: alkyl(arylsulfonamido) carboxamide (101-105)"
+    }],
+    [{
+      "colspan": 1,
+      "content": "A suspension of CDI (1.2eq) and the appropriate carboxylic acid (3,69) (1eq) in THF (6"
+    }],
+    [{
+      "colspan": 1,
+      "content": "mL/mmol) was stirred at room temperature overnight. A 2N solution of alkylamine in THF"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(1.5eq)"
+    }]
+  ]
+}

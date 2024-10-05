@@ -1,0 +1,225 @@
+{
+  "name": "583283_main_page_6_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": " "
+      },
+      {
+        "colspan": 1,
+        "content": "(rabbit monoclonal)"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      },
+      {
+        "colspan": 1,
+        "content": "P "
+      },
+      {
+        "colspan": 1,
+        "content": "IF (1:100) "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Antibody  "
+      },
+      {
+        "colspan": 1,
+        "content": "Anti- vimentin (mouse monoclonal)"
+      },
+      {
+        "colspan": 1,
+        "content": " HUABIO  "
+      },
+      {
+        "colspan": 1,
+        "content": " Cat# EM0401 "
+      },
+      {
+        "colspan": 1,
+        "content": "WB (1:1000) IHC (1:200) IF (1:100) "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Antibody "
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-snail (rabbit monoclonal)"
+      },
+      {
+        "colspan": 1,
+        "content": " ABclonal "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# A5243 "
+      },
+      {
+        "colspan": 1,
+        "content": "WB (1:1000) IHC (1:00) IF (1:100)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Antibody "
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-GAPDH (rabbit monoclonal)"
+      },
+      {
+        "colspan": 1,
+        "content": " CST "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 5174 "
+      },
+      {
+        "colspan": 1,
+        "content": " WB (1:1000) "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Antibody  "
+      },
+      {
+        "colspan": 1,
+        "content": "Anti- \u03b2-tubulin (rabbit monoclonal)"
+      },
+      {
+        "colspan": 1,
+        "content": " ABclonal  "
+      },
+      {
+        "colspan": 1,
+        "content": " Cat# AC008 "
+      },
+      {
+        "colspan": 1,
+        "content": " WB (1:5000)  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sequence- based reagent"
+      },
+      {
+        "colspan": 1,
+        "content": "RGS10_F "
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "PCR primers"
+      },
+      {
+        "colspan": 1,
+        "content": "CACGACAGCGAT GGCAGTTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sequence- based reagent"
+      },
+      {
+        "colspan": 1,
+        "content": "RGS10_R "
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "PCR primers"
+      },
+      {
+        "colspan": 1,
+        "content": "CTTTTCACGCCTT CTGGGTCTTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sequence- based reagent"
+      },
+      {
+        "colspan": 1,
+        "content": "MiR-539-5p_F "
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "PCR primers"
+      },
+      {
+        "colspan": 1,
+        "content": "CGCTGCATGGAG AAATTATCCT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sequence- based reagent"
+      },
+      {
+        "colspan": 1,
+        "content": "MiR-539-5p_R "
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "PCR primers"
+      },
+      {
+        "colspan": 1,
+        "content": "CAGTGCAGGGTC CGAGGT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " Software, algorithm "
+      },
+      {
+        "colspan": 1,
+        "content": "  SPSS "
+      },
+      {
+        "colspan": 1,
+        "content": "  SPSS "
+      },
+      {
+        "colspan": 1,
+        "content": "SPSS, version 25.0 Armonk, NY, USA"
+      },
+      {
+        "colspan": 1,
+        "content": "   "
+      }
+    ]
+  ]
+}

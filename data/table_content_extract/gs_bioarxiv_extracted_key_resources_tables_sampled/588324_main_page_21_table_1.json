@@ -1,0 +1,339 @@
+{
+  "name": "588324_main_page_21_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "REAGENT or RESOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "SOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "IDENTIFIER"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse monoclonal 9.4A anti-Trio   "
+      },
+      {
+        "colspan": 1,
+        "content": "University of Iowa Developmental Studies Hybridoma Bank"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:AB_528494   "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse monoclonal ADL101 anti-Lamin   "
+      },
+      {
+        "colspan": 1,
+        "content": "University of Iowa Developmental Studies Hybridoma Bank"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:AB_528332   "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse monoclonal 1D4 anti-Fasciclin II   "
+      },
+      {
+        "colspan": 1,
+        "content": "University of Iowa Developmental Studies Hybridoma Bank"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_528235   "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit Polyclonal Anti-Green Fluorescent Protein (GFP) "
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#A-11122 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Alexa Fluor\u00ae 488 AffiniPure Polyclonal Goat Anti-rabbit IgG "
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson ImmunoResearch Laboratories"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_2338046  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cy\u21223 AffiniPure Polyclonal Goat Anti-Mouse IgG  "
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson ImmunoResearch Laboratories"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_2338690  "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Chemicals, peptides, and recombinant proteins"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TRIzol reagent"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#15596018"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "1-Bromo-3-chloropropane "
+      },
+      {
+        "colspan": 1,
+        "content": "Scientific Laboratory Supplies"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# B9673 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "2-propanol/isopropanol"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#A416-1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ethanol 200 proof"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#04-355-233"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Diethyl pyrocarbonate (DEPC)"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#D5758"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Agarose LE, Quick Dissolve"
+      },
+      {
+        "colspan": 1,
+        "content": "Genesee Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#20-102QD"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Red Safe"
+      },
+      {
+        "colspan": 1,
+        "content": "iNtRON Biotechnology"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 21141"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NaCl"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#S7653"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "KCl"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#P3911"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ZnCl2"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#208086"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Polysorbate 20 (Tween\u00ae 20)"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Bioreagents"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#BP-337-500"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Triton X-100"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#T8787"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tris Base Ultrapure "
+      },
+      {
+        "colspan": 1,
+        "content": "USBiological Life Sciences"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#T8600 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium Dodecyl Sulfate"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Bioreagents"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#YBP166500"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium deoxycholate"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#89905"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NP-40"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#85124"
+      }
+    ]
+  ]
+}

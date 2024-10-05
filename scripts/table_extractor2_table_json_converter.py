@@ -5,8 +5,11 @@ import shutil
 from pathlib import Path
 from collections import defaultdict
 
+from pg_config import get_work_dir
 
-HOME = os.path.expanduser("~")
+
+# HOME = os.path.expanduser("~")
+WD = get_work_dir()
 
 
 class CellInfo(object):
@@ -204,7 +207,7 @@ def convert_extractor_to_table_json(extractor_json_fpath, out_dir: Path, prefix=
 
 
 def convert_main_pipeline_result():
-    in_root = Path(HOME, "data/table_content_extract/bundle/bioarxiv_extracted_key_resources_tables_sampled")
+    in_root = Path(WD, "data/table_content_extract/bundle/bioarxiv_extracted_key_resources_tables_sampled")
     out_root = Path("/tmp/bioarxiv_extracted_key_resources_tables_sampled_table_json")
     out_root.mkdir(parents=True, exist_ok=True)
     in_json_paths = in_root.glob("*.json")
@@ -213,7 +216,7 @@ def convert_main_pipeline_result():
 
 
 def convert_main_pipeline_merged_result():
-    in_root = Path(HOME, "data/table_content_extract/bundle/bioarxiv_main_merged")
+    in_root = Path(WD, "data/table_content_extract/bundle/bioarxiv_main_merged")
     out_root = Path("/tmp/bioarxiv_main_merged_table_json")
     out_root.mkdir(parents=True, exist_ok=True)
     in_json_paths = in_root.glob("*.json")
@@ -222,8 +225,8 @@ def convert_main_pipeline_merged_result():
 
 
 def convert_main_pipeline_with_row_info_result():
-    ref_root = Path(HOME, "data/table_content_extract/bundle/bioarxiv_extracted_key_resources_tables_sampled")
-    in_root = Path(HOME, "data/table_content_extract/bundle/extracted_key_resources_tables_with_row_info_sampled_v2")
+    ref_root = Path(WD, "data/table_content_extract/bundle/bioarxiv_extracted_key_resources_tables_sampled")
+    in_root = Path(WD, "data/table_content_extract/bundle/extracted_key_resources_tables_with_row_info_sampled_v2")
     out_root = Path("/tmp/bioarxiv_extracted_key_resources_tables_with_row_info_sampled_table_json")
     out_root.mkdir(parents=True, exist_ok=True)
     ref_json_path_map = {rfp.name: rfp for rfp in ref_root.glob("*.json")}
@@ -235,8 +238,8 @@ def convert_main_pipeline_with_row_info_result():
 
 
 def convert_ocr_pipeline_result():
-    ref_root = Path(HOME, "data/table_content_extract/bundle/bioarxiv_extracted_key_resources_tables_sampled")
-    in_root = Path(HOME, "data/table_content_extract/bundle/bioarxiv_extracted_key_resources_tables_sampled_ocr")
+    ref_root = Path(WD, "data/table_content_extract/bundle/bioarxiv_extracted_key_resources_tables_sampled")
+    in_root = Path(WD, "data/table_content_extract/bundle/bioarxiv_extracted_key_resources_tables_sampled_ocr")
     out_root = Path("/tmp/bioarxiv_extracted_key_resources_tables_sampled_ocr_table_json")
     out_root.mkdir(parents=True, exist_ok=True)
     ref_json_path_map = {rfp.name: rfp for rfp in ref_root.glob("*.json")}
@@ -248,8 +251,8 @@ def convert_ocr_pipeline_result():
 
 
 def prep_main_pipeline_gs_sampled_pdfs(out_dir: Path):
-    ref_root = Path(HOME, "data/table_content_extract/bundle/bioarxiv_extracted_key_resources_tables_sampled")
-    pdf_dir = Path(HOME, "data/table_content_extract/bundle/pdfs")
+    ref_root = Path(WD, "data/table_content_extract/bundle/bioarxiv_extracted_key_resources_tables_sampled")
+    pdf_dir = Path(WD, "data/table_content_extract/bundle/pdfs")
     out_dir.mkdir(parents=True, exist_ok=True)
     ref_json_paths = list(ref_root.glob("*.json"))
     pdf_filename_set = set()
@@ -267,8 +270,8 @@ def prep_main_pipeline_gs_sampled_pdfs(out_dir: Path):
 
 
 def convert_grobid_result():
-    grobid_root = Path(HOME, "data/table_content_extract/bundle/sampled_pdfs_grobid_tables")
-    gs_root = Path(HOME, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
+    grobid_root = Path(WD, "data/table_content_extract/bundle/sampled_pdfs_grobid_tables")
+    gs_root = Path(WD, "data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled")
     out_dir = Path("/tmp/bioarxiv_extracted_key_resources_tables_sampled_grobid_table_json")
     out_dir.mkdir(parents=True, exist_ok=True)
     matched_map = align_grobid_tables_2_gs(grobid_root, gs_root)
@@ -302,9 +305,6 @@ def cli():
 
 
 if __name__ == '__main__':
-    # convert_main_pipeline_result()
-    # convert_main_pipeline_with_row_info_result()
-    # prep_main_pipeline_gs_sampled_pdfs(Path("/tmp/sampled_pdfs"))
     cli()
 
 

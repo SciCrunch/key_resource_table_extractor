@@ -1,0 +1,305 @@
+{
+  "name": "591313_main_page_54_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Name "
+      },
+      {
+        "colspan": 1,
+        "content": "Genotype "
+      },
+      {
+        "colspan": 1,
+        "content": "Parental strain"
+      },
+      {
+        "colspan": 1,
+        "content": "Source "
+      }
+    ],
+    [
+      {
+        "colspan": 4,
+        "content": "Escherichia coli"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " pir116 "
+      },
+      {
+        "colspan": 1,
+        "content": "F- mcrA \u2206(mrr-hsdRMS-mcrBC) \u03d580dlacZ\u2206M15 \u2206lacX74 recA1 endA1 araD139 \u2206(ara, leu)7697 galU galK \u03bb\u2013 rpsL nupG pir-116(DHFR)"
+      },
+      {
+        "colspan": 1,
+        "content": "  "
+      },
+      {
+        "colspan": 1,
+        "content": "87  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " \u03b22163"
+      },
+      {
+        "colspan": 1,
+        "content": " (F-) RP4-2-Tc::Mu \u0394dapA::(erm-pir)"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      },
+      {
+        "colspan": 1,
+        "content": "88 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " NEB5\u03b1 "
+      },
+      {
+        "colspan": 1,
+        "content": "fhuA2 \u0394(argF-lacZ)U169 phoA glnV44 \u03a680 \u0394(lacZ)M15 gyrA96 recA1 relA1 endA1 thi-1 hsdR17"
+      },
+      {
+        "colspan": 1,
+        "content": "  "
+      },
+      {
+        "colspan": 1,
+        "content": " NEB "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " C41(DE3) "
+      },
+      {
+        "colspan": 1,
+        "content": " F- ompT hsdSB (rB- mB-) gal dcm (DE3) "
+      },
+      {
+        "colspan": 1,
+        "content": "  "
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-  Aldrich"
+      }
+    ],
+    [
+      {
+        "colspan": 4,
+        "content": "Salmonella Typhimurium"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " SL1344"
+      },
+      {
+        "colspan": 1,
+        "content": " Wild type"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      },
+      {
+        "colspan": 1,
+        "content": "52 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " SB1751"
+      },
+      {
+        "colspan": 1,
+        "content": " \u0394invA"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      },
+      {
+        "colspan": 1,
+        "content": "64 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " MIB4841 "
+      },
+      {
+        "colspan": 1,
+        "content": "\u0394hilD. Made by allelic exchange. Suicide  plasmid pMIB5779"
+      },
+      {
+        "colspan": 1,
+        "content": " SL1344 "
+      },
+      {
+        "colspan": 1,
+        "content": " This study "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " MIB5363 "
+      },
+      {
+        "colspan": 1,
+        "content": "\u0394hilA. Made by allelic exchange. Suicide  plasmid pMIB7636"
+      },
+      {
+        "colspan": 1,
+        "content": " SL1344 "
+      },
+      {
+        "colspan": 1,
+        "content": " This study "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " MIB5371 "
+      },
+      {
+        "colspan": 1,
+        "content": "\u0394rtsA. Made by allelic exchange. Suicide  plasmid pMIB7639"
+      },
+      {
+        "colspan": 1,
+        "content": " SL1344 "
+      },
+      {
+        "colspan": 1,
+        "content": " This study "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " MIB5585 "
+      },
+      {
+        "colspan": 1,
+        "content": "\u0394hilC. Made by allelic exchange. Suicide  plasmid pMIB7633"
+      },
+      {
+        "colspan": 1,
+        "content": " SL1344 "
+      },
+      {
+        "colspan": 1,
+        "content": " This study "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " MIB5591 "
+      },
+      {
+        "colspan": 1,
+        "content": "\u0394hilC \u0394rtsA. Made by allelic exchange. Suicide  plasmid pMIB7639"
+      },
+      {
+        "colspan": 1,
+        "content": " MIB5585 "
+      },
+      {
+        "colspan": 1,
+        "content": " This study "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " MIB5587 "
+      },
+      {
+        "colspan": 1,
+        "content": "\u0394hilD \u0394hilC. Made by allelic exchange. Suicide  plasmid pMIB7633"
+      },
+      {
+        "colspan": 1,
+        "content": " MIB4841 "
+      },
+      {
+        "colspan": 1,
+        "content": " This study "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " MIB5373 "
+      },
+      {
+        "colspan": 1,
+        "content": "\u0394hilD \u0394rtsA. Made by allelic exchange. Suicide  plasmid pMIB7639"
+      },
+      {
+        "colspan": 1,
+        "content": " MIB4841 "
+      },
+      {
+        "colspan": 1,
+        "content": " This study "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " MIB5593 "
+      },
+      {
+        "colspan": 1,
+        "content": "\u0394hilD \u0394hilC \u0394rtsA. Made by allelic exchange.  Suicide plasmid pMIB7639"
+      },
+      {
+        "colspan": 1,
+        "content": " MIB5587 "
+      },
+      {
+        "colspan": 1,
+        "content": " This study "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MIB3231"
+      },
+      {
+        "colspan": 1,
+        "content": "sipA-NLuc-myc"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "37"
+      }
+    ]
+  ]
+}

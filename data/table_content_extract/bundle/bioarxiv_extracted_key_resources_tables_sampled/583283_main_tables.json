@@ -1,0 +1,457 @@
+{
+  "job_id": 1313,
+  "job_status": "finished",
+  "paper_id": "583283_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Reagent type",
+                "",
+                "Source",
+                "",
+                "Additional"
+              ],
+              [
+                "(species) or",
+                "Designation",
+                "Or",
+                "Identifiers",
+                "information"
+              ],
+              [
+                "resource",
+                "",
+                "reference",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "Cell line cultured in"
+              ],
+              [
+                "Cell line",
+                "HER2+ breast",
+                "",
+                "",
+                "McCoy\u2019s 5A"
+              ],
+              [
+                "(SKBR3)",
+                "cancer cell line",
+                "ATCC",
+                "",
+                "Culture medium"
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "supplemented with"
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "10% FBS"
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "Cell line cultured in"
+              ],
+              [
+                "Cell line",
+                "ER+/PR+",
+                "",
+                "",
+                "DMEM high glucose"
+              ],
+              [
+                "(MCF-7)",
+                "breast cancer",
+                "ATCC",
+                "",
+                "Culture medium"
+              ],
+              [
+                "",
+                "cell line",
+                "",
+                "",
+                "supplemented with"
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "10% FBS"
+              ],
+              [
+                "",
+                "Triple-",
+                "",
+                "",
+                "Cell line cultured in"
+              ],
+              [
+                "Cell line",
+                "negative breast",
+                "ATCC",
+                "",
+                "L-15 Culture medium"
+              ],
+              [
+                "(MDA-MB-",
+                "cancer cell line",
+                "",
+                "",
+                "supplemented with"
+              ],
+              [
+                "231)",
+                "",
+                "",
+                "",
+                "10% FBS"
+              ],
+              [
+                "Transfected",
+                "RGS10",
+                "Syngentech",
+                "",
+                "Lentiviral construct"
+              ],
+              [
+                "construct",
+                "shRNA#161,3",
+                "Biotechnology",
+                "",
+                "to transfect and"
+              ],
+              [
+                "(human)",
+                "21,506",
+                "",
+                "",
+                "express the shRNA"
+              ],
+              [
+                "Transfected",
+                "miRNA-539-5",
+                "GenePharma",
+                "",
+                ""
+              ],
+              [
+                "construct",
+                "p mimics and",
+                "Biotechnology",
+                "",
+                ""
+              ],
+              [
+                "(human)",
+                "inhibitor",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Anti-",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Antibody",
+                "RGS10 (rabbit",
+                "Abcam",
+                "Cat#",
+                "WB (1:250)"
+              ],
+              [
+                "",
+                "monoclonal)",
+                "",
+                "ab154172",
+                "IHC (1:50)"
+              ],
+              [
+                "",
+                "Anti-",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Antibody",
+                "lipocalin-2",
+                "ABclonal",
+                "Cat#",
+                "WB(1:1000)"
+              ],
+              [
+                "",
+                "(rabbit",
+                "",
+                "A2092",
+                "IHC (1:500)"
+              ],
+              [
+                "",
+                "monoclonal)",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Anti-",
+                "",
+                "Cat#",
+                "WB (1:1000)"
+              ],
+              [
+                "Antibody",
+                "E-cadherin",
+                "Proteintech",
+                "20874-1-A",
+                "IHC (1:500)"
+              ]
+            ]
+          }
+        ],
+        "page": 5
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "(rabbit",
+                "",
+                "P",
+                "IF (1:100)"
+              ],
+              [
+                "",
+                "monoclonal)",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Anti-",
+                "",
+                "",
+                "WB (1:1000)"
+              ],
+              [
+                "Antibody",
+                "vimentin",
+                "HUABIO",
+                "Cat#",
+                "IHC (1:200)"
+              ],
+              [
+                "",
+                "(mouse",
+                "",
+                "EM0401",
+                "IF (1:100)"
+              ],
+              [
+                "",
+                "monoclonal)",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Anti-snail",
+                "",
+                "Cat#",
+                "WB (1:1000)"
+              ],
+              [
+                "Antibody",
+                "(rabbit",
+                "ABclonal",
+                "A5243",
+                "IHC (1:00)"
+              ],
+              [
+                "",
+                "monoclonal)",
+                "",
+                "",
+                "IF (1:100)"
+              ],
+              [
+                "",
+                "Anti-GAPDH",
+                "",
+                "Cat#",
+                ""
+              ],
+              [
+                "Antibody",
+                "(rabbit",
+                "CST",
+                "5174",
+                "WB (1:1000)"
+              ],
+              [
+                "",
+                "monoclonal)",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Anti-",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Antibody",
+                "\u03b2-tubulin",
+                "ABclonal",
+                "Cat#",
+                "WB (1:5000)"
+              ],
+              [
+                "",
+                "(rabbit",
+                "",
+                "AC008",
+                ""
+              ],
+              [
+                "",
+                "monoclonal)",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Sequence-",
+                "RGS10_F",
+                "This paper",
+                "PCR",
+                "CACGACAGCGAT"
+              ],
+              [
+                "based reagent",
+                "",
+                "",
+                "primers",
+                "GGCAGTTCC"
+              ],
+              [
+                "Sequence-",
+                "RGS10_R",
+                "This paper",
+                "PCR",
+                "CTTTTCACGCCTT"
+              ],
+              [
+                "based reagent",
+                "",
+                "",
+                "primers",
+                "CTGGGTCTTCC"
+              ],
+              [
+                "Sequence-",
+                "MiR-539-5p_F",
+                "This paper",
+                "PCR",
+                "CGCTGCATGGAG"
+              ],
+              [
+                "based reagent",
+                "",
+                "",
+                "primers",
+                "AAATTATCCT"
+              ],
+              [
+                "Sequence-",
+                "MiR-539-5p_R",
+                "This paper",
+                "PCR",
+                "CAGTGCAGGGTC"
+              ],
+              [
+                "based reagent",
+                "",
+                "",
+                "primers",
+                "CGAGGT"
+              ],
+              [
+                "",
+                "",
+                "",
+                "SPSS,",
+                ""
+              ],
+              [
+                "Software,",
+                "",
+                "",
+                "version",
+                ""
+              ],
+              [
+                "algorithm",
+                "SPSS",
+                "SPSS",
+                "25.0",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "Armonk, NY, USA",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 6
+      }
+    ]
+  }
+}

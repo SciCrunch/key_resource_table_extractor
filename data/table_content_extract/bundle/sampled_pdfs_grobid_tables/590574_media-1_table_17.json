@@ -1,0 +1,34 @@
+{
+  "headers": [],
+  "notes": "7 (C, C-aromatic), 159.6 (C, C-16). UPLC-MS: Rt 1.85 (100%) MS (ESI) + : 353.1 [M+H] + . 1.",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "1 H-NMR (DMSO-D6), δ: 7.05-7.08 (m, 1H, H-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "aromatic), 7.21-7.25 (m, 1H, H-aromatic), 7.64 (d, J= 8.2 Hz, 1H, H-aromatic), 7.69-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "7.72 (m, 1H, H-aromatic), 7.88-7.91 (m, 1H, H-aromatic), 8.01 (d, J= 8.5 Hz, 1H, H-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "aromatic), 8.03-8.05 (m, 1H, H-aromatic), 8.09-8.11 (m, 1H, H-aromatic), 8.89 (s, 1H,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "H-3), 8.97 (s, 1H, H-2), 13.23 (bs, 1H, NH). 13 C-NMR (DMSO-D6), δ: 118.8, 124.3, 127.7,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "128.6, 128.8, 129.2, 130.0, 133.2, 137.0, 146.4 (CH, C-aromatic), 120.5, 126.2, 134.9,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "146.4, 148."
+    }]
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "job_id": 106,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_587571_media-1",
+  "pdf_file": "587571_media-1.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Primer type",
+                "Name",
+                "Forward primer",
+                "Reverse primer"
+              ],
+              [
+                "",
+                "RPS28",
+                "GGTGACGTGCTCACCCTATT",
+                "TTCCGTGGGCTAAGTAGTGG"
+              ],
+              [
+                "",
+                "Cyp26a1",
+                "CCCATTGACGTGCCCTTTAG",
+                "ATATCCAGCCTCTCTCCCCT"
+              ],
+              [
+                "",
+                "TDG",
+                "CCCCGATCCTGTGGTGAGTC",
+                "CCAGTCGTGACTGCCATGT"
+              ],
+              [
+                "",
+                "Acta2",
+                "ATGTCCCCGCCATGTATGTG",
+                "CCATCTCCAGAGTCCAGCAC"
+              ],
+              [
+                "",
+                "Asns",
+                "CGTATCCTTTTTGACAACGCTATCA",
+                "GCAGAGAGGCAGCAACCAAG"
+              ],
+              [
+                "",
+                "Atf4",
+                "GCTATGGATGATGGCTTGGC",
+                "GCATCGAAGTCAAACTCTTTCAGA"
+              ],
+              [
+                "",
+                "Bcat1",
+                "CTGCCAGCCTCTACATCCG",
+                "CGGTCTTCAAGGAGGGTCAC"
+              ],
+              [
+                "",
+                "Bdnf",
+                "TACCTGGATGCCGCAAACAT",
+                "GCTGTGACCCACTCGCTAAT"
+              ],
+              [
+                "",
+                "Chac1",
+                "GGGCTTCGTTCGTGGCTATA",
+                "GAGGCGGTAGAACTCAAAGA"
+              ],
+              [
+                "",
+                "Mthfd2",
+                "TGCTTGGACCAGTACTCTATGC",
+                "CTGCCAGCCACTACCACAT"
+              ],
+              [
+                "",
+                "Psat1",
+                "TTGGAACGGTGAACATTGTCC",
+                "GCGTCCGGGTTGAGGTTC"
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Asns",
+                "CAGAGAAGGTGGAGCAGAGG",
+                "ATGATGAAACTTCCCGCACG"
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Asns",
+                "GACAGCACATCCTCCGGC",
+                "CTGCTCCACCTTCTCTGGC"
+              ],
+              [
+                "",
+                "Atf4",
+                "GAAGTGTTGGCGGGGGAC",
+                "AAGTGCTTGGCCACCTCC"
+              ],
+              [
+                "",
+                "Mthfd2",
+                "CACACTCACCGCACTGCC",
+                "TTCCTTGTTGTCTGCGTTGG"
+              ],
+              [
+                "",
+                "Psat1",
+                "CACCTTACCGAGTGTGGCAG",
+                "GCTGTCGCCTTAGCACCAT"
+              ]
+            ]
+          }
+        ],
+        "page": 7
+      }
+    ]
+  }
+}

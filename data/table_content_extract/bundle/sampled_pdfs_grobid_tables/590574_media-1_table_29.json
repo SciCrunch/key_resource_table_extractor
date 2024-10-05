@@ -1,0 +1,37 @@
+{
+  "headers": [],
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "(C, C-aromatic), 149.7"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(C, C-15). UPLC-MS: Rt 2.33 (100%) MS (ESI) + : 300.0 [M+H] + ."
+    }],
+    [{
+      "colspan": 1,
+      "content": "\u2022 N-Obtained as yellow solid in 12% yield. 1 H-NMR (DMSO-D6), δ: 5.18 (s, 2H, H-10), 6.71-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "6.74 (m, 1H, H-aromatic), 6.75-6.78 (m, 1H, H-aromatic), 7.27-7.30 (m, 1H, H-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "aromatic), 7.55-7.58 (m, 1H, H-aromatic), 7.59-7.62 (m, 1H, H-aromatic), 7.73-7.75"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(m, 1H, H-aromatic), 7.80-8.82 (m, 1H, H-aromatic), 7.90-7.92 (m, 1H, H-aromatic),"
+    }],
+    [{
+      "colspan": 1,
+      "content": "8.40-8.42 (m, 1H, H-aromatic), 8.98-9.00 (m, 1H, H-aromatic). 13 C-NMR (DMSO-D6), δ"
+    }],
+    [{
+      "colspan": 1,
+      "content": "43.0 (CH2, C"
+    }]
+  ]
+}

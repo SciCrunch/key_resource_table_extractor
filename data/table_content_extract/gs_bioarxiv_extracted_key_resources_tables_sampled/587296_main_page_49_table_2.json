@@ -1,0 +1,179 @@
+{
+  "name": "587296_main_page_49_table_2",
+  "rows": [
+    [
+      {
+        "colspan": 3,
+        "content": "qPCR Primer"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Target (mouse)"
+      },
+      {
+        "colspan": 1,
+        "content": "Sequence 5\u00b4-3\u00b4 forward"
+      },
+      {
+        "colspan": 1,
+        "content": "Sequence 5\u00b4-3\u00b4 reverse"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Atp5f1"
+      },
+      {
+        "colspan": 1,
+        "content": "GTCCAGGGGTATTACAGGCAA"
+      },
+      {
+        "colspan": 1,
+        "content": "TCAGGAATCAGCCCAAGACG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rpl32"
+      },
+      {
+        "colspan": 1,
+        "content": "TTGTTGCTCCCATAACCGATGT"
+      },
+      {
+        "colspan": 1,
+        "content": "GCCTCTGGTGAAGCCCAAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Nanog"
+      },
+      {
+        "colspan": 1,
+        "content": "GTTTCAGAAGCAGAAGTACC"
+      },
+      {
+        "colspan": 1,
+        "content": "TCAGACCATTGCTAGTCTTC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sdha"
+      },
+      {
+        "colspan": 1,
+        "content": "GCTCCTGCCTCTGTGGTTGA"
+      },
+      {
+        "colspan": 1,
+        "content": "AGCAACACCGATGAGCCTG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sparc"
+      },
+      {
+        "colspan": 1,
+        "content": "CTCAAAAATGTCCTGGTCAC"
+      },
+      {
+        "colspan": 1,
+        "content": "CTCATGGATCTTCTTCACAC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mesp1"
+      },
+      {
+        "colspan": 1,
+        "content": "GTACACGCTCTAAAGATGAAG"
+      },
+      {
+        "colspan": 1,
+        "content": "TTTTGACACTAGCACAATCG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Desmin"
+      },
+      {
+        "colspan": 1,
+        "content": "ACACCTAAAGGATGAGATGG"
+      },
+      {
+        "colspan": 1,
+        "content": "GAGAAGGTCTGGATAGGAAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Nodal"
+      },
+      {
+        "colspan": 1,
+        "content": "TTCCTTCTCAGGTCACGTTTGC"
+      },
+      {
+        "colspan": 1,
+        "content": "GGTGGGGTTGGTATCGTTTCA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Gata4"
+      },
+      {
+        "colspan": 1,
+        "content": "GAAAACGGAAGCCCAAGAAC"
+      },
+      {
+        "colspan": 1,
+        "content": "GGGAGGGTCTCACCAGCA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Nkx2.5"
+      },
+      {
+        "colspan": 1,
+        "content": "CCACCTTTAGGAGAAGGGCG"
+      },
+      {
+        "colspan": 1,
+        "content": "TGGATCGGAGAAAGGTCCCA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "T (Brachyury)"
+      },
+      {
+        "colspan": 1,
+        "content": "AGAATGAGGAGATTACAGCC"
+      },
+      {
+        "colspan": 1,
+        "content": "GGTTCCTCCATTACATCTTTG"
+      }
+    ]
+  ]
+}

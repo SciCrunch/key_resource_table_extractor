@@ -1,0 +1,143 @@
+{
+  "name": "588324_main_page_24_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 3,
+        "content": "Software and algorithms"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Fiji/ImageJ  "
+      },
+      {
+        "colspan": 1,
+        "content": "(Schindelin et al., 2012; Rueden et al., 2017)"
+      },
+      {
+        "colspan": 1,
+        "content": "https://imagej.net/  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Integrated Genome Viewer (IGV)"
+      },
+      {
+        "colspan": 1,
+        "content": "(Robinson et al., 2011)"
+      },
+      {
+        "colspan": 1,
+        "content": "https://igv.org/"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Image Lab  "
+      },
+      {
+        "colspan": 1,
+        "content": "Bio-Rad  "
+      },
+      {
+        "colspan": 1,
+        "content": "https://image-lab-4-0.software.informer.com/"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GraphPad (Prism)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Other"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ChemiDoc"
+      },
+      {
+        "colspan": 1,
+        "content": "BioRad"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#12003153"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Humidified Incubators"
+      },
+      {
+        "colspan": 1,
+        "content": "Shel Lab"
+      },
+      {
+        "colspan": 1,
+        "content": "SRI20PF"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "#5 Dumont Fine Forceps"
+      },
+      {
+        "colspan": 1,
+        "content": "Ted Pella Inc."
+      },
+      {
+        "colspan": 1,
+        "content": "Prod#5622"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Motorized Pestle"
+      },
+      {
+        "colspan": 1,
+        "content": "Argos Technologies"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#A0001"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NanodropOne"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ]
+  ]
+}

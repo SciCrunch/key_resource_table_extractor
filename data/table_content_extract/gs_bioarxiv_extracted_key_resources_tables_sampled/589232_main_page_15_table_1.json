@@ -1,0 +1,453 @@
+{
+  "name": "589232_main_page_15_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "REAGENT or RESOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "SOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "IDENTIFIER"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit monoclonal anti-Cofilin"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#D3F9"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit monoclonal anti-phospho-Cofilin (Ser3)"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#77G2"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Phospho-Myosin Light Chain 2 (Ser19)"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#3671"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Alexa Fluor 488 Phalloidin"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#A12379"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Myosin IIa"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#3403"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Goat anti-Rabbit IgG (H+L) Cross-Adsorbed Secondary Antibody, Alexa Fluor 555"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat #A-21428 "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Biological samples"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: bone marrow harvested from C57BL/6J & indicated conditional knockout mice"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: Tibia and femur harvested from indicated conditional knockout mice"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Chemicals, peptides, and recombinant proteins"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Human plasma purified Protein S "
+      },
+      {
+        "colspan": 1,
+        "content": "Enzyme Research Laboratories"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#HPS "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "R992 9"
+      },
+      {
+        "colspan": 1,
+        "content": "RIGEL inc."
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Human recombinant M-CSF"
+      },
+      {
+        "colspan": 1,
+        "content": "Peprotech"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#310-01"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Human recombinant soluble RANKL"
+      },
+      {
+        "colspan": 1,
+        "content": "Peprotech"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#300-25"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Critical commercial assays"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RhoA Activation Assay Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Biolabs, INC"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#STA-403-A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Taqman Universal PCR-Mastermix"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#4304437"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RevertAid First Strand cDNA synthesis Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#K1621"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BlackPREP Rodent Tail DNA Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "IST Innuscreen"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PureLink RNA Mini Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#12183020"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Experimental models: Cell lines"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "EO771"
+      },
+      {
+        "colspan": 1,
+        "content": "M. Mazzone"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "EO771-luc2"
+      },
+      {
+        "colspan": 1,
+        "content": "Our lab"
+      },
+      {
+        "colspan": 1,
+        "content": "Engelmann et.al. 9"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Experimental models: Organisms/strains"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: C57BL/6J"
+      },
+      {
+        "colspan": 1,
+        "content": "FTH UKE"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: Mertkflox/flox"
+      },
+      {
+        "colspan": 1,
+        "content": "C. Rothlin"
+      },
+      {
+        "colspan": 1,
+        "content": "Fourgeaud et. al. 8"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: Tyro3flox/flox"
+      },
+      {
+        "colspan": 1,
+        "content": "C. Rothlin"
+      },
+      {
+        "colspan": 1,
+        "content": "Engelmann et.al. 9"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: LysM-cre"
+      },
+      {
+        "colspan": 1,
+        "content": "H. Tapaleenm\u00e4ki"
+      },
+      {
+        "colspan": 1,
+        "content": "Strain #:004781"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse: Ctsk-cre"
+      },
+      {
+        "colspan": 1,
+        "content": "H. Tapaleenm\u00e4ki"
+      },
+      {
+        "colspan": 1,
+        "content": "Nakamura et. al. 52"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Oligonucleotides"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mertk"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": "Mm07295861_m1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tyro3"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": "Mm00444557_g1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Pros1"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": "Mm01343426_m1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Gas6"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": "Mm00490378_m1"
+      }
+    ]
+  ]
+}

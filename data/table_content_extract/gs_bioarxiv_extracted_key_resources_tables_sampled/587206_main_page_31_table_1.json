@@ -1,0 +1,635 @@
+{
+  "name": "587206_main_page_31_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Strain"
+      },
+      {
+        "colspan": 1,
+        "content": "Genotype"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8665-12-22D"
+      },
+      {
+        "colspan": 1,
+        "content": "srs2-\u2206PIM"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8198-15B"
+      },
+      {
+        "colspan": 1,
+        "content": "srs2-SIMMUT"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "G1114"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2-7AV::HIS3"
+      },
+      {
+        "colspan": 1,
+        "content": "(Saponaro et al., 2010)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8650-2-1D"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2-3KR::NAT"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8659-14A"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2-2SA"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "G854"
+      },
+      {
+        "colspan": 1,
+        "content": "MAT\u03b1 srs2-\u2206(875-902)::HPH"
+      },
+      {
+        "colspan": 1,
+        "content": "(Colavito et al., 2009)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8047-1B"
+      },
+      {
+        "colspan": 1,
+        "content": "MAT\u03b1 rfa1-zm2"
+      },
+      {
+        "colspan": 1,
+        "content": "(Dhingra et al., 2021)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8650-2C"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2-3KR::NAT rfa1-zm2"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8666-35-6A"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2-\u2206PIM rfa1-zm2"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8210-2B"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa rfa1-t33"
+      },
+      {
+        "colspan": 1,
+        "content": "(Dhingra et al., 2021)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8745-2A"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2-3KR::NAT rfa1-t33"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8743-13A"
+      },
+      {
+        "colspan": 1,
+        "content": "MAT\u03b1 srs2-\u2206PIM rfa1-t33"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8198-15A"
+      },
+      {
+        "colspan": 1,
+        "content": "rs2-SIMMUT rfa1-zm2"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8637-6B"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2-7AV::HIS3 rfa1-zm2"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8137-10B"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2-\u2206875-902::HPH rfa1-zm2"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8660-4B"
+      },
+      {
+        "colspan": 1,
+        "content": "MAT\u03b1 srs2-2SA rfa1-zm2"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "T1358-2"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa 8His-SMT3::TRP1"
+      },
+      {
+        "colspan": 1,
+        "content": "Lab Collection"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8808-2D"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2-\u2206PIM 8His-SMT3::TRP1"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8795-9D"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2-3KR::NAT 8His-SMT3::TRP1"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8807-6A"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa sml1\u2206::URA3 8His-SMT3::TRP1"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8746-4D"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa sml1\u2206::URA3 mec1\u2206::TRP1 8His-SMT3::TRP1"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8807-7A"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa sml1\u2206::URA3 rad53\u2206::HIS3 8His-SMT3::TRP1"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "G461"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa 3FLAG-RAD53::LEU2"
+      },
+      {
+        "colspan": 1,
+        "content": "J. Petrini"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9055-1D"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa DDC2-Myc18::HIS3"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9225-3A"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa mec1-S1964A"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9225-3C"
+      },
+      {
+        "colspan": 1,
+        "content": "X9225-3C MATa mec1-S1964A rfa1-zm2"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9088-38C"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa mec1-S1964A srs2-\u2206PIM"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9225-1B"
+      },
+      {
+        "colspan": 1,
+        "content": "MAT\u03b1 mec1-S1964A srs2-\u2206PIM rfa1-zm2"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8495-5D"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa rfa1-S178D"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8495-2D"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2\u2206::HIS3 rfa1-S178D"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8494-3B"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa rfa1-S178A"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8494-3A"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2\u2206::HIS3 rfa1-S178A"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8658-14-22D"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa rfa2-3SA"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8658-14-13C"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2\u2206::HIS3 rfa2-3SA"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8779-13D"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa rfa2-3SD"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8779-13B"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2\u2206 rfa2-3SD"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9265-4D"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa SLX4-TAP::HIS3"
+      },
+      {
+        "colspan": 1,
+        "content": "(Wan et al., 2019)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9265-4A"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2-\u2206PIM SLX4-TAP::HIS3"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8956-7C"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa slx4RIM-TAP::HIS3"
+      },
+      {
+        "colspan": 1,
+        "content": "(Wan et al., 2019)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X8956-5D"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa srs2-\u2206PIM slx4RIM-TAP::HIS3"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9228-2D"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa mec1-S1964A srs2-3KR::NAT"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9228-5A"
+      },
+      {
+        "colspan": 1,
+        "content": "MAT\u03b1 mec1-S1964A srs2-3KR::NAT rfa1-zm2"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9090-9C"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa mec1-S1964E"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "X9091-14A"
+      },
+      {
+        "colspan": 1,
+        "content": "MATa mec1-S1964E rfa1-zm2"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Variable"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Overall"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "survival"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Univariate analysis"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Multivariate analysis"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "HR (95%CI)"
+      },
+      {
+        "colspan": 1,
+        "content": "P-value"
+      },
+      {
+        "colspan": 1,
+        "content": "HR (95%CI)"
+      },
+      {
+        "colspan": 1,
+        "content": "P-value"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Age (years)"
+      },
+      {
+        "colspan": 1,
+        "content": "0.423 (0.226-0.792) 0.007"
+      },
+      {
+        "colspan": 1,
+        "content": "0.305 (0.154-0.603) 0.001"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Other disease"
+      },
+      {
+        "colspan": 1,
+        "content": "0.984 (0.453-2.136) 0.967"
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Histological grade"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "I"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.067"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.008"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "II"
+      },
+      {
+        "colspan": 1,
+        "content": "1.519 (0.703-3.284) 0.288"
+      },
+      {
+        "colspan": 1,
+        "content": "1.834 (0.840-4.007) 0.128"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "III"
+      },
+      {
+        "colspan": 1,
+        "content": "3.062 (1.180-7.943) 0.021"
+      },
+      {
+        "colspan": 1,
+        "content": "5.090 (1.812-14.300) 0.002"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tumor size (cm)"
+      },
+      {
+        "colspan": 1,
+        "content": "1.045 (0.788-1.385) 0.760"
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "No. of positive"
+      },
+      {
+        "colspan": 1,
+        "content": "1.011 (0.943-1.083) 0.759"
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "axillary lymph"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "nodes"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "No. of pregnancies 0.941 (0.731-1.213) 0.640"
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "No. of births"
+      },
+      {
+        "colspan": 1,
+        "content": "0.896 (0.625-1.285) 0.550"
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Age at first"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pregnancy (years)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "<21"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.580"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "21-25"
+      },
+      {
+        "colspan": 1,
+        "content": "2.818 (0.378-21.001) 0.312"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "26-30"
+      },
+      {
+        "colspan": 1,
+        "content": "2.021 (0.269-15.190) 0.494"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ">30"
+      },
+      {
+        "colspan": 1,
+        "content": "3.255 (0.295-35.934) 0.335"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Menopausal status 0.769 (0.405-1.458) 0.420"
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      }
+    ]
+  ]
+}

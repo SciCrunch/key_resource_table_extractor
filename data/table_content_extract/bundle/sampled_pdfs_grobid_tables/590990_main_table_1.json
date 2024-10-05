@@ -1,0 +1,222 @@
+{
+  "headers": [],
+  "caption": "Cre-driver mice.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Strain"
+      },
+      {
+        "colspan": 1,
+        "content": "References"
+      },
+      {
+        "colspan": 1,
+        "content": "Source Information"
+      },
+      {
+        "colspan": 1,
+        "content": "Key Gene"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Hsd11b2-Cre"
+      },
+      {
+        "colspan": 1,
+        "content": "(36)"
+      },
+      {
+        "colspan": 1,
+        "content": "Jax 030545"
+      },
+      {
+        "colspan": 1,
+        "content": "IRES-Cre-GFP inserted after the"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "termination codon of Hsd11b2"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "http://www.informatics"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ".jax.org/allele/key/8716"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "09"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "The Cre recombinase was cloned"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "following an IRES sequence. An"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "EMMA 00254"
+      },
+      {
+        "colspan": 1,
+        "content": "frt-flanked neomycin selection cassette was added, and the"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Th-IRES-Cre"
+      },
+      {
+        "colspan": 1,
+        "content": "(107)"
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.infrafronti er.eu/"
+      },
+      {
+        "colspan": 1,
+        "content": "construct cloned in the 3' untranslated end of the tyrosine hydroxylase gene (as described"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "by Althini et al., 2003, J Neurosci"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Res 72: 444-453)."
+      }
+    ]
+  ]
+}

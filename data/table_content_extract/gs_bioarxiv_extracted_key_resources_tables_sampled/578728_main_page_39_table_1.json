@@ -1,0 +1,563 @@
+{
+  "name": "578728_main_page_39_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit Gamma Globulin  "
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 31887 RRID: AB_2532177"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RBFOX1 Rabbit pAb  "
+      },
+      {
+        "colspan": 1,
+        "content": "Abclonal  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# A7811 RRID: AB_2771954"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "WNT7B Rabbit pAb  "
+      },
+      {
+        "colspan": 1,
+        "content": "Abclonal  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# A7746 RRID: AB_2772906"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Bacterial and virus strains"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BL21 Competent E. coli"
+      },
+      {
+        "colspan": 1,
+        "content": "NEB"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# C2530H"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NEB\u00ae 5-alpha Competent E. coli"
+      },
+      {
+        "colspan": 1,
+        "content": "NEB"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# C2988J"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "One Shot\u2122 Stbl3\u2122 Chemically Competent E. coli"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# C7373-03"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Chemicals, peptides, and recombinant proteins"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "1 Kb plus DNA Ladder"
+      },
+      {
+        "colspan": 1,
+        "content": "NEB"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# N3200S"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "10X ligation buffer"
+      },
+      {
+        "colspan": 1,
+        "content": "Takara"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 2012"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "5-Bromo-4-chloro-3-indolyl \u03b2-D-galactopyranoside (X-Gal)"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 10513 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Acetic acid glacial"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 85801"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Acrylamide"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 22794"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Agar powder"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 19661"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "AgeI"
+      },
+      {
+        "colspan": 1,
+        "content": "NEB"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# R3552S"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ammonium persulphate"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 65553"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ampicillin Sodium Salt"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 61314"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Antibiotic-Antimycotic Solution (100X)"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 15240062"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BamHI"
+      },
+      {
+        "colspan": 1,
+        "content": "Takara"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 1605"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BglII"
+      },
+      {
+        "colspan": 1,
+        "content": "Takara"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 1021A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bio-Rad Protein Assay Dye Reagent Concentrate"
+      },
+      {
+        "colspan": 1,
+        "content": "Bio-Rad"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 5000006"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BML-284 (Wnt agonist 1)"
+      },
+      {
+        "colspan": 1,
+        "content": "AdooQ bioscience"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# A15851"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bovine serum albumin"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# A3912"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bromophenol blue"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 11458"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Calcium Chloride Dihydrate"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 70650"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Chloroform"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# C2432"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ClaI"
+      },
+      {
+        "colspan": 1,
+        "content": "NEB"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# R01978"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "cOmplete\u2122, Mini, EDTA-free Protease Inhibitor Cocktail"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 04693159001 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Coomassie Brilliant Blue G250"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 64222"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cut smart buffer"
+      },
+      {
+        "colspan": 1,
+        "content": "NEB"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# B7204S"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DAPI Dihydrochloride"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 18668"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Dextrose"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 51758"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Diethyl pyrocarbonate  (DEPC)"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 46791"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Dimethyl sulfoxide (DMSO)"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# D8779"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "di-Sodium hydrogen phosphate"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 106586"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DL-Dithiothreitol (DTT)"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 17315"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DMEM-high glucose"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 56499C"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "EcoRI"
+      },
+      {
+        "colspan": 1,
+        "content": "Takara"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 1040A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "EDTA"
+      },
+      {
+        "colspan": 1,
+        "content": "SRL"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 40088"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ethidium bromide"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# E7637"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ethyl alcohol"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# E7023"
+      }
+    ]
+  ]
+}

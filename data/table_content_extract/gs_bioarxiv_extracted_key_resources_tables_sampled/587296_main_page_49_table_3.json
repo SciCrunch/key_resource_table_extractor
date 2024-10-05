@@ -1,0 +1,151 @@
+{
+  "name": "587296_main_page_49_table_3",
+  "rows": [
+    [
+      {
+        "colspan": 3,
+        "content": "Plasmids DNA/cDNA Clones"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Sequence"
+      },
+      {
+        "colspan": 1,
+        "content": "Source / Repository"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " pNKE24"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      },
+      {
+        "colspan": 1,
+        "content": "44 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pGL3-Basic"
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene"
+      },
+      {
+        "colspan": 1,
+        "content": "Promega, E1751"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "phRL-TK"
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene"
+      },
+      {
+        "colspan": 1,
+        "content": "Promega, E2241"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " mouse 1.2kb pT-BraP-Puro-IRES2-eGFP"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      },
+      {
+        "colspan": 1,
+        "content": "40 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " human 3.4 kb pMesP1-eGFP"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      },
+      {
+        "colspan": 1,
+        "content": "41 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " pCSX-EGFP-PPDT"
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      },
+      {
+        "colspan": 1,
+        "content": "42 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pCMV3-SPARC"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_009242.4"
+      },
+      {
+        "colspan": 1,
+        "content": "SinoBiological, MG50494-UT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": " desmin expression cassette"
+      },
+      {
+        "colspan": 1,
+        "content": " GenBank: Z18892.2"
+      },
+      {
+        "colspan": 1,
+        "content": "15 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pmCherry N1 vector"
+      },
+      {
+        "colspan": 1,
+        "content": "Addgene"
+      },
+      {
+        "colspan": 1,
+        "content": "Clontech, 632523"
+      }
+    ]
+  ]
+}

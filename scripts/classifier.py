@@ -5,7 +5,7 @@ from sklearn.metrics import precision_recall_fscore_support, accuracy_score
 os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 import random
 from pathlib import Path
-# from tensorflow import keras
+import argparse
 import keras
 import tensorflow as tf
 import os.path
@@ -15,8 +15,11 @@ import numpy as np
 from glove_handler import GloveHandler
 from data_prep import load_all_instances, prep_data, prep_data_multi_input
 from data_prep import save_stack_instances, save_list, load_list, StackInstance
+from pg_config import get_work_dir
 from keras.callbacks import EarlyStopping
 import keras.ops as K
+
+WD = get_work_dir()
 
 
 def make_dataset(file_list, _glove_handler, _batch_size,
@@ -150,9 +153,9 @@ def get_recall(y_true, y_pred):
 
 
 def classify_multi_inp_model(_model_path, _pdf_instance_file_paths, max_seq_len=40):
-    model = tf.keras.models.load_model(_model_path,
-                                       custom_objects={'get_f1': get_f1, 'get_recall': get_recall,
-                                                       'get_precision': get_precision})
+    model = keras.saving.load_model(_model_path,
+                                    custom_objects={'get_f1': get_f1, 'get_recall': get_recall,
+                                                    'get_precision': get_precision})
     batch_size = 64
     home = expanduser("~")
     db_file = os.path.join(home, "medline_glove_v2.db")
@@ -309,8 +312,8 @@ def handle_multi_inp_model_v2():
     home = expanduser("~")
     db_file = os.path.join(home, "medline_glove_v2.db")
     glove_handler = GloveHandler(db_file)
-    data_dir1 = os.path.join(home, 'dev/java/pdf_table_extractor/data/table_detection/annotated')
-    data_dir2 = os.path.join(home, 'dev/java/pdf_table_extractor/data/table_detection_v2/annotated')
+    data_dir1 = os.path.join(WD, 'data/table_detection/annotated')
+    data_dir2 = os.path.join(WD, 'data/table_detection_v2/annotated')
     train_paths, test_paths = prep_tr_test_file_lists(data_dir1, data_dir2)
     save_list(train_paths, "/tmp/train_paths.lst")
     save_list(test_paths, "/tmp/test_paths.lst")
@@ -321,9 +324,6 @@ def handle_multi_inp_model_v2():
     model = make_multi_inp_model(7, max_seq_len=msl)
     model.compile(loss="binary_crossentropy", optimizer="adam",
                   metrics=["accuracy", get_f1, get_precision, get_recall])
-    # history = model.fit(train_dataset, validation_data=test_dataset,
-    #                    epochs=epochs, callbacks=[EarlyStopping(monitor='val_accuracy',
-    #                                                            patience=3)])
     class_weight = {0: 1., 1: 50.}
     history = model.fit(train_dataset, validation_data=test_dataset,
                         epochs=epochs, class_weight=class_weight)
@@ -332,38 +332,6 @@ def handle_multi_inp_model_v2():
     model_path = '/tmp/table_detect_classifier.keras'
     model.save(model_path)
     # tf.saved_model.save(model, model_path) # Keras 3
-    print(f'saved model to {model_path}')
-
-
-def handle_multi_inp_model_v3():
-    model_dir = '/tmp/table_detect_classifier_v3'
-    mp = Path(model_dir)
-    mp.mkdir(parents=True, exist_ok=True)
-    model_path = model_dir + "/model.keras"
-    batch_size = 64
-    home = expanduser("~")
-    db_file = os.path.join(home, "medline_glove_v2.db")
-    glove_handler = GloveHandler(db_file)
-    data_dir1 = os.path.join(home, 'dev/java/pdf_table_extractor/data/table_detection/annotated')
-    data_dir2 = os.path.join(home, 'dev/java/pdf_table_extractor/data/table_detection_v2/annotated')
-    data_dir3 = os.path.join(home, 'dev/java/pdf_table_extractor/data/rrid_papers_sample_200_03_07_2023_c1_annotated')
-    train_paths, test_paths = prep_tr_test_file_lists_v3(data_dir1, data_dir2, data_dir3)
-    save_list(train_paths, "/tmp/train_paths.lst")
-    save_list(test_paths, "/tmp/test_paths.lst")
-    msl = 60
-    train_dataset = make_dataset_multi(train_paths, glove_handler, batch_size, max_seq_len=60)
-    test_dataset = make_dataset_multi(test_paths, glove_handler, batch_size, max_seq_len=60)
-    epochs = 10
-    model = make_multi_inp_model(7, max_seq_len=msl)
-    model.compile(loss="binary_crossentropy", optimizer="adam",
-                  metrics=["accuracy", get_f1, get_precision, get_recall])
-    class_weight = {0: 1., 1: 50.}
-    history = model.fit(train_dataset, validation_data=test_dataset,
-                        epochs=epochs, class_weight=class_weight)
-    print(history.history)
-    glove_handler.close()
-
-    model.save(model_path)
     print(f'saved model to {model_path}')
 
 
@@ -413,34 +381,19 @@ def handle_lstm_model_v2():
     print(f'saved model to {model_path}')
 
 
-def do_classify(use_v3: bool = False):
-    file_paths = ['/tmp/instances_023_04_03_535448_main.json']
-    # file_paths = ['/tmp/out/2023_01_19_524191_main_instances.json']
-    home = expanduser('~')
-    root_dir = home + "/dev/java/pdf_table_extractor/data/table_detection_v2/annotated/"
+def do_classify():
+    root_dir = os.path.join(WD, "data/table_detection_v2/annotated")
     test_files = ['2021_02_14_431158_main_instances_annot.json', '2022_10_19_512981_main_instances_annot.json',
                   '2021_06_01_446584_main_instances_annot.json', '2023_01_18_524631_media-1_instances_annot.json',
                   '2021_06_28_450131_main_instances_annot.json']
-    model_path = '/tmp/table_detect_classifier'
-    if use_v3:
-        model_path = '/tmp/table_detect_classifier_v3'
+    model_path = '/tmp/table_detect_classifier.keras'
     for test_file in test_files:
-        file_path = root_dir + test_file
+        file_path = os.path.join(root_dir, test_file)
         print(file_path)
         print('-' * 80)
         classify_multi_inp_model(model_path, [file_path], max_seq_len=60)
         print('=' * 80)
         print("")
-
-
-def prep_test_list_v3():
-    home = expanduser('~')
-    data_dir3 = os.path.join(home, 'dev/java/pdf_table_extractor/data/rrid_papers_sample_200_03_07_2023_c1_annotated')
-    test_pdf_inst_file_paths = load_list('/tmp/test_paths.lst')
-    paths = list(Path(data_dir3).glob("*.json"))
-    for p in paths:
-        test_pdf_inst_file_paths.append(str(p))
-    save_list(test_pdf_inst_file_paths, '/tmp/test_paths.lst')
 
 
 def do_prep_stack_instances():
@@ -454,26 +407,14 @@ def do_prep_stack_instances():
     prep_stack_instances(model_path, test_pdf_inst_file_paths, test_out_json_path, max_seq_len=60)
 
 
-def do_prep_stack_instances_v3():
-    pdf_inst_file_paths = load_list('/tmp/train_paths.lst')
-    model_path = '/tmp/table_detect_classifier_v3/model.keras'
-    out_json_file = '/tmp/stacked_gen_train_instances.json'
-    prep_stack_instances(model_path, pdf_inst_file_paths, out_json_file, max_seq_len=60)
-
-    test_pdf_inst_file_paths = load_list('/tmp/test_paths.lst')
-    test_out_json_path = '/tmp/stacked_gen_test_instances.json'
-    prep_stack_instances(model_path, test_pdf_inst_file_paths, test_out_json_path, max_seq_len=60)
-
-
 if __name__ == '__main__':
-    # handle_lstm_model()
-    # handle_multi_inp_model()
-
-    # handle_multi_inp_model_v2()
-    # do_classify()
-    # prep_test_list_v3()
-    # do_prep_stack_instances()
-    # handle_multi_inp_model_v3()
-    do_prep_stack_instances()
-    # do_classify(use_v3=True)
-    # do_prep_stack_instances_v3()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-c", required=True, metavar="<command one of [train, test, stack-gen-prep]>")
+    args = parser.parse_args()
+    cmd = args.c
+    if cmd == 'train':
+        handle_multi_inp_model_v2()
+    elif cmd == 'test':
+        do_classify()
+    elif cmd == 'stack-gen-prep':
+        do_prep_stack_instances()

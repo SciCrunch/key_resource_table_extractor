@@ -108,3 +108,60 @@ To get more help for a test client command
 python test_client.py submit --help
 ```
 
+# Data
+
+# Data for the Evaluation of Resource Table Extraction Pipelines
+
+The annotated gold standard key resource tables from April 2024 BioRxiv preprints are included in `key_resource_table_extractor/data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled` directory.
+
+The raw JSON outputs for the four pipeline introduced in our paper and GROBID baseline are also included under `data/bundle` directory.
+
+* `bioarxiv_extracted_key_resources_tables_sampled` - contains tables extracted by pipeline A (colum info only)
+* `extracted_key_resources_tables_with_row_info_sampled_v2` - contains tables extracted by pipeline B (both column and row info)
+* `bioarxiv_extracted_key_resources_tables_sampled_ocr` - contains tables extracted by pipeline C (only image level + OCR)
+* `bioarxiv_main_merged` - contains tables extracted by pipeline D (pipeline A + Table LM based row merger)
+* `sampled_pdfs_grobid_tables` - contains tables extracted by GROBID
+
+
+The raw outputs need to be converted before being compared against the gold standard via GriTS metric which can be accomplished via the following script for pipeline A for example. Use `-h` option to get more help.
+
+```bash
+python table_extractor2_table_json_converter.py -c col_only
+
+```
+
+After that, to get the GriTS score, use `grits_perf_eval.py` script
+
+
+```bash
+python grits_perf_eval.py -c col_only
+
+```
+
+# Data for Training and Evaluation of Key Resource Page Detection Classifier
+
+The annotated documents for key resource page candidate detection ensemble classifier are located in `data/table_detection/annotated` and `data/table_detection_v2/annotated` directories.
+
+
+The first level deep learning model of the stack generalizer is trained via the `classifier.py` script.
+
+```bash
+python classifier.py -c train
+
+```
+
+The second level classifier is a SVM and can be trained via the script `stacked_gen.py`.
+
+```bash
+python stacked_gen.py -c train
+```
+
+Before training, the training and testing data needs to be prepared using
+
+```bash
+python classifier.py -c stack-gen-prep
+```
+
+A larger curated set for evaluation is available under the directory `data/rrid_papers_sample_200_03_07_2023'.
+
+

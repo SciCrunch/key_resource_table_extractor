@@ -1,0 +1,145 @@
+{
+  "name": "590633_media-1_page_12_table_3",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Antibodies"
+      },
+      {
+        "colspan": 1,
+        "content": "Supplier / Catalog. No"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-FPR2 (M-73)"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz Biotechnology / #sc-66901"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-iNOS"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam / #ab213987"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-Arg1"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology / #93668"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rat anti-F4/80"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend / #123113"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-phospho-STAT1 (Tyr701)"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology / #9167"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-STAT1"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology / #14994"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-cleaved CASPASE-3 (Asp175)"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology / #9661"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse anti-CHOP 3 (B-3)"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz Biotechnology / #sc-7351"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-beta-ACTIN (HRP)"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology / #5125"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rat anti-MAC-2"
+      },
+      {
+        "colspan": 1,
+        "content": "Cedarlane / #CL8942AP"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit anti-HNF4a"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology / #3113"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Donkey anti-rabbit (AF647)"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen / #A31573"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Donkey anti-mouse (AF555)"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen / #A31570"
+      }
+    ]
+  ]
+}

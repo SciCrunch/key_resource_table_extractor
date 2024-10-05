@@ -1,0 +1,178 @@
+{
+  "job_id": 110,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_591313_main",
+  "pdf_file": "591313_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Name",
+                "Genotype",
+                "Parental",
+                "Source"
+              ],
+              [
+                "",
+                "",
+                "strain",
+                ""
+              ],
+              [
+                "Escherichia cpir116",
+                "oli F- mcrA \u2206(mrr-hsdRMS-mcrBC) \u03d580dlacZ\u2206M15 \u2206lacX74 recA1 endA1 araD139 \u2206(ara, leu)7697",
+                "",
+                "87"
+              ],
+              [
+                "\u03b22163",
+                "galU galK \u03bb\u2013 rpsL nupG pir-116(DHFR) (F-) RP4-2-Tc::Mu \u0394dapA::(erm-pir)",
+                "",
+                "88"
+              ],
+              [
+                "NEB5\u03b1",
+                "fhuA2 \u0394(argF-lacZ)U169 phoA glnV44 \u03a680 \u0394(lacZ)M15 gyrA96 recA1 relA1 endA1 thi-1 hsdR17",
+                "",
+                "NEB"
+              ],
+              [
+                "C41(DE3)",
+                "F- ompT hsdSB (rB- mB-) gal dcm (DE3)",
+                "",
+                "Sigma-Aldrich"
+              ],
+              [
+                "Salmonella T",
+                "",
+                "",
+                ""
+              ],
+              [
+                "SL1344",
+                "Wild type",
+                "",
+                "52"
+              ],
+              [
+                "",
+                "",
+                "",
+                "64"
+              ],
+              [
+                "SB1751",
+                "\u0394invA \u0394hilD. Made by allelic exchange. Suicide",
+                "",
+                ""
+              ],
+              [
+                "MIB4841 MIB5363",
+                "plasmid pMIB5779 \u0394hilA. Made by allelic exchange. Suicide",
+                "SL1344 SL1344",
+                "This study This study"
+              ],
+              [
+                "MIB5371",
+                "plasmid pMIB7636 \u0394rtsA. Made by allelic exchange. Suicide",
+                "SL1344",
+                "This study"
+              ],
+              [
+                "MIB5585",
+                "plasmid pMIB7639 \u0394hilC. Made by allelic exchange. Suicide",
+                "SL1344",
+                "This study"
+              ],
+              [
+                "MIB5591",
+                "plasmid pMIB7633 \u0394hilC \u0394rtsA. Made by allelic exchange. Suicide",
+                "MIB5585",
+                "This study"
+              ],
+              [
+                "MIB5587",
+                "plasmid pMIB7639 \u0394hilD \u0394hilC. Made by allelic exchange. Suicide",
+                "MIB4841",
+                "This study"
+              ],
+              [
+                "MIB5373",
+                "plasmid pMIB7633 \u0394hilD \u0394rtsA. Made by allelic exchange. Suicide",
+                "MIB4841",
+                "This study"
+              ],
+              [
+                "MIB5593",
+                "plasmid pMIB7639 \u0394hilD \u0394hilC \u0394rtsA. Made by allelic exchange.",
+                "MIB5587",
+                "This study"
+              ],
+              [
+                "",
+                "Suicide plasmid pMIB7639",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 54
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "Insert: gib_pT12_hilD_f / gib_pT12_hilD_r",
+                ""
+              ],
+              [
+                "pMIB7649",
+                "pT10-hilC.  Vector: gib_uni_pT12_f / gib_uni_pT12_r Insert: gib_pT12_hilC_f / gib_pT12_hilC_r",
+                "This study"
+              ],
+              [
+                "pMIB7648",
+                "pT10-rtsA.  Vector: gib_uni_pT12_f / gib_uni_pT12_r Insert: gib_pT12_rtsA_f / gib_pT12_rtsA_r",
+                "This study"
+              ],
+              [
+                "pMIB8048",
+                "\u0394rhaRS-Prha::PhilD-hilD-PhilA-sfGFP Vector: gib_uni_pT12_f / gib_uni_pT10_rep_r Insert: gib_PhilD_pT10_f / gib_sfGFP_pT10_rrnB_r",
+                "This study"
+              ],
+              [
+                "Plasmids dpMIB8306",
+                "PhilD-PhilA-sfGFP.",
+                "This study"
+              ],
+              [
+                "pMIB8056",
+                "PhilD-hilD I42A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8057",
+                "PhilD-hilD L45A-PhilA-sfGFP",
+                "This study"
+              ],
+              [
+                "pMIB8506",
+                "PhilD-hilD N260A-PhilA-sfGFP",
+                "This study"
+              ]
+            ]
+          }
+        ],
+        "page": 58
+      }
+    ]
+  }
+}

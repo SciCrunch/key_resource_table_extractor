@@ -1,0 +1,72 @@
+{
+  "headers": [],
+  "caption": "FIGURE 1 PRILE 2021 flowchart showing the experimental design and analyses. (",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Gene"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "Accession No."
+      },
+      {
+        "colspan": 1,
+        "content": "Size, bp"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "<human>"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ACTB"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-GTAGCACAGCTTCTCCTTAATGTCA-3'"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-CTGACTGACTACCTCATGAAGATCC-3'"
+      },
+      {
+        "colspan": 1,
+        "content": "NM_001101.3"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ]
+  ]
+}

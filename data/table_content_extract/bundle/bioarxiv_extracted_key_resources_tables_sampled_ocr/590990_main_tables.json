@@ -1,0 +1,58 @@
+{
+  "paper_id": "590990_main",
+  "result": {
+    "pages": [
+      {
+        "page": 57,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Antigen",
+                " Immunogen Description ",
+                " Source, host species, RRID",
+                "Concentration"
+              ],
+              [
+                "11-beta-\nhydroxysteroid\ndehydrogenase\ntype 2 (HSD2)",
+                "Amino acids 261-405 from the C-\nterminus of human 11B-HSD2",
+                "Santa Cruz, rabbit polyclonal,\ncat# sc_20176,\nRRID: AB_2233199",
+                "1:500 (human\n& porcine\ntissue)\n\n1:700 (mouse\ntissue)"
+              ],
+              [
+                "11-beta-\nhydroxysteroid\ndehydrogenase\ntype 2 (HSD2)",
+                "Fusion protein Ag5146 (amino\nacids 1-405 encoded by human\nHSD11B2; GenBank BC036780)",
+                "Protein Tech, rabbit\npolyclonal, cat# 14192-1-AP,\nRRID: AB_2119643",
+                "1:2,000 (mouse\ntissue)"
+              ],
+              [
+                "Choline\nacetyltransferase\n(ChAT)",
+                "ChAT from human placenta",
+                "Millipore, goat polyclonal,\ncat# AB144P,\nRRID: AB_2079751",
+                "1:500 (human\ntissue)"
+              ],
+              [
+                "Fos",
+                "Synthetic peptide corresponding\nto residues near the amino\nterminus of rat c-Fos",
+                "Synaptic System, guinea pig;\ncat#226 308,\nRRID: AB_2905595",
+                "1:12,000\n(mouse tissue)"
+              ],
+              [
+                "mCherry",
+                "Full length mCherry fluorescent\nprotein",
+                "Life Sciences, rat monoclonal,\ncat# M11217,\nRRID: AB_2536611",
+                "1:2,000 (mouse\ntissue)"
+              ],
+              [
+                "Tyrosine\nhydroxylase (TH)",
+                "Native tyrosine hydroxylase\nfrom rat pheochromocytoma in\nsheep host",
+                "Millipore, sheep polyclonal,\ncat#: Ab1542,\nRRID: AB 90755",
+                "1:2,000 (mouse\ntissue)"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

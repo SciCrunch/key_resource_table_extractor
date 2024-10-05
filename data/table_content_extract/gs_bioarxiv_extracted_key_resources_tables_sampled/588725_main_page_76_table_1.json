@@ -1,0 +1,555 @@
+{
+  "name": "588725_main_page_76_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Protein"
+      },
+      {
+        "colspan": 1,
+        "content": "Clone"
+      },
+      {
+        "colspan": 1,
+        "content": "Fluorophore"
+      },
+      {
+        "colspan": 1,
+        "content": "Reference"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD3"
+      },
+      {
+        "colspan": 1,
+        "content": "17A2"
+      },
+      {
+        "colspan": 1,
+        "content": "FITC"
+      },
+      {
+        "colspan": 1,
+        "content": "100204"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD45"
+      },
+      {
+        "colspan": 1,
+        "content": "30-F11"
+      },
+      {
+        "colspan": 1,
+        "content": "PerCP"
+      },
+      {
+        "colspan": 1,
+        "content": "103129"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Foxp3"
+      },
+      {
+        "colspan": 1,
+        "content": "FJK-16s"
+      },
+      {
+        "colspan": 1,
+        "content": "eF660"
+      },
+      {
+        "colspan": 1,
+        "content": "50-5773-82"
+      },
+      {
+        "colspan": 1,
+        "content": "eBioscience"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD44"
+      },
+      {
+        "colspan": 1,
+        "content": "IM7"
+      },
+      {
+        "colspan": 1,
+        "content": "BV421"
+      },
+      {
+        "colspan": 1,
+        "content": "103040"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD69"
+      },
+      {
+        "colspan": 1,
+        "content": "H1.2F3"
+      },
+      {
+        "colspan": 1,
+        "content": "BV605"
+      },
+      {
+        "colspan": 1,
+        "content": "104529"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD62L"
+      },
+      {
+        "colspan": 1,
+        "content": "MEL-14"
+      },
+      {
+        "colspan": 1,
+        "content": "BV711"
+      },
+      {
+        "colspan": 1,
+        "content": "104445"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PD-1 (CD279)"
+      },
+      {
+        "colspan": 1,
+        "content": "29F.1A12"
+      },
+      {
+        "colspan": 1,
+        "content": "BV785"
+      },
+      {
+        "colspan": 1,
+        "content": "135225"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD8a"
+      },
+      {
+        "colspan": 1,
+        "content": "53-6.7"
+      },
+      {
+        "colspan": 1,
+        "content": "BUV395"
+      },
+      {
+        "colspan": 1,
+        "content": "563786"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Horizon"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD4"
+      },
+      {
+        "colspan": 1,
+        "content": "GK1.5"
+      },
+      {
+        "colspan": 1,
+        "content": "BUV737"
+      },
+      {
+        "colspan": 1,
+        "content": "612761"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Horizon"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TIM3 (CD366)"
+      },
+      {
+        "colspan": 1,
+        "content": "RMT3-23"
+      },
+      {
+        "colspan": 1,
+        "content": "PE"
+      },
+      {
+        "colspan": 1,
+        "content": "119703"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "LAG-3 (CD223)"
+      },
+      {
+        "colspan": 1,
+        "content": "C9B7W"
+      },
+      {
+        "colspan": 1,
+        "content": "PE-Cy7"
+      },
+      {
+        "colspan": 1,
+        "content": "125225"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CTLA4 (CD152)"
+      },
+      {
+        "colspan": 1,
+        "content": "UC10-4B9"
+      },
+      {
+        "colspan": 1,
+        "content": "BV421"
+      },
+      {
+        "colspan": 1,
+        "content": "106312"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TIM3 (CD366)"
+      },
+      {
+        "colspan": 1,
+        "content": "RMT3-23"
+      },
+      {
+        "colspan": 1,
+        "content": "BV605"
+      },
+      {
+        "colspan": 1,
+        "content": "119721"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ki67"
+      },
+      {
+        "colspan": 1,
+        "content": "B56"
+      },
+      {
+        "colspan": 1,
+        "content": "BV711"
+      },
+      {
+        "colspan": 1,
+        "content": "563755"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Horizon"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TCF1/TCF7"
+      },
+      {
+        "colspan": 1,
+        "content": "C63D9"
+      },
+      {
+        "colspan": 1,
+        "content": "PE"
+      },
+      {
+        "colspan": 1,
+        "content": "14456"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD39"
+      },
+      {
+        "colspan": 1,
+        "content": "24DMS1"
+      },
+      {
+        "colspan": 1,
+        "content": "PE-Cy7"
+      },
+      {
+        "colspan": 1,
+        "content": "25-0391-80"
+      },
+      {
+        "colspan": 1,
+        "content": "eBioscience"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MHCII (I-A/I-E)"
+      },
+      {
+        "colspan": 1,
+        "content": "M5/114.15"
+      },
+      {
+        "colspan": 1,
+        "content": ".2FITC"
+      },
+      {
+        "colspan": 1,
+        "content": "107605"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD103"
+      },
+      {
+        "colspan": 1,
+        "content": "2E7"
+      },
+      {
+        "colspan": 1,
+        "content": "BV421"
+      },
+      {
+        "colspan": 1,
+        "content": "121421"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD24"
+      },
+      {
+        "colspan": 1,
+        "content": "M1/69"
+      },
+      {
+        "colspan": 1,
+        "content": "BV605"
+      },
+      {
+        "colspan": 1,
+        "content": "101827"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD86"
+      },
+      {
+        "colspan": 1,
+        "content": "GL-1"
+      },
+      {
+        "colspan": 1,
+        "content": "BV785"
+      },
+      {
+        "colspan": 1,
+        "content": "105043"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD11c"
+      },
+      {
+        "colspan": 1,
+        "content": "HL3"
+      },
+      {
+        "colspan": 1,
+        "content": "BUV395"
+      },
+      {
+        "colspan": 1,
+        "content": "564080"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Horizon"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CD11b"
+      },
+      {
+        "colspan": 1,
+        "content": "M1/70"
+      },
+      {
+        "colspan": 1,
+        "content": "BUV737"
+      },
+      {
+        "colspan": 1,
+        "content": "612801"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Horizon"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PD-L1 (CD274)"
+      },
+      {
+        "colspan": 1,
+        "content": "10F.9G2"
+      },
+      {
+        "colspan": 1,
+        "content": "PE"
+      },
+      {
+        "colspan": 1,
+        "content": "124308"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FcgRI (CD64)"
+      },
+      {
+        "colspan": 1,
+        "content": "X54-5/7.1"
+      },
+      {
+        "colspan": 1,
+        "content": "PE-Cy7"
+      },
+      {
+        "colspan": 1,
+        "content": "139313"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      }
+    ]
+  ]
+}

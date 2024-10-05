@@ -1,0 +1,427 @@
+{
+  "name": "588206_media-1_page_11_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Trizol RNA extraction"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 15596018,"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "2x green master mix"
+      },
+      {
+        "colspan": 1,
+        "content": "Promega"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# M7122,"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cytofix/Cytoperm buffer"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Bioscience"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# BDB554714"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lipofectamine-2000"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 11668019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rapamycin (mTOR inhibitor)"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# R8781,"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse recombinant IGF1"
+      },
+      {
+        "colspan": 1,
+        "content": "R&D Systems"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 791-MG-050,"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Picropodophyllotoxin (IGF1R inhibitor)"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma-Aldrich"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# T9576-1MG"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Critical commercial assays"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "LDH Cytotoxicity Assay Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Roche"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 4744926001"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Seahorse XF Glycolytic Rate Assay Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Agilent"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 103344-100,"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "First Strand cDNA Synthesis Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# K1622,"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ECL Western Blotting Substrate Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Advansta"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# K-12045-D50"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Insulin ELISA kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# EMINS"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IGF1 ELISA kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# EMIGF1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Silencer siRNA Construction Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# AM1620,"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Experimental models: Cell lines"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "B16F10 "
+      },
+      {
+        "colspan": 1,
+        "content": "NCCS, Pune, India "
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:CVCL_XH27"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "4T1 "
+      },
+      {
+        "colspan": 1,
+        "content": "NCCS, Pune, India "
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:CVCL_0125"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "LLC "
+      },
+      {
+        "colspan": 1,
+        "content": "NCCS, Pune, India "
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:CVCL_3009"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "CT-26 "
+      },
+      {
+        "colspan": 1,
+        "content": "NCCS, Pune, India "
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:CVCL_7254"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Experimental models: Organisms/strains"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "C57BL/6J "
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson Laboratories, USA"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:IMSR_JAX:000664"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BALB/c      "
+      },
+      {
+        "colspan": 1,
+        "content": "State Centre for Laboratory Animal Breeding, West Bengal Livestock Development Corporation Limited, India"
+      },
+      {
+        "colspan": 1,
+        "content": "      "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Crl:CD1-Foxn1nu "
+      },
+      {
+        "colspan": 1,
+        "content": "CDRI, Lucknow "
+      },
+      {
+        "colspan": 1,
+        "content": "RRID:IMSR_CRL:086"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Oligonucleotides"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "siIGF1R sense: 5\u2019 AACCCTCCTCCGGAGCCAGACCCTGTCTC 3\u2019 siIGF1R antisense: 5\u2019 AAGTCTGGCTCCGGAGGAGGGCCTGTCTC 3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "Integrated DNA Technologies  "
+      },
+      {
+        "colspan": 1,
+        "content": "   "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Software and algorithms"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ImageJ"
+      },
+      {
+        "colspan": 1,
+        "content": "Fiji"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FlowJo 10.8.1"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Biosciences"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Seahorse XF Analyzer software"
+      },
+      {
+        "colspan": 1,
+        "content": "Agilent"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GraphPad Prism 8 "
+      },
+      {
+        "colspan": 1,
+        "content": "GraphPad Software Inc."
+      },
+      {
+        "colspan": 1,
+        "content": " "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "STRING v.11.5"
+      },
+      {
+        "colspan": 1,
+        "content": "Global Core Biodata"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BioRender"
+      },
+      {
+        "colspan": 1,
+        "content": "Resource Biorender Inc."
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ]
+  ]
+}

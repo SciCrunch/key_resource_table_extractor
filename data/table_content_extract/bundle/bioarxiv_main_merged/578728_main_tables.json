@@ -1,0 +1,957 @@
+{
+  "paper_id": "578728_main",
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "REAGENT or RESOURCE",
+                "SOURCE",
+                "IDENTIFIER"
+              ],
+              [
+                "Antibodies",
+                "",
+                ""
+              ],
+              [
+                "Alexa anti-Mouse IgG",
+                "Life Technologies",
+                "Cat# 1787187 RRID: AB_2534069"
+              ],
+              [
+                "Alexa anti-Rabbit IgG",
+                "Life Technologies",
+                "Cat# 1745478 RRID: AB_2534079"
+              ],
+              [
+                "Anti-Beta Catenin (\u03b2-catenin) Monoclonal Antibody",
+                "Cloud-Clone Corp.",
+                "Cat# CAB021MI22 RRID: A20230811413"
+              ],
+              [
+                "Anti-rabbit IgG, HRP-linked Antibody",
+                "CST",
+                "Cat# 7074P2 RRID: AB_2099233"
+              ],
+              [
+                "Anti-Vinculin VCL antibody",
+                "Merck",
+                "Cat# V9264, RRID:AB_1060362 7"
+              ],
+              [
+                "",
+                "Abcam",
+                "Cat#ab129002 RRID: AB_11144129"
+              ],
+              [
+                "",
+                "Boster",
+                "Cat# MA1103 RRID: AB_10890415"
+              ],
+              [
+                "HRP Goat Anti-Mouse IgG",
+                "Abclonal",
+                "Cat# AS003"
+              ],
+              [
+                "",
+                "",
+                "RRID: AB_2769851"
+              ],
+              [
+                "Ki-67",
+                "CST",
+                "Cat# 9129 RRID: AB_2314695"
+              ],
+              [
+                "Monoclonal Anti-\u03b2-Actin antibody",
+                "Merck",
+                "Cat# 0000106157"
+              ],
+              [
+                "",
+                "",
+                "RRID: AB_262011"
+              ],
+              [
+                "Mouse Anti-Myogenin",
+                "BD Pharmingen",
+                "Cat# 556358"
+              ],
+              [
+                "",
+                "",
+                "RRID: AB_396383"
+              ],
+              [
+                "Mouse Gamma Globulin",
+                "Invitrogen",
+                "Cat#31878 RRID: AB_2532170"
+              ],
+              [
+                "MyoD antibody",
+                "SCBT",
+                "Cat# SC-377460 RRID: AB_2813894"
+              ],
+              [
+                "Myosin Heavy Chain antibody",
+                "DSHB",
+                "Cat# MF20"
+              ],
+              [
+                "",
+                "",
+                "RRID: AB_2147781"
+              ]
+            ]
+          }
+        ],
+        "page": 38
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Rabbit Gamma Globulin",
+                "Invitrogen",
+                "Cat# 31887 RRID: AB_2532177"
+              ],
+              [
+                "RBFOX1 Rabbit pAb",
+                "Abclonal",
+                "Cat# A7811 RRID: AB_2771954"
+              ],
+              [
+                "WNT7B Rabbit pAb",
+                "Abclonal",
+                "Cat# A7746 RRID: AB_2772906"
+              ],
+              [
+                "Bacterial and virus strains",
+                "",
+                ""
+              ],
+              [
+                "BL21 Competent E. coli",
+                "NEB",
+                "Cat# C2530H"
+              ],
+              [
+                "NEB\u00ae 5-alpha Competent E. coli",
+                "NEB",
+                "Cat# C2988J"
+              ],
+              [
+                "One Shot\u2122 Stbl3\u2122 Chemically Competent E. coli",
+                "Invitrogen",
+                "Cat# C7373-03"
+              ],
+              [
+                "Chemicals, peptides, and recombinant proteins",
+                "",
+                ""
+              ],
+              [
+                "1 Kb plus DNA Ladder",
+                "NEB",
+                "Cat# N3200S"
+              ],
+              [
+                "10X ligation buffer",
+                "Takara",
+                "Cat# 2012"
+              ],
+              [
+                "5-Bromo-4-chloro-3-indolyl \u03b2-D-galactopyranoside (X-Gal)",
+                "SRL",
+                "Cat# 10513"
+              ],
+              [
+                "Acetic acid glacial",
+                "SRL",
+                "Cat# 85801"
+              ],
+              [
+                "Acrylamide",
+                "SRL",
+                "Cat# 22794"
+              ],
+              [
+                "Agar powder",
+                "SRL",
+                "Cat# 19661"
+              ],
+              [
+                "AgeI",
+                "NEB",
+                "Cat# R3552S"
+              ],
+              [
+                "Ammonium persulphate",
+                "SRL",
+                "Cat# 65553"
+              ],
+              [
+                "Ampicillin Sodium Salt",
+                "SRL",
+                "Cat# 61314"
+              ],
+              [
+                "Antibiotic-Antimycotic Solution (100X)",
+                "Gibco",
+                "Cat# 15240062"
+              ],
+              [
+                "BamHI",
+                "Takara",
+                "Cat# 1605"
+              ],
+              [
+                "BglII",
+                "Takara",
+                "Cat# 1021A"
+              ],
+              [
+                "Bio-Rad Protein Assay Dye Reagent Concentrate",
+                "Bio-Rad",
+                "Cat# 5000006"
+              ],
+              [
+                "BML-284 (Wnt agonist 1)",
+                "AdooQ bioscience",
+                "Cat# A15851"
+              ],
+              [
+                "Bovine serum albumin",
+                "Merck",
+                "Cat# A3912"
+              ],
+              [
+                "Bromophenol blue",
+                "SRL",
+                "Cat# 11458"
+              ],
+              [
+                "Calcium Chloride Dihydrate",
+                "SRL",
+                "Cat# 70650"
+              ],
+              [
+                "Chloroform",
+                "Merck",
+                "Cat# C2432"
+              ],
+              [
+                "ClaI",
+                "NEB",
+                "Cat# R01978"
+              ],
+              [
+                "cOmplete\u2122, Mini, EDTA-free Protease Inhibitor Cocktail",
+                "Merck",
+                "Cat# 04693159001"
+              ],
+              [
+                "Coomassie Brilliant Blue G250",
+                "SRL",
+                "Cat# 64222"
+              ],
+              [
+                "Cut smart buffer",
+                "NEB",
+                "Cat# B7204S"
+              ],
+              [
+                "DAPI Dihydrochloride",
+                "SRL",
+                "Cat# 18668"
+              ],
+              [
+                "Dextrose",
+                "SRL",
+                "Cat# 51758"
+              ],
+              [
+                "Diethyl pyrocarbonate  (DEPC)",
+                "SRL",
+                "Cat# 46791"
+              ],
+              [
+                "Dimethyl sulfoxide (DMSO)",
+                "Merck",
+                "Cat# D8779"
+              ],
+              [
+                "di-Sodium hydrogen phosphate",
+                "Merck",
+                "Cat# 106586"
+              ],
+              [
+                "DL-Dithiothreitol (DTT)",
+                "SRL",
+                "Cat# 17315"
+              ],
+              [
+                "DMEM-high glucose",
+                "Merck",
+                "Cat# 56499C"
+              ],
+              [
+                "EcoRI",
+                "Takara",
+                "Cat# 1040A"
+              ],
+              [
+                "EDTA",
+                "SRL",
+                "Cat# 40088"
+              ],
+              [
+                "Ethidium bromide",
+                "Merck",
+                "Cat# E7637"
+              ],
+              [
+                "Ethyl alcohol",
+                "Merck",
+                "Cat# E7023"
+              ]
+            ]
+          }
+        ],
+        "page": 39
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Fetal bovine serum",
+                "Gibco",
+                "Cat# 10270106"
+              ],
+              [
+                "Formaldehyde solution",
+                "Merck",
+                "Cat# F8775"
+              ],
+              [
+                "Glutathione reduced (GSH)",
+                "SRL",
+                "Cat# 11514"
+              ],
+              [
+                "Glycerol",
+                "SRL",
+                "Cat# 77453"
+              ],
+              [
+                "Glycine",
+                "SRL",
+                "Cat# 66327"
+              ],
+              [
+                "GST",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "GST-Rbfox1",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "GST-Rbfox2",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "HEPES Sodium Salt",
+                "SRL",
+                "Cat# 68744"
+              ],
+              [
+                "Hexadimethrine bromide (Polybrene)",
+                "Merck",
+                "Cat#107689"
+              ],
+              [
+                "Horse serum",
+                "Gibco",
+                "Cat# 26050088"
+              ],
+              [
+                "Immobilon Forte Western HRP substrate",
+                "Merck",
+                "Cat# WBLUF"
+              ],
+              [
+                "Immobilon\u00ae-P PVDF Membrane",
+                "Merck",
+                "Cat# IPVH00010"
+              ],
+              [
+                "Insulin solution from bovine pancreas",
+                "Merck",
+                "Cat# I0516"
+              ],
+              [
+                "Isopropanol",
+                "SRL",
+                "Cat# 62986"
+              ],
+              [
+                "Isopropyl-\u03b2-D-Thiogalactopyranoside (IPTG)",
+                "SRL",
+                "Cat# 67208"
+              ],
+              [
+                "Kanamycin Monosulphate",
+                "SRL",
+                "Cat# 99311"
+              ],
+              [
+                "KY02111 (Wnt inhibitor)",
+                "AdooQ bioscience",
+                "Cat# A12362"
+              ],
+              [
+                "Lithium chloride",
+                "Merck",
+                "Cat# 105679"
+              ],
+              [
+                "Magnesium Chloride Hexahydrate",
+                "SRL",
+                "Cat# 54269"
+              ],
+              [
+                "Magnesium Sulphate Heptahydrate",
+                "SRL",
+                "Cat# 85611"
+              ],
+              [
+                "Maxima SYBR Green/ROX qPCR Master Mix (2X)",
+                "Thermo Scientific",
+                "Cat# K0223"
+              ],
+              [
+                "Methanol",
+                "Merck",
+                "Cat# 1.07018.2521"
+              ],
+              [
+                "N,N,N\u2032,N\u2032-Tetramethylethylenediamine (TEMED)",
+                "Merck",
+                "Cat# T9281"
+              ],
+              [
+                "N,N-Methylene Bisacrylamide",
+                "SRL",
+                "Cat# 67320"
+              ],
+              [
+                "NdeI",
+                "Takara",
+                "Cat# 1629"
+              ],
+              [
+                "Nonidet\u00ae P-40",
+                "HiMedia",
+                "Cat# MB143"
+              ],
+              [
+                "Paraformaldehyde",
+                "HiMedia",
+                "Cat# GRM3660"
+              ],
+              [
+                "PCR Master Mix (2X)",
+                "Thermo Scientific",
+                "Cat# K0171"
+              ],
+              [
+                "Phenylmethylsulfonyl fluoride",
+                "HiMedia",
+                "Cat# RM1592"
+              ],
+              [
+                "Pierce\u2122 Glutathione Agarose",
+                "Thermo Scientific",
+                "Cat# 16100"
+              ],
+              [
+                "Poly (ethylene glycol)",
+                "Merck",
+                "Cat# 89510"
+              ],
+              [
+                "Potassium acetate",
+                "Merck",
+                "Cat# P1190"
+              ],
+              [
+                "Potassium chloride",
+                "Merck",
+                "Cat# 104936"
+              ],
+              [
+                "Potassium Dihydrogen Orthophosphate",
+                "SRL",
+                "Cat# 50451"
+              ],
+              [
+                "Precision Plus Protein Dual Color Standards",
+                "Bio-Rad",
+                "Cat# 1610374"
+              ],
+              [
+                "Protein A Agarose/Salmon Sperm DNA",
+                "Merck",
+                "Cat# 16-157"
+              ],
+              [
+                "Protein A-agarose",
+                "SCBT",
+                "Cat# sc-2001"
+              ],
+              [
+                "Proteinase K",
+                "Calbiochem",
+                "Cat# 539480"
+              ],
+              [
+                "PureLink\u2122 Dnase",
+                "Invitrogen",
+                "Cat# 12185010"
+              ],
+              [
+                "Puromycin Dihydrochloride",
+                "SRL",
+                "Cat# 82361"
+              ],
+              [
+                "Quick-cut Restriction digestion buffer",
+                "Takara",
+                "Cat# AH70016A"
+              ],
+              [
+                "SalI",
+                "Takara",
+                "Cat# 1636"
+              ],
+              [
+                "SeaKem\u00ae LE Agarose",
+                "Lonza",
+                "Cat# 50004"
+              ],
+              [
+                "Sodium bicarbonate",
+                "SRL",
+                "Cat# 92957"
+              ],
+              [
+                "Sodium chloride",
+                "SRL",
+                "Cat# 33205"
+              ],
+              [
+                "Sodium citrate monobasic",
+                "Merck",
+                "Cat# 71497"
+              ],
+              [
+                "Sodium deoxycholate",
+                "Merck",
+                "Cat# D6750"
+              ],
+              [
+                "Sodium fluoride (NAF)",
+                "Merck",
+                "Cat# 106449"
+              ],
+              [
+                "sodium hydroxide pellets",
+                "SRL",
+                "Cat# 68151"
+              ],
+              [
+                "Sodium lauryl sulphate (SDS, SLS)",
+                "SRL",
+                "Cat# 54468"
+              ]
+            ]
+          }
+        ],
+        "page": 40
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Sodium orthovanadate",
+                "Merck",
+                "Cat# S6508"
+              ],
+              [
+                "Sodium pyrophosphate tetrabasic",
+                "Avra",
+                "Cat# ASS2790"
+              ],
+              [
+                "Sodium-\u03b2-glycerophosphate",
+                "Molychem",
+                "Cat# 25760"
+              ],
+              [
+                "Sucrose",
+                "Merck",
+                "Cat# S0389"
+              ],
+              [
+                "TM",
+                "",
+                ""
+              ],
+              [
+                "T-Vector pMD20",
+                "Takara",
+                "Cat# 3270"
+              ],
+              [
+                "T4 DNA Ligase",
+                "Takara",
+                "Cat# 2011A"
+              ],
+              [
+                "Trichrome Stains (masson)",
+                "Merck",
+                "Cat# HT15"
+              ],
+              [
+                "Tris Buffer",
+                "SRL",
+                "Cat# 71033"
+              ],
+              [
+                "Triton X-100",
+                "SRL",
+                "Cat# 64518"
+              ],
+              [
+                "TRIzol\u2122 Reagent",
+                "Invitrogen",
+                "Cat# 15596026"
+              ],
+              [
+                "Trypsin-EDTA solution 1X",
+                "HiMedia",
+                "Cat# TCL-155"
+              ],
+              [
+                "Tryptone",
+                "SRL",
+                "Cat# 32007"
+              ],
+              [
+                "Tween\u00ae 20",
+                "Merck",
+                "Cat# 822184"
+              ],
+              [
+                "Water",
+                "Merck",
+                "Cat# W4502"
+              ],
+              [
+                "XhoI",
+                "Takara",
+                "Cat# 1094A"
+              ],
+              [
+                "Yeast extract",
+                "SRL",
+                "Cat# 34266"
+              ],
+              [
+                "Zinc chloride",
+                "SRL",
+                "Cat# 87288"
+              ],
+              [
+                "\u03b2-Mercaptoethanol",
+                "Calbiochem",
+                "Cat# 444203"
+              ],
+              [
+                "Critical commercial assays",
+                "",
+                ""
+              ],
+              [
+                "GeneJET Plasmid Miniprep Kit",
+                "Thermo Scientific",
+                "Cat# K0502"
+              ],
+              [
+                "PureLink\u2122 Quick Gel Extraction and PCR Purification Combo Kit",
+                "Thermo Scientific",
+                "Cat# K220001"
+              ],
+              [
+                "RevertAid First Strand cDNA Synthesis Kit",
+                "Thermo Scientific",
+                "Cat# K1622"
+              ],
+              [
+                "Deposited data",
+                "",
+                ""
+              ],
+              [
+                "RNA sequencing data",
+                "This manuscript",
+                "NCBI, GSCE181789."
+              ],
+              [
+                "Experimental models: Cell lines",
+                "",
+                ""
+              ],
+              [
+                "293T",
+                "ATCC",
+                "Cat# CRL-3216 RRID: CVCL_0063"
+              ],
+              [
+                "C2C12",
+                "ATCC",
+                "Cat# CRL-1772 RRID: CVCL_0188"
+              ],
+              [
+                "C2-Rbfox1",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "C2-shmVcl1",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "C2-shmVcl2",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "C2-shRbfox1",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "C2-shRbfox2",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "C2-shScr",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "C2-shScr",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "HSMM",
+                "Lonza",
+                "Cat# CC-2580"
+              ],
+              [
+                "L6",
+                "ATCC",
+                "Cat# CRL-1458 RRID: CVCL_0385"
+              ],
+              [
+                "L6-shmVCL2",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "L6-shScramble",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "Experimental models: Organisms/strains",
+                "",
+                ""
+              ],
+              [
+                "C57BL/6J",
+                "The Jackson Laboratory",
+                "Cat# 000664 RRID: IMSR_JAX:000664"
+              ],
+              [
+                "Oligonucleotides",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 41
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "ShScr",
+                "5\u2019- GCTTCCCACCGAC ACTGAT-3\u2019",
+                "IDT"
+              ],
+              [
+                "ShRbfx1",
+                "5\u2019- CAGCCCCCACCTA CGGCGTTG-3\u2019",
+                "IDT"
+              ],
+              [
+                "ShRbfx2",
+                "5\u2019- AAGCGACTACATG TCTCTAAT-3\u2019",
+                "IDT"
+              ],
+              [
+                "ShmVcl1",
+                "5\u2019- CGGTCAACCAGC CCATTCT-3\u2019",
+                "IDT"
+              ],
+              [
+                "ShmVcl2",
+                "5\u2019- CGGCTCAGTCCTT GCATCG-3\u2019",
+                "IDT"
+              ],
+              [
+                "Primers used for RT-qPCR, Crosslink-RIP, ChIP were given in Table  S2",
+                "This manuscript",
+                "IDT, Macrogen"
+              ],
+              [
+                "Recombinant DNA",
+                "",
+                ""
+              ],
+              [
+                "pBABE-Puro",
+                "Addgene",
+                "Cat#21836 RRID: Addgene_21836"
+              ],
+              [
+                "pBABE-Rbfox1",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "pBABE-Wnt7b",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "pCDNA4-GFP-Metavinculin",
+                "Addgene",
+                "Cat#107151 RRID: Addgene_107151"
+              ],
+              [
+                "pEGFP-Rbfox1",
+                "Addgene",
+                "Cat#63085 RRID: Addgene_63085"
+              ],
+              [
+                "pEGFP-Rbfox2",
+                "Addgene",
+                "Cat#63086 RRID: Addgene_63086"
+              ],
+              [
+                "pGEX-6P-1",
+                "Merck",
+                "Cat#GE28-9546- 48"
+              ],
+              [
+                "pGEX-6P-1-Rbfox1",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "pGEX-6P-1-Rbfox2",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "pLKO.1TRC",
+                "Addgene",
+                "Cat#10879 RRID: Addgene_10879"
+              ],
+              [
+                "pLKO.1TRC-ShRbfx1",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "pLKO.1TRC-ShRbfx2",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "pLKO.1TRC-shScr",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "pLSL-Puro",
+                "Addgene",
+                "Cat#51493 RRID: Addgene_51493"
+              ],
+              [
+                "pLSL-ShmVcl1",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "pLSL-ShmVcl2",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "pLSL-shScr",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "pMD20-Wnt7b",
+                "This manuscript",
+                "N/A"
+              ],
+              [
+                "Software and algorithms",
+                "",
+                ""
+              ],
+              [
+                "Adobe Photoshop CS8",
+                "www.adobe.com",
+                "N/A"
+              ]
+            ]
+          }
+        ],
+        "page": 42
+      }
+    ]
+  }
+}

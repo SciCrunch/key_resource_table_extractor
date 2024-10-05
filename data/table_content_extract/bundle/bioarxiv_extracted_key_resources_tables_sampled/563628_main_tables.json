@@ -1,0 +1,113 @@
+{
+  "job_id": 1563,
+  "job_status": "finished",
+  "paper_id": "563628_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "mouse macrophage cells (TIB-71, RAW 264.7, Mus",
+                "American Type Culture"
+              ],
+              [
+                "musculus)",
+                "(Manassas, VA)"
+              ],
+              [
+                "Micro BCA protein assay kit",
+                "Thermo Scientific (Rockford, IL)"
+              ],
+              [
+                "Collagen Type I",
+                "Corning (Discovery Labwa"
+              ],
+              [
+                "",
+                "Bedford, MA)"
+              ],
+              [
+                "Endothelial cell basal medium-2 (EBM-2)",
+                "Lonza (Walkersville, MD)"
+              ],
+              [
+                "DMEM/High glucose medium",
+                "HyClone Laboratories (Logan, U"
+              ],
+              [
+                "heat-inactivated fetal bovine serum",
+                ""
+              ],
+              [
+                "Penicillin-Streptomycin solution",
+                "Invitrogen (Carlsbad, CA)"
+              ],
+              [
+                "Chemically Defined Lipid Concentrate",
+                ""
+              ],
+              [
+                "Polycarbonate centrifuge tubes",
+                "Beckman Coulter, Inc. (Brea, C"
+              ],
+              [
+                "RIPA (5x) buffer",
+                "Alfa Aesar (Ward Hill, MA)"
+              ],
+              [
+                "Mouse monoclonal antibody against CD9",
+                "Invitrogen (12-0091-81)"
+              ],
+              [
+                "Rabbit anti-CD63 primary antibody",
+                "Abcam (Boston, MA)"
+              ],
+              [
+                "Goat anti-rabbit secondary antibody AF790",
+                "Jackson ImmunoResearch Lab I"
+              ],
+              [
+                "",
+                "Grove, PA)"
+              ],
+              [
+                "Hoechst 33342",
+                "Fisher Scientific (Waltham, MA)"
+              ],
+              [
+                "genistein",
+                ""
+              ],
+              [
+                "heparin",
+                ""
+              ],
+              [
+                "Low-volume disposable cuvettes (Part no. Malvern",
+                ""
+              ],
+              [
+                "ZEN0040)",
+                ""
+              ],
+              [
+                "Octadecyl Rhodamine B Chloride (R18)",
+                ""
+              ],
+              [
+                "MES sodium salt",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 7
+      }
+    ]
+  }
+}

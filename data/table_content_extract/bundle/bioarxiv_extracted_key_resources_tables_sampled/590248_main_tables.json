@@ -1,0 +1,261 @@
+{
+  "job_id": 1303,
+  "job_status": "finished",
+  "paper_id": "590248_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "Strain",
+                "Genotype",
+                "Source"
+              ],
+              [
+                "GR5",
+                "pyrG89; pyroA4; wA3",
+                "G.S. May"
+              ],
+              [
+                "JZ505",
+                "\u2206hookA-AfpyrG; GFP-nudAHC; argB2::[argB*-alcAp::mCherry-RabA];",
+                "(Zhang et"
+              ],
+              [
+                "",
+                "possibly pyrG89; possibly \u2206nkuA::argB; pyroA4; wA2",
+                "al., 2014)"
+              ],
+              [
+                "JZ788",
+                "Arp11-GFP-AfpyrG, argB2::[argB*-alcAp::mCherry-RabA];",
+                "(Qiu et al.,"
+              ],
+              [
+                "",
+                "\u2206nkuA::argB; pyrG89; pantoB100; yA2",
+                "2020)"
+              ],
+              [
+                "RQ2",
+                "GFP-nudAHC; argB2::[argB*-alcAp::mCherry-RabA]; \u2206nkuA::argB;",
+                "(Qiu et al.,"
+              ],
+              [
+                "",
+                "pyrG89; pyroA4; yA2",
+                "2013)"
+              ],
+              [
+                "RQ54",
+                "argB2::[argB*-alcAp::mCherry-RabA]; \u2206nkuA::argB;  pyrG89; pyroA4;",
+                "(Qiu et al.,"
+              ],
+              [
+                "",
+                "wA2",
+                "2013)"
+              ],
+              [
+                "RQ294",
+                "GFP-nudAR1602E, K1645E; argB2::[argB\u2044-alcAp::mCherry-RabA];",
+                "(Qiu et al.,"
+              ],
+              [
+                "",
+                "\u2206nkuA::argB, pyroA4; yA2",
+                "2019)"
+              ],
+              [
+                "XX222",
+                "GFP-nudAHC; argB2::[argB*-alcAp::mCherry-RabA]; \u2206nkuA::argB;",
+                "(Zhang et"
+              ],
+              [
+                "",
+                "pantoB100; yA2",
+                "al., 2014)"
+              ],
+              [
+                "XY41",
+                "p25-GFP-AfpyrG; \u2206nkuA::argB; pyrG89; pyroA4",
+                "(Zhang et"
+              ],
+              [
+                "",
+                "",
+                "al., 2014)"
+              ],
+              [
+                "XY42",
+                "argB2::[argB*-alcAp::mCherry-RabA]; \u2206nkuA::argB;  pyrG89;",
+                "(Qiu et al.,"
+              ],
+              [
+                "",
+                "pantoB100; yA2",
+                "2018)"
+              ],
+              [
+                "XY136",
+                "\u2206vezA-AfpyrG; GFP-nudAHC; argB2::[argB*-alcAp::mCherry-RabA];",
+                "(Yao et al.,"
+              ],
+              [
+                "",
+                "pyrG89; \u2206nkuA::argB; pyroA4; yA2",
+                "2015)"
+              ],
+              [
+                "XY163",
+                "vezA-GFP-AfpyrG; argB2::[argB*-alcAp::mCherry-RabA];  pyrG89;",
+                "(Yao et al.,"
+              ],
+              [
+                "",
+                "\u2206nkuA::argB  pyroA4, wA2",
+                "2015)"
+              ],
+              [
+                "XY167",
+                "\u2206TM-vezA-GFP-AfpyrG; argB2::[argB*- alcA(p)::mCherry-RabA;",
+                "(Yao et al.,"
+              ],
+              [
+                "",
+                "\u2206nkuA::argB; pyrG89; pyroA4; wA2",
+                "2015)"
+              ],
+              [
+                "JZ704",
+                "\u2206vezA-AfpyrG; p150-GFP-AfpyrG; argB2::[argB*-alcAp::mCherry-",
+                "This work"
+              ],
+              [
+                "",
+                "RabA]; pyrG89; \u2206nkuA::argB",
+                ""
+              ],
+              [
+                "JZ706",
+                "p150-GFP-AfpyrG; argB2::[argB*-alcAp::mCherry-RabA]; pyrG89;",
+                "This work"
+              ],
+              [
+                "",
+                "\u2206nkuA::argB",
+                ""
+              ],
+              [
+                "JZ790",
+                "p62-GFP-AfpyrG, argB2::[argB*-alcAp::mCherry-RabA];",
+                "This work"
+              ],
+              [
+                "",
+                "\u2206nkuA::argB; pyrG89; pantoB100; yA2",
+                ""
+              ],
+              [
+                "JZ872",
+                "gpdA-\u2206TM-vezA-GFP-AfpyrG; argB2::[argB*-alcAp::mCherry-RabA];",
+                "This work"
+              ],
+              [
+                "",
+                "pyrG89; \u2206nkuA::argB; pantoB100; yA2",
+                ""
+              ],
+              [
+                "JZ942",
+                "Arp11-GFP-AfpyrG; \u2206vezA-AfpyrG; argB2::[argB*-alcAp::mCherry-",
+                "This work"
+              ],
+              [
+                "",
+                "rabA]; \u2206nkuA::argB; pyrG89; yA2",
+                ""
+              ],
+              [
+                "JZ968",
+                "p150-GFP-AfpyrG; \u2206vezA-AfpyrG;  \u2206hookA-AfpyrG;  argB2::[argB*-",
+                "This work"
+              ],
+              [
+                "",
+                "alcAp::mCherry-RabA]; \u2206nkuA::argB;  pyrG89",
+                ""
+              ],
+              [
+                "JZ971",
+                "Arp11-GFP-AfpyrG; \u2206vezA-AfpyrG;  \u2206hookA-AfpyrG;  argB2::[argB*-",
+                "This work"
+              ],
+              [
+                "",
+                "alcAp::mCherry-RabA]; \u2206nkuA::argB;  pyrG89",
+                ""
+              ],
+              [
+                "JZ972",
+                "p62-GFP-AfpyrG; \u2206vezA-AfpyrG;  \u2206hookA-AfpyrG;  argB2::[argB*-",
+                "This work"
+              ],
+              [
+                "",
+                "alcAp::mCherry-RabA]; \u2206nkuA::argB; pyrG89; yA2",
+                ""
+              ],
+              [
+                "JZ973",
+                "p25-GFP-AfpyrG; \u2206hookA-AfpyrG;  argB2::[argB*-alcAp::mCherry-",
+                "This work"
+              ],
+              [
+                "",
+                "RabA]; \u2206nkuA::argB; pyrG89; yA2",
+                ""
+              ],
+              [
+                "JZ974",
+                "p25-GFP-AfpyrG; \u2206vezA-AfpyrG; argB2::[argB*-alcAp::mCherry-",
+                "This work"
+              ],
+              [
+                "",
+                "RabA]; \u2206nkuA::argB;  pyrG89",
+                ""
+              ],
+              [
+                "JZ975",
+                "p25-GFP-AfpyrG; \u2206vezA-AfpyrG;  \u2206hookA-AfpyrG;  argB2::[argB*-",
+                "This work"
+              ],
+              [
+                "",
+                "alcAp::mCherry-RabA]; \u2206nkuA::argB;  pyrG89",
+                ""
+              ],
+              [
+                "JZ976",
+                "p62-GFP-AfpyrG; \u2206hookA-AfpyrG;  argB2::[argB*-alcAp::mCherry-",
+                "This work"
+              ]
+            ]
+          }
+        ],
+        "page": 40
+      }
+    ]
+  }
+}

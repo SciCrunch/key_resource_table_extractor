@@ -1,0 +1,113 @@
+{
+  "name": "590990_main_page_57_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Antigen 11-beta- hydroxysteroid dehydrogenase type 2 (HSD2) "
+      },
+      {
+        "colspan": 1,
+        "content": "Immunogen Description Amino acids 261-405 from the C-terminus of human 11b-HSD2"
+      },
+      {
+        "colspan": 1,
+        "content": "Source, host species, RRID Santa Cruz, rabbit polyclonal, cat# sc_20176, RRID: AB_2233199  "
+      },
+      {
+        "colspan": 1,
+        "content": "Concentration 1:500 (human & porcine tissue) 1:700 (mouse tissue)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "11-beta- hydroxysteroid dehydrogenase type 2 (HSD2)"
+      },
+      {
+        "colspan": 1,
+        "content": "Fusion protein Ag5146 (amino acids 1\u2013405 encoded by human HSD11B2; GenBank BC036780) "
+      },
+      {
+        "colspan": 1,
+        "content": "Protein Tech, rabbit polyclonal, cat# 14192-1-AP, RRID: AB_2119643 "
+      },
+      {
+        "colspan": 1,
+        "content": "1:2,000 (mouse tissue)  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Choline acetyltransferase (ChAT)"
+      },
+      {
+        "colspan": 1,
+        "content": "ChAT from human placenta  "
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore, goat polyclonal, cat# AB144P, RRID: AB_2079751"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500 (human tissue) "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Fos  "
+      },
+      {
+        "colspan": 1,
+        "content": "Synthetic peptide corresponding to residues near the amino terminus of rat c-Fos"
+      },
+      {
+        "colspan": 1,
+        "content": "Synaptic System, guinea pig; cat#226 308, RRID: AB_2905595"
+      },
+      {
+        "colspan": 1,
+        "content": "1:12,000 (mouse tissue) "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "mCherry  "
+      },
+      {
+        "colspan": 1,
+        "content": "Full length mCherry fluorescent protein "
+      },
+      {
+        "colspan": 1,
+        "content": "Life Sciences, rat monoclonal, cat# M11217, RRID: AB_2536611"
+      },
+      {
+        "colspan": 1,
+        "content": "1:2,000 (mouse tissue) "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tyrosine hydroxylase (TH)"
+      },
+      {
+        "colspan": 1,
+        "content": "Native tyrosine hydroxylase from rat pheochromocytoma in sheep host"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore, sheep polyclonal, cat#: Ab1542, RRID: AB_90755"
+      },
+      {
+        "colspan": 1,
+        "content": "1:2,000 (mouse tissue)"
+      }
+    ]
+  ]
+}

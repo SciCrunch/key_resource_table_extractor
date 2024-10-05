@@ -1,0 +1,61 @@
+{
+  "job_id": 93,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_591481_main",
+  "pdf_file": "591481_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Experimental organisms Mouse: C57BL/6J",
+                "Vital River Lab Animal Technology  (Zhejiang, China)",
+                "Cat# 213"
+              ],
+              [
+                "DTRMouse: DCX",
+                "Queensland Brain Institute",
+                "Refence 15"
+              ],
+              [
+                "Mouse: PV-Cre  tm1(cre)Arbr",
+                "The Jackson Lab, USA",
+                "Cat# 017320"
+              ],
+              [
+                "(B6.129P2-Pvalb/J)",
+                "",
+                ""
+              ],
+              [
+                "Antibodies",
+                "",
+                ""
+              ],
+              [
+                "Anti-GAD67 antibody",
+                "Abcam",
+                "Ab26116"
+              ],
+              [
+                "Anti-TBR2 antibody",
+                "Abcam",
+                "Ab23345"
+              ],
+              [
+                "FIJI",
+                "ImageJ",
+                "Version 1.54i"
+              ]
+            ]
+          }
+        ],
+        "page": 22
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headers": [],
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "1.40 (d, J= 6.3Hz, 6H, H-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "16,17), 2.43 (s, 3H, H-7), 5.27-5.29 (m, 1H, H-15), 7.01-7.05 (m, 1H, H-aromatic), 7.38-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "7.42 (m, 1H, H-aromatic), 7.44 (s, 1H, H-6), 7.53-7.56 (m, 1H, H-aromatic), 7.99 (dd,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "J1= 8.0 Hz, J2= 1.5 Hz, 1H, H-aromatic), 8.09 (s, 1H, H-3), 11.35 (bs, 1H, NH). 13 C-NMR"
+    }],
+    [{
+      "colspan": 1,
+      "content": "(CDCl3), δ: 19.6 (CH3, C-7), 21.8 (2xCH3, C-16,17), 69.6 (CH, C-15), 116.9, 122.4, 131.4,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "131.8, 133.5, 134.2 (CH, C-aromatic), 115.9, 129.9, 134.9, 135. 5, 139.6, 139.9 (C, C-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "aromatic), 167.2 (C, C-14). UPLC-MS: Rt 2.78 (100%) MS (ESI) + : 400.1 [M+H] + ."
+    }],
+    [{
+      "colspan": 1,
+      "content": "\u2022 N-"
+    }]
+  ]
+}

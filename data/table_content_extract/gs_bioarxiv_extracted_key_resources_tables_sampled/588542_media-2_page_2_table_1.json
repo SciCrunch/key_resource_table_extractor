@@ -1,0 +1,603 @@
+{
+  "name": "588542_media-2_page_2_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0145 CD103 (Integrin aE) (GACCTCATTGTGAAT) (Ber-ACT8)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 350233; RRID:AB_2800933"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0161 CD11b (GACAAGTGATCTGCA) (ICRF44)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 301359; RRID:AB_2800732"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0168 CD57 (AACTCCCTATGGAGG) (QA17A04)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 393321; RRID:AB_2801030"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0154 CD27 (GCACTCCTGCATGTA) (O323)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 302853; RRID:AB_2800747"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0599 CD158e1 (GGACGCTTTCCTTGA) (DX9)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 312725; RRID:AB_2814161"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0087 CD45RO (CTCCGAATCATGTTG) (UCHL1)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 304259; RRID:AB_2800766"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0391 CD45 (TTTGTCCTGTACGCC) (HI30)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 304068; RRID:AB_2800762"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TotalSeq-C0085 CD25 (TGCAATTACCCGGAT) (BC96)"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 302649; RRID:AB_2800745"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Fc Block"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Human Trustain FcX"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#422301; RRID: AB_2818986"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Chemicals, peptides, and recombinant proteins"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cytiva Ficoll-Paque\u2122 PREMIUM"
+      },
+      {
+        "colspan": 1,
+        "content": "Cytiva"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#45001751"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ficoll Paque Plus"
+      },
+      {
+        "colspan": 1,
+        "content": "GE Healthcare"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#17144002"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Fetal Bovine Serum (FBS)"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#10437028"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bambanker Serum-free cell freezing media"
+      },
+      {
+        "colspan": 1,
+        "content": "Lymphotec Inc."
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#9582225"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Brefeldin A solution (1000x)"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#420601"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Difco Middlebrook 7H9 broth"
+      },
+      {
+        "colspan": 1,
+        "content": "BD"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#271310"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Difco Middlebrook 7H10 Agar"
+      },
+      {
+        "colspan": 1,
+        "content": "BD"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#262710"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BD BBL Middlebrook OADC"
+      },
+      {
+        "colspan": 1,
+        "content": "BD"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#B12351"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Recombinant human IL12"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#573002"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Recombinant human IL18"
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#592104"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Recombinant human IL2"
+      },
+      {
+        "colspan": 1,
+        "content": "PeproTech"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#200-02"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Recombinant human IL2"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#PHC0021"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Recombinant human IL2 (hIL-2)"
+      },
+      {
+        "colspan": 1,
+        "content": "Roche"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#HIL2-RO"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Penicillin/Streptomycin"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#15-140-122"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IMDM"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#12440053"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RPMI 1640"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#21870092"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "L-glutamine"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#25030149"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Fetal Bovine Serum"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#26140079"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HEPES"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#15630080"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sodium pyruvate"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#11360070"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MEM Nonessential amino acids"
+      },
+      {
+        "colspan": 1,
+        "content": "Gibco"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#11140050"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Flow Cytometry Staining Buffer"
+      },
+      {
+        "colspan": 1,
+        "content": "eBioscience"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#00-4222-26"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Fixation/Permeabilization concentrate"
+      },
+      {
+        "colspan": 1,
+        "content": "eBioscience"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#00-5123-43"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Permeabilization Buffer"
+      },
+      {
+        "colspan": 1,
+        "content": "eBioscience"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#00-8333-56"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "2-mercaptoethanol"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#M6250-250ML"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Biological samples"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Healthy human PBMCs"
+      },
+      {
+        "colspan": 1,
+        "content": "NYBC, SBU"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Healthy human TB contact/control PBMCs"
+      },
+      {
+        "colspan": 1,
+        "content": "GHESKIO Centers"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Software and algorithms"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cellranger"
+      },
+      {
+        "colspan": 1,
+        "content": "v.7.0  "
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.10xgenomics.com/support/software/\ncell-ranger/latest/analysis/running-pipelines/cr-3p-multi"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Seurat"
+      },
+      {
+        "colspan": 1,
+        "content": "v.5.0.1"
+      },
+      {
+        "colspan": 1,
+        "content": "https://satijalab.org/seurat/articles/install.html"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "R"
+      },
+      {
+        "colspan": 1,
+        "content": "v.4.3.1"
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.r-project.org/"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FCS express v7"
+      },
+      {
+        "colspan": 1,
+        "content": "DeNovo Software"
+      },
+      {
+        "colspan": 1,
+        "content": "https://denovosoftware.com/"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Prism v11 "
+      },
+      {
+        "colspan": 1,
+        "content": "Graphpad Software "
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.graphpad.com/scientific-software/prism/"
+      }
+    ]
+  ]
+}

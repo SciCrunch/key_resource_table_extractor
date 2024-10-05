@@ -1,0 +1,117 @@
+{
+  "name": "590624_main_page_31_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Plasmid"
+      },
+      {
+        "colspan": 1,
+        "content": "Description"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p674 "
+      },
+      {
+        "colspan": 1,
+        "content": "wild-type Rex1 expressed as an N-terminal zz protein from the RRP4 promoter in pRS313."
+      },
+      {
+        "colspan": 1,
+        "content": "(Daniels et al. 2022)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p966"
+      },
+      {
+        "colspan": 1,
+        "content": "loop 2\u2206 derivative of p674"
+      },
+      {
+        "colspan": 1,
+        "content": "this study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p967"
+      },
+      {
+        "colspan": 1,
+        "content": "loop 1\u2206 derivative of p674"
+      },
+      {
+        "colspan": 1,
+        "content": "this study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p972"
+      },
+      {
+        "colspan": 1,
+        "content": "loop 3\u2206 derivative of p674"
+      },
+      {
+        "colspan": 1,
+        "content": "this study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p973 "
+      },
+      {
+        "colspan": 1,
+        "content": "wild-type Rex3 expressed as an N-terminal zz protein from the RRP4 promoter in pRS416."
+      },
+      {
+        "colspan": 1,
+        "content": "this study "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p974"
+      },
+      {
+        "colspan": 1,
+        "content": "\u22061-106 variant of p973"
+      },
+      {
+        "colspan": 1,
+        "content": "this study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "p975"
+      },
+      {
+        "colspan": 1,
+        "content": "\u22061-218 variant of p973"
+      },
+      {
+        "colspan": 1,
+        "content": "this study"
+      }
+    ]
+  ]
+}

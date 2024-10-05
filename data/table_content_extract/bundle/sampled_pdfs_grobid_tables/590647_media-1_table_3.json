@@ -1,0 +1,476 @@
+{
+  "headers": [],
+  "caption": "Important DNA sequences",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CCTTGTTAATCGTATCGAGTTAAAGGGTATTGATTTTAAAGAAGA GCTATCATCATTAACTTTATTTATTACCGTTATTGGTGTAAAATC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Name MicF(1-30)-SS"
+      },
+      {
+        "colspan": 1,
+        "content": "Sequence TGGAAACATTCTTGGACACAAACTCGAGTACAACTTTAACTCAC ACCCGCCAGCAGATTATACCTGCTGGTTTTTTTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "J23118 promoter"
+      },
+      {
+        "colspan": 1,
+        "content": "TTGACGGCTAGCTCAGTCCTAGGTATTGTGCTAGC ACAATGTATACATCACGGCAGACAAACAAAAGAATGGAATCAAA GCTATCATCATTAACTTTATTTATTACCGTCATTCATTTCTGAATG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "J23119 promoter"
+      },
+      {
+        "colspan": 1,
+        "content": "TTGACAGCTAGCTCAGTCCTAGGTATAATACTAGT GCTAACTTCAAAATTCGCCACAACGTTGAAGATGGTTCCGTTCA TCTGTTATTGGTGTAAAATCACCCGCCAGCAGATTATACCTGCT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MicF(1-51)-SS"
+      },
+      {
+        "colspan": 1,
+        "content": "ACCTGTAGGATCGTACAGGTTTACGCAAGAAAATGGTTTGTTAT ACTAGCAGACCATTATCAACAAAATACTCCAATTGGCGATGGCC GGTTTTTTTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plux promoter"
+      },
+      {
+        "colspan": 1,
+        "content": "AGTCGAATAAA CTGTCCTTTTACCAGACAACCATTACCTGTCGACACAATCTGTC GACTACAAAGACCATGACGGTGATTATAAAGATCATGATATCGA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "3xFLAG"
+      },
+      {
+        "colspan": 1,
+        "content": "ATGAAAAACATAAATGCCGACGACACATACAGAATAATTAATAA CTTTCGAAAGATCCCAACGAAAAGCGTGACCACATGGTCCTTCT CTACAAAGATGACGACGATAAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "AATTAAAGCTTGTAGAAGCAATAATGATATTAATCAATGCTTATC TGAGTTTGTAACTGCTGCTGGGATTACACATGGCATGGATGAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "TGATATGACTAAAATGGTACATTGTGAATATTATTTACTCGCGAT CTCTACAAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CATTTATCCTCATTCTATGGTTAAATCTGATATTTCAATCCTAGA GCATACAACGGTGGTATCGCAACCCCGCGCAGGCGAATGATTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "TAATTACCCTAAAAAATGGAGGCAATATTATGATGACGCTAATTT ACGGAGAATAAAATGAAGTTTGTTGATGAAGCATCGATTCTGGT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "obgE (stop codon of"
+      },
+      {
+        "colspan": 1,
+        "content": "AATAAAATATGATCCTATAGTAGATTATTCTAACTCCAATCATTC CGTTGCAGGTGATGGCGGTAATGGTTGCGTGAGCTTCCGCCG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "previous gene through"
+      },
+      {
+        "colspan": 1,
+        "content": "ACCAATTAATTGGAATATATTTGAAAACAATGCTGTAAATAAAAA CGAAAAGTATATTCCGAAAGGCGGCCCGGATGGCGGCGACGG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "40 codons)"
+      },
+      {
+        "colspan": 1,
+        "content": "ATCTCCAAATGTAATTAAAGAAGCGAAAACATCAGGTCTTATCA CGGTGATGGTGGTGACGTATGGATG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CTGGGTTTAGTTTCCCTATTCATACGGCTAACAATGGCTTCGGA ACTCCTGGCGACTTGTATTCAGCTAAGACACTGCACTGGATTAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ATGCTTAGTTTTGCACATTCAGAAAAAGACAACTATATAGATAGT GATGAAAACGATTGAAGTTGATGATGAACTCTACAGCTATATTG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "seqA (+1 through 40"
+      },
+      {
+        "colspan": 1,
+        "content": "TTATTTTTACATGCGTGTATGAACATACCATTAATTGTTCCTTCT CCAGCCACACTAAGCATATCGGCGAGAGCGCATCCGACATTTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "codons)"
+      },
+      {
+        "colspan": 1,
+        "content": "CTAGTTGATAATTATCGAAAAATAAATATAGCAAATAATAAATCA ACGGCGTATGTTGAAATTTTCCGCCGCATCACAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "AACAACGATTTAACCAAAAGAGAAAAAGAATGTTTAGCGTGGGC ACTTAGCCAGTGGCGCTATCAGGGGATGGTAGGGCGAGGCGA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ATGCGAAGGAAAAAGCTCTTGGGATATTTCAAAAATATTAGGTT GCGCATCATCGGTGTAATAAAAGACGGGCAAAAGAAATGGCGA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GCAGTGAGCGTACTGTCACTTTCCATTTAACCAATGCGCAAATG CGGGTGCAGCAAAACGATGTGCTGGAAAACGGCTGGACAATTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "AAACTCAATACAACAAACCGCTGCCAAAGTATTTCTAAAGCAAT TACAGCTGACGCCAGACGTACTAACGCTGGGTACCGGGACAAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "LuxR"
+      },
+      {
+        "colspan": 1,
+        "content": "TTTAACAGGAGCAATTGATTGCCCATACTTTAAAAATTAA CTGCGAACCGCCACAATGGTTGTGGCAACGGCAAGGAGATACA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "hofQ (30nt upstream"
+      },
+      {
+        "colspan": 1,
+        "content": "GCATCAAATAAAACGAAAGGCTCAGTCGAAAGACTGGGCCTTT AATGAAGCAATGGATAGCCGCACTACTGTTGATGCTGATACCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "of interaciton site"
+      },
+      {
+        "colspan": 1,
+        "content": "CGTTTTATCTGTTGTTTGTCGGTGAACGCTCTCCTGAGTAGGAC GGCGTACAGGCGGCAAAGCCGCAAAAAGTGACGCTGATGGTG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "T1 terminator through 40 codons)"
+      },
+      {
+        "colspan": 1,
+        "content": "AAATCCGCCGCCCTAGA GATGACGTTCCGGTAGCTCAGGTGTTGCAGGCGCTG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GCTATCATCATTAACTTTATTTATTACCGTCATTCATTTCTGAATG ATAAGGTAGGTGAAACGGAGATTGGAGTGAAAAAGTTTCGATG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "mgrB (+1 through 34"
+      },
+      {
+        "colspan": 1,
+        "content": "TCTGTTTACCCCTATTTCAACCGGATGCCTCGCATTCGGTTTTTT GGTCGTTCTGGTTGTCGTGGTGTTGGCTTGCTTGCTGCTTTGG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MicF codons beyond"
+      },
+      {
+        "colspan": 1,
+        "content": "TT GCGCAGGTATTCAACATGATGTGCGATCAGGATGTACAATTTTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "interaction site)"
+      },
+      {
+        "colspan": 1,
+        "content": "ATGAAAACGATTGAAGTTGATGATGAACTCTACAGCTATATTGC CAGCGGAATTTGTGCCATTAACCAGTTTATCCCGTGG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CAGCCACACTAAGCATATCGGCGAGAGCGCATCCGACATTTTA GAAGAACAAGAGGCCGAATGCTGGTGTGAAACATGCCAACAGT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CGGCGTATGTTGAAATTTTCCGCCGCATCACAGCCTGCTGCTC ATGTGACGCTACTGACCCAGCGCGTCCGCCGCTGTCCACAGTG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "CGGTGACGAAAGAGGTTCGCGTTGCGTCACCTGCTATCGTCGA TCATGGTGACATGCTGCAGATTGTGGCAGACGACGGTTTACAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "ATTCCCGGCGG AGCGAAGCCGGTCAAAACGATTAAAGACAAGGTTCGCGCAATG TGGGCGACGT ATTCGGCGGATAGAAATAGACCAGGAGTGAGCGATGTGTACAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "AATTGATTGAG CGTGAACTTCTGCTTTCGGATGAATACGCAGAGCAAAAGCGAG TAATCAAATCA CATGCGGTTGCGGTGAAGGCAACCTGTATATCGAGGGTGATGA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "hybB (+1 through 40"
+      },
+      {
+        "colspan": 1,
+        "content": "AAGGTTTGCGG CGGTCAATCGCTTTATGCTGCTGTTGTCTACACTATATTCTCTTG CTCTGTTGTGC ACATAACCCTCATTCCGCGTTTCGTAGCGCGCCATTTGCCCCG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "codons)"
+      },
+      {
+        "colspan": 1,
+        "content": "This study ACGCCCAGGCGTTTGCCGAAGCAACGGAATCGTTGCACGGTC AACTATCGACT ACAAAGACCAT GACGG GCGGCACGCCCGAAGATGAAAATC AGGTTGGCAT GTACACGCGTTTACTTTGCGGCAGATGAACAAACGCTGCTGAA GAATTCATTAAAGAGGAGAAAGGTACCATGGACTACAAAGACCA GGGAATTAGC AAATGGTAATCAGACCAAGCCGAAACATGTGCCAGGCACGCCG TGACGGTGATTATAAAGATCATGATATCGACTACAAAGATGACG CATGGTCC TATTGGGTGATCACCAACACCAACACCGGCCGTAAATGCAGCA ACGATAAAACCATGATTACGGATTCACTGGCCGTCGTTTTACAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "TGATCGAACACATCATGCAGTCGATGCAATTCCCGGCGGAATT CGTCGTGACTGGGAAAACCCTGGCGTTACCCAACTTAATCGCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SeqA CDS"
+      },
+      {
+        "colspan": 1,
+        "content": "GATTGAGAAGGTTTGCGGAACTATCTAA TTGCAGCACATCCCCCTTTCGCCAGCTGGCGTAATAGCGAAGA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "AGCAAAGGAGAAGAACTTTTCACTGGAGTTGTCCCAATTCTTGT GGCCCGCACCGATCGCCCTTCCCAACAGTTGCGCAGCCTGAAT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RBS-FlacZ"
+      },
+      {
+        "colspan": 1,
+        "content": "TGAATTAGATGGTGATGTTAATGGGCACAAATTTTCTGTCCGTG GGCGAATGGATGCAT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GAGAGGGTGAAGGTGATGCTACAAACGGAAAACTCACCCTTAA TATTGGTGTAAAATCACCCGCCAGCAGATTATACCTGCTGGTTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SgrS scaffold (SS)"
+      },
+      {
+        "colspan": 1,
+        "content": "ATTTATTTGCACTACTGGAAAACTACCTGTTCCGTGGCCAACAC TTTTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "TTGTCACTACTCTGACCTATGGTGTTCAATGCTTTTCCCGTTATC GCTATCATCATTATATTGGTGTAAAATCACCCGCCAGCAGATTA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MicF(1-13)-SS"
+      },
+      {
+        "colspan": 1,
+        "content": "CGGATCACATGAAACGGCATGACTTTTTCAAGAGTGCCATGCC TACCTGCTGGTTTTTTTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "sfGFP"
+      },
+      {
+        "colspan": 1,
+        "content": "CGAAGGTTATGTACAGGAACGCACTATATCTTTCAAAGATGACG GCTATCATCATTAACTTTATATTGGTGTAAAATCACCCGCCAGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "(no start codon) MicF(1-19)-SS"
+      },
+      {
+        "colspan": 1,
+        "content": "GGACCTACAAGACGCGTGCTGAAGTCAAGTTTGAAGGTGATAC AGATTATACCTGCTGGTTTTTTTT"
+      }
+    ]
+  ]
+}

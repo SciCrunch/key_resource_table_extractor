@@ -1,0 +1,177 @@
+{
+  "job_id": 94,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_555134_main",
+  "pdf_file": "555134_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Deposited data",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 35
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                "08.041"
+              ],
+              [
+                "Sting-null (generated from Sting-LoxP mouse)",
+                "This study",
+                "N/A"
+              ],
+              [
+                "AAVpro 293T Cell",
+                "TaKaRa",
+                "Cat # 632273"
+              ],
+              [
+                "Oligonucleotides DNA oligonucleotide KI279 for Lmna genotype primer:",
+                "This paper",
+                "Ikegami lab ID:\tKI279"
+              ],
+              [
+                "AACCCAGCCTCAGAAACTGGTGGATG DNA oligonucleotide KI280 for Lmna genotype primer:",
+                "This paper",
+                "Ikegami lab ID:\tKi280"
+              ],
+              [
+                "GACAGCTCTCCTCTGAAGTGCTTGGA DNA oligonucleotide EA062 for EGFP cloning: AGTACTTAATACGACTCACTATAGGCTAGCGCCACCATGGTGAGC",
+                "This paper",
+                "Ikegami lab ID:\tEA062"
+              ],
+              [
+                "AAGGGCGAGGA DNA oligonucleotide EA064 for EGFP with GS linker cloning: TTATCATGTCTGGATCCGCGCGGCCGCGCTGCCCCCGCCTCCCTT",
+                "This paper",
+                "Ikegami lab ID:\tEA064"
+              ],
+              [
+                "GTACAGCTCGTCCATGC",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 36
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "CAGACATGATAA",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 37
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "CCTTCTGACCCATTCCCACC",
+                "",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 38
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Recombinant DNA",
+                "",
+                ""
+              ],
+              [
+                "pAAV:cTNT::Luciferase",
+                "Addgene",
+                "Addgene plasmid"
+              ],
+              [
+                "pAAV:cTNT::GFP-GS linker",
+                "This paper",
+                "#69915 Ikegami lab ID:"
+              ],
+              [
+                "pAAV:cTNT::GFP-icGAS",
+                "This paper",
+                "bAE263_1 Ikegami lab ID:"
+              ],
+              [
+                "pAAV:cTNT::cGAS",
+                "This paper",
+                "bAE299_1 Ikegami lab ID:"
+              ],
+              [
+                "pLJM1-EGFP",
+                "Addgene",
+                "bAE299_3 Addgene plasmid"
+              ],
+              [
+                "",
+                "",
+                "#19319"
+              ],
+              [
+                "Software and algorithms",
+                "",
+                ""
+              ],
+              [
+                "ImageJ",
+                "N/A",
+                "https://imagej.net/ij/"
+              ],
+              [
+                "NIS Elements Odyssey CLx Imaging System",
+                "Nikon Instruments Inc.  LI-COR Biosciences",
+                "RRID:SCR_014329 https://www.licor.com"
+              ],
+              [
+                "CellProfiler",
+                "Broad Institute",
+                "/bio/odyssey-dlx/ https://cellprofiler.org"
+              ],
+              [
+                "",
+                "",
+                "/"
+              ],
+              [
+                "Bio-Rad CFX96 Real-Time PCR Detection System Yokogawa CSU-W1 Sora spinning disk confocal microscope",
+                "Bio-Rad  Nikon Instruments Inc.",
+                "RRID:SCR_018064 https://www.microscope.healthcare.nikon.com/products/confocal-microscopes/csu-series/csu-w1"
+              ]
+            ]
+          }
+        ],
+        "page": 39
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "name": "589442_media-1_page_9_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Vendor"
+      },
+      {
+        "colspan": 1,
+        "content": "Catalog #"
+      },
+      {
+        "colspan": 1,
+        "content": "Dilution"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Paxillin"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab32084"
+      },
+      {
+        "colspan": 1,
+        "content": "1:150 (IF)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lamin A/C"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz"
+      },
+      {
+        "colspan": 1,
+        "content": "sc-376248"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100 (IF)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Lamin B1"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz"
+      },
+      {
+        "colspan": 1,
+        "content": "sc-374015"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100 (IF)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "AcH3"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore"
+      },
+      {
+        "colspan": 1,
+        "content": "06-599"
+      },
+      {
+        "colspan": 1,
+        "content": "1:300 (IF) 1:2000 (WB)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "H3K27ac"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab4729"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500 (IF) 1:1250 (WB)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "H3K4me3"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "5326S"
+      },
+      {
+        "colspan": 1,
+        "content": "1:300 (IF) 1:1000 (WB)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "H3K9me3"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab8898"
+      },
+      {
+        "colspan": 1,
+        "content": "1:350 (IF)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "H3K27me3"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab192985"
+      },
+      {
+        "colspan": 1,
+        "content": "1:300 (IF)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tuj1"
+      },
+      {
+        "colspan": 1,
+        "content": "Biolegend"
+      },
+      {
+        "colspan": 1,
+        "content": "801202"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 (IF)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MAP-2"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "M9942"
+      },
+      {
+        "colspan": 1,
+        "content": "1:200 (IF)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Synapsin"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab64581"
+      },
+      {
+        "colspan": 1,
+        "content": "1:100 (IF)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Nanog"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "ab214549"
+      },
+      {
+        "colspan": 1,
+        "content": "1:300 (IF)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Histone H3"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz"
+      },
+      {
+        "colspan": 1,
+        "content": "sc-8654"
+      },
+      {
+        "colspan": 1,
+        "content": "1:1000 (WB)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GAPDH"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz"
+      },
+      {
+        "colspan": 1,
+        "content": "sc-32233"
+      },
+      {
+        "colspan": 1,
+        "content": "1:5000 (WB)"
+      }
+    ]
+  ]
+}

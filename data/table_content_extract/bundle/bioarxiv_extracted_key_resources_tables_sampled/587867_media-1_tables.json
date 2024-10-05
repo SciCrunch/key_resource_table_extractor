@@ -1,0 +1,674 @@
+{
+  "job_id": 1075,
+  "job_status": "finished",
+  "paper_id": "587867_media-1",
+  "pdf_file": "media-1.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "PCR primers",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Name",
+                "Forward primer (5'-to-3')",
+                "",
+                "Reverse primer (5'-to-3')",
+                ""
+              ],
+              [
+                "SP110 NGS",
+                "CTTTCCCTACACGACGCTCTTCCGATCT",
+                "",
+                "",
+                ""
+              ],
+              [
+                "SP100 NGS",
+                "CTTTCCCTACACGACGCTCTTCCGATCT",
+                "",
+                "",
+                ""
+              ],
+              [
+                "ACTB qPCR",
+                "GGGTCAGAAGGATTCCTATG",
+                "",
+                "GGTCTCAAACATGATCTGGG",
+                ""
+              ],
+              [
+                "SP110 qPCR",
+                "GGGACAGCCTCATCTAGACA",
+                "",
+                "AAGTGCCATCAATGATCTCCTC",
+                ""
+              ],
+              [
+                "SP100 qPCR",
+                "GGAGAAGAGCTTCAGGAAACCTG",
+                "",
+                "GGCTTCTTGGCACACCTTTTGG",
+                ""
+              ],
+              [
+                "SP140 qPCR",
+                "GCATGGCTGGAGCAGAATGAGA",
+                "",
+                "CGTTCGCCTTCTTTTCACTGGAG",
+                ""
+              ],
+              [
+                "CDKN1A (p21) qPCR",
+                "AGGTGGACCTGGAGACTCTCAG",
+                "",
+                "TCCTCTTGGAGAAGATCAGCCG",
+                ""
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "",
+                ""
+              ],
+              [
+                "ppp-RNA sequenc",
+                "e"
+              ],
+              [
+                "Name",
+                "Sequence (5'-to-3')"
+              ],
+              [
+                "",
+                "GCCAAGCTGAAGGTGACCAAGTTTTAGAGCTAGAAATAGCAAG"
+              ],
+              [
+                "ppp-RNA",
+                "GGCTAGTCCGTTATCAACTTGAAAAAGTGGCACCGAGTCGGTG"
+              ],
+              [
+                "sgRNA sequence",
+                ""
+              ],
+              [
+                "Name",
+                "Spacer sequence (5'-to-3')"
+              ],
+              [
+                "sgSP110-1 KD",
+                "GGGGATCACTCCTCAAGATT"
+              ],
+              [
+                "sgSP110-2 KD",
+                "GCAAGATTGGGAGAGTTACA"
+              ],
+              [
+                "sgSP100-1 KD",
+                "GGGCCGACTGAGGGGCTCAG"
+              ],
+              [
+                "sgSP100-2 KD",
+                "GGCAGGCTGGGCCGACTGAG"
+              ],
+              [
+                "sgPML-1 KD",
+                "GGTGCGTGAAGAGAAGCTGA"
+              ],
+              [
+                "sgPML-2 KD",
+                "GAGTAGAAAAGAGGACACGG"
+              ],
+              [
+                "sgZNFX1-1 KD",
+                "GAAGCCCCAGCACTCGCCGG"
+              ],
+              [
+                "sgZNFX1-2 KD",
+                "GGCGAGGCAAGGAAGAATCA"
+              ],
+              [
+                "sgCNOT2-1 KD",
+                "GAGCGGCGGTAAGGGCGGTA"
+              ],
+              [
+                "sgCNOT2-2 KD",
+                "GCGGGACAAGAAAATTCATG"
+              ],
+              [
+                "sgUSP18-1 KD",
+                "GCGAGCGCGGGGCCAGACCA"
+              ],
+              [
+                "sgUSP18-2 KD",
+                "GACGTGGAACTCAGCAGCGG"
+              ],
+              [
+                "sgSMC5-1 KD",
+                "GGCCCGGACGACTGCAACAG"
+              ],
+              [
+                "sgSMC5-2 KD",
+                "GCAGCACACCTCCACACCCG"
+              ],
+              [
+                "sgSMC6-1 KD",
+                "GCAGGAGAAGGTAGATTCCC"
+              ],
+              [
+                "sgSMC6-2 KD",
+                "GGCAGGCGCGGTTAGTACCG"
+              ],
+              [
+                "sgSP110 KO",
+                "CCAGATTGGGATATTCACGC"
+              ],
+              [
+                "sgSP100 KO",
+                "GCAGCCTGTCATCTACACCC"
+              ],
+              [
+                "sgNT",
+                "GCGGTGGGGCCGCTCACTAG"
+              ]
+            ]
+          }
+        ],
+        "page": 14
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                ""
+              ],
+              [
+                "Cell line",
+                "Source"
+              ],
+              [
+                "HEK-293T",
+                "ATCC"
+              ],
+              [
+                "RPE1 TP53-/-",
+                "Dr. Steve Jackson"
+              ],
+              [
+                "RPE1 TP53+/+",
+                "ATCC"
+              ],
+              [
+                "RPE1-dCas9-BFP-KRAB(KOX1) TP53-/-",
+                "Fielden, Siegner, et al. 2023"
+              ],
+              [
+                "RPE1-dCas9-BFP-KRAB(KOX1) SP110-/-; TP53-/-",
+                "This study"
+              ],
+              [
+                "RPE1 TP53-/-; SP110-/-",
+                "This study"
+              ],
+              [
+                "RPE1 TP53+/+; SP110-/-",
+                "This study"
+              ],
+              [
+                "RPE1 TP53-/-; SP100-/-",
+                "This study"
+              ],
+              [
+                "RPE1 TP53-/-; SP110-/-; SP100-/-",
+                "This study"
+              ],
+              [
+                "RPE1 TP53+/+; SP110-/-; SP100-/-",
+                "This study"
+              ],
+              [
+                "RPE1 TP53+/+ H2B-GFP",
+                "This study"
+              ],
+              [
+                "RPE1 TP53+/+; SP110-/-  H2B-GFP",
+                "This study"
+              ],
+              [
+                "Jurkat",
+                "ATCC"
+              ],
+              [
+                "Jurkat SP110-/-",
+                "This study"
+              ],
+              [
+                "Jurkat SP100-/-",
+                "This study"
+              ],
+              [
+                "Jurkat SP110-/-; SP100-/-",
+                "This study"
+              ]
+            ]
+          }
+        ],
+        "page": 15
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Table S4. Antibo",
+                "dies",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Primary Antibody",
+                "Application",
+                "Species",
+                "Supplier",
+                "Product #",
+                "Clone #",
+                "Lot #",
+                "Working dilution"
+              ],
+              [
+                "SP110",
+                "WB",
+                "Ms",
+                "Santa Cruz Biotech",
+                "sc-376741",
+                "Monoclonal B-10",
+                "K0116",
+                "1:1000"
+              ],
+              [
+                "SP100",
+                "WB, IF, ChIP",
+                "Rb",
+                "Novus Biologicals",
+                "NBP1-86060",
+                "Polyclonal",
+                "A106767",
+                "1:1000 (WB), 1:200 (IF)"
+              ],
+              [
+                "FLAG",
+                "WB, IP",
+                "Ms",
+                "Sigma",
+                "F3165",
+                "Monoclonal M2",
+                "SLCQ9255",
+                "1:1000 (WB)"
+              ],
+              [
+                "HA",
+                "WB",
+                "Rb",
+                "Cell Signalling Technologies",
+                "3724",
+                "Monoclonal C29F4",
+                "11",
+                "1:1000 (WB)"
+              ],
+              [
+                "P-KAP1 (S824)",
+                "WB",
+                "Rb",
+                "Abcam",
+                "ab70369",
+                "Polyclonal",
+                "GR3316128-13",
+                "1:1000"
+              ],
+              [
+                "Cyclin B1",
+                "WB",
+                "Rb",
+                "R&D Systems",
+                "MAB60001",
+                "Monoclonal 2061D",
+                "CKJC022109A",
+                "1:1000"
+              ],
+              [
+                "GAPDH",
+                "WB",
+                "Rb",
+                "Cell Signalling Technologies",
+                "2118",
+                "Monoclonal 14C10",
+                "16",
+                "1:2000"
+              ],
+              [
+                "GAPDH",
+                "WB",
+                "Ms",
+                "Cell Signalling Technologies",
+                "97166",
+                "Monoclonal D4C6R",
+                "7",
+                "1:2000"
+              ],
+              [
+                "SOX9",
+                "WB",
+                "Rb",
+                "Abcam",
+                "ab185966",
+                "Monoclonal EPR14335-78",
+                "GR3183675-1",
+                "1:1000"
+              ],
+              [
+                "53BP1",
+                "IF",
+                "Rb",
+                "Novus Biologicals",
+                "NB100-304",
+                "Polyclonal",
+                "D148226",
+                "1:1000"
+              ],
+              [
+                "PML",
+                "IF",
+                "Ms",
+                "Santa Cruz",
+                "sc-966",
+                "Monoclonal PG-M3",
+                "G1122",
+                "1:200"
+              ],
+              [
+                "Rabbit IgG isotype control",
+                "ChIP",
+                "Rb",
+                "Novus Biologicals",
+                "NBP2-24891",
+                "Polyclonal",
+                "n/a",
+                ""
+              ],
+              [
+                "Secondary Antibody",
+                "Application",
+                "Species",
+                "Supplier",
+                "Product #",
+                "Clone #",
+                "Lot #",
+                "Working dilution"
+              ],
+              [
+                "IRDye 800CW anti-Rabbit IgG",
+                "WB",
+                "Gt",
+                "LI-COR Biosciences",
+                "926-32213",
+                "Polyclonal",
+                "D30207-15",
+                "1:10000"
+              ],
+              [
+                "IRDye 800CW anti-Mouse IgG",
+                "WB",
+                "Gt",
+                "LI-COR Biosciences",
+                "926-32212",
+                "Polyclonal",
+                "D30124-05",
+                "1:10000"
+              ],
+              [
+                "IRDye 680RD anti-Rabbit IgG",
+                "WB",
+                "Gt",
+                "LI-COR Biosciences",
+                "926-68073",
+                "Polyclonal",
+                "D30328-05",
+                "1:10000"
+              ],
+              [
+                "IRDye 680RD anti-Mouse IgG",
+                "WB",
+                "Gt",
+                "LI-COR Biosciences",
+                "926-68072",
+                "Polyclonal",
+                "D20503-05",
+                "1:10000"
+              ],
+              [
+                "Anti-rabbit Alexa Fluor Plus 405",
+                "IF",
+                "Gt",
+                "Invitrogen",
+                "A48254",
+                "Polyclonal",
+                "YD369487",
+                "1:10000"
+              ],
+              [
+                "Anti-mouse Alexa Fluor 568",
+                "IF",
+                "Gt",
+                "Invitrogen",
+                "A11004",
+                "Polyclonal",
+                "2447869",
+                "1:10000"
+              ]
+            ]
+          }
+        ],
+        "page": 16
+      }
+    ]
+  }
+}

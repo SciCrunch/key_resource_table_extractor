@@ -1,0 +1,483 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Variable"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "DFS"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Univariate analysis"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Multivariate"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "analysis"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "HR (95%CI)"
+      },
+      {
+        "colspan": 1,
+        "content": "P-value"
+      },
+      {
+        "colspan": 1,
+        "content": "HR (95%CI)"
+      },
+      {
+        "colspan": 1,
+        "content": "P-value"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Age (years)"
+      },
+      {
+        "colspan": 1,
+        "content": "0.720 (0.400-1.296) 0.273"
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Other disease"
+      },
+      {
+        "colspan": 1,
+        "content": "0.885 (0.445-1.762) 0.728"
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Histological grade"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "I"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.003"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.004"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "II"
+      },
+      {
+        "colspan": 1,
+        "content": "2.636 (1.263-5.503) 0.010"
+      },
+      {
+        "colspan": 1,
+        "content": "2.704"
+      },
+      {
+        "colspan": 1,
+        "content": "0.008"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "(1.294-5.649)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "III"
+      },
+      {
+        "colspan": 1,
+        "content": "4.638"
+      },
+      {
+        "colspan": 1,
+        "content": "0.001"
+      },
+      {
+        "colspan": 1,
+        "content": "4.566"
+      },
+      {
+        "colspan": 1,
+        "content": "0.001"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "(1.877-11.462)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "(1.846-11.294)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tumor size (cm)"
+      },
+      {
+        "colspan": 1,
+        "content": "1.065 (0.840-1.350) 0.605"
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "No. of positive axillary"
+      },
+      {
+        "colspan": 1,
+        "content": "1.012 (0.953-1.074) 0.698"
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "lymph nodes"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "No. of pregnancies"
+      },
+      {
+        "colspan": 1,
+        "content": "0.835 (0.662-1.054) 0.129"
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "No. of births"
+      },
+      {
+        "colspan": 1,
+        "content": "0.694 (0.481-1.001) 0.051"
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Age at first pregnancy"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "NA"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "(years)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "<21"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "0.501"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "21-25"
+      },
+      {
+        "colspan": 1,
+        "content": "3.336"
+      },
+      {
+        "colspan": 1,
+        "content": "0.239"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "(0.449-24.810)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "26-30"
+      },
+      {
+        "colspan": 1,
+        "content": "3.886"
+      },
+      {
+        "colspan": 1,
+        "content": "0.182"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ]
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "headers": [],
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "Total RNA was isolated from breast cancer tissues and breast cancer cell lines using"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Triquick reagent (Solarbio Life Science, Beijing, China) and reverse-transcribed using a cDNA"
+    }],
+    [{
+      "colspan": 1,
+      "content": "synthesis kit (Takara Bio, Kusatsu, Japan). RT-qPCR was conducted using SYBR Green PCR"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Master Mix (TaKaRa) on a Real-time PCR System. Primers were: RGS10 forward,"
+    }],
+    [
+      {
+        "colspan": 1,
+        "content": "5\u2032-CACGACAGCGATGGCAGTTCC-3\u2032;"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "RGS10"
+      },
+      {
+        "colspan": 1,
+        "content": "reverse,"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "5\u2032-CTTTTCACGCCTTCTGGGTCTTCC-3\u2032;"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GAPDH"
+      },
+      {
+        "colspan": 1,
+        "content": "forward,"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "5\u2032-CCTTCCGTGTCCCCACT-3 ;"
+      },
+      {
+        "colspan": 1,
+        "content": "and"
+      },
+      {
+        "colspan": 1,
+        "content": "GAPDH"
+      },
+      {
+        "colspan": 1,
+        "content": "reverse,"
+      }
+    ],
+    [{
+      "colspan": 1,
+      "content": "5 -GCCTGCTTCACCACCTTC-3 . Thermocycling conditions were 95°C for 30 s, 40"
+    }]
+  ]
+}

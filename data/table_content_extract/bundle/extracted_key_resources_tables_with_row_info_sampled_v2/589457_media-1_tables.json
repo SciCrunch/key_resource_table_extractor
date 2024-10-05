@@ -1,0 +1,128 @@
+{
+  "job_id": 103,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_589457_media-1",
+  "pdf_file": "589457_media-1.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Target",
+                "Company and number",
+                "Host species",
+                "Dilution",
+                "Fixation type"
+              ],
+              [
+                "Cav-3",
+                "Abcam, ab4930",
+                "Polyclonal rabbit",
+                "1:500",
+                "Methanol/PFA"
+              ],
+              [
+                "Cav-3",
+                "BD Biosciences, 610421",
+                "Mouse monoclonal",
+                "1:800",
+                "Methanol/PFA"
+              ],
+              [
+                "Cav1.2",
+                "Alomone Labs, ACC-003",
+                "Rabbit polyclonal",
+                "1:100",
+                "Methanol"
+              ],
+              [
+                "Cav1.3",
+                "Alomone Labs, ACC-005",
+                "Rabbit polyclonal",
+                "1:100",
+                "PFA"
+              ],
+              [
+                "Cav3.1",
+                "Neuro Mab, MABN464",
+                "Mouse monoclonal",
+                "1:100",
+                "Methanol"
+              ],
+              [
+                "NCX",
+                "Swant, p 11-13",
+                "Rabbit polyclonal",
+                "1:200",
+                "Methanol"
+              ],
+              [
+                "HCN4",
+                "Thermofisher scientific, MA3-903",
+                "Rat monoclonal",
+                "1:100",
+                "PFA"
+              ],
+              [
+                "NKA",
+                "Millipore, 05-369",
+                "Mouse monoclonal",
+                "1:100",
+                "PFA"
+              ],
+              [
+                "RyR2",
+                "Sigma Aldrich, HPA0200228",
+                "Rabbit polyclonal",
+                "1:500",
+                "Methanol"
+              ],
+              [
+                "RyR",
+                "Thermofisher scientific, MA3-916",
+                "Mouse monoclonal",
+                "1:100",
+                "Methanol"
+              ],
+              [
+                "pSer2808 RyR",
+                "Badrilla, A01031AP",
+                "Rabbit polyclonal",
+                "1:100",
+                "Methanol"
+              ],
+              [
+                "pSer2814 RyR",
+                "Badrilla, A01030AP",
+                "Rabbit polyclonal",
+                "1:100",
+                "Methanol"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "Parameter",
+                "Description",
+                "Value",
+                "Changed from Sato & Bers,"
+              ],
+              [
+                "",
+                "",
+                "",
+                "2011 (35)?"
+              ]
+            ]
+          }
+        ],
+        "page": 34
+      }
+    ]
+  }
+}

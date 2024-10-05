@@ -1,0 +1,314 @@
+{
+  "headers": [],
+  "notes": ". Protection bases: bold. Restriction enzyme recognition sites: underlined. Stop codons: italics.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Supplemental"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Primer name"
+      },
+      {
+        "colspan": 1,
+        "content": "5'-3'-nucleotide sequence"
+      },
+      {
+        "colspan": 1,
+        "content": "Description"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FAU-B122"
+      },
+      {
+        "colspan": 1,
+        "content": "TATGTCGACATGGTTCGAGCACTAGAAGAA"
+      },
+      {
+        "colspan": 1,
+        "content": "Protection bases, SalI site fw; Amplification of NtGEF12a"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FAU-B123"
+      },
+      {
+        "colspan": 1,
+        "content": "TATCCCGGGGTGGCGTGCTGTTGGAC"
+      },
+      {
+        "colspan": 1,
+        "content": "Protection bases, XmaI site rev; Amplification of NtGEF12a"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FAU-B910"
+      },
+      {
+        "colspan": 1,
+        "content": "GCCGGCATGGAAAAGGCTTGGGAGG"
+      },
+      {
+        "colspan": 1,
+        "content": "NgoMIV site fw; Amplification of NtPI4P-5K4"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FAU-B911"
+      },
+      {
+        "colspan": 1,
+        "content": "CCCGGGAGTGTCCTCTGTAAAAACTTTGAA"
+      },
+      {
+        "colspan": 1,
+        "content": "ApaI site rev; Amplification of NtPI4P-5K4"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FAU-C459"
+      },
+      {
+        "colspan": 1,
+        "content": "GCCGGCATGGAGGGGGTGTTGTACAAG"
+      },
+      {
+        "colspan": 1,
+        "content": "NgoMIV site fw; Amplification of PHFAPP1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FAU-C460"
+      },
+      {
+        "colspan": 1,
+        "content": "GGGCCCTTATGTATCAGTCAAACATGCTTTGG"
+      },
+      {
+        "colspan": 1,
+        "content": "ApaI site; Stop codon; rev; Amplification of PHFAPP1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FAU-C624"
+      },
+      {
+        "colspan": 1,
+        "content": "GCCGGCTGCACTGAACCCCTAGGCC"
+      },
+      {
+        "colspan": 1,
+        "content": "NgoMIV site fw; Amplification of C2Lact"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FAU-C625"
+      },
+      {
+        "colspan": 1,
+        "content": "CCGCGGCTAACAGCCCAGCAGCTCC"
+      },
+      {
+        "colspan": 1,
+        "content": "SacII site; Stop codon; rev; Amplification of C2Lact"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Protection bases, BamHI site"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SU-1"
+      },
+      {
+        "colspan": 1,
+        "content": "TATGGATCCTATGGTTCGAGCACTAGAAGAAGA"
+      },
+      {
+        "colspan": 1,
+        "content": "fw; Amplification of NtGEF12a"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "> pMetOYC-NtGEF12a"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Protection bases, XhoI site"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SU-2"
+      },
+      {
+        "colspan": 1,
+        "content": "ATTCTCGAGTTGTGGCGTGCTGTTGGACTTCT"
+      },
+      {
+        "colspan": 1,
+        "content": "rev; Amplification of NtGEF12a"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "> pMetOYC-NtGEF12a"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Protection bases, BamHI site"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SU-3"
+      },
+      {
+        "colspan": 1,
+        "content": "TTAGGATCCATGAGTGCTTCAAGGTTTATC"
+      },
+      {
+        "colspan": 1,
+        "content": "fw; Amplification of NtRAC5"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "> pNubG-NtRAC5"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Protection bases, XhoI site; Stop codon"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SU-4"
+      },
+      {
+        "colspan": 1,
+        "content": "AATCTCGAGTCACAATATCGAGCAGGATT"
+      },
+      {
+        "colspan": 1,
+        "content": "rev; Amplification of NtRAC5"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "> pNubG-NtRAC5"
+      }
+    ]
+  ]
+}

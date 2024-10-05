@@ -1,0 +1,165 @@
+{
+  "name": "588206_media-1_page_9_table_2",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "REAGENT or RESOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "SOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "IDENTIFIER"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PE anti-mouse CD8a "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 100708; RRID:AB_312747"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FITC anti-mouse CD8a "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 100705; RRID:AB_312744"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "APC anti-mouse CD8a "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 100711; RRID:AB_312750"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PE-Cy5 Mouse Anti-Human CD8"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Pharmingen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#555368"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BD IMag Anti-Mouse CD8a Particles - DM"
+      },
+      {
+        "colspan": 1,
+        "content": "BD Bioscience"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 551516"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PE anti-mouse CD28 "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 102106; RRID:AB_312871"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FITC anti-mouse CD69 "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 104505; RRID:AB_313108"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "APC anti-mouse CD183 (CXCR3)  "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 155906; RRID:AB_2814078"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "FITC anti-mouse CD279 (PD-1)  "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend  "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 135214; RRID:AB_10680238"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PE anti-mouse CD223 (LAG-3) "
+      },
+      {
+        "colspan": 1,
+        "content": "BioLegend "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat# 125207; RRID:AB_2133344"
+      }
+    ]
+  ]
+}

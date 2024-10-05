@@ -1,0 +1,561 @@
+{
+  "name": "588205_main_page_36_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Gene Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Gene Description "
+      },
+      {
+        "colspan": 1,
+        "content": "Effect "
+      },
+      {
+        "colspan": 1,
+        "content": "Codon Change"
+      },
+      {
+        "colspan": 1,
+        "content": "Amino Acid Change"
+      }
+    ],
+    [
+      {
+        "colspan": 5,
+        "content": "RoF-A-Clone-E8"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_0614200"
+      },
+      {
+        "colspan": 1,
+        "content": "Conserved Plasmodium protein unknown function"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "Gat/Aat"
+      },
+      {
+        "colspan": 1,
+        "content": "D859N"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_1359100"
+      },
+      {
+        "colspan": 1,
+        "content": "Riboflavin kinase FAD synthase family protein putative"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "cTt/cAt"
+      },
+      {
+        "colspan": 1,
+        "content": "L672H"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_1038400"
+      },
+      {
+        "colspan": 1,
+        "content": "Gametocyte-specific protein"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "Ata/Gta"
+      },
+      {
+        "colspan": 1,
+        "content": "I8312V"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_1038400"
+      },
+      {
+        "colspan": 1,
+        "content": "Gametocyte-specific protein"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "gaA/gaC"
+      },
+      {
+        "colspan": 1,
+        "content": "E8342D"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PFC10_API0033"
+      },
+      {
+        "colspan": 1,
+        "content": "Apicoplast ribosomal protein S5"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "aGa/aAa"
+      },
+      {
+        "colspan": 1,
+        "content": "R118K"
+      }
+    ],
+    [
+      {
+        "colspan": 4,
+        "content": "RoF-A-Clone-B6"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_1410300 "
+      },
+      {
+        "colspan": 1,
+        "content": "Conserved Plasmodium protein unknown function "
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous "
+      },
+      {
+        "colspan": 1,
+        "content": " Gaa/Aaa"
+      },
+      {
+        "colspan": 1,
+        "content": "E4170K "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_1471900 "
+      },
+      {
+        "colspan": 1,
+        "content": "Conserved Plasmodium protein unknown function "
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous "
+      },
+      {
+        "colspan": 1,
+        "content": " aaT/aaA"
+      },
+      {
+        "colspan": 1,
+        "content": "N907K "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_1303800 "
+      },
+      {
+        "colspan": 1,
+        "content": "Conserved Plasmodium protein unknown function "
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous "
+      },
+      {
+        "colspan": 1,
+        "content": " Caa/Aaa"
+      },
+      {
+        "colspan": 1,
+        "content": "Q418K "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_1359100 "
+      },
+      {
+        "colspan": 1,
+        "content": "Riboflavin kinase FAD synthase family protein putative "
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous "
+      },
+      {
+        "colspan": 1,
+        "content": " cTt/cAt"
+      },
+      {
+        "colspan": 1,
+        "content": "L672H "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PFC10_API0033 "
+      },
+      {
+        "colspan": 1,
+        "content": "Apicoplast ribosomal protein S5 "
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous "
+      },
+      {
+        "colspan": 1,
+        "content": " aGa/aAa"
+      },
+      {
+        "colspan": 1,
+        "content": "R118K "
+      }
+    ],
+    [
+      {
+        "colspan": 5,
+        "content": "RoF-B-Clone-E11"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_1420000"
+      },
+      {
+        "colspan": 1,
+        "content": "Splicing factor subunit putative"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "tCa/tTa"
+      },
+      {
+        "colspan": 1,
+        "content": "S227L"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_0728100 "
+      },
+      {
+        "colspan": 1,
+        "content": "Conserved Plasmodium membrane protein unknown function"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous "
+      },
+      {
+        "colspan": 1,
+        "content": "aaT/aaA "
+      },
+      {
+        "colspan": 1,
+        "content": "N5064K "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_1359100"
+      },
+      {
+        "colspan": 1,
+        "content": "Riboflavin kinase FAD synthase family protein putative"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "cTt/cAt"
+      },
+      {
+        "colspan": 1,
+        "content": "L672H"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PFC10_API0022"
+      },
+      {
+        "colspan": 1,
+        "content": "Probably protein unknown function"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "tCa/tTa"
+      },
+      {
+        "colspan": 1,
+        "content": "S4L"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PFC10_API0033"
+      },
+      {
+        "colspan": 1,
+        "content": "Apicoplast ribosomal protein S5"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "aGa/aAa"
+      },
+      {
+        "colspan": 1,
+        "content": "R118K"
+      }
+    ],
+    [
+      {
+        "colspan": 5,
+        "content": "RoF-B-Clone-G2"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_0406500"
+      },
+      {
+        "colspan": 1,
+        "content": "Conserved Plasmodium protein unknown function"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "Ctt/Att"
+      },
+      {
+        "colspan": 1,
+        "content": "L1137I"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_1316400"
+      },
+      {
+        "colspan": 1,
+        "content": "Conserved Plasmodium protein unknown function"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "aaC/aaA"
+      },
+      {
+        "colspan": 1,
+        "content": "N2K"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PF3D7_1359100"
+      },
+      {
+        "colspan": 1,
+        "content": "Riboflavin kinase FAD synthase family protein putative"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "cTt/cAt"
+      },
+      {
+        "colspan": 1,
+        "content": "L672H"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PFC10_API0022"
+      },
+      {
+        "colspan": 1,
+        "content": "Probably protein unknown function"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "Caa/Aaa"
+      },
+      {
+        "colspan": 1,
+        "content": "Q15K"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PFC10_API0022"
+      },
+      {
+        "colspan": 1,
+        "content": "Probably protein unknown function"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "tCa/tTa"
+      },
+      {
+        "colspan": 1,
+        "content": "S4L"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PFC10_API0033"
+      },
+      {
+        "colspan": 1,
+        "content": "Apicoplast ribosomal protein S5"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "aGa/aAa"
+      },
+      {
+        "colspan": 1,
+        "content": "R118K"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PFC10_API0055"
+      },
+      {
+        "colspan": 1,
+        "content": "Apicoplast ribosomal protein S4"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "tGt/tAt"
+      },
+      {
+        "colspan": 1,
+        "content": "C31Y"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PFC10_API0055"
+      },
+      {
+        "colspan": 1,
+        "content": "Apicoplast ribosomal protein S4"
+      },
+      {
+        "colspan": 1,
+        "content": "Non-synonymous"
+      },
+      {
+        "colspan": 1,
+        "content": "Ggt/Agt"
+      },
+      {
+        "colspan": 1,
+        "content": "G25S"
+      }
+    ]
+  ]
+}

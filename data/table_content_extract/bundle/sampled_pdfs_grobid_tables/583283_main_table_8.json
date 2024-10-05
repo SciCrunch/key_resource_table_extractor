@@ -1,0 +1,77 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "MSigDB"
+      },
+      {
+        "colspan": 1,
+        "content": "Gene set name"
+      },
+      {
+        "colspan": 1,
+        "content": "NES NOM"
+      },
+      {
+        "colspan": 1,
+        "content": "FDR"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "collection"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "P-value"
+      },
+      {
+        "colspan": 1,
+        "content": "q-value"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "h.all.v6.2.symbols"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ".gmt [Hallmarks]"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ]
+  ]
+}

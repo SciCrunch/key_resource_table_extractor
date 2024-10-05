@@ -1,0 +1,116 @@
+{
+  "headers": [],
+  "caption": "Mass spectrometric parameters used for the quantification of C26 and SW-C182.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "1450"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Q1"
+      },
+      {
+        "colspan": 1,
+        "content": "Q3"
+      },
+      {
+        "colspan": 1,
+        "content": "Declustering"
+      },
+      {
+        "colspan": 1,
+        "content": "Collision"
+      },
+      {
+        "colspan": 1,
+        "content": "Collision"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "(mass)"
+      },
+      {
+        "colspan": 1,
+        "content": "(mass)"
+      },
+      {
+        "colspan": 1,
+        "content": "potential [V]"
+      },
+      {
+        "colspan": 1,
+        "content": "energy"
+      },
+      {
+        "colspan": 1,
+        "content": "cell exit"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "[g/mol]"
+      },
+      {
+        "colspan": 1,
+        "content": "[g/mol]"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "[V]"
+      },
+      {
+        "colspan": 1,
+        "content": "potential"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "[V]"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "name": "586589_main_page_14_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "UVI3003"
+      },
+      {
+        "colspan": 1,
+        "content": "Cedarlane Lab"
+      },
+      {
+        "colspan": 1,
+        "content": "16026"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Roche cOmplete Protease Inhibitor Cocktail, EDTA free"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "11873580001"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Applied Biosystems PowerUp SYBR Green Master Mix "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "A25742 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Critical commercial assays"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Cyquant Direct Red Cell Proliferation Assay "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "C35013 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Pierce BCA Protein Assay "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "23225 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RNeasy Mini Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "QIAGEN"
+      },
+      {
+        "colspan": 1,
+        "content": "74106"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Agilent RNA 6000 Nano Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Agilent"
+      },
+      {
+        "colspan": 1,
+        "content": "5067-1511"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "QuantSeq Forward Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "LEXOGEN"
+      },
+      {
+        "colspan": 1,
+        "content": "0.15.96"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "SuperScript IV First-Strand Synthesis System "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "18091200 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Quick-RNA Miniprep Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Zymo"
+      },
+      {
+        "colspan": 1,
+        "content": "R1055"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Deposited data"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "LC MS/MS Raw and Analyzed Data"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper"
+      },
+      {
+        "colspan": 1,
+        "content": "PRIDE: PXD050693"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IGR37 DHRS3 RNA-seq Raw and Analyzed Data"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper"
+      },
+      {
+        "colspan": 1,
+        "content": "GEO: GSE262095"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ishMITF RNA-seq Raw and Analyzed Data"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GEO: GSE255256"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "i\u03b2-catenin RNA-seq Raw and Analyzed Data"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "GEO: GSE136803"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Published scRNA-seq Data"
+      },
+      {
+        "colspan": 1,
+        "content": "Wouters, et al., 2020"
+      },
+      {
+        "colspan": 1,
+        "content": "GEO: GSE134432"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IGR37 MITF ChIP-seq "
+      },
+      {
+        "colspan": 1,
+        "content": "Louphrasitthiphol, et al., 2020"
+      },
+      {
+        "colspan": 1,
+        "content": "GEO: GSE132624 "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Experimental models: Cell lines"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "A375 "
+      },
+      {
+        "colspan": 1,
+        "content": "ATCC "
+      },
+      {
+        "colspan": 1,
+        "content": "CRL-1619, (RRID:CVCL_0132)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IGR37  "
+      },
+      {
+        "colspan": 1,
+        "content": "A gift from Colin Goding (University of Oxford)"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IGR39  "
+      },
+      {
+        "colspan": 1,
+        "content": "A gift from Colin Goding (University of Oxford)"
+      },
+      {
+        "colspan": 1,
+        "content": "N/A  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HS294T "
+      },
+      {
+        "colspan": 1,
+        "content": "ATCC "
+      },
+      {
+        "colspan": 1,
+        "content": "HTB-140, (RRID:CVCL_0331)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RPMI-7951 "
+      },
+      {
+        "colspan": 1,
+        "content": "ATCC "
+      },
+      {
+        "colspan": 1,
+        "content": "HTB-66, (RRID:CVCL_1666)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "IGR37 i\u00df-Catenin       "
+      },
+      {
+        "colspan": 1,
+        "content": "Generated and validated as described in Louphrasitthiphol et al. 47"
+      },
+      {
+        "colspan": 1,
+        "content": "Louphrasitthiphol, Chauhan, et al., 2020; Vl\u010dkov\u00e1,  Vachtenheim, R\u00e9da, Hor\u00e1k, Ondru\u0161ov\u00e1, 2018 47,82"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "MeWo & SKmel28 ishMITF      "
+      },
+      {
+        "colspan": 1,
+        "content": "A gift from Jiri Vachtenheim     "
+      },
+      {
+        "colspan": 1,
+        "content": "Vl\u010dkov\u00e1, Vachtenheim, R\u00e9da, Hor\u00e1k, Ondru\u0161ov\u00e1, 2018 82 DOI: 10.1111/jcmm.13506"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Oligonucleotides"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TYR qPCR Primer: TGGACATAACCGGGAATCCT"
+      },
+      {
+        "colspan": 1,
+        "content": "This paper "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ]
+  ]
+}

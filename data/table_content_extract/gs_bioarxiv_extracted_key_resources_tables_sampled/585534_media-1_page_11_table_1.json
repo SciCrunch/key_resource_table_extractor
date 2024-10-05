@@ -1,0 +1,344 @@
+{
+  "name": "585534_media-1_page_11_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Genes"
+      },
+      {
+        "colspan": 1,
+        "content": "Strand"
+      },
+      {
+        "colspan": 1,
+        "content": "Sequence"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "GAPDH"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- AAC AGC AAC TCC CAC TCT TC -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- CCT GTT GCT GTA GCC GTA TT -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "CLOCK"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- CCA CCA CAG CAG TTC TTA CA -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- TGC TCT GTT GTA GTG GAA AGG -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "CRY1"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- CTG AGG CAA GCA GAC TGA ATA -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- CCC TCC ATT CCC ATT AGA GTT AG -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "CRY2"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- AGA GAC TAG TCG GCT CAA CA -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- GGA AGG GAC AGA TGC CAA TAG -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "PER1"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- CAG TCA GAG CAG CCA TAC AA -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- GTC CTG GAG CAC ACA CTT AAT -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "PER2"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- AAG CTG TCA CCA CCA TAG AAA G -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- GCA AGG AGG CTG GTT CTT ATA G -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "BMAL1"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- CAT CAA GAC GAC ATA GGA CAC C -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- CAT CGA CTT CGT AGC GTG ATA A -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "gp49B (LILRB4a)"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- ATT CTG GAA CCC AGG ACT GC -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- GGA ACC CTG ACA CCA GGT AA -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "CXCL5"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- CCC TTC CTC AGT CAT AGC CG -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- CTA TGA CTT CCA CCG TAG GGC -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "CCL12"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- GCT ACC ACC ATC AGT CCT CAG -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- GAC ACT GGC TGC TTG TGA TTC -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "CCL28"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- CAA GCA GGG CTC ACA CTC AT -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- GGC CAT GGG AAG TAT GGC TT -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "IL17b"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- GGA CTG GCC GCA CAG C -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- GCC TCC CTT GCC CTT TTC TT -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "rowspan": 2,
+        "content": "IL10"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- AGG CGC TGT CAT CGA TTT CT -3\u2019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      },
+      {
+        "colspan": 1,
+        "content": "5\u2019- ATG GCC TTG TAG ACA CCT TGG -3\u2019"
+      }
+    ]
+  ]
+}

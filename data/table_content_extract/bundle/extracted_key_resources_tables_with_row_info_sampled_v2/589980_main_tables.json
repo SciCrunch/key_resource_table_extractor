@@ -1,0 +1,106 @@
+{
+  "job_id": 73,
+  "job_status": "finished",
+  "paper_id": "sampled_pdfs_589980_main",
+  "pdf_file": "589980_main.pdf",
+  "params": "use_row_info=True",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "Antibody (Ab)",
+                "Ab species",
+                "Ab source",
+                "Ab concentration",
+                "Step of protocol applied",
+                "Reference/cat no."
+              ],
+              [
+                "Anti-Pbcircumsporozoite protein (3D11)",
+                "Mouse",
+                "BEI Resources",
+                "1: 1000",
+                "Primary Ab",
+                "MRA-100A36"
+              ],
+              [
+                "Anti-mouse IgG Alexa Fluor 555 (H+L)",
+                "Goat",
+                "Invitrogen",
+                "1:500 (2mg/ml stock)",
+                "Second Ab",
+                "A21422"
+              ],
+              [
+                "Anti-mouse IgG Alexa Fluor 488 Superclonal (H+L)",
+                "Goat",
+                "Invitrogen",
+                "1:500  (1mg/ml)",
+                "Second Ab",
+                "A28175"
+              ]
+            ]
+          },
+          {
+            "rows": [
+              [
+                "Stain/dye",
+                "Source",
+                "Concentration",
+                "Step of protocol applied",
+                "Cat no."
+              ],
+              [
+                "NHS Ester Alexa Fluor 405",
+                "ThermoFisher",
+                "1:250 (2 mg/mL stock in DMSO)",
+                "Secondary Ab*",
+                "A30000"
+              ],
+              [
+                "BODIPY-TR-Ceramide",
+                "ThermoFisher",
+                "1:500 (1 mM stock in DMSO)",
+                "Post expansion",
+                "D7540"
+              ],
+              [
+                "BODIPY-FL-C5-Ceramide",
+                "ThermoFisher",
+                "1:500 (1 mM stock in DMSO)",
+                "Post expansion*",
+                "D3521"
+              ],
+              [
+                "SYTOX Deep Red",
+                "ThermoFisher",
+                "1:1000 (1 mM stock in DMSO)",
+                "Secondary Ab*",
+                "S11381"
+              ],
+              [
+                "Wheat Germ Agglutinin Texas Red-X",
+                "ThermoFisher",
+                "1:250 (1 mg/mL stock in PBS)",
+                "Post expansion",
+                "W21405"
+              ],
+              [
+                "Hoechst 33342",
+                "ThermoFisher",
+                "1:1000 (10 mg/mL stock in water)",
+                "Unexpanded only",
+                "C10329G"
+              ]
+            ]
+          }
+        ],
+        "page": 18
+      }
+    ]
+  }
+}

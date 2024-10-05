@@ -1,0 +1,110 @@
+{
+  "headers": [],
+  "caption": "Molecular mass determination by SEC-MALS analysis of HilD in the presence of DMSO (1%) or C26 (100 µM). Values correspond to the curves shown in Fig.3h.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Molecular Mass (kDa)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Construct"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Theoretical (Dimer)"
+      },
+      {
+        "colspan": 1,
+        "content": "Measured (± SD)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HilD"
+      },
+      {
+        "colspan": 1,
+        "content": "70.4"
+      },
+      {
+        "colspan": 1,
+        "content": "70.4"
+      },
+      {
+        "colspan": 1,
+        "content": "± 2.0"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HilD + DMSO"
+      },
+      {
+        "colspan": 1,
+        "content": "70.4"
+      },
+      {
+        "colspan": 1,
+        "content": "71.4"
+      },
+      {
+        "colspan": 1,
+        "content": "± 2.8"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HilD + C26"
+      },
+      {
+        "colspan": 1,
+        "content": "70.4"
+      },
+      {
+        "colspan": 1,
+        "content": "69.8"
+      },
+      {
+        "colspan": 1,
+        "content": "± 1.8"
+      }
+    ]
+  ]
+}

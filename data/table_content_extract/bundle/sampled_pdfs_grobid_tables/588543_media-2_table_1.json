@@ -1,0 +1,561 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Supplemental"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plasmid name"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Original name/description"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Reference"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pSLUobt13 1"
+      },
+      {
+        "colspan": 1,
+        "content": "pLAT52:464-YFP (containing NtPI4P-5K4 cDNA)"
+      },
+      {
+        "colspan": 1,
+        "content": "XP_009802995.1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pFAUobt100 pNigel07-PHFAPP1 containing pUBQ10:eYFP-PHFAPP1 cassette"
+      },
+      {
+        "colspan": 1,
+        "content": "Thole et al. 2008"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Plasmid name pFAUobt104 Expression cassette UBQ10prom:mCITRINEnoSTOP-LactC2/pH7m34GW DNA template 1 Primer combination 2 Target vector 3"
+      },
+      {
+        "colspan": 1,
+        "content": "Restriction enzymes"
+      },
+      {
+        "colspan": 1,
+        "content": "Reference Platre et al. 2018"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pWEN240 pLat52:eYFP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Klahre et al. 2006"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pFAU422"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-NtGEF12a-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": "tobacco pollen tube cDNA"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU-B122, FAU-B123"
+      },
+      {
+        "colspan": 1,
+        "content": "pWEN240 SalI, XmaI"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pHD341"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-NtGAP1-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Klahre and Kost 2006"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pHD342"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:CRIBNtGAP1-5xGA-eYFP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Klahre and Kost 2006"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pHD23"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-NtRAC5-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Sun et al. 2015"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pFAU581"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:NtPI4P-5K4-5xGA-eYFP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": "pSLUobt13"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU-B910, FAU-B911"
+      },
+      {
+        "colspan": 1,
+        "content": "pHD32"
+      },
+      {
+        "colspan": 1,
+        "content": "NgoMIV, ApaI"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pHD133"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:NtPLC3-eYFP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Helling et al. 2006"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pFAU699"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-PHFAPP1-NosT 4"
+      },
+      {
+        "colspan": 1,
+        "content": "pFAUobt100"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU-C459, FAU-C460"
+      },
+      {
+        "colspan": 1,
+        "content": "pWEN240"
+      },
+      {
+        "colspan": 1,
+        "content": "NgoMIV, ApaI"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pFAU780"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-C2Lact-NosT 5"
+      },
+      {
+        "colspan": 1,
+        "content": "pFAUobt104"
+      },
+      {
+        "colspan": 1,
+        "content": "FAU-C624, FAU-C625"
+      },
+      {
+        "colspan": 1,
+        "content": "pWEN240"
+      },
+      {
+        "colspan": 1,
+        "content": "NgoMIV, SacII"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pWEN106"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-PHPLCδ1-NosT 6"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Helling et al. 2006"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pFAU131"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-Spo20p-NosT 7"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Potocký et al. 2014"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pHD274"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:C1PKCγ-eYFP-NosT 8"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Helling et al. 2006"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pFAU351"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:NtINT4-eYFP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Grebnev et al. 2020"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pHD86"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:eYFP-5xGA-NtRISAP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Stephan et al. 2014"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "pSLU29"
+      },
+      {
+        "colspan": 1,
+        "content": "pLat52:LIFEACT-5xGA-eYFP-NosT"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Montes-Rodriguez and Kost 2017"
+      }
+    ],
+    [{
+      "colspan": 1,
+      "content": "1 see supplemental table S2 for further information; 2 see supplemental table S3 for primer sequences; 3 Klahre and Kost 2006;"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Grebnev et al. 2020; 4 contains the PLECKSTRIN HOMOLOGY (PH) domain of human PHOSPHATIDYL-INOSITOL-4-"
+    }],
+    [{
+      "colspan": 1,
+      "content": "PHOSPHATE ADAPTOR PROTEIN-1 (FAPP1); 5 contains the PS-binding C2 domain of bovine LACTADHERIN (Lact);"
+    }],
+    [{
+      "colspan": 1,
+      "content": "6 contains the PH domain of human PHOSPHOLIPASE Cδ1 (PLCδ1); 7 contains the PA-binding domain of the yeast SNARE"
+    }],
+    [{
+      "colspan": 1,
+      "content": "protein (Spo20p); 8 contains the C-terminal end of the first cystein-rich domain (C1) of rat PROTEIN KINASE Cγ (PKCγ)."
+    }]
+  ]
+}

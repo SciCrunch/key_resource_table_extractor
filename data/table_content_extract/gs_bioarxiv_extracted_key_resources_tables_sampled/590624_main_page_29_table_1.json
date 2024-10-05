@@ -1,0 +1,181 @@
+{
+  "name": "590624_main_page_29_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Oligo"
+      },
+      {
+        "colspan": 1,
+        "content": "Primer/Probe"
+      },
+      {
+        "colspan": 1,
+        "content": "Sequence"
+      },
+      {
+        "colspan": 1,
+        "content": "Application"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "o57  "
+      },
+      {
+        "colspan": 1,
+        "content": "northern probe "
+      },
+      {
+        "colspan": 1,
+        "content": "AATAGAGGTACCAGGTCAAGAAGC  "
+      },
+      {
+        "colspan": 1,
+        "content": "detection of MRP RNA "
+      },
+      {
+        "colspan": 1,
+        "content": "(Allmang et al. 1999)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "o339  "
+      },
+      {
+        "colspan": 1,
+        "content": "northern probe "
+      },
+      {
+        "colspan": 1,
+        "content": "AGAAACAAAGCACTCACGAT  "
+      },
+      {
+        "colspan": 1,
+        "content": "detection of tRNA-Arg(UCU)"
+      },
+      {
+        "colspan": 1,
+        "content": "(van Hoof et al. 2000)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "o444 "
+      },
+      {
+        "colspan": 1,
+        "content": "northern probe"
+      },
+      {
+        "colspan": 1,
+        "content": "GAAGCGCCATCTAGATG "
+      },
+      {
+        "colspan": 1,
+        "content": "detection of SNR30"
+      },
+      {
+        "colspan": 1,
+        "content": "this study "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "o868  "
+      },
+      {
+        "colspan": 1,
+        "content": "northern probe "
+      },
+      {
+        "colspan": 1,
+        "content": "GCATGTTTAATATGTATCAT  "
+      },
+      {
+        "colspan": 1,
+        "content": "detection of SNR8 "
+      },
+      {
+        "colspan": 1,
+        "content": "(Mitchell et al. 2003)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "o925  "
+      },
+      {
+        "colspan": 1,
+        "content": "northern probe "
+      },
+      {
+        "colspan": 1,
+        "content": "CTACTCGGTCAGGCTC  "
+      },
+      {
+        "colspan": 1,
+        "content": "detection of 5S rRNA "
+      },
+      {
+        "colspan": 1,
+        "content": "(Allmang et al. 2000)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "o950   "
+      },
+      {
+        "colspan": 1,
+        "content": "northern probe  "
+      },
+      {
+        "colspan": 1,
+        "content": "CCTTGCTTAAGCAAATGC   "
+      },
+      {
+        "colspan": 1,
+        "content": "detection of pre-tRNA-Lys(UUU) intron"
+      },
+      {
+        "colspan": 1,
+        "content": "this study   "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "o1310  "
+      },
+      {
+        "colspan": 1,
+        "content": "forward PCR primer"
+      },
+      {
+        "colspan": 1,
+        "content": "GAAGGATCCGGTTCAGGTGGTGTAGCA\nTCCT"
+      },
+      {
+        "colspan": 1,
+        "content": "Generation of the rex1 loop3\u2206 mutant"
+      },
+      {
+        "colspan": 1,
+        "content": "this study"
+      }
+    ]
+  ]
+}

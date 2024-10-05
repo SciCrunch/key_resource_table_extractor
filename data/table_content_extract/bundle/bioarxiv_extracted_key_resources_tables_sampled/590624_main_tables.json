@@ -1,0 +1,338 @@
+{
+  "job_id": 452,
+  "job_status": "finished",
+  "paper_id": "590624_main",
+  "pdf_file": "main.pdf",
+  "params": "",
+  "err_msg": null,
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Oligo",
+                "Primer/Probe",
+                "Sequence",
+                "Application",
+                "Source"
+              ],
+              [
+                "o57",
+                "northern",
+                "AATAGAGGTACCAGGTCAAGAAGC",
+                "detection of",
+                "(Allmang"
+              ],
+              [
+                "",
+                "probe",
+                "",
+                "MRP RNA",
+                "et al."
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "1999)"
+              ],
+              [
+                "o339",
+                "northern",
+                "AGAAACAAAGCACTCACGAT",
+                "detection of",
+                "(van Hoof"
+              ],
+              [
+                "",
+                "probe",
+                "",
+                "tRNA-",
+                "et al."
+              ],
+              [
+                "",
+                "",
+                "",
+                "Arg(UCU)",
+                "2000)"
+              ],
+              [
+                "o444",
+                "northern",
+                "GAAGCGCCATCTAGATG",
+                "detection of",
+                "this study"
+              ],
+              [
+                "",
+                "probe",
+                "",
+                "SNR30",
+                ""
+              ],
+              [
+                "o868",
+                "northern",
+                "GCATGTTTAATATGTATCAT",
+                "detection of",
+                "(Mitchell"
+              ],
+              [
+                "",
+                "probe",
+                "",
+                "SNR8",
+                "et al."
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "2003)"
+              ],
+              [
+                "o925",
+                "northern",
+                "CTACTCGGTCAGGCTC",
+                "detection of",
+                "(Allmang"
+              ],
+              [
+                "",
+                "probe",
+                "",
+                "5S rRNA",
+                "et al."
+              ],
+              [
+                "",
+                "",
+                "",
+                "",
+                "2000)"
+              ],
+              [
+                "o950",
+                "northern",
+                "CCTTGCTTAAGCAAATGC",
+                "detection of",
+                "this study"
+              ],
+              [
+                "",
+                "probe",
+                "",
+                "pre-tRNA-",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "Lys(UUU)",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "intron",
+                ""
+              ],
+              [
+                "o1310",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "primer",
+                "TCCT",
+                "of the rex1",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                "loop3\u2206 mutant",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 29
+      },
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "Plasmi",
+                "",
+                "",
+                ""
+              ],
+              [
+                "p674",
+                "",
+                "wild-type Rex1 expressed as an N-terminal zz protein",
+                "(Daniels et al."
+              ],
+              [
+                "",
+                "",
+                "from the RRP4 promoter in pRS313.",
+                "2022)"
+              ],
+              [
+                "p966",
+                "",
+                "loop 2\u2206 derivative of p674",
+                "this study"
+              ],
+              [
+                "p967",
+                "",
+                "loop 1\u2206 derivative of p674",
+                "this study"
+              ],
+              [
+                "p972",
+                "",
+                "loop 3\u2206 derivative of p674",
+                "this study"
+              ],
+              [
+                "p973",
+                "",
+                "wild-type Rex3 expressed as an N-terminal zz protein",
+                "this study"
+              ],
+              [
+                "",
+                "",
+                "from the RRP4 promoter in pRS416.",
+                ""
+              ],
+              [
+                "p974 p975",
+                "",
+                "\u22061-106 variant of p973 \u22061-218 variant of p973",
+                "this study this study"
+              ]
+            ]
+          }
+        ],
+        "page": 31
+      }
+    ]
+  }
+}

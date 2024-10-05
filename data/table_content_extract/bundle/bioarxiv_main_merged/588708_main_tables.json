@@ -1,0 +1,96 @@
+{
+  "paper_id": "588708_main",
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "s1",
+                "5'-ATG CAA AAC TAA ACG GTG TCA TTG AGG CAT ATG AGA AGG CAA TTG CAG AGC TCA TTA GTG AGA AGG AGC",
+                "Amplifying WT-TACC cDNA and adding attB sites on both ends of the cDNA, which"
+              ],
+              [
+                "s2",
+                "5'-TTG TTT TGT CCT TTT CTG TAA TAC GCT TGA TCA GAG CCT CCT CGC GCA GCT CTC CCT CCT TGA GC",
+                "allowed the cDNA to be flipped into a pDonor plasmid"
+              ],
+              [
+                "s3",
+                "5'-TGC TGC TGT TGA AGT TTG ATC CCC TCC TTG",
+                "Mutating Aurora A phosphorylation site Serine"
+              ],
+              [
+                "s4",
+                "5'-GAC TGC GGT CAA TAG GCA CAC TAT TGC TG",
+                "863 on WT-TACC to a Leucine"
+              ],
+              [
+                "s5",
+                "5'-CCG GCG GCA GCT AAG CGG CCG  CGG ATC TGG TTAC",
+                "Linearising pRNA destination vector backbone with"
+              ],
+              [
+                "s6",
+                "5'- GGT GCT ATC CAT GCT AGA TCG AAC CAC TTT GTA CAA GAA AGC TG",
+                "overlapping regions with mScarlet-I3"
+              ],
+              [
+                "s7",
+                "5'-TGG CCG GAG ATC CAG ACT TTA GCC CGA ATC GTT CGC GAA C",
+                "Deleting the region on Spd-2 that contains ABD1"
+              ],
+              [
+                "s8",
+                "5'-AAA GTC TGG ATC TCC GGC CAA G",
+                ""
+              ],
+              [
+                "s9",
+                "5'-AGC CCG AAT CGT TCG CGA ACC AAC CAA C",
+                "Deleting the region on Spd-2 that contains ABD2"
+              ],
+              [
+                "s10",
+                "5'-AAA GTC TGG ATC TCC GGC CAA GAC AGA ATT GGA CAC",
+                ""
+              ],
+              [
+                "s11",
+                "5'-AGA AGA ACT GCG TCG TCG TCT GAC CGA ATA AAT GGT GAG CAA GGG CGA GG",
+                "Replacing GFP on various versions of pRNA-Spd-2-"
+              ],
+              [
+                "s12",
+                "5'-ACG ACG ACG CAG TTC TTC TTC CAG ACG AGA GCT AGA TCG AAC CAC TTT G",
+                "GFP vectors with ALFA-tag"
+              ],
+              [
+                "s13",
+                "5'- ATC CAG CAC AGT GGC GGC CGC TCG AGG CTA GCA TGG ACA AAG ACT GCG AAA TGA AGC GCA CC",
+                "Cloning codon-optimised SNAP-tag into pUbq destination vector"
+              ],
+              [
+                "s14",
+                "5'- CTA GTT CTA GAG CGG CCG CCA CCG CGG TTA ACC CAG CCC AGG CTT GCC CAG TCT GT",
+                ""
+              ],
+              [
+                "s15",
+                "5'-TGG GTC GCG GAT CCG ATC AAG TTC AGT TAC AAG AGA GTG GGG G",
+                "Amplifying anti-ALFA nanobody"
+              ],
+              [
+                "s16",
+                "5'- GGA TAG TCG AAT TCA CTA GTG CTG CTC ACA GTC ACT TGGG TG",
+                ""
+              ]
+            ]
+          }
+        ],
+        "page": 47
+      }
+    ]
+  }
+}

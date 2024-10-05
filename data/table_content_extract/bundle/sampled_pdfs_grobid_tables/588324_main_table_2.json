@@ -1,0 +1,46 @@
+{
+  "headers": [],
+  "caption": "imaged on 1-2% agarose gels (Chemi-Doc). Quantitative real-time PCR reactions were carried out in technical triplicate with QuantiTect SYBR Green Master Mix using Applied BiosystemsStepOne Plus real-time machine (ABI). Results were analyzed using ∆∆CT method, normalized to loading Control (e.g., rpl32), and plotted as relative levels normalized to Control. Primers used for all PCR reactions are listed in the Key Resources Table.",
+  "rows": [
+    [{
+      "colspan": 1,
+      "content": "Immunoblotting"
+    }],
+    [{
+      "colspan": 1,
+      "content": "For analysis of Trio protein levels, heads of newly eclosed flies were decapitated and collected"
+    }],
+    [{
+      "colspan": 1,
+      "content": "on dry ice. Protein lysates were prepared by homogenizing heads in 0.5 ml of RIPA-2 Buffer (50"
+    }],
+    [{
+      "colspan": 1,
+      "content": "mM Tris-HCl, pH 8; 150 mM NaCl; 0.5% sodium deoxycholate; 1% Igepal CA-630 0.1% SDS)"
+    }],
+    [{
+      "colspan": 1,
+      "content": "supplemented with protease inhibitors (1 mM PMSF; Pierce Protease Inhibitors; Thermo Fisher"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Scientific) and 1% SDS. Samples were sonicated 3 x 10 s with 1 min on ice between repetitions,"
+    }],
+    [{
+      "colspan": 1,
+      "content": "and then centrifuged at 13,000 x g for 15 min at 4ºC. Protein lysate concentration was determined"
+    }],
+    [{
+      "colspan": 1,
+      "content": "by Pierce BCA Protein Assay Kit (Life Technologies). Head lysate protein samples (40-60 μg) in"
+    }],
+    [{
+      "colspan": 1,
+      "content": "reducing sample buffer (50 mM Tris-HCl, pH 6.8; 100 mM DTT; 2% SDS; 0.1% Bromophenol"
+    }],
+    [{
+      "colspan": 1,
+      "content": "Blue; 10% glycerol) were resolved on 4-20% Criterion TGX Stain-Free Precast Polyacrylamide"
+    }]
+  ]
+}

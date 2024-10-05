@@ -1,0 +1,209 @@
+{
+  "name": "588206_media-1_page_9_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Sl.No.  "
+      },
+      {
+        "colspan": 1,
+        "content": "Sex  "
+      },
+      {
+        "colspan": 1,
+        "content": "Age  "
+      },
+      {
+        "colspan": 1,
+        "content": "Collected Sample "
+      },
+      {
+        "colspan": 1,
+        "content": "Glucose Random (mg/dl) "
+      },
+      {
+        "colspan": 1,
+        "content": "HbA1c  "
+      },
+      {
+        "colspan": 1,
+        "content": "GAD65 antibody "
+      },
+      {
+        "colspan": 1,
+        "content": "Anti-insulin antibody"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "1"
+      },
+      {
+        "colspan": 1,
+        "content": "M"
+      },
+      {
+        "colspan": 1,
+        "content": "27"
+      },
+      {
+        "colspan": 1,
+        "content": "Blood"
+      },
+      {
+        "colspan": 1,
+        "content": "109"
+      },
+      {
+        "colspan": 1,
+        "content": "4.1"
+      },
+      {
+        "colspan": 1,
+        "content": "Negative"
+      },
+      {
+        "colspan": 1,
+        "content": "Negative"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "2"
+      },
+      {
+        "colspan": 1,
+        "content": "M"
+      },
+      {
+        "colspan": 1,
+        "content": "25"
+      },
+      {
+        "colspan": 1,
+        "content": "Blood"
+      },
+      {
+        "colspan": 1,
+        "content": "98"
+      },
+      {
+        "colspan": 1,
+        "content": "5.0"
+      },
+      {
+        "colspan": 1,
+        "content": "Negative"
+      },
+      {
+        "colspan": 1,
+        "content": "Negative"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "F"
+      },
+      {
+        "colspan": 1,
+        "content": "23"
+      },
+      {
+        "colspan": 1,
+        "content": "Blood"
+      },
+      {
+        "colspan": 1,
+        "content": "95"
+      },
+      {
+        "colspan": 1,
+        "content": "4.6"
+      },
+      {
+        "colspan": 1,
+        "content": "Negative"
+      },
+      {
+        "colspan": 1,
+        "content": "Negative"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "4"
+      },
+      {
+        "colspan": 1,
+        "content": "M"
+      },
+      {
+        "colspan": 1,
+        "content": "28"
+      },
+      {
+        "colspan": 1,
+        "content": "Blood"
+      },
+      {
+        "colspan": 1,
+        "content": "102"
+      },
+      {
+        "colspan": 1,
+        "content": "4.2"
+      },
+      {
+        "colspan": 1,
+        "content": "Negative"
+      },
+      {
+        "colspan": 1,
+        "content": "Negative"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "5"
+      },
+      {
+        "colspan": 1,
+        "content": "F"
+      },
+      {
+        "colspan": 1,
+        "content": "26"
+      },
+      {
+        "colspan": 1,
+        "content": "Blood"
+      },
+      {
+        "colspan": 1,
+        "content": "112"
+      },
+      {
+        "colspan": 1,
+        "content": "5.2"
+      },
+      {
+        "colspan": 1,
+        "content": "Negative"
+      },
+      {
+        "colspan": 1,
+        "content": "Negative"
+      }
+    ]
+  ]
+}

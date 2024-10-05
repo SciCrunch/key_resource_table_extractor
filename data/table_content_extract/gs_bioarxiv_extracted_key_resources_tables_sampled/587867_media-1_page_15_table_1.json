@@ -1,0 +1,175 @@
+{
+  "name": "587867_media-1_page_15_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Cell line"
+      },
+      {
+        "colspan": 1,
+        "content": "Source"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HEK-293T"
+      },
+      {
+        "colspan": 1,
+        "content": "ATCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RPE1 TP53-/-"
+      },
+      {
+        "colspan": 1,
+        "content": "Dr. Steve Jackson"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RPE1 TP53+/+"
+      },
+      {
+        "colspan": 1,
+        "content": "ATCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RPE1-dCas9-BFP-KRAB(KOX1) TP53-/-"
+      },
+      {
+        "colspan": 1,
+        "content": "Fielden, Siegner, et al. 2023"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RPE1-dCas9-BFP-KRAB(KOX1) SP110-/-; TP53-/-"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RPE1 TP53-/-; SP110-/-"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RPE1 TP53+/+; SP110-/-"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RPE1 TP53-/-; SP100-/-"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RPE1 TP53-/-; SP110-/-; SP100-/-"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RPE1 TP53+/+; SP110-/-; SP100-/-"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RPE1 TP53+/+ H2B-GFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RPE1 TP53+/+; SP110-/-  H2B-GFP"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Jurkat"
+      },
+      {
+        "colspan": 1,
+        "content": "ATCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Jurkat SP110-/-"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Jurkat SP100-/-"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Jurkat SP110-/-; SP100-/-"
+      },
+      {
+        "colspan": 1,
+        "content": "This study"
+      }
+    ]
+  ]
+}

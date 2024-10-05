@@ -1,0 +1,329 @@
+{
+  "headers": [],
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Species"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward"
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ADCY6"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "GGCCGCATCCACATCACTC"
+      },
+      {
+        "colspan": 1,
+        "content": "CTTTGCTAGAATCATCAATGCCCATC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "AGO2"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "CGTCCTTCCCACTACCACG"
+      },
+      {
+        "colspan": 1,
+        "content": "CCAGAGGTATGGCTTCCTTCA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "COL4A1"
+      },
+      {
+        "colspan": 1,
+        "content": "rat"
+      },
+      {
+        "colspan": 1,
+        "content": "GGATCTCCAGGTGTGTCTTTAC"
+      },
+      {
+        "colspan": 1,
+        "content": "CCAGGTTGACACTCCACAAT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "GAPDH"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse and rat"
+      },
+      {
+        "colspan": 1,
+        "content": "TGCACCACCAACTGCTTAG"
+      },
+      {
+        "colspan": 1,
+        "content": "TGGATGCAGGGATGATGTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HPRT"
+      },
+      {
+        "colspan": 1,
+        "content": "rat"
+      },
+      {
+        "colspan": 1,
+        "content": "GCTGACCTGCTGGATTACAT"
+      },
+      {
+        "colspan": 1,
+        "content": "CCCGTTGACTGGTCATTACA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HPRT"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "AATGTCTTGATTGTTGAGGATAT"
+      },
+      {
+        "colspan": 1,
+        "content": "ACAAAGTCAGGTTTATAGCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "KIM1"
+      },
+      {
+        "colspan": 1,
+        "content": "rat"
+      },
+      {
+        "colspan": 1,
+        "content": "GTATTGTTGCCGAGTGGAGAT"
+      },
+      {
+        "colspan": 1,
+        "content": "GTGGTTGTGGGTCTTGTAGTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "LCN2"
+      },
+      {
+        "colspan": 1,
+        "content": "rat"
+      },
+      {
+        "colspan": 1,
+        "content": "CTACAACGTCACTTCCATCCTC"
+      },
+      {
+        "colspan": 1,
+        "content": "TTGCACATCGTAGCTCTGTATC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NPHP1"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "AGAGAGGAGAGTTAAGCTGTGGCT"
+      },
+      {
+        "colspan": 1,
+        "content": "TGGCATCGAAAAGCTTAAGAAAC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PATCH1"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "CTGCCTGTCCTCTTATCCTTC"
+      },
+      {
+        "colspan": 1,
+        "content": "AGACCCATTGTTCGTGTGAC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "PATCH1"
+      },
+      {
+        "colspan": 1,
+        "content": "Human"
+      },
+      {
+        "colspan": 1,
+        "content": "GTTGTGGGCCTCCTCATATT"
+      },
+      {
+        "colspan": 1,
+        "content": "GACTTACTCGTCCTCCAACTTC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "TGFB1"
+      },
+      {
+        "colspan": 1,
+        "content": "Rat"
+      },
+      {
+        "colspan": 1,
+        "content": "CTGAACCAAGGAGACGGAATAC"
+      },
+      {
+        "colspan": 1,
+        "content": "GTTTGGGACTGATCCCATTGA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Species"
+      },
+      {
+        "colspan": 1,
+        "content": "Sense Sequence 5'--> 3'"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Si Bicc1"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "AAGACAGACAUGAUCAUUUCUUUGG55"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Si Bicc1 Scramble"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "GCUGAAAUUAAGGUCUCAUGUCAAU55"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Si Ago2"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "CAUCGAACAUGAGACGUCU55"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Si Ago2 Scramble"
+      },
+      {
+        "colspan": 1,
+        "content": "mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "GCAUUUAACGCGCAUACGA55"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ]
+  ]
+}

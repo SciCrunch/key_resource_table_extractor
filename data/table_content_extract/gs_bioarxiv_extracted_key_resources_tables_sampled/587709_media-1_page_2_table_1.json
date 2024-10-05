@@ -1,0 +1,269 @@
+{
+  "name": "587709_media-1_page_2_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Bovine serum albumin (BSA)"
+      },
+      {
+        "colspan": 1,
+        "content": "Roth, Karlsruhe, Germany"
+      },
+      {
+        "colspan": 1,
+        "content": "CAS#90604-29-8"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Coomassie Bradford reagent"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck KGaA, Darmstadt, Germany"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#B6916"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Polystyrene cuvettes "
+      },
+      {
+        "colspan": 1,
+        "content": "SARSTEDT AG & Co. KG, N\u00fcmbrecht, Germany"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#67.742 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Modified Lowry protein assay kit "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific Inc., Rockford, IL, USA"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#23240 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "96-well polystyrene flat-well plate "
+      },
+      {
+        "colspan": 1,
+        "content": "SARSTEDT AG & Co. KG, N\u00fcmbrecht, Germany"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#82.1581 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bicinchoninic acid protein assay kit "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific Inc., Rockford, IL, USA"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#23227 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Nitrocellulose membrane"
+      },
+      {
+        "colspan": 1,
+        "content": "Roth, Karlsruhe, Germany"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#HP42.1"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "BlueBlock PF "
+      },
+      {
+        "colspan": 1,
+        "content": "SERVA Electrophoresis GmbH, Heidelberg, Germany"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#42591.01 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "4-Chloro-1-naphthol"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck KGaA, Darmstadt, Germany"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#C8890"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tween\u00ae 20"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck KGaA, Darmstadt, Germany"
+      },
+      {
+        "colspan": 1,
+        "content": "CAS#9005-64-5"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "3,3\u2019,5,5\u2019-tetramethylbenzidine (TMB)"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific Inc., Rockford, IL, USA"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#N301 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Parafilm\u00ae"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck KGaA, Darmstadt, Germany"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat#P7793"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Ouabain octahydrate, 96% "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific Inc., Rockford, IL, USA"
+      },
+      {
+        "colspan": 1,
+        "content": "CAS#11018-89-6 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Adenosin-5-triphosphat Bis-(Tris)- salt hydrate (ATP)"
+      },
+      {
+        "colspan": 1,
+        "content": "Merck KGaA, Darmstadt, Germany "
+      },
+      {
+        "colspan": 1,
+        "content": "CAS#102047-34-7 "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "\u03b15-antibody (primary antibody) "
+      },
+      {
+        "colspan": 1,
+        "content": "Developmental Studies Hybridoma Bank, University of Iowa, Iowa City, IA, USA"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_2166869  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "HRP-antibody (secondary antibody conjugated with horseradish peroxidase)"
+      },
+      {
+        "colspan": 1,
+        "content": "Dianova, Hamburg, Germany  "
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_2617176  "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Software"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ImageJ"
+      },
+      {
+        "colspan": 1,
+        "content": "https://imagej.net/software/imagej/"
+      },
+      {
+        "colspan": 1,
+        "content": "ImageJ 1.53k"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "R"
+      },
+      {
+        "colspan": 1,
+        "content": "https://www.r-project.org/"
+      },
+      {
+        "colspan": 1,
+        "content": "R version 4.1.1"
+      }
+    ]
+  ]
+}

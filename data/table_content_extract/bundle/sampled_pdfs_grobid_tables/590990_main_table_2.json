@@ -1,0 +1,402 @@
+{
+  "headers": [],
+  "caption": "Antisera used in this study.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Antigen"
+      },
+      {
+        "colspan": 1,
+        "content": "Immunogen Description"
+      },
+      {
+        "colspan": 1,
+        "content": "Source, host species, RRID"
+      },
+      {
+        "colspan": 1,
+        "content": "Concentration"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "11-beta-"
+      },
+      {
+        "colspan": 1,
+        "content": "Amino acids 261-405 from the C-"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz, rabbit polyclonal,"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500 (human"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "hydroxysteroid"
+      },
+      {
+        "colspan": 1,
+        "content": "terminus of human 11b-HSD2"
+      },
+      {
+        "colspan": 1,
+        "content": "cat# sc_20176,"
+      },
+      {
+        "colspan": 1,
+        "content": "& porcine"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "dehydrogenase"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_2233199"
+      },
+      {
+        "colspan": 1,
+        "content": "tissue)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "type 2 (HSD2)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "1:700 (mouse"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "tissue)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "11-beta-"
+      },
+      {
+        "colspan": 1,
+        "content": "Fusion protein Ag5146 (amino"
+      },
+      {
+        "colspan": 1,
+        "content": "Protein Tech, rabbit"
+      },
+      {
+        "colspan": 1,
+        "content": "1:2,000 (mouse"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "hydroxysteroid"
+      },
+      {
+        "colspan": 1,
+        "content": "acids 1-405 encoded by human"
+      },
+      {
+        "colspan": 1,
+        "content": "polyclonal, cat# 14192-1-AP,"
+      },
+      {
+        "colspan": 1,
+        "content": "tissue)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "dehydrogenase"
+      },
+      {
+        "colspan": 1,
+        "content": "HSD11B2; GenBank BC036780)"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_2119643"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "type 2 (HSD2)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Choline"
+      },
+      {
+        "colspan": 1,
+        "content": "ChAT from human placenta"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore, goat polyclonal,"
+      },
+      {
+        "colspan": 1,
+        "content": "1:500 (human"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "acetyltransferase"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "cat# AB144P,"
+      },
+      {
+        "colspan": 1,
+        "content": "tissue)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "(ChAT)"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_2079751"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Fos"
+      },
+      {
+        "colspan": 1,
+        "content": "Synthetic peptide corresponding"
+      },
+      {
+        "colspan": 1,
+        "content": "Synaptic System, guinea pig;"
+      },
+      {
+        "colspan": 1,
+        "content": "1:12,000"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "to residues near the amino"
+      },
+      {
+        "colspan": 1,
+        "content": "cat#226 308,"
+      },
+      {
+        "colspan": 1,
+        "content": "(mouse tissue)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "terminus of rat c-Fos"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_2905595"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "mCherry"
+      },
+      {
+        "colspan": 1,
+        "content": "Full length mCherry fluorescent"
+      },
+      {
+        "colspan": 1,
+        "content": "Life Sciences, rat monoclonal,"
+      },
+      {
+        "colspan": 1,
+        "content": "1:2,000 (mouse"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "protein"
+      },
+      {
+        "colspan": 1,
+        "content": "cat# M11217,"
+      },
+      {
+        "colspan": 1,
+        "content": "tissue)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_2536611"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tyrosine"
+      },
+      {
+        "colspan": 1,
+        "content": "Native tyrosine hydroxylase"
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore, sheep polyclonal,"
+      },
+      {
+        "colspan": 1,
+        "content": "1:2,000 (mouse"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "hydroxylase (TH)"
+      },
+      {
+        "colspan": 1,
+        "content": "from rat pheochromocytoma in"
+      },
+      {
+        "colspan": 1,
+        "content": "cat#: Ab1542,"
+      },
+      {
+        "colspan": 1,
+        "content": "tissue)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "sheep host"
+      },
+      {
+        "colspan": 1,
+        "content": "RRID: AB_90755"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ]
+  ]
+}

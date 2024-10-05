@@ -1,0 +1,181 @@
+{
+  "paper_id": "591481_main",
+  "result": {
+    "pages": [
+      {
+        "tables": [
+          {
+            "rows": [
+              [
+                "KEY RESOURCES TABLE REAGENT OR RESOURCE",
+                " SOURCE",
+                " IDENTIFIER"
+              ],
+              [
+                "Experimental organisms",
+                "",
+                ""
+              ],
+              [
+                "Mouse: C57BL/6J",
+                "Vital River Lab Animal Technology  (Zhejiang, China)",
+                "Cat# 213"
+              ],
+              [
+                "DTR",
+                "",
+                ""
+              ],
+              [
+                "Mouse: DCX",
+                "Queensland Brain Institute",
+                "Refence 15"
+              ],
+              [
+                "Mouse: PV-Cre tm1(cre)Arbr (B6.129P2-Pvalb/J)",
+                "The Jackson Lab, USA",
+                "Cat# 017320"
+              ],
+              [
+                "Antibodies",
+                "",
+                ""
+              ],
+              [
+                "Anti-BrdU antibody",
+                "Abcam",
+                "Ab6326"
+              ],
+              [
+                "Anti-DCX antibody",
+                "Abcam",
+                "Ab18723"
+              ],
+              [
+                "Anti-GABA antibody",
+                "Sigma-Aldrich",
+                "A2052"
+              ],
+              [
+                "Anti-GAD67 antibody",
+                "Abcam",
+                "Ab26116"
+              ],
+              [
+                "Anti-TBR2 antibody",
+                "Abcam",
+                "Ab23345"
+              ],
+              [
+                "Anti-PV antibody",
+                "Abcam",
+                "Ab181086"
+              ],
+              [
+                "Chemicals",
+                "",
+                ""
+              ],
+              [
+                "5\u2019-Bromo-2\u2019-deoxyuridine (BrdU)",
+                "Sigma-Aldrich",
+                "B5002"
+              ],
+              [
+                "Diphtheria Toxin (DT)",
+                "Sigma-Aldrich",
+                "D0564"
+              ],
+              [
+                "Clozapine N-oxide (CNO)",
+                "MedChemExpress",
+                "HY-17366"
+              ],
+              [
+                "Bicuculline",
+                "MedChemExpress",
+                "HY-N0219"
+              ],
+              [
+                "DAPI",
+                "Abcam",
+                "Ab104139"
+              ],
+              [
+                "Goat serum",
+                "Gibco",
+                "16210072"
+              ],
+              [
+                "Alexa Fluor\u2122 647-Hydrazide",
+                "Thermo Fisher Scientific",
+                "A20502"
+              ],
+              [
+                "FITC-dextran (70kDa)",
+                "Sigma-Aldrich",
+                "46945"
+              ],
+              [
+                "CNQX",
+                "Sigma-Aldrich",
+                "C239"
+              ],
+              [
+                "AP5",
+                "Sigma-Aldrich",
+                "A8054"
+              ],
+              [
+                "Recombinant viral strains",
+                "",
+                ""
+              ],
+              [
+                "rAAV2/9-hSyn-DIO-hM4D(Gi)- eGFP-WPRE-pA",
+                "Shanghai Taitool Bioscience Co.Ltd., China",
+                "S0286-9"
+              ],
+              [
+                "rVSVG-Retrovirus-CAG936- eGFP-3xFlag-WRPE-pA",
+                "Shanghai Taitool Bioscience Co.Ltd., China",
+                "VSVG- R5010"
+              ],
+              [
+                "rAAV2/9-hSyn-DIO-jGCaMP7f- WPRE-pA",
+                "Shanghai Taitool Bioscience Co.Ltd., China",
+                "S0588-9"
+              ],
+              [
+                "rAAV2/9-CAG-DIO-taCaspase3- TEVp-WPRE-pA",
+                "Shanghai Taitool Bioscience Co.Ltd., China",
+                "S0236-9"
+              ],
+              [
+                "Software and algorithms",
+                "",
+                ""
+              ],
+              [
+                "GraphPad Prism",
+                "Graphpad",
+                "Version 10"
+              ],
+              [
+                "Ethovision XT",
+                "Noldus",
+                "Version 15"
+              ],
+              [
+                "FIJI",
+                "ImageJ",
+                "Version 1.54i"
+              ]
+            ]
+          }
+        ],
+        "page": 22
+      }
+    ]
+  }
+}

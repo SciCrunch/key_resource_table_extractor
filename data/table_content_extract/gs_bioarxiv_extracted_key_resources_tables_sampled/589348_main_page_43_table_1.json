@@ -1,0 +1,275 @@
+{
+  "name": "589348_main_page_43_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Gene"
+      },
+      {
+        "colspan": 1,
+        "content": "Primer sequence (5\u2032 to 3\u2032)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "18S rRNA"
+      },
+      {
+        "colspan": 1,
+        "content": "F: GGTCTGTGATGCCCTTAGATGTC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R: AGTGGGGTTCAGCGGGTTAC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "shp-1"
+      },
+      {
+        "colspan": 1,
+        "content": "F: GCTCAAGTACCCGGTCAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R: TCTCGTGTTCCCAGCATC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "il-1\u03b2"
+      },
+      {
+        "colspan": 1,
+        "content": "F: ACAAGCGGGACACTGGCGTAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R: TTGGTGGATGGTGAAGTTCTGATAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "myd88"
+      },
+      {
+        "colspan": 1,
+        "content": "F: GACGCCTTCATCTGTTACTGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R: CCATCCTCCTACACCTTTGC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "nf\u03bab1"
+      },
+      {
+        "colspan": 1,
+        "content": "F: AGAGGCATTTAGGATGGGATA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R: CAAAGATGGGTTCTGACACG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "nf\u03bab2"
+      },
+      {
+        "colspan": 1,
+        "content": "F: GGGGCTTTCGTTTCCGTTAT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R: GAGGCCGTGAGGTCATTAGG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "stat3"
+      },
+      {
+        "colspan": 1,
+        "content": "F: TCTGCCCGTTGTCGTCATTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R: GAAGTTTACATTCTTAGGGTGGTTA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "jak2"
+      },
+      {
+        "colspan": 1,
+        "content": "F: CTGACTGAGCTGGCTTCCAT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R: CTCCCGCTGATCTGAATCCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "il-6"
+      },
+      {
+        "colspan": 1,
+        "content": "F: TCCTGCGTGATGGCATAGTG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R: GGACGTCAGAGCCTGTTTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "tlr5"
+      },
+      {
+        "colspan": 1,
+        "content": "F: TCCAACCGTATAGCCAGAAT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R: CTTGTTGACATTGAACCCATT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "il-10"
+      },
+      {
+        "colspan": 1,
+        "content": "F\uff1aGGAAACCACTGCTGAATGCG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R: TCGCTCTGCCTCGTTTCAAT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "nos1"
+      },
+      {
+        "colspan": 1,
+        "content": "F: ACTCTGGAAGACGCAGGATTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R: GGATTCTGAACGCAACCTATTT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "arg-2"
+      },
+      {
+        "colspan": 1,
+        "content": "F: AAGCAAGATGCCGTCACTCCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "R: CCCAGTCTGTCAATGTCCCTC"
+      }
+    ]
+  ]
+}

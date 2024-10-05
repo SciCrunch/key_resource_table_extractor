@@ -1,0 +1,151 @@
+{
+  "name": "586589_main_page_12_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "REAGENT or RESOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "SOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "IDENTIFIER"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit Polyclonal anti-plin2 "
+      },
+      {
+        "colspan": 1,
+        "content": "Abgent "
+      },
+      {
+        "colspan": 1,
+        "content": "AP5118c-ev, RRID:AB_10662954"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit Polyclonal anti-Calnexin "
+      },
+      {
+        "colspan": 1,
+        "content": "Proteintech "
+      },
+      {
+        "colspan": 1,
+        "content": "10427-2-AP, RRID: AB_2069033"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse Monoclonal anti-alpha-Tubulin "
+      },
+      {
+        "colspan": 1,
+        "content": "EMD Millipore "
+      },
+      {
+        "colspan": 1,
+        "content": "CP06, RRID: AB_2617116"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit Polyclonal anti-ATGL "
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology"
+      },
+      {
+        "colspan": 1,
+        "content": "2138, RRID: AB_2167955"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit Monoclonal anti-GM130 "
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology"
+      },
+      {
+        "colspan": 1,
+        "content": "12480, RRID: AB_2797933"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit Polyclonal anti-VDAC1 "
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology"
+      },
+      {
+        "colspan": 1,
+        "content": "4866, RRID: AB_2272627"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse Monoclonal anti-\u03b2-actin "
+      },
+      {
+        "colspan": 1,
+        "content": "Millipore Sigma "
+      },
+      {
+        "colspan": 1,
+        "content": "A2228, RRID: AB_476697"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse Monoclonal anti-V5  "
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher Scientific "
+      },
+      {
+        "colspan": 1,
+        "content": " R960-25 RRID:AB_2556564"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rabbit Monoclonal anti-GAPDH "
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling Technology"
+      },
+      {
+        "colspan": 1,
+        "content": " 5174, RRID:AB_10622025"
+      }
+    ]
+  ]
+}

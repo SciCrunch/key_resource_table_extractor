@@ -1,0 +1,347 @@
+{
+  "name": "588324_main_page_23_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster:w*;Ckac305a-Gal4  "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Drosophila Stock Company"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC:30829  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster: y1w*;UAS-mcd8::GFP;;  "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Drosophila Stock Company"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC:5137  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster: w*;;;OK107-Gal4  "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Drosophila Stock Company"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC:854  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster:y1w*:UAS-trio-GEF1  "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Drosophila Stock Company"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC:9133  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster: y1w*:UAS-trio-GEF2  "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Drosophila Stock Company"
+      },
+      {
+        "colspan": 1,
+        "content": "BDSC:9134  "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "D. melanogaster:w*;;ppk-Gal4  "
+      },
+      {
+        "colspan": 1,
+        "content": "Bloomington Drosophila Stock Company"
+      },
+      {
+        "colspan": 1,
+        "content": "BSDC:32079  "
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Oligonucleotides"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-PCR trio L Forward: AACAAAACAGAGAGCGCCC"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-PCR trio L Reverse: GATGGGCACTGCAGCATAA"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-qPCR trio L Intron Retention Forward: 5\u2019-TTAGCCCGCGTCAAGTC-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-qPCR trio L  Intron Retention Reverse: 5\u2019-CTGCTTGTGCCACCAAAT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-qPCR trio L Properly Spliced Forward: 5\u2019-GTTGTGTTGACAAAAGAGTG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-qPCR trio L Properly Spliced Reverse: 5\u2019-GATGGGCACTGCAGCATAA-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-PCR trio M Intron Retention (1) Forward: 5\u2019-CAGCAGTCTCTTCTTCACTAA-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-PCR trio M Intron Retention (1) Reverse: 5\u2019-ACTCGGATTGTTGTTTCACTTT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-PCR trio M Intron Retention (2) Forward: 5\u2019-GACTGCGCAAACATAGCATTA-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-PCR trio M Intron Retention (2) Reverse: 5\u2019-ATCCGCTCGTTGAGAAACT-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-PCR trio M Properly Spliced Forward: 5\u2019-CGCTAAAGAGGAGCGCAATA-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-PCR trio M Properly Spliced Reverse: 5\u2019-CTTCTTAACACTCTTCATGATTCG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-qPCR trio M Intron Retention Forward: 5\u2019-TTGAGTGAACCCGCTAAAG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-qPCR trio M  Intron Retention Reverse: 5\u2019-CTTTGGAGTGCTTGTTCTTATC-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-qPCR trio M Properly Spliced Forward: CGTCCATAAATTGAGTCGGAGAAC"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-qPCR trio M Properly Spliced Reverse: 5\u2019-CTTCTTAACACTCTTCATGATTCG-3\u2019"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-PCR and RT-qPCR rpl32 Forward: AAGATGACCATCCGCCCAGCATAC"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "RT-PCR and RT-qPCR rpl32 Reverse: ACGCACTCTGTTGTCGATACCCTT"
+      },
+      {
+        "colspan": 1,
+        "content": "This study "
+      },
+      {
+        "colspan": 1,
+        "content": "N/A "
+      }
+    ]
+  ]
+}

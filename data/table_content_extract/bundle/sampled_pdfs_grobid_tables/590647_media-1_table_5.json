@@ -1,0 +1,330 @@
+{
+  "headers": [],
+  "caption": "Top 15 TargetRNA2 results",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "MicF"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "predicted"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Rank"
+      },
+      {
+        "colspan": 1,
+        "content": "Gene Name"
+      },
+      {
+        "colspan": 1,
+        "content": "Gene Annotation"
+      },
+      {
+        "colspan": 1,
+        "content": "nucleotides"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "1"
+      },
+      {
+        "colspan": 1,
+        "content": "sbcB"
+      },
+      {
+        "colspan": 1,
+        "content": "exodeoxyribonuclease I; exonuclease I"
+      },
+      {
+        "colspan": 1,
+        "content": "23 -39"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "2"
+      },
+      {
+        "colspan": 1,
+        "content": "ppsA"
+      },
+      {
+        "colspan": 1,
+        "content": "phosphoenolpyruvate synthase"
+      },
+      {
+        "colspan": 1,
+        "content": "59 -74"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "3"
+      },
+      {
+        "colspan": 1,
+        "content": "ylcG"
+      },
+      {
+        "colspan": 1,
+        "content": "uncharacterized protein, DLP12 prophage"
+      },
+      {
+        "colspan": 1,
+        "content": "27 -44"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "4"
+      },
+      {
+        "colspan": 1,
+        "content": "metL"
+      },
+      {
+        "colspan": 1,
+        "content": "Bifunctional aspartokinase/homoserine dehydrogenase 2"
+      },
+      {
+        "colspan": 1,
+        "content": "46 -60"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "5"
+      },
+      {
+        "colspan": 1,
+        "content": "ybaY"
+      },
+      {
+        "colspan": 1,
+        "content": "outer membrane lipoprotein"
+      },
+      {
+        "colspan": 1,
+        "content": "29 -42"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "6"
+      },
+      {
+        "colspan": 1,
+        "content": "serA"
+      },
+      {
+        "colspan": 1,
+        "content": "D-3-phosphoglycerate dehydrogenase"
+      },
+      {
+        "colspan": 1,
+        "content": "44 -58"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "7"
+      },
+      {
+        "colspan": 1,
+        "content": "nimR"
+      },
+      {
+        "colspan": 1,
+        "content": "putative DNA-binding transcriptional regulator"
+      },
+      {
+        "colspan": 1,
+        "content": "61 -75"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "8"
+      },
+      {
+        "colspan": 1,
+        "content": "appB"
+      },
+      {
+        "colspan": 1,
+        "content": "cytochrome bd-II oxidase, subunit II"
+      },
+      {
+        "colspan": 1,
+        "content": "45 -60"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "9"
+      },
+      {
+        "colspan": 1,
+        "content": "gltD"
+      },
+      {
+        "colspan": 1,
+        "content": "glutamate synthase, 4Fe-4S protein, small subunit"
+      },
+      {
+        "colspan": 1,
+        "content": "46 -60"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "10"
+      },
+      {
+        "colspan": 1,
+        "content": "rmsD"
+      },
+      {
+        "colspan": 1,
+        "content": "16S rRNA m(2)G966 methyltransferase, SAM-dependent"
+      },
+      {
+        "colspan": 1,
+        "content": "77 -93"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "11"
+      },
+      {
+        "colspan": 1,
+        "content": "gspD"
+      },
+      {
+        "colspan": 1,
+        "content": "general secretory pathway component, cryptic"
+      },
+      {
+        "colspan": 1,
+        "content": "28 -43"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "12"
+      },
+      {
+        "colspan": 1,
+        "content": "ebgR"
+      },
+      {
+        "colspan": 1,
+        "content": "transcriptional repressor"
+      },
+      {
+        "colspan": 1,
+        "content": "-8 -7"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "13"
+      },
+      {
+        "colspan": 1,
+        "content": "murI"
+      },
+      {
+        "colspan": 1,
+        "content": "glutamate racemase"
+      },
+      {
+        "colspan": 1,
+        "content": "65 -75"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "14"
+      },
+      {
+        "colspan": 1,
+        "content": "ydjZ"
+      },
+      {
+        "colspan": 1,
+        "content": "TVP38/TMEM64 family inner membrane protein"
+      },
+      {
+        "colspan": 1,
+        "content": "1 -20"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "15"
+      },
+      {
+        "colspan": 1,
+        "content": "lsrK"
+      },
+      {
+        "colspan": 1,
+        "content": "autoinducer-2 (AI-2) kinase"
+      },
+      {
+        "colspan": 1,
+        "content": "44 -54"
+      }
+    ]
+  ]
+}

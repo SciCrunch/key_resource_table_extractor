@@ -1,0 +1,106 @@
+{
+  "paper_id": "589442_media-1",
+  "result": {
+    "pages": [
+      {
+        "page": 9,
+        "tables": [
+          {
+            "rows": [
+              [
+                "Antibody",
+                " Vendor ",
+                "Catalog #",
+                " Dilution"
+              ],
+              [
+                "Paxillin",
+                "",
+                "ab32084",
+                "1:150 (IF)"
+              ],
+              [
+                "Lamin A/C",
+                "Santa Cruz",
+                "sc-376248",
+                "1:100 (IF)"
+              ],
+              [
+                "Lamin B1",
+                "Santa Cruz",
+                "sce-374015",
+                "1:100 (IF)"
+              ],
+              [
+                "AcH3",
+                "Millipore",
+                "06-599",
+                "1:300 (IF)\n1:2000 (WB)"
+              ],
+              [
+                "H3K27ac",
+                "",
+                "ab4729",
+                "1:500 (IF)\n1:1250 (WB)"
+              ],
+              [
+                "H3K4me3",
+                "Cell Signaling",
+                "5326S",
+                "1:300 (IF)\n1:1000 (WB)"
+              ],
+              [
+                "H3K9me3",
+                "Abcam",
+                "ab8898",
+                "1:350 (IF)"
+              ],
+              [
+                "H3K27me3",
+                "Abcam",
+                "ab192985",
+                "1:300 (IF)"
+              ],
+              [
+                "Tujl",
+                "Biolegend",
+                "801202",
+                "1:1000 (IF)"
+              ],
+              [
+                "MAP-2",
+                "",
+                "M9942",
+                "1:200 (IF)"
+              ],
+              [
+                "Synapsin",
+                "Abcam",
+                "ab64581",
+                "1:100 (IF)"
+              ],
+              [
+                "Nanog",
+                "Abcam",
+                "ab214549",
+                "1:300 (IF)"
+              ],
+              [
+                "Histone H3",
+                "Santa Cruz",
+                "sc-8654",
+                "1:1000 (WB)"
+              ],
+              [
+                "GAPDH",
+                "Santa Cruz",
+                "sce-32233",
+                "1:5000 (WB)"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

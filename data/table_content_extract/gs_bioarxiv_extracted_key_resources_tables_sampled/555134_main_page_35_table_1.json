@@ -1,0 +1,567 @@
+{
+  "name": "555134_main_page_35_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "REAGENT or RESOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "SOURCE"
+      },
+      {
+        "colspan": 1,
+        "content": "IDENTIFIER"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Antibodies"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-Lamin A/C"
+      },
+      {
+        "colspan": 1,
+        "content": "Abcam"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # Ab26300"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-Lamin A/C"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # sc-376248"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-Lamin A/C"
+      },
+      {
+        "colspan": 1,
+        "content": "Santa Cruz"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # sc-20681"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-CD45 antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "R&D Systems"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # AF114-SP"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-CD68 antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 97778"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-\u03b3-H2A.X antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 9718"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-desmin antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # PA5-19063"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-PCM-1 antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # HPA023370"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-tdTomato antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "OriGene"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # AB8181"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-COX4 antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "R&D Systems"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # MAB6980"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-cGAS antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 31659"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-STING antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "Cell Signaling"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 13647"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Anti-GAPDH antibody"
+      },
+      {
+        "colspan": 1,
+        "content": "ABclonal"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # AC001"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Alexa Fluor Plus 647 Phalloidin"
+      },
+      {
+        "colspan": 1,
+        "content": "ThermoFisher"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # A30107"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Bacterial and virus strains"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Chemicals, peptides, and recombinant proteins"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Tamoxifen"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # T5648"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Collagenase Type II"
+      },
+      {
+        "colspan": 1,
+        "content": "Worthington"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # LS004177"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Polyethylenimine, Linear, MW 25000, Transfection Grade (PEI 25K\u2122)"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Scientific "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 23966-100 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Target Retrieval Solution"
+      },
+      {
+        "colspan": 1,
+        "content": "DAKO"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # S2367"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Corn oil"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # C8267"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Phenol/Chloroform/Isoamyl alcohol"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 15593031"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Trizol LS"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 10296010"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Heparin"
+      },
+      {
+        "colspan": 1,
+        "content": "Sagent Pharmaceuticals."
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 25021-400-10"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "VectaStain ELITE ABC Kits"
+      },
+      {
+        "colspan": 1,
+        "content": "Vector Laboratories"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # PK-6100"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "DAB"
+      },
+      {
+        "colspan": 1,
+        "content": "DAKO"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # K3468"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "ProLong Glass Antifade Mountant"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # P36984"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Normal donkey serum "
+      },
+      {
+        "colspan": 1,
+        "content": "Jackson ImmunoResearch"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 017-000-121 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Sudan Black B "
+      },
+      {
+        "colspan": 1,
+        "content": "Electron Microscopy Slides"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 21610 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NEBuilder HiFi DNA Assembly Master Mix"
+      },
+      {
+        "colspan": 1,
+        "content": "NEB"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # E2621"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Dulbecco's modified Eagle medium"
+      },
+      {
+        "colspan": 1,
+        "content": "Fisher Scientific"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 11965-092"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "penicillin/streptomycin"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 105727"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "OptiPROTM-SFM"
+      },
+      {
+        "colspan": 1,
+        "content": "Thermo Fisher"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # 12309019"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Fetal Bovine Serum"
+      },
+      {
+        "colspan": 1,
+        "content": "Sigma"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # F1051"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Critical commercial assays"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Masson\u2019s Trichrome Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Thomas Scientific LLC"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # KTMTRPT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Click-iT\u2122 Plus TUNEL Assay Kits for In Situ Apoptosis Detection; Alexa Fluor\u2122 488"
+      },
+      {
+        "colspan": 1,
+        "content": "Invitrogen "
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # C10617 "
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Luna Universal One-Step RT-qPCR Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "New England Biolabs"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # E3005"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "NEBNext UltraII Directional RNA Library Prep Kit"
+      },
+      {
+        "colspan": 1,
+        "content": "New England Biolabs"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # E7760"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Quant-seq 3\u2019 mRNA-seq FWD kit"
+      },
+      {
+        "colspan": 1,
+        "content": "Lexogen"
+      },
+      {
+        "colspan": 1,
+        "content": "Cat # K01596"
+      }
+    ],
+    [
+      {
+        "colspan": 3,
+        "content": "Deposited data"
+      }
+    ]
+  ]
+}

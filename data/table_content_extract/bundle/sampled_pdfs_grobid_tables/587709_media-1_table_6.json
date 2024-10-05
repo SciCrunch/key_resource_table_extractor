@@ -1,0 +1,1302 @@
+{
+  "headers": [],
+  "caption": "Coomassie Bradford protein assay raw data for the BSA standard curve, protein samples, and the corresponding downstream Na, K-ATPase activity based on Bradford assay concentrations. The average of two technical replicates (M1 and M2) were used to calculate the final concentration for each sample.",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "BSA standard"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Concentration"
+      },
+      {
+        "colspan": 1,
+        "content": "Absorbance [595 nm]"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "[µg/mL]"
+      },
+      {
+        "colspan": 1,
+        "content": "M1"
+      },
+      {
+        "colspan": 1,
+        "content": "M2"
+      },
+      {
+        "colspan": 1,
+        "content": "average"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "0"
+      },
+      {
+        "colspan": 1,
+        "content": "0.000"
+      },
+      {
+        "colspan": 1,
+        "content": "0.000"
+      },
+      {
+        "colspan": 1,
+        "content": "0.000"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "2"
+      },
+      {
+        "colspan": 1,
+        "content": "0.097"
+      },
+      {
+        "colspan": 1,
+        "content": "0.067"
+      },
+      {
+        "colspan": 1,
+        "content": "0.082"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "4"
+      },
+      {
+        "colspan": 1,
+        "content": "0.191"
+      },
+      {
+        "colspan": 1,
+        "content": "0.151"
+      },
+      {
+        "colspan": 1,
+        "content": "0.171"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "6"
+      },
+      {
+        "colspan": 1,
+        "content": "0.241"
+      },
+      {
+        "colspan": 1,
+        "content": "0.22"
+      },
+      {
+        "colspan": 1,
+        "content": "0.231"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "8"
+      },
+      {
+        "colspan": 1,
+        "content": "0.297"
+      },
+      {
+        "colspan": 1,
+        "content": "0.276"
+      },
+      {
+        "colspan": 1,
+        "content": "0.287"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "10"
+      },
+      {
+        "colspan": 1,
+        "content": "0.353"
+      },
+      {
+        "colspan": 1,
+        "content": "0.348"
+      },
+      {
+        "colspan": 1,
+        "content": "0.351"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bradford assay of Sf9 cells-derived samples"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Species"
+      },
+      {
+        "colspan": 1,
+        "content": "Biological"
+      },
+      {
+        "colspan": 1,
+        "content": "Absorbance [595 nm]"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "Calculated"
+      },
+      {
+        "colspan": 1,
+        "content": "Na, K-ATPase"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "replicates"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "concentration"
+      },
+      {
+        "colspan": 1,
+        "content": "activity"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "[µg/mL]"
+      },
+      {
+        "colspan": 1,
+        "content": "[nmol Pi/(mg"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "protein*min)]"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "M1"
+      },
+      {
+        "colspan": 1,
+        "content": "M2"
+      },
+      {
+        "colspan": 1,
+        "content": "average"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "uninfected Sf9 cells"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.199"
+      },
+      {
+        "colspan": 1,
+        "content": "0.088"
+      },
+      {
+        "colspan": 1,
+        "content": "0.144"
+      },
+      {
+        "colspan": 1,
+        "content": "7863"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "brown rat"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.190"
+      },
+      {
+        "colspan": 1,
+        "content": "0.233"
+      },
+      {
+        "colspan": 1,
+        "content": "0.212"
+      },
+      {
+        "colspan": 1,
+        "content": "11589"
+      },
+      {
+        "colspan": 1,
+        "content": "10.37"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "0.182"
+      },
+      {
+        "colspan": 1,
+        "content": "0.225"
+      },
+      {
+        "colspan": 1,
+        "content": "0.204"
+      },
+      {
+        "colspan": 1,
+        "content": "11151"
+      },
+      {
+        "colspan": 1,
+        "content": "8.65"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "0.250"
+      },
+      {
+        "colspan": 1,
+        "content": "0.236"
+      },
+      {
+        "colspan": 1,
+        "content": "0.243"
+      },
+      {
+        "colspan": 1,
+        "content": "13315"
+      },
+      {
+        "colspan": 1,
+        "content": "7.23"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "common ostrich"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.208"
+      },
+      {
+        "colspan": 1,
+        "content": "0.230"
+      },
+      {
+        "colspan": 1,
+        "content": "0.219"
+      },
+      {
+        "colspan": 1,
+        "content": "12000"
+      },
+      {
+        "colspan": 1,
+        "content": "27.77"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "0.284"
+      },
+      {
+        "colspan": 1,
+        "content": "0.151"
+      },
+      {
+        "colspan": 1,
+        "content": "0.218"
+      },
+      {
+        "colspan": 1,
+        "content": "11918"
+      },
+      {
+        "colspan": 1,
+        "content": "18.67"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "0.214"
+      },
+      {
+        "colspan": 1,
+        "content": "0.319"
+      },
+      {
+        "colspan": 1,
+        "content": "0.267"
+      },
+      {
+        "colspan": 1,
+        "content": "14603"
+      },
+      {
+        "colspan": 1,
+        "content": "3.77"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "large milkweed bug"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.286"
+      },
+      {
+        "colspan": 1,
+        "content": "0.301"
+      },
+      {
+        "colspan": 1,
+        "content": "0.294"
+      },
+      {
+        "colspan": 1,
+        "content": "16082"
+      },
+      {
+        "colspan": 1,
+        "content": "36.17"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "0.257"
+      },
+      {
+        "colspan": 1,
+        "content": "0.080"
+      },
+      {
+        "colspan": 1,
+        "content": "0.169"
+      },
+      {
+        "colspan": 1,
+        "content": "9233"
+      },
+      {
+        "colspan": 1,
+        "content": "34.48"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "0.236"
+      },
+      {
+        "colspan": 1,
+        "content": "0.198"
+      },
+      {
+        "colspan": 1,
+        "content": "0.217"
+      },
+      {
+        "colspan": 1,
+        "content": "11890"
+      },
+      {
+        "colspan": 1,
+        "content": "43.57"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "gold tegu"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.177"
+      },
+      {
+        "colspan": 1,
+        "content": "0.199"
+      },
+      {
+        "colspan": 1,
+        "content": "0.188"
+      },
+      {
+        "colspan": 1,
+        "content": "10301"
+      },
+      {
+        "colspan": 1,
+        "content": "8.40"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "0.193"
+      },
+      {
+        "colspan": 1,
+        "content": "0.192"
+      },
+      {
+        "colspan": 1,
+        "content": "0.193"
+      },
+      {
+        "colspan": 1,
+        "content": "10548"
+      },
+      {
+        "colspan": 1,
+        "content": "6.29"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "0.232"
+      },
+      {
+        "colspan": 1,
+        "content": "0.190"
+      },
+      {
+        "colspan": 1,
+        "content": "0.211"
+      },
+      {
+        "colspan": 1,
+        "content": "11562"
+      },
+      {
+        "colspan": 1,
+        "content": "7.78"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Miranda's white-"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.170"
+      },
+      {
+        "colspan": 1,
+        "content": "0.245"
+      },
+      {
+        "colspan": 1,
+        "content": "0.208"
+      },
+      {
+        "colspan": 1,
+        "content": "11370"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "lipped frog"
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "0.229"
+      },
+      {
+        "colspan": 1,
+        "content": "0.238"
+      },
+      {
+        "colspan": 1,
+        "content": "0.234"
+      },
+      {
+        "colspan": 1,
+        "content": "12795"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "0.101"
+      },
+      {
+        "colspan": 1,
+        "content": "-0.051"
+      },
+      {
+        "colspan": 1,
+        "content": "0.025"
+      },
+      {
+        "colspan": 1,
+        "content": "1370"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "red-necked keelback"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.278"
+      },
+      {
+        "colspan": 1,
+        "content": "0.262"
+      },
+      {
+        "colspan": 1,
+        "content": "0.270"
+      },
+      {
+        "colspan": 1,
+        "content": "14795"
+      },
+      {
+        "colspan": 1,
+        "content": "6.02"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "snake"
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "0.402"
+      },
+      {
+        "colspan": 1,
+        "content": "0.284"
+      },
+      {
+        "colspan": 1,
+        "content": "0.343"
+      },
+      {
+        "colspan": 1,
+        "content": "18795"
+      },
+      {
+        "colspan": 1,
+        "content": "4.12"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "0.207"
+      },
+      {
+        "colspan": 1,
+        "content": "0.276"
+      },
+      {
+        "colspan": 1,
+        "content": "0.242"
+      },
+      {
+        "colspan": 1,
+        "content": "13233"
+      },
+      {
+        "colspan": 1,
+        "content": "6.36"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Bradford assay of tissue cells-derived samples"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "black rat brain"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.072"
+      },
+      {
+        "colspan": 1,
+        "content": "0.062"
+      },
+      {
+        "colspan": 1,
+        "content": "0.067"
+      },
+      {
+        "colspan": 1,
+        "content": "3671"
+      },
+      {
+        "colspan": 1,
+        "content": "29.95"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "0.067"
+      },
+      {
+        "colspan": 1,
+        "content": "0.058"
+      },
+      {
+        "colspan": 1,
+        "content": "0.063"
+      },
+      {
+        "colspan": 1,
+        "content": "3425"
+      },
+      {
+        "colspan": 1,
+        "content": "50.53"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "0.104"
+      },
+      {
+        "colspan": 1,
+        "content": "0.081"
+      },
+      {
+        "colspan": 1,
+        "content": "0.093"
+      },
+      {
+        "colspan": 1,
+        "content": "5068"
+      },
+      {
+        "colspan": 1,
+        "content": "56.79"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "black rat kidney"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.167"
+      },
+      {
+        "colspan": 1,
+        "content": "0.164"
+      },
+      {
+        "colspan": 1,
+        "content": "0.166"
+      },
+      {
+        "colspan": 1,
+        "content": "9068"
+      },
+      {
+        "colspan": 1,
+        "content": "100.40"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "B"
+      },
+      {
+        "colspan": 1,
+        "content": "0.099"
+      },
+      {
+        "colspan": 1,
+        "content": "0.097"
+      },
+      {
+        "colspan": 1,
+        "content": "0.098"
+      },
+      {
+        "colspan": 1,
+        "content": "5370"
+      },
+      {
+        "colspan": 1,
+        "content": "93.37"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": "C"
+      },
+      {
+        "colspan": 1,
+        "content": "0.115"
+      },
+      {
+        "colspan": 1,
+        "content": "0.115"
+      },
+      {
+        "colspan": 1,
+        "content": "0.115"
+      },
+      {
+        "colspan": 1,
+        "content": "6301"
+      },
+      {
+        "colspan": 1,
+        "content": "78.01"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "large milkweed bug"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.150"
+      },
+      {
+        "colspan": 1,
+        "content": "0.333"
+      },
+      {
+        "colspan": 1,
+        "content": "0.242"
+      },
+      {
+        "colspan": 1,
+        "content": "1321"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "brain"
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      },
+      {
+        "colspan": 1,
+        "content": ""
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "porcine brain"
+      },
+      {
+        "colspan": 1,
+        "content": "A"
+      },
+      {
+        "colspan": 1,
+        "content": "0.195"
+      },
+      {
+        "colspan": 1,
+        "content": "0.314"
+      },
+      {
+        "colspan": 1,
+        "content": "0.255"
+      },
+      {
+        "colspan": 1,
+        "content": "1392"
+      },
+      {
+        "colspan": 1,
+        "content": "-"
+      }
+    ]
+  ]
+}

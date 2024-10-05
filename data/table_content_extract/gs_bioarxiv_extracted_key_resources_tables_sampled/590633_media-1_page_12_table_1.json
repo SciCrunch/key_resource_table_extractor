@@ -1,0 +1,239 @@
+{
+  "name": "590633_media-1_page_12_table_1",
+  "rows": [
+    [
+      {
+        "colspan": 1,
+        "content": "Organism"
+      },
+      {
+        "colspan": 1,
+        "content": "Gene"
+      },
+      {
+        "colspan": 1,
+        "content": "Forward (5-->3)"
+      },
+      {
+        "colspan": 1,
+        "content": "Reverse (5-->3)"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "Tnfa"
+      },
+      {
+        "colspan": 1,
+        "content": "CTTCTGTCTACTGAACTTCGGG"
+      },
+      {
+        "colspan": 1,
+        "content": "CAGGCTTGTCACTCGAATTTTG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "Ccl2"
+      },
+      {
+        "colspan": 1,
+        "content": "TTAAAAACCTGGATCGGAACCAA"
+      },
+      {
+        "colspan": 1,
+        "content": "GCATTAGCTTCAGATTTACGGGT"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "Ifng"
+      },
+      {
+        "colspan": 1,
+        "content": "ATGAACGCTACACACTGCATC"
+      },
+      {
+        "colspan": 1,
+        "content": "CCATCCTTTTGCCAGTTCCTC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "Cxcl10"
+      },
+      {
+        "colspan": 1,
+        "content": "CCAAGTGCTGCCGTCATTTTC"
+      },
+      {
+        "colspan": 1,
+        "content": "GGCTCGCAGGGATGATTTCAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "Acta2"
+      },
+      {
+        "colspan": 1,
+        "content": "ATGCTCCCAGGGCTGTTTTCCCAT"
+      },
+      {
+        "colspan": 1,
+        "content": "GTGGTGCCAGATCTTTTCCATGTCG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "Mmp2"
+      },
+      {
+        "colspan": 1,
+        "content": "GAGATCTTCTTCTTCAAGGAC"
+      },
+      {
+        "colspan": 1,
+        "content": "AATAGACCCAGTACTCATTCC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "Ddit3"
+      },
+      {
+        "colspan": 1,
+        "content": "CCACCACACCTGAAAGCAGAA"
+      },
+      {
+        "colspan": 1,
+        "content": "AGGTGAAAGGCAGGGACTCA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "Mmp9"
+      },
+      {
+        "colspan": 1,
+        "content": "CTGGACAGCCAGACACTAAAG"
+      },
+      {
+        "colspan": 1,
+        "content": "CTCGCGGCAAGTCTTCAGAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "Mmp12"
+      },
+      {
+        "colspan": 1,
+        "content": "CTGCTCCCATGAATGACAGTG"
+      },
+      {
+        "colspan": 1,
+        "content": "AGTTGCTTCTAGCCCAAAGAAC"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Mouse"
+      },
+      {
+        "colspan": 1,
+        "content": "Hprt"
+      },
+      {
+        "colspan": 1,
+        "content": "TCAGTCAACGGGGGACATAAA"
+      },
+      {
+        "colspan": 1,
+        "content": "GGGGCTGTACTGCTTAACCAG"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Human"
+      },
+      {
+        "colspan": 1,
+        "content": "HPRT"
+      },
+      {
+        "colspan": 1,
+        "content": "CCTGGCGTCGTGATTAGTGAT"
+      },
+      {
+        "colspan": 1,
+        "content": "AGACGTTCAGTCCTGTCCATAA"
+      }
+    ],
+    [
+      {
+        "colspan": 1,
+        "content": "Human"
+      },
+      {
+        "colspan": 1,
+        "content": "MMP2"
+      },
+      {
+        "colspan": 1,
+        "content": "CCCACTGCGGTTTTCTCGAAT"
+      },
+      {
+        "colspan": 1,
+        "content": "CAAAGGGGTATCCATCGCCAT"
+      }
+    ]
+  ]
+}
