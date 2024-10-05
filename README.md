@@ -110,9 +110,9 @@ python test_client.py submit --help
 
 # Data
 
-# Data for the Evaluation of Resource Table Extraction Pipelines
+## Data for the Evaluation of Resource Table Extraction Pipelines
 
-The annotated gold standard key resource tables from April 2024 BioRxiv preprints are included in `key_resource_table_extractor/data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled` directory.
+The annotated gold standard key resource tables from April 2024 BioRxiv preprints are included in `data/table_content_extract/gs_bioarxiv_extracted_key_resources_tables_sampled` directory.
 
 The raw JSON outputs for the four pipeline introduced in our paper and GROBID baseline are also included under `data/bundle` directory.
 
@@ -138,7 +138,7 @@ python grits_perf_eval.py -c col_only
 
 ```
 
-# Data for Training and Evaluation of Key Resource Page Detection Classifier
+## Data for Training and Evaluation of Key Resource Page Detection Classifier
 
 The annotated documents for key resource page candidate detection ensemble classifier are located in `data/table_detection/annotated` and `data/table_detection_v2/annotated` directories.
 
@@ -162,6 +162,6 @@ Before training, the training and testing data needs to be prepared using
 python classifier.py -c stack-gen-prep
 ```
 
-A larger curated set for evaluation is available under the directory `data/rrid_papers_sample_200_03_07_2023'.
+A larger curated set for evaluation is available under the directory `data/rrid_papers_sample_200_03_07_2023`.
 
 
