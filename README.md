@@ -70,7 +70,7 @@ work-dir=<FULL-PATH-TO-KEY-RESOURCE-TABLE-EXTRACTOR-CODE-BASE>
 server-cache-dir=<SERVER-OUTPUT-CACHE-DIR>
 ```
 * The API Key is used for destructive (delete) operations on the server.
-* `row-merge-model-dir` is the directory where the row merge model finetuned from the Table Language model introduced in our paper is saved and can be retrieved from Figshare soon (pending).
+* `row-merge-model-dir` is the directory where the row merge model finetuned from the Table Language model introduced in our paper is saved and can be retrieved from Zenodo soon (pending).
 * `work-dir` is the directory where this repository is installed in your system e.g. `$HOME/key_resource_table_extractor`.
 * `server-cache-dir` is the directory where the extraction artifacts and intermediate files are stored during processing i.e. `/tmp/cache`.
 
