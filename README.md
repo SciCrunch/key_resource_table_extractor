@@ -74,7 +74,7 @@ server-cache-dir=<SERVER-OUTPUT-CACHE-DIR>
 * `row-merge-model-dir` is the directory where the row merge model finetuned from the Table Language model introduced in our paper is saved and can be retrieved from Zenodo soon (pending).
 * `work-dir` is the directory where this repository is installed in your system e.g. `$HOME/key_resource_table_extractor`.
 * `server-cache-dir` is the directory where the extraction artifacts and intermediate files are stored during processing i.e. `/tmp/cache`.
-* `glove-db-dir` is the directory where the GLOVE word vector SQLite database file `medline_glove_v2.db` resides
+* `glove-db-dir` is the directory where the GLOVE word vector SQLite database file `medline_glove_v2.db` resides. This database can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.13924223).
 
 ## Table Detection and Extraction Server
 
