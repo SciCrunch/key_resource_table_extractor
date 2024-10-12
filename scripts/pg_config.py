@@ -29,6 +29,10 @@ def get_rm_model_dir(filename="key_resource_table_extractor.ini"):
     return get_param(filename, "model", 'row-merge-model-dir')
 
 
+def get_glove_db_dir(filename="key_resource_table_extractor.ini"):
+    return get_param(filename, "model", 'glove-db-dir')
+
+
 def get_work_dir(filename="key_resource_table_extractor.ini"):
     return get_param(filename, "config", "work-dir")
 

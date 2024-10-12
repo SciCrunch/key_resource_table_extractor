@@ -15,7 +15,7 @@ import numpy as np
 from glove_handler import GloveHandler
 from data_prep import load_all_instances, prep_data, prep_data_multi_input
 from data_prep import save_stack_instances, save_list, load_list, StackInstance
-from pg_config import get_work_dir
+from pg_config import get_work_dir, get_glove_db_dir
 from keras.callbacks import EarlyStopping
 import keras.ops as K
 
@@ -191,8 +191,9 @@ class PDFLineClassifier(object):
                                              custom_objects={'get_f1': get_f1, 'get_recall': get_recall,
                                                              'get_precision': get_precision})
         self.batch_size = 64
-        home = expanduser("~")
-        db_file = os.path.join(home, "medline_glove_v2.db")
+        # home = expanduser("~")
+        # db_file = os.path.join(home, "medline_glove_v2.db")
+        db_file = get_glove_db_dir()
         self.glove_handler = GloveHandler(db_file)
 
     def prep_stack_instances(self, _pdf_instance_file_path, _out_json_file=None, max_seq_len=60):

@@ -65,6 +65,7 @@ password=<PWD>
 api-key=<API-KEY>
 [model]
 row-merge-model-dir=<ROW-MERGE-DIR>
+glove-db-dir=<GLOVE-VECTOR-DB-DIR>
 [config]
 work-dir=<FULL-PATH-TO-KEY-RESOURCE-TABLE-EXTRACTOR-CODE-BASE>
 server-cache-dir=<SERVER-OUTPUT-CACHE-DIR>
@@ -73,6 +74,7 @@ server-cache-dir=<SERVER-OUTPUT-CACHE-DIR>
 * `row-merge-model-dir` is the directory where the row merge model finetuned from the Table Language model introduced in our paper is saved and can be retrieved from Zenodo soon (pending).
 * `work-dir` is the directory where this repository is installed in your system e.g. `$HOME/key_resource_table_extractor`.
 * `server-cache-dir` is the directory where the extraction artifacts and intermediate files are stored during processing i.e. `/tmp/cache`.
+* `glove-db-dir` is the directory where the GLOVE word vector SQLite database file `medline_glove_v2.db` resides
 
 ## Table Detection and Extraction Server
 
